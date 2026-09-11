@@ -1,0 +1,75 @@
+name: Agente Gasolina GT
+
+on:
+  schedule:
+    # Guatemala es UTC-6 sin horario de verano.
+    # Cada hora, lunes a viernes, 7:00-15:00 GT = 13:00-21:00 UTC.
+    - cron: "5 13-21 * * 1-5"
+    # Reporte diario 7:00 GT también sábado y domingo (13:00 UTC).
+    - cron: "5 13 * * 0,6"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "horaria | diaria | mem | mercado | noticias | senal | reporte | proyeccion | telegram | mensual"
+        default: "horaria"
+      pdf_url:
+        description: "URL de un PDF del MEM para cargar a mano (opcional)"
+        default: ""
+
+concurrency:
+  group: agente
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  correr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Decidir modo
+        id: modo
+        run: |
+          MODO="${{ github.event.inputs.modo || 'horaria' }}"
+          HORA_UTC=$(date -u +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$HORA_UTC" = "13" ]; then MODO="diaria"; fi
+          echo "modo=$MODO" >> "$GITHUB_OUTPUT"
+          echo "Modo: $MODO (hora UTC $HORA_UTC)"
+
+      - name: Correr agente
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          MEM_PDF_URL: ${{ github.event.inputs.pdf_url }}
+        run: |
+          case "${{ steps.modo.outputs.modo }}" in
+            horaria) python agente/agente.py ;;
+            diaria)  python agente/agente.py --diario ;;
+            *)       python agente/agente.py --solo "${{ steps.modo.outputs.modo }}" ;;
+          esac
+
+      - name: Pruebas rápidas
+        run: python -m pytest tests -q
+
+      - name: Guardar datos
+        run: |
+          git config user.name "gasolina-gt-bot"
+          git config user.email "bot@gasolina-gt.local"
+          git add data config reportes || true
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "datos: corrida ${{ steps.modo.outputs.modo }} $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main || true
+          git push

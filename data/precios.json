@@ -1,0 +1,28 @@
+{
+  "actualizado": "2026-09-11T15:03",
+  "fuente": "MEM (archivo)",
+  "origen": "informe-ejecutivo-area-metropolitana-2026-01-19.pdf",
+  "fecha_monitoreo": "2026-01-19",
+  "correlativo": "DGH-DAE-SCC-IPC-2026-01-05",
+  "tipo_cambio": 7.6621,
+  "autoservicio": {
+    "superior": 27.49,
+    "regular": 26.53,
+    "diesel": 25.1,
+    "fecha_anterior": "2026-01-12",
+    "fecha": "2026-01-19"
+  },
+  "servicio_completo": {
+    "superior": 28.59,
+    "regular": 27.58,
+    "diesel": 26.18,
+    "kerosene": 37.0,
+    "fecha_anterior": "2026-01-12",
+    "fecha": "2026-01-19"
+  },
+  "cambio_semanal": {
+    "superior": 0.2,
+    "regular": 0.24,
+    "diesel": 0.21
+  }
+}

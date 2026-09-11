@@ -1,0 +1,177 @@
+{
+  "actualizado": "2026-09-11T15:03",
+  "fuente": "MEM (archivo)",
+  "origen": "precios-referencia-departamental-2026-01-19.pdf",
+  "vigencia_inicio": "2026-01-19",
+  "vigencia_fin": "2026-01-25",
+  "mas_barato": {
+    "cabecera": "Ciudad de Guatemala",
+    "departamento": "Guatemala",
+    "superior": 27.59,
+    "regular": 26.59,
+    "diesel": 25.09
+  },
+  "mas_caro": {
+    "cabecera": "Flores",
+    "departamento": "Petén",
+    "superior": 28.88,
+    "regular": 27.88,
+    "diesel": 26.38
+  },
+  "departamentos": [
+    {
+      "cabecera": "Ciudad de Guatemala",
+      "departamento": "Guatemala",
+      "superior": 27.59,
+      "regular": 26.59,
+      "diesel": 25.09
+    },
+    {
+      "cabecera": "Escuintla",
+      "departamento": "Escuintla",
+      "superior": 27.59,
+      "regular": 26.59,
+      "diesel": 25.09
+    },
+    {
+      "cabecera": "Puerto Barrios",
+      "departamento": "Izabal",
+      "superior": 27.59,
+      "regular": 26.59,
+      "diesel": 25.09
+    },
+    {
+      "cabecera": "Chimaltenango",
+      "departamento": "Chimaltenango",
+      "superior": 27.61,
+      "regular": 26.61,
+      "diesel": 25.11
+    },
+    {
+      "cabecera": "Antigua Guatemala",
+      "departamento": "Sacatepéquez",
+      "superior": 27.62,
+      "regular": 26.62,
+      "diesel": 25.12
+    },
+    {
+      "cabecera": "Mazatenango",
+      "departamento": "Suchitepéquez",
+      "superior": 27.77,
+      "regular": 26.77,
+      "diesel": 25.27
+    },
+    {
+      "cabecera": "Sololá",
+      "departamento": "Sololá",
+      "superior": 27.83,
+      "regular": 26.83,
+      "diesel": 25.33
+    },
+    {
+      "cabecera": "Retalhuleu",
+      "departamento": "Retalhuleu",
+      "superior": 27.84,
+      "regular": 26.84,
+      "diesel": 25.33
+    },
+    {
+      "cabecera": "Cuilapa",
+      "departamento": "Santa Rosa",
+      "superior": 27.84,
+      "regular": 26.84,
+      "diesel": 25.34
+    },
+    {
+      "cabecera": "Guastatoya",
+      "departamento": "El Progreso",
+      "superior": 27.88,
+      "regular": 26.88,
+      "diesel": 25.38
+    },
+    {
+      "cabecera": "Santa Cruz del Quiché",
+      "departamento": "Quiché",
+      "superior": 27.9,
+      "regular": 26.9,
+      "diesel": 25.4
+    },
+    {
+      "cabecera": "Jalapa",
+      "departamento": "Jalapa",
+      "superior": 27.9,
+      "regular": 26.9,
+      "diesel": 25.4
+    },
+    {
+      "cabecera": "Jutiapa",
+      "departamento": "Jutiapa",
+      "superior": 27.91,
+      "regular": 26.91,
+      "diesel": 25.41
+    },
+    {
+      "cabecera": "Quetzaltenango",
+      "departamento": "Quetzaltenango",
+      "superior": 27.93,
+      "regular": 26.93,
+      "diesel": 25.43
+    },
+    {
+      "cabecera": "Totonicapán",
+      "departamento": "Totonicapán",
+      "superior": 27.96,
+      "regular": 26.96,
+      "diesel": 25.46
+    },
+    {
+      "cabecera": "San Marcos",
+      "departamento": "San Marcos",
+      "superior": 28.02,
+      "regular": 27.02,
+      "diesel": 25.52
+    },
+    {
+      "cabecera": "Salamá",
+      "departamento": "Baja Verapaz",
+      "superior": 28.03,
+      "regular": 27.03,
+      "diesel": 25.53
+    },
+    {
+      "cabecera": "Zacapa",
+      "departamento": "Zacapa",
+      "superior": 28.03,
+      "regular": 27.03,
+      "diesel": 25.53
+    },
+    {
+      "cabecera": "Chiquimula",
+      "departamento": "Chiquimula",
+      "superior": 28.08,
+      "regular": 27.07,
+      "diesel": 25.57
+    },
+    {
+      "cabecera": "Huehuetenango",
+      "departamento": "Huehuetenango",
+      "superior": 28.37,
+      "regular": 27.37,
+      "diesel": 25.87
+    },
+    {
+      "cabecera": "Cobán",
+      "departamento": "Alta Verapaz",
+      "superior": 28.44,
+      "regular": 27.44,
+      "diesel": 25.94
+    },
+    {
+      "cabecera": "Flores",
+      "departamento": "Petén",
+      "superior": 28.88,
+      "regular": 27.88,
+      "diesel": 26.38
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gasolina GT · ¿Dónde y cuándo llenar?</title>
+  <meta name="description" content="Precios de gasolina y diésel en Guatemala por departamento, señal semanal y noticias. Gratis.">
+  <link rel="stylesheet" href="estilos.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>⛽ Gasolina GT</h1>
+  <p id="subtitulo">Dónde y cuándo llenar el tanque, antes que los medios.</p>
+</header>
+<main>
+
+  <section class="tarjeta" id="veredicto">
+    <div class="semaforo">🟡</div>
+    <div class="decision">Calibrando…</div>
+    <div class="razon">Todavía no hay señal. Vuelve en unas horas.</div>
+    <div class="puntaje" hidden></div>
+  </section>
+
+  <section class="tarjeta" id="precios" hidden>
+    <h2>Precio de referencia hoy (autoservicio, ciudad)</h2>
+    <p class="sub" id="preciosFecha"></p>
+    <div class="precios">
+      <div class="precio"><div class="nombre">Súper</div><div class="valor" id="pSuperior">–</div><div class="cambio" id="cSuperior"></div></div>
+      <div class="precio"><div class="nombre">Regular</div><div class="valor" id="pRegular">–</div><div class="cambio" id="cRegular"></div></div>
+      <div class="precio"><div class="nombre">Diésel</div><div class="valor" id="pDiesel">–</div><div class="cambio" id="cDiesel"></div></div>
+    </div>
+    <p class="aviso" id="preciosAviso" hidden></p>
+  </section>
+
+  <section class="tarjeta" id="donde" hidden>
+    <h2>¿Dónde está más barato?</h2>
+    <p class="sub" id="dondeFecha"></p>
+    <div class="controles">
+      <div class="chips" id="chipsProducto">
+        <button data-p="regular" class="activo">Regular</button>
+        <button data-p="superior">Súper</button>
+        <button data-p="diesel">Diésel</button>
+      </div>
+      <select id="selDepto" aria-label="Tu departamento"><option value="">Resaltar mi departamento…</option></select>
+    </div>
+    <div class="lienzo"><canvas id="graficaDeptos"></canvas></div>
+    <p class="sub" id="dondeResumen"></p>
+  </section>
+
+  <section class="tarjeta" id="cuando" hidden>
+    <h2>¿Cuándo? Señal de los últimos 14 días</h2>
+    <p class="sub">Rojo: el precio tiende a subir (llena antes). Verde: tiende a bajar (espera). Las barras marcadas son martes, día en que el MEM cambia el precio.</p>
+    <div class="lienzo"><canvas id="graficaSenal"></canvas></div>
+    <div class="leyenda"><span><i style="background:var(--alza)"></i>Sube</span><span><i style="background:var(--baja)"></i>Baja</span><span><i style="background:var(--estable)"></i>Estable</span><span>▲ = martes</span></div>
+  </section>
+
+  <section class="tarjeta" id="noticias" hidden>
+    <h2>Últimas noticias que mueven el precio</h2>
+    <div id="listaNoticias"></div>
+  </section>
+
+  <section class="tarjeta" id="aciertos" hidden>
+    <h2>¿Qué tan bien le atinamos?</h2>
+    <div class="grande" id="aciertoValor">Calibrando</div>
+    <p class="sub" id="aciertoDetalle"></p>
+  </section>
+
+  <section class="tarjeta" id="proyeccion" hidden>
+    <h2>Hacia dónde va el precio (4 semanas)</h2>
+    <p class="sub" id="proyeccionNota"></p>
+    <div class="lienzo"><canvas id="graficaProyeccion"></canvas></div>
+  </section>
+
+  <section class="tarjeta" id="mercado" hidden>
+    <h2>Detalle para curiosos</h2>
+    <p class="sub">Gasolina en EE.UU. (RBOB), petróleo (WTI) y dólar en quetzales. Cambio a 7 días.</p>
+    <div id="listaMercado"></div>
+    <div class="lienzo"><canvas id="graficaMercado"></canvas></div>
+  </section>
+
+  <section class="tarjeta" id="plus" hidden>
+    <h2>Plus para flotillas</h2>
+    <p id="plusTexto"></p>
+    <a class="boton" id="plusLink" href="#" target="_blank" rel="noopener">Quiero Plus</a>
+  </section>
+
+</main>
+<footer>
+  <p>Fuentes: Ministerio de Energía y Minas (precios de referencia semanales), Yahoo Finance (futuros RBOB, WTI, USD/GTQ) y medios de prensa. Los datos se actualizan solos cada hora en días hábiles. <a href="../data/log.txt">Bitácora del agente</a> · <a href="https://github.com/" id="linkRepo">Código abierto</a>.</p>
+  <p id="pie"></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

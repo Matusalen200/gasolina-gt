@@ -1,0 +1,102 @@
+"""Utilidades compartidas: rutas, log, JSON, HTTP y cliente de Claude."""
+from __future__ import annotations
+
+import json
+import os
+import sys
+import time
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+import requests
+
+RAIZ = Path(__file__).resolve().parents[1]
+DATA = RAIZ / "data"
+CONFIG = RAIZ / "config"
+DATA.mkdir(exist_ok=True)
+
+TZ_GT = timezone(timedelta(hours=-6), name="GT")  # Guatemala no usa horario de verano
+MODELO_CLAUDE = os.environ.get("CLAUDE_MODELO", "claude-opus-5")
+
+CABECERAS_HTTP = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "es-GT,es;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/pdf,application/xhtml+xml,*/*;q=0.8",
+}
+
+try:  # Windows imprime cp1252 por defecto; forzamos UTF-8 para los acentos
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:  # pragma: no cover
+    pass
+
+
+def ahora_gt() -> datetime:
+    return datetime.now(TZ_GT)
+
+
+def log(mensaje: str, nivel: str = "INFO") -> None:
+    """Escribe en consola y en data/log.txt (últimas ~2000 líneas)."""
+    linea = f"{ahora_gt().strftime('%Y-%m-%d %H:%M')} [{nivel}] {mensaje}"
+    print(linea, flush=True)
+    ruta = DATA / "log.txt"
+    try:
+        lineas = ruta.read_text(encoding="utf-8").splitlines() if ruta.exists() else []
+        lineas.append(linea)
+        ruta.write_text("\n".join(lineas[-2000:]) + "\n", encoding="utf-8")
+    except Exception:  # pragma: no cover
+        pass
+
+
+def leer_json(ruta: Path, defecto=None):
+    try:
+        return json.loads(Path(ruta).read_text(encoding="utf-8"))
+    except Exception:
+        return defecto
+
+
+def guardar_json(ruta: Path, datos) -> None:
+    ruta = Path(ruta)
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    ruta.write_text(json.dumps(datos, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def http_get(url: str, timeout: int = 30, intentos: int = 2, **kwargs) -> requests.Response | None:
+    """GET con cabeceras de navegador y reintentos. Devuelve None si falla."""
+    cabeceras = dict(CABECERAS_HTTP)
+    cabeceras.update(kwargs.pop("headers", {}))
+    for i in range(intentos):
+        try:
+            r = requests.get(url, headers=cabeceras, timeout=timeout, **kwargs)
+            if r.status_code == 200:
+                return r
+            if r.status_code in (403, 404, 429):
+                return r  # no tiene sentido reintentar
+        except requests.RequestException as e:
+            log(f"HTTP fallo {url}: {e}", "WARN")
+        time.sleep(1 + i)
+    return None
+
+
+def cliente_claude():
+    """Devuelve un cliente de Anthropic o None si no hay credenciales."""
+    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+        return None
+    try:
+        import anthropic
+
+        return anthropic.Anthropic()
+    except Exception as e:  # pragma: no cover
+        log(f"No se pudo crear cliente de Claude: {e}", "WARN")
+        return None
+
+
+def cargar_plan() -> dict:
+    plan = leer_json(CONFIG / "plan.json", {}) or {}
+    plan.setdefault("plus_activo", False)
+    plan.setdefault("precio_mensual_q", 0)
+    plan.setdefault("moneda", "GTQ")
+    plan.setdefault("link_pago", "")
+    return plan

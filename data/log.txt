@@ -1,0 +1,7 @@
+2026-09-11 15:03 [INFO] Inicio corrida 2026-09-11 15:03 GT
+2026-09-11 15:03 [INFO] Precios MEM actualizados desde informe-ejecutivo-area-metropolitana-2026-01-19.pdf (2026-01-19)
+2026-09-11 15:03 [INFO] Departamentos actualizados desde precios-referencia-departamental-2026-01-19.pdf (2026-01-19)
+2026-09-11 15:04 [INFO] Inicio corrida 2026-09-11 15:04 GT
+2026-09-11 15:04 [INFO] --- mem ---
+2026-09-11 15:04 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-11 15:05 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-01-19)

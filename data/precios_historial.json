@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "2025-12-08",
+    "superior": 28.41,
+    "regular": 27.41,
+    "diesel": 26.38,
+    "fuente": "MEM (archivo)"
+  },
+  {
+    "fecha": "2025-12-15",
+    "superior": 28.22,
+    "regular": 27.22,
+    "diesel": 25.85,
+    "fuente": "MEM (archivo)"
+  },
+  {
+    "fecha": "2025-12-22",
+    "superior": 27.51,
+    "regular": 26.51,
+    "diesel": 25.41,
+    "fuente": "MEM (archivo)"
+  },
+  {
+    "fecha": "2025-12-29",
+    "superior": 27.3,
+    "regular": 26.3,
+    "diesel": 24.92,
+    "fuente": "MEM (archivo)"
+  },
+  {
+    "fecha": "2026-01-05",
+    "superior": 27.29,
+    "regular": 26.29,
+    "diesel": 24.89,
+    "fuente": "MEM (archivo)"
+  },
+  {
+    "fecha": "2026-01-12",
+    "superior": 28.41,
+    "regular": 27.41,
+    "diesel": 26.38,
+    "fuente": "MEM (archivo)"
+  },
+  {
+    "fecha": "2026-01-19",
+    "superior": 27.49,
+    "regular": 26.53,
+    "diesel": 25.1,
+    "fuente": "MEM (archivo)"
+  }
+]
