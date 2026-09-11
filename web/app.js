@@ -42,7 +42,7 @@
     sec.querySelector(".decision").textContent = frases[senal.tendencia] || senal.veredicto || "";
     sec.querySelector(".explicacion").textContent = senal.razon || "";
     const cambio = sec.querySelector(".cambio");
-    if (senal.cambio_estimado_texto) { cambio.hidden = false; cambio.textContent = "Lo que esperamos: " + senal.cambio_estimado_texto.replace(/\.$/, "") + " " + fechaCorta(senal.proximo_martes) + "."; }
+    if (senal.cambio_estimado_texto) { cambio.hidden = false; cambio.textContent = "Lo que esperamos: " + senal.cambio_estimado_texto.replace("el martes", "el martes " + fechaCorta(senal.proximo_martes)); }
     if (ultimoReporte && ultimoReporte.mensaje) {
       const btn = $("btnCompartir");
       btn.hidden = false;
