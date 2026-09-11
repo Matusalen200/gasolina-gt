@@ -5,7 +5,7 @@ from __future__ import annotations
 
 from datetime import date, timedelta
 
-from agente.comun import DATA, ahora_gt, guardar_json, leer_json, log
+from agente.comun import DATA, ahora_gt, fecha_bonita, guardar_json, leer_json, log
 from bot import plantillas as P
 
 RUTA_REPORTES = DATA / "reportes"
@@ -38,12 +38,22 @@ def precios_vigentes(precios: dict, hoy: dict | None = None) -> tuple[dict, str,
     return auto, fecha, fuente
 
 
+def departamentos_vigentes(deptos: dict) -> dict:
+    """La estimación de hoy (data/departamentos_hoy.json) si existe; si no, la tabla oficial."""
+    hoy = leer_json(DATA / "departamentos_hoy.json", {}) or {}
+    return hoy if hoy.get("departamentos") else (deptos or {})
+
+
 def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict) -> dict:
     """Diccionario con todas las variables que usan las plantillas."""
     auto, fecha_mem, _ = precios_vigentes(precios)
+    deptos = departamentos_vigentes(deptos)
     barato = (deptos or {}).get("mas_barato") or {}
     caro = (deptos or {}).get("mas_caro") or {}
-    titulares = [n["titulo"] for n in (noticias or {}).get("noticias", [])[:3]]
+    # Titulares en español primero (o traducidos por Claude); las que mueven el precio antes que las neutrales.
+    lista = (noticias or {}).get("noticias", [])[:20]
+    lista = sorted(lista, key=lambda n: -((2 if n.get("etiqueta") != "NEUTRAL" else 0) + (1 if n.get("idioma") == "es" or n.get("titulo_es") else 0)))
+    titulares = [n.get("titulo_es") or n["titulo"] for n in lista[:3]]
     det = (senal or {}).get("detalle", {})
     return {
         "emoji": senal.get("emoji", "🟡"),
@@ -60,9 +70,9 @@ def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict) -> d
         "precio_caro": q(caro.get("regular")),
         "noticias": " · ".join(t[:60] for t in titulares) or "sin novedades",
         "fecha": ahora_gt().date().isoformat(),
-        "fecha_mem": fecha_mem or "–",
+        "fecha_mem": fecha_bonita(fecha_mem),
         "puntaje": f"{senal.get('puntaje', 0):+d}" if isinstance(senal.get("puntaje"), int) else "–",
-        "proximo_martes": senal.get("proximo_martes", "–"),
+        "proximo_martes": fecha_bonita(senal.get("proximo_martes")),
         "rbob_pct": _pct(det.get("rbob_cambio_7d_pct")),
         "fx_pct": _pct(det.get("usdgtq_cambio_7d_pct")),
         "n_alza": det.get("noticias_alza_7d", 0),

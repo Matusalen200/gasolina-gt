@@ -37,6 +37,18 @@ def ahora_gt() -> datetime:
     return datetime.now(TZ_GT)
 
 
+MESES_ES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+
+
+def fecha_bonita(iso: str | None) -> str:
+    """'2026-09-15' -> '15 de septiembre'. Si no es fecha, devuelve el texto tal cual."""
+    try:
+        d = datetime.fromisoformat(str(iso)[:10])
+        return f"{d.day} de {MESES_ES[d.month - 1]}"
+    except Exception:
+        return str(iso) if iso else "–"
+
+
 def log(mensaje: str, nivel: str = "INFO") -> None:
     """Escribe en consola y en data/log.txt (últimas ~2000 líneas)."""
     linea = f"{ahora_gt().strftime('%Y-%m-%d %H:%M')} [{nivel}] {mensaje}"

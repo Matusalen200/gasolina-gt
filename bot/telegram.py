@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import requests  # noqa: E402
 
-from agente.comun import DATA, ahora_gt, cargar_plan, guardar_json, leer_json, log  # noqa: E402
+from agente.comun import DATA, ahora_gt, cargar_plan, fecha_bonita, guardar_json, leer_json, log  # noqa: E402
 from bot import plantillas as P  # noqa: E402
 
 RUTA_ESTADO = DATA / "telegram_estado.json"
@@ -56,12 +56,14 @@ def respuesta_senal() -> str:
     return P.MENSAJE_SENAL.format(
         emoji=senal.get("emoji", "🟡"), veredicto=senal.get("veredicto", "Calibrando"),
         cambio=senal.get("cambio_estimado_texto", ""), razon=senal.get("razon", ""),
-        proximo_martes=senal.get("proximo_martes", "próximo"),
+        proximo_martes=fecha_bonita(senal.get("proximo_martes")),
     )
 
 
 def respuesta_precio(consulta: str) -> str:
-    deptos = leer_json(DATA / "departamentos.json", {}) or {}
+    deptos = leer_json(DATA / "departamentos_hoy.json", {}) or {}
+    if not deptos.get("departamentos"):
+        deptos = leer_json(DATA / "departamentos.json", {}) or {}
     filas = deptos.get("departamentos", [])
     if not filas:
         return "Aún no tengo los precios por departamento."
@@ -85,7 +87,8 @@ def respuesta_precio(consulta: str) -> str:
     return P.MENSAJE_PRECIO.format(
         departamento=encontrado["departamento"], cabecera=encontrado["cabecera"],
         superior=f"Q{encontrado['superior']:.2f}", regular=f"Q{encontrado['regular']:.2f}", diesel=f"Q{encontrado['diesel']:.2f}",
-        comparacion=comparacion, fecha_mem=deptos.get("vigencia_inicio", "–"),
+        comparacion=comparacion, fecha_mem=fecha_bonita(deptos.get("fecha") or deptos.get("vigencia_inicio")),
+        estimado=(P.NOTA_ESTIMADO if deptos.get("estimado") else ""),
     )
 
 

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """Plantillas de mensajes de Gasolina GT. Edita el texto aquí sin tocar la lógica.
 
-Reglas de estilo: máximo 5 líneas, primera línea = la decisión, un solo emoji al inicio
-(🔴 alza, 🟢 baja, 🟡 estable), sin tickers ni porcentajes técnicos.
+Reglas de estilo: frases cortas que entienda un niño. Máximo 5 líneas. Primera línea = qué hacer.
+Un solo emoji al inicio (🔴 va a subir, 🟢 va a bajar, 🟡 se queda igual). Sin tecnicismos.
 
 Variables disponibles (se rellenan con str.format):
   emoji, veredicto, cambio, superior, regular, diesel, razon,
@@ -13,9 +13,9 @@ Variables disponibles (se rellenan con str.format):
 # Mensaje corto diario (canal de Telegram, WhatsApp, tablero). 5 líneas.
 MENSAJE_DIARIO = (
     "{emoji} {veredicto}. {cambio}\n"
-    "Súper {superior} · Regular {regular} · Diésel {diesel}\n"
+    "Hoy el galón cuesta: Súper {superior} · Regular {regular} · Diésel {diesel}\n"
     "{razon}\n"
-    "Más barato: {depto_barato} (regular {precio_barato})\n"
+    "Lo más barato: {depto_barato}, regular a {precio_barato}\n"
     "Noticias: {noticias}"
 )
 
@@ -23,62 +23,63 @@ MENSAJE_DIARIO = (
 MENSAJE_SENAL = (
     "{emoji} {veredicto}. {cambio}\n"
     "{razon}\n"
-    "Próximo cambio del MEM: martes {proximo_martes}."
+    "El precio cambia el martes {proximo_martes}."
 )
 
 # Respuesta a /precio <departamento>
 MENSAJE_PRECIO = (
-    "⛽ {departamento} ({cabecera})\n"
+    "⛽ Hoy en {departamento} ({cabecera}):\n"
     "Súper {superior} · Regular {regular} · Diésel {diesel}\n"
     "{comparacion}\n"
-    "Precio de referencia MEM, autoservicio, vigente desde {fecha_mem}."
+    "Dato del {fecha_mem}.{estimado}"
 )
-COMPARACION_MAS_BARATO = "Es el departamento más barato del país."
-COMPARACION_OTRO = "{diferencia} más caro que {depto_barato}, el más barato."
+COMPARACION_MAS_BARATO = "Es el lugar más barato del país. 🎉"
+COMPARACION_OTRO = "Pagas {diferencia} más por galón que en {depto_barato}, el más barato."
+NOTA_ESTIMADO = " Es un cálculo: precio de la capital hoy más lo que suele costar de más en tu departamento."
 
 # Cuando /precio no reconoce el departamento
 MENSAJE_PRECIO_NO_ENCONTRADO = (
-    "No encontré ese departamento. Prueba con uno de estos:\n{lista}"
+    "No conozco ese lugar. Escribe /precio y uno de estos:\n{lista}"
 )
 
 # Respuesta a /start y /ayuda
 MENSAJE_AYUDA = (
-    "⛽ Gasolina GT te dice dónde y cuándo llenar.\n"
+    "⛽ Hola. Te digo si conviene llenar hoy y cuánto cuesta.\n"
     "/senal → ¿lleno hoy o espero?\n"
     "/precio Quetzaltenango → precio en tu departamento\n"
-    "Cada mañana a las 7:00 publico el reporte en el canal."
+    "Cada mañana a las 7 te mando el resumen."
 )
 
 # Respuesta a /plus cuando plus_activo es true en config/plan.json
 MENSAJE_PLUS = (
-    "🚚 Plus para flotillas: alertas por flotilla, reporte mensual en Excel y proyección a 4 semanas.\n"
+    "🚚 Plus para flotillas: avisos para tus camiones, reporte mensual en Excel y precio a 4 semanas.\n"
     "{moneda} {precio} al mes.\n"
     "{link}"
 )
 # Respuesta a /plus cuando el plan no está activo
-MENSAJE_PLUS_INACTIVO = "Por ahora todo Gasolina GT es gratis. 🙌"
+MENSAJE_PLUS_INACTIVO = "Todo Gasolina GT es gratis. 🙌"
 
 # Línea extra de los martes: lo que publicó el MEM vs lo que predijimos
-MENSAJE_MARTES = "Martes: el MEM publicó {real}; nosotros dijimos {predicho}. {resultado}"
-RESULTADO_ACIERTO = "✅ Acertamos."
-RESULTADO_FALLO = "❌ Fallamos, seguimos ajustando."
-RESULTADO_SIN_DATO = "⏳ Aún sin el informe del MEM de esta semana."
+MENSAJE_MARTES = "Martes: el precio {real}. Nosotros dijimos {predicho}. {resultado}"
+RESULTADO_ACIERTO = "✅ Le atinamos."
+RESULTADO_FALLO = "❌ Fallamos. Seguimos aprendiendo."
+RESULTADO_SIN_DATO = "⏳ Todavía no sale el precio oficial."
 
 # Texto del veredicto por tendencia (por si quieres cambiar las palabras)
-VEREDICTOS = {"alza": "Llena HOY", "baja": "Espera", "estable": "Llena esta semana"}
+VEREDICTOS = {"alza": "Llena HOY", "baja": "Espera", "estable": "Sin apuro"}
 
 # Reporte largo en Markdown (data/reportes/AAAA-MM-DD.md)
 REPORTE_MD = """# Reporte Gasolina GT · {fecha}
 
 {emoji} **{veredicto}.** {cambio}
 
-| Producto | Precio de referencia (Q/galón, autoservicio) |
+| Producto | Precio hoy (Q/galón, autoservicio) |
 |---|---|
 | Súper | {superior} |
 | Regular | {regular} |
 | Diésel | {diesel} |
 
-Datos del MEM del {fecha_mem}.
+Dato del {fecha_mem}.
 
 **Por qué:** {razon}
 

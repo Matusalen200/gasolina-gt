@@ -20,7 +20,7 @@
     <p class="pregunta">¿Lleno el tanque hoy?</p>
     <div class="semaforo">🟡</div>
     <div class="decision">Un momento…</div>
-    <p class="explicacion">Estamos revisando los precios. Vuelve en unas horas.</p>
+    <p class="explicacion">Estamos revisando los precios. Vuelve en un ratito.</p>
     <p class="cambio" hidden></p>
     <button class="boton" id="btnCompartir" hidden>📲 Compartir por WhatsApp</button>
   </section>
@@ -62,8 +62,8 @@
       <button data-p="superior">Súper</button>
       <button data-p="diesel">Diésel</button>
     </div>
-    <div class="lienzo"><canvas id="graficaDeptos"></canvas></div>
-    <p class="nota">Barras cortas = más barato. Tu departamento se pinta de naranja.</p>
+    <ol class="lista-deptos" id="listaDeptos"></ol>
+    <button class="boton-suave" id="btnTodos">Ver los 22 departamentos</button>
     <p class="nota" id="dondeFecha"></p>
   </section>
 
@@ -71,7 +71,7 @@
   <section class="burbuja" id="cuando" hidden>
     <p class="pregunta">¿Cómo ha estado la semana?</p>
     <div class="tira" id="tiraDias"></div>
-    <p class="nota">🔴 tendía a subir · 🟢 tendía a bajar · 🟡 tranquilo. Los martes el MEM cambia el precio.</p>
+    <p class="nota">🔴 iba a subir · 🟢 iba a bajar · 🟡 tranquilo. El precio oficial cambia los martes (rayita azul).</p>
   </section>
 
   <!-- 5. Por qué -->

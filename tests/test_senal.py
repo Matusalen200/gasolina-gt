@@ -15,26 +15,26 @@ def test_alza_fuerte_dice_llena_hoy():
     assert s["tendencia"] == "alza" and s["veredicto"] == "Llena HOY" and s["emoji"] == "🔴"
     assert s["puntaje"] == 40 + 10 + 15
     assert s["cambio_estimado_q"] == 0.65  # 0.10 * 7.7 * 0.85 = 0.65 -> redondeado a 0.05
-    assert s["cambio_estimado_texto"].startswith("Sube ~Q0.65")
+    assert s["cambio_estimado_texto"] == "El martes sube como Q0.65 el galón."
 
 
 def test_baja_dice_espera():
     s = senal.calcular(mercado(-3.0, -0.2, rb_abs=-0.08), noticias(0, 2))
-    assert s["tendencia"] == "baja" and s["veredicto"] == "Espera" and s["emoji"] == "🟢"
+    assert s["tendencia"] == "baja" and s["veredicto"] == "Espera, va a bajar" and s["emoji"] == "🟢"
     assert s["puntaje"] == -30 - 4 - 10
-    assert s["cambio_estimado_texto"].startswith("Baja ~Q0.5")
+    assert s["cambio_estimado_texto"].startswith("El martes baja como Q0.5")
 
 
 def test_estable_dice_llena_esta_semana():
     s = senal.calcular(mercado(0.5), noticias(1, 1))
-    assert s["tendencia"] == "estable" and s["veredicto"] == "Llena esta semana"
-    assert s["cambio_estimado_texto"] == "Se mantiene el martes."
+    assert s["tendencia"] == "estable" and s["veredicto"] == "Sin apuro"
+    assert s["cambio_estimado_texto"] == "El martes casi no cambia."
 
 
 def test_estable_no_anuncia_baja_aunque_rbob_cayera():
     s = senal.calcular(mercado(-2.7, 0.0, rb_abs=-0.08), noticias(4, 0))  # -27 + 20 = -7 -> estable
     assert s["tendencia"] == "estable"
-    assert "Baja" not in s["cambio_estimado_texto"] and "centavos" in s["cambio_estimado_texto"]
+    assert "baja" not in s["cambio_estimado_texto"] and "casi no cambia" in s["cambio_estimado_texto"]
 
 
 def test_saturacion_de_componentes():
@@ -52,4 +52,4 @@ def test_razon_simple_sin_tickers():
     s = senal.calcular(mercado(3.2, 0.6), noticias(2, 0))
     r = senal.razon_simple(s)
     assert "RBOB" not in r and "WTI" not in r
-    assert "gasolina en EE.UU." in r and "subió 3%" in r
+    assert r.startswith("Porque la gasolina en Estados Unidos subió bastante")

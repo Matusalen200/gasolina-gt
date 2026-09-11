@@ -252,6 +252,50 @@ def consolidar(serie: list[dict]) -> dict:
     return {"ultimo": ultimo, "cambio_dia": cambio, "diario": diario, "tope": tope}
 
 
+RUTA_DEPTOS_HOY = DATA / "departamentos_hoy.json"
+
+
+def estimar_departamentos(hoy_datos: dict) -> dict | None:
+    """Precio de hoy por departamento = precio de hoy en la capital + diferencia habitual del departamento
+    (según la última tabla oficial del MEM en data/departamentos.json). Se marca como estimado; cuando llega
+    una tabla oficial más nueva que el dato de hoy, se usa la oficial tal cual."""
+    tabla = leer_json(DATA / "departamentos.json", {}) or {}
+    filas = tabla.get("departamentos") or []
+    ultimo = (hoy_datos or {}).get("ultimo") or {}
+    if not filas or not ultimo:
+        return None
+    capital = next((d for d in filas if d["departamento"] == "Guatemala"), None)
+    if capital is None:
+        return None
+    fecha_hoy = max(u["fecha"] for u in ultimo.values())
+    if tabla.get("vigencia_inicio", "") >= fecha_hoy:
+        salida = dict(tabla, estimado=False, fecha=tabla.get("vigencia_inicio"))
+    else:
+        deptos = []
+        for d in filas:
+            fila = {"cabecera": d["cabecera"], "departamento": d["departamento"]}
+            for p in ("superior", "regular", "diesel"):
+                if p in ultimo and d.get(p) is not None and capital.get(p) is not None:
+                    fila[p] = round(ultimo[p]["valor"] + (d[p] - capital[p]), 2)
+                    fila[p + "_diferencia"] = round(d[p] - capital[p], 2)
+            if "regular" in fila:
+                deptos.append(fila)
+        deptos.sort(key=lambda d: d["regular"])
+        salida = {
+            "estimado": True,
+            "fecha": fecha_hoy,
+            "base": {p: ultimo[p]["valor"] for p in ultimo},
+            "base_fuente": ", ".join(sorted({u["fuente"] for u in ultimo.values()})),
+            "tabla_oficial_fecha": tabla.get("vigencia_inicio"),
+            "mas_barato": deptos[0] if deptos else None,
+            "mas_caro": deptos[-1] if deptos else None,
+            "departamentos": deptos,
+        }
+    salida["actualizado"] = ahora_gt().isoformat(timespec="minutes")
+    guardar_json(RUTA_DEPTOS_HOY, salida)
+    return salida
+
+
 def actualizar() -> dict:
     actual = leer_json(RUTA, {}) or {}
     serie = actual.get("serie", [])
@@ -280,6 +324,12 @@ def actualizar() -> dict:
     salida = {"actualizado": ahora_gt().isoformat(timespec="minutes"), "revisados": revisados, "nuevos": nuevos,
               **consolidar(serie), "serie": serie, "sin_precio": sin_precio[-300:]}
     guardar_json(RUTA, salida)
+    try:
+        est = estimar_departamentos(salida)
+        if est:
+            log(f"Departamentos de hoy: {'estimados' if est.get('estimado') else 'tabla oficial'} ({len(est.get('departamentos', []))}), más barato {est['mas_barato']['departamento'] if est.get('mas_barato') else '–'}")
+    except Exception as e:
+        log(f"No se pudieron estimar departamentos: {e}", "WARN")
     u = salida["ultimo"]
     log(f"Precio hoy: {nuevos} observaciones nuevas de {revisados} artículos · regular {u.get('regular', {}).get('valor')} ({u.get('regular', {}).get('fecha')})")
     return salida

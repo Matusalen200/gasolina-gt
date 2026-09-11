@@ -38,11 +38,11 @@
     if (!senal || senal.puntaje == null) return;
     sec.classList.add(senal.tendencia || "estable");
     sec.querySelector(".semaforo").textContent = senal.emoji || "🟡";
-    const frases = { alza: "Llena HOY", baja: "Espera, va a bajar", estable: "Sin apuro: llena cuando te toque" };
+    const frases = { alza: "Llena HOY, va a subir", baja: "Espera, va a bajar", estable: "Sin apuro, se queda igual" };
     sec.querySelector(".decision").textContent = frases[senal.tendencia] || senal.veredicto || "";
     sec.querySelector(".explicacion").textContent = senal.razon || "";
     const cambio = sec.querySelector(".cambio");
-    if (senal.cambio_estimado_texto) { cambio.hidden = false; cambio.textContent = "Lo que esperamos: " + senal.cambio_estimado_texto.replace("el martes", "el martes " + fechaCorta(senal.proximo_martes)); }
+    if (senal.cambio_estimado_texto) { cambio.hidden = false; cambio.textContent = senal.cambio_estimado_texto.replace(/^El martes/, "El martes " + fechaCorta(senal.proximo_martes)); }
     if (ultimoReporte && ultimoReporte.mensaje) {
       const btn = $("btnCompartir");
       btn.hidden = false;
@@ -76,12 +76,15 @@
     }
   }
 
-  /* ---------------------------------------------------------------- 3. dónde */
-  let graficaDeptos = null;
-  function pintarDeptos(deptos) {
+  /* ---------------------------------------------------------------- 3. dónde (lista simple) */
+  function pintarDeptos(deptosOficial, deptosHoy) {
+    const deptos = (deptosHoy && deptosHoy.departamentos && deptosHoy.departamentos.length) ? deptosHoy : deptosOficial;
     if (!deptos || !deptos.departamentos || !deptos.departamentos.length) return;
     $("donde").hidden = false;
-    $("dondeFecha").textContent = "Precios de referencia del MEM por cabecera departamental, vigentes desde el " + fechaCorta(deptos.vigencia_inicio) + ".";
+    const fecha = deptos.fecha || deptos.vigencia_inicio;
+    $("dondeFecha").textContent = deptos.estimado
+      ? "Dato de hoy (" + fechaCorta(fecha) + "). Es un cálculo: el precio de la capital hoy más lo que suele costar de más en cada departamento, según la última tabla oficial del MEM (" + fechaCorta(deptos.tabla_oficial_fecha) + ")."
+      : "Tabla oficial del MEM, vigente desde el " + fechaCorta(fecha) + ".";
     const sel = $("selDepto");
     const nombres = deptos.departamentos.map(d => d.departamento).sort((a, b) => a.localeCompare(b, "es"));
     for (const n of nombres) { const o = document.createElement("option"); o.value = n; o.textContent = n; sel.appendChild(o); }
@@ -89,48 +92,39 @@
     if (guardado && nombres.includes(guardado)) sel.value = guardado;
     let producto = recordar("gasolinagt.producto") || "regular";
     if (!NOMBRE_PRODUCTO[producto]) producto = "regular";
+    let todos = false;
 
     function dibujar() {
       const filas = deptos.departamentos.slice().sort((a, b) => a[producto] - b[producto]);
       const mio = sel.value;
-      const valores = filas.map(d => d[producto]);
-      const min = Math.min(...valores), max = Math.max(...valores);
-      const ctx = $("graficaDeptos").getContext("2d");
-      if (graficaDeptos) graficaDeptos.destroy();
-      graficaDeptos = new Chart(ctx, {
-        type: "bar",
-        data: { labels: filas.map(d => d.departamento), datasets: [{ data: valores, backgroundColor: filas.map(d => d.departamento === mio ? COLOR.resalte : COLOR.acento), borderRadius: 5, barPercentage: 0.8, categoryPercentage: 0.9 }] },
-        options: {
-          indexAxis: "y", responsive: true, maintainAspectRatio: false,
-          plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => " " + q(c.raw) + " el galón" } } },
-          scales: {
-            x: { min: Math.floor(min - 0.5), max: Math.ceil(max + 0.4), grid: { color: COLOR.borde }, ticks: { callback: v => "Q" + v } },
-            y: { grid: { display: false }, ticks: { autoSkip: false, font: { size: 13 } } },
-          },
-        },
-        plugins: [{
-          id: "valores",
-          afterDatasetsDraw(chart) {
-            const { ctx } = chart; ctx.save(); ctx.font = "700 12px " + Chart.defaults.font.family; ctx.textBaseline = "middle"; ctx.fillStyle = COLOR.texto;
-            chart.getDatasetMeta(0).data.forEach((b, i) => ctx.fillText("Q" + valores[i].toFixed(2), b.x + 5, b.y));
-            ctx.restore();
-          },
-        }],
-      });
       const barato = filas[0], caro = filas[filas.length - 1];
-      $("dondeBarato").textContent = "La " + NOMBRE_PRODUCTO[producto].toLowerCase() + " más barata está en " + barato.departamento + " (" + q(barato[producto]) + ") y la más cara en " + caro.departamento + " (" + q(caro[producto]) + ").";
+      const nombre = NOMBRE_PRODUCTO[producto].toLowerCase();
+      $("dondeBarato").textContent = "Lo más barato: " + barato.departamento + ", " + q(barato[producto]) + " el galón de " + nombre + ". Lo más caro: " + caro.departamento + ", " + q(caro[producto]) + ".";
       const mioEl = $("dondeMio");
       if (mio) {
         const d = filas.find(x => x.departamento === mio);
         const pos = filas.indexOf(d) + 1;
         const dif = d[producto] - barato[producto];
         mioEl.hidden = false;
-        mioEl.innerHTML = "En <b>" + mio + "</b> la " + NOMBRE_PRODUCTO[producto].toLowerCase() + " cuesta <b>" + q(d[producto]) + "</b>. " +
-          (pos === 1 ? "¡Es el departamento más barato del país! 🎉" : "Es el puesto " + pos + " de " + filas.length + ": pagas Q" + dif.toFixed(2) + " más por galón que en " + barato.departamento + ".");
+        mioEl.innerHTML = "En <b>" + mio + "</b> el galón de " + nombre + " cuesta <b>" + q(d[producto]) + "</b> hoy. " +
+          (pos === 1 ? "¡Es el más barato del país! 🎉" : dif < 0.3 ? "Casi igual que lo más barato." : "Pagas Q" + dif.toFixed(2) + " más que en " + barato.departamento + ".");
       } else {
         mioEl.hidden = true;
       }
+      const lista = $("listaDeptos");
+      lista.innerHTML = "";
+      const mioFila = mio ? filas.find(x => x.departamento === mio) : null;
+      const mostrar = todos ? filas : filas.slice(0, 5).concat(mioFila && filas.indexOf(mioFila) >= 5 ? [mioFila] : []);
+      for (const d of mostrar) {
+        const li = document.createElement("li");
+        const pos = filas.indexOf(d) + 1;
+        if (d.departamento === mio) li.className = "mio";
+        li.innerHTML = "<span><span class='pos'>" + pos + ".</span>" + d.departamento + (pos === 1 ? " 🏆" : "") + "</span><b>" + q(d[producto]) + "</b>";
+        lista.appendChild(li);
+      }
+      $("btnTodos").textContent = todos ? "Ver solo los más baratos" : "Ver los " + filas.length + " departamentos";
     }
+    $("btnTodos").addEventListener("click", () => { todos = !todos; dibujar(); });
     document.querySelectorAll("#chipsProducto button").forEach(b => {
       b.classList.toggle("activo", b.dataset.p === producto);
       b.addEventListener("click", () => {
@@ -174,7 +168,7 @@
     for (const n of mostrar) {
       const div = document.createElement("div"); div.className = "noticia";
       const p = document.createElement("p"); p.className = "frase";
-      const prefijo = n.etiqueta === "ALZA" ? "🔴 Empuja el precio hacia arriba: " : n.etiqueta === "BAJA" ? "🟢 Ayuda a que baje: " : "🟡 Para tener en cuenta: ";
+      const prefijo = n.etiqueta === "ALZA" ? "🔴 Esto hace que suba: " : n.etiqueta === "BAJA" ? "🟢 Esto ayuda a que baje: " : "🟡 Para saber: ";
       const a = document.createElement("a"); a.href = n.url; a.target = "_blank"; a.rel = "noopener"; a.textContent = n.titulo_es || n.titulo;
       p.appendChild(document.createTextNode(prefijo)); p.appendChild(a);
       if (!n.titulo_es && n.idioma !== "es") { const en = document.createElement("span"); en.className = "meta"; en.textContent = " (en inglés)"; p.appendChild(en); }
@@ -189,11 +183,11 @@
     if (!a) return;
     $("aciertos").hidden = false;
     if (a.estado !== "ok" || !a.total) {
-      $("aciertoValor").textContent = "Estamos empezando a medir.";
-      $("aciertoDetalle").textContent = "Cada martes comparamos lo que dijimos con lo que publicó el MEM. Llevamos " + (a.total || 0) + " de 4 semanas para dar un número.";
+      $("aciertoValor").textContent = "Estamos empezando a contar.";
+      $("aciertoDetalle").textContent = "Cada martes vemos si adivinamos. Llevamos " + (a.total || 0) + " de 4 semanas para darte un número.";
     } else {
       $("aciertoValor").textContent = "Acertamos " + a.aciertos + " de " + a.total + " semanas (" + a.porcentaje + " %).";
-      $("aciertoDetalle").textContent = "Contamos como acierto cuando dijimos que subía, bajaba o se mantenía y el MEM hizo justo eso el martes.";
+      $("aciertoDetalle").textContent = "Acierto = dijimos que subía, bajaba o seguía igual, y el martes pasó justo eso.";
     }
   }
 
@@ -279,9 +273,10 @@
       cargar("../config/plan.json"), cargar("reportes/ultimo.json"), cargar("precios_historial.json"),
     ]);
     const precioHoy = await cargar("precio_hoy.json");
+    const deptosHoy = await cargar("departamentos_hoy.json");
     pintarVeredicto(senal, ultimoReporte);
     if (window.pintarPanelPrecio) window.pintarPanelPrecio(precioHoy, precios, precioHist); else pintarPrecios(precios);
-    pintarDeptos(deptos);
+    pintarDeptos(deptos, deptosHoy);
     pintarTira(historialSenal);
     pintarNoticias(noticias, senal);
     pintarAciertos(aciertos);

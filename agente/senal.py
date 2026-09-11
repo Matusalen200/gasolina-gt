@@ -48,17 +48,17 @@ def calcular(mercado: dict, noticias: dict, tipo_cambio: float | None = None) ->
     if puntaje >= UMBRAL:
         tendencia, veredicto, emoji = "alza", "Llena HOY", "🔴"
     elif puntaje <= -UMBRAL:
-        tendencia, veredicto, emoji = "baja", "Espera", "🟢"
+        tendencia, veredicto, emoji = "baja", "Espera, va a bajar", "🟢"
     else:
-        tendencia, veredicto, emoji = "estable", "Llena esta semana", "🟡"
+        tendencia, veredicto, emoji = "estable", "Sin apuro", "🟡"
 
     tc = tipo_cambio or fx.get("precio") or TIPO_CAMBIO_DEFECTO
     cambio_q = round((rb.get("cambio_7d_abs") or 0.0) * tc * TRASLADO / 0.05) * 0.05
     # El texto sigue al veredicto para no contradecirlo: si la señal es "estable", no anunciamos alzas ni bajas.
     if tendencia == "estable" or abs(cambio_q) < 0.05:
-        cambio_txt = "Cambio pequeño el martes, de unos centavos." if abs(cambio_q) >= 0.05 else "Se mantiene el martes."
+        cambio_txt = "El martes casi no cambia."
     else:
-        cambio_txt = f"{'Sube' if tendencia == 'alza' else 'Baja'} ~Q{abs(cambio_q):.2f} el martes."
+        cambio_txt = f"El martes {'sube' if tendencia == 'alza' else 'baja'} como Q{abs(cambio_q):.2f} el galón."
 
     return {
         "puntaje": puntaje,
@@ -74,24 +74,31 @@ def calcular(mercado: dict, noticias: dict, tipo_cambio: float | None = None) ->
 
 
 def razon_simple(s: dict) -> str:
-    """Una línea en palabras simples, sin tickers."""
+    """Una frase que entienda un niño, sin tickers ni porcentajes raros."""
     d = s["detalle"]
-    partes = []
     r7 = d["rbob_cambio_7d_pct"]
-    if abs(r7) >= 1:
-        partes.append(f"La gasolina en EE.UU. {'subió' if r7 > 0 else 'bajó'} {abs(r7):.0f}% esta semana")
+    if r7 >= 3:
+        base = "Porque la gasolina en Estados Unidos subió bastante esta semana"
+    elif r7 >= 1:
+        base = "Porque la gasolina en Estados Unidos subió un poco esta semana"
+    elif r7 <= -3:
+        base = "Porque la gasolina en Estados Unidos bajó bastante esta semana"
+    elif r7 <= -1:
+        base = "Porque la gasolina en Estados Unidos bajó un poco esta semana"
     else:
-        partes.append("La gasolina en EE.UU. casi no se movió esta semana")
+        base = "Porque la gasolina en Estados Unidos casi no se movió esta semana"
     f7 = d["usdgtq_cambio_7d_pct"]
-    if abs(f7) >= 0.4:
-        partes.append(f"el dólar {'subió' if f7 > 0 else 'bajó'}")
+    extras = []
+    if f7 >= 0.4:
+        extras.append("el dólar está más caro")
+    elif f7 <= -0.4:
+        extras.append("el dólar está más barato")
     na, nb = d["noticias_alza_7d"], d["noticias_baja_7d"]
-    if na or nb:
-        if na > nb:
-            partes.append("las noticias empujan hacia arriba")
-        elif nb > na:
-            partes.append("las noticias empujan hacia abajo")
-    return (", ".join(partes) + ".").replace(", las", " y las")
+    if na > nb:
+        extras.append("las noticias hablan de subidas")
+    elif nb > na:
+        extras.append("las noticias hablan de bajadas")
+    return base + (" y " + " y ".join(extras) if extras else "") + "."
 
 
 def razon_claude(s: dict, noticias: dict) -> str | None:
@@ -104,8 +111,9 @@ def razon_claude(s: dict, noticias: dict) -> str | None:
             model=MODELO_CLAUDE,
             max_tokens=200,
             system=(
-                "Redactas para conductores guatemaltecos que leen en el celular. Escribe UNA sola oración (máximo 18 palabras) "
-                "que explique en palabras simples por qué la gasolina va a subir, bajar o mantenerse el próximo martes. "
+                "Redactas para conductores guatemaltecos que leen en el celular; debe entenderlo un niño de 10 años. "
+                "Escribe UNA sola oración (máximo 16 palabras) que empiece con 'Porque' y explique en palabras simples "
+                "por qué la gasolina va a subir, bajar o quedarse igual el próximo martes. "
                 "Prohibido: porcentajes con decimales, tickers (RBOB, WTI), tecnicismos. Usa 'petróleo', 'gasolina en EE.UU.', 'dólar'. "
                 "No decidas el veredicto: ya está decidido; solo explica."
             ),

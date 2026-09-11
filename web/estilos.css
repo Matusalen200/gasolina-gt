@@ -108,6 +108,15 @@ select {
 #graficaProyeccion { height: 220px; }
 #graficaMercado { height: 200px; }
 
+.lista-deptos { list-style: none; padding: 0; margin: 8px 0 0; }
+.lista-deptos li { display: flex; justify-content: space-between; align-items: center; padding: 9px 10px; border-radius: 10px; font-size: 1.05rem; }
+.lista-deptos li:nth-child(odd) { background: var(--fondo); }
+.lista-deptos li.mio { background: var(--resalte); color: #fff; font-weight: 700; }
+.lista-deptos li .pos { color: var(--texto-suave); font-size: 0.85rem; margin-right: 8px; }
+.lista-deptos li.mio .pos { color: #fff; }
+.lista-deptos li b { font-variant-numeric: tabular-nums; }
+.boton-suave { display: block; width: 100%; margin-top: 8px; padding: 10px; border-radius: 12px; border: 1px solid var(--borde); background: var(--burbuja); color: var(--acento); font: inherit; font-weight: 600; }
+
 /* 4. Tira de días */
 .tira { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
 .dia { text-align: center; font-size: 0.8rem; color: var(--texto-suave); }
