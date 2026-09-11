@@ -11,7 +11,7 @@ publica, nadie toca nada.
 
 | Cada hora (lun–vie 7:00–15:00 GT) | Cada día 7:00 GT | Martes | Día 1 del mes |
 |---|---|---|---|
-| Busca el informe semanal del MEM y lo lee (`agente/mem.py`) | Genera el reporte en `data/reportes/AAAA-MM-DD.md` y el mensaje corto | Compara lo que publicó el MEM con lo que predijimos → `data/aciertos.json` | Excel mensual en `reportes/mensual-AAAA-MM.xlsx` |
+| Busca el informe semanal del MEM y lo lee (`agente/mem.py`) y saca el **precio de hoy** de las noticias y comunicados del día (`agente/hoy.py`) | Genera el reporte en `data/reportes/AAAA-MM-DD.md` y el mensaje corto | Compara lo que publicó el MEM con lo que predijimos → `data/aciertos.json` | Excel mensual en `reportes/mensual-AAAA-MM.xlsx` |
 | Baja gasolina EE.UU. (RBOB), petróleo (WTI) y dólar (`agente/mercado.py`) | Publica el mensaje en el canal de Telegram (`bot/telegram.py`) | | |
 | Lee noticias y Claude las clasifica ALZA / BAJA / NEUTRAL (`agente/noticias.py`) | Recalcula la proyección a 4 semanas (`agente/proyeccion.py`) | | |
 | Calcula la señal y el veredicto (`agente/senal.py`) | | | |
@@ -54,6 +54,17 @@ sacadas del informe archivado) y el modelo exige 10. Hasta entonces la proyecci�
 del cambio de la gasolina en EE.UU. sobre el último precio MEM conocido, con rango ±Q0.75×√semanas.
 No hay error medio que reportar todavía; cuando lo haya se escribe aquí y en el tablero, sea bueno o malo.
 
+## El precio de hoy (`agente/hoy.py`)
+
+Cada hora lee los feeds de Prensa Libre, La Hora, TV Azteca Guatemala, Emisoras Unidas, República, la Diaco
+y Google News (Guatemala), toma las notas de los últimos 30 días que hablan de combustibles, baja el texto y
+extrae los precios del galón (súper, regular, diésel). Cada observación se guarda con hora, fuente, enlace y
+tipo: `promedio` (monitoreo o referencia del MEM), `estacion` (gasolineras concretas), `tope` (precio máximo
+legal del Congreso). Por día se toma la mediana del mejor tipo disponible. Con `ANTHROPIC_API_KEY` la
+extracción la hace Claude leyendo la nota; sin clave, expresiones regulares (más ruidosas). El tablero muestra
+el último valor, el cambio contra el día anterior y una gráfica con pestañas de 1 semana a 1 año que une esta
+serie diaria con el historial semanal del MEM.
+
 ## El problema del MEM (y qué hacemos)
 
 Desde mediados de 2026 `mem.gob.gt` está detrás de un reto de Cloudflare que bloquea cualquier descarga
@@ -74,7 +85,7 @@ con dos PDFs reales del 19/01/2026 en `tests/fixtures/`.
 ## Estructura
 
 ```
-agente/       agente.py (orquestador), comun.py, mem.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
+agente/       agente.py (orquestador), comun.py, mem.py, hoy.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
 bot/          plantillas.py (edita los textos aquí), telegram.py
 web/          index.html, app.js, estilos.css  (JS vanilla + Chart.js desde CDN)
 data/         JSON que produce el agente (precios, departamentos, mercado, noticias, señal, aciertos, proyección, reportes/)

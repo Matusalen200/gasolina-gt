@@ -58,7 +58,19 @@ main { max-width: 640px; margin: 0 auto; padding: 0 12px 30px; }
 #veredicto.baja .decision { color: var(--baja); }
 #veredicto.estable .decision { color: var(--estable); }
 
-/* 2. Precios */
+/* 2. Precio de hoy */
+.precio-grande { font-size: 3.2rem; font-weight: 800; line-height: 1.05; margin-top: 6px; }
+.precio-producto { color: var(--texto-suave); font-size: 0.95rem; }
+.precio-cambio { font-weight: 700; font-size: 1.05rem; margin-top: 4px; }
+.precio-cambio.up { color: var(--alza); }
+.precio-cambio.down { color: var(--baja); }
+.tabs { display: flex; gap: 4px; margin: 12px 0 6px; border-bottom: 1px solid var(--borde); }
+.tabs button { flex: 1; font: inherit; font-size: 0.9rem; padding: 8px 4px; border: 0; border-bottom: 3px solid transparent; background: none; color: var(--texto-suave); }
+.tabs button.activo { color: var(--acento); border-bottom-color: var(--acento); font-weight: 700; }
+#graficaPrecio { height: 220px; }
+#precioFuente a { color: var(--acento); }
+
+/* 2b. Precios (tarjetas) */
 .precios { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
 .precio { text-align: center; padding: 12px 4px; border-radius: 14px; background: var(--fondo); }
 .precio .nombre { font-size: 0.95rem; color: var(--texto-suave); }

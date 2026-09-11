@@ -3,7 +3,7 @@
 Uso:
   python agente/agente.py                 # corrida horaria: MEM + mercado + noticias + señal
   python agente/agente.py --diario        # además: reporte diario, aciertos, proyección y Telegram
-  python agente/agente.py --solo mem      # una sola etapa (mem, mercado, noticias, senal, reporte, proyeccion, telegram)
+  python agente/agente.py --solo mem      # una sola etapa (mem, hoy, mercado, noticias, senal, reporte, proyeccion, telegram)
   python agente/agente.py --semilla DIR   # carga PDFs del MEM desde una carpeta (p. ej. tests/fixtures)
 
 Cada etapa está aislada: si una falla, se registra en data/log.txt y las demás siguen.
@@ -31,6 +31,11 @@ def _etapa(nombre: str, funcion):
 def etapa_mem():
     from agente import mem
     return mem.actualizar()
+
+
+def etapa_hoy():
+    from agente import hoy
+    return hoy.actualizar()
 
 
 def etapa_mercado():
@@ -70,6 +75,7 @@ def etapa_mensual():
 
 ETAPAS = {
     "mem": etapa_mem,
+    "hoy": etapa_hoy,
     "mercado": etapa_mercado,
     "noticias": etapa_noticias,
     "senal": etapa_senal,
@@ -102,7 +108,7 @@ def main(argv=None) -> int:
         _etapa(args.solo, ETAPAS[args.solo])
         return 0
 
-    for nombre in ("mem", "mercado", "noticias", "senal"):
+    for nombre in ("mem", "hoy", "mercado", "noticias", "senal"):
         _etapa(nombre, ETAPAS[nombre])
     if args.diario:
         for nombre in ("proyeccion", "reporte", "telegram"):

@@ -278,8 +278,9 @@
       cargar("noticias.json"), cargar("aciertos.json"), cargar("proyeccion.json"), cargar("mercado_horario.json"),
       cargar("../config/plan.json"), cargar("reportes/ultimo.json"), cargar("precios_historial.json"),
     ]);
+    const precioHoy = await cargar("precio_hoy.json");
     pintarVeredicto(senal, ultimoReporte);
-    pintarPrecios(precios);
+    if (window.pintarPanelPrecio) window.pintarPanelPrecio(precioHoy, precios, precioHist); else pintarPrecios(precios);
     pintarDeptos(deptos);
     pintarTira(historialSenal);
     pintarNoticias(noticias, senal);

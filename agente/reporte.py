@@ -22,9 +22,25 @@ def _pct(v) -> str:
     return "–" if v is None else f"{v:+.1f} %"
 
 
+def precios_vigentes(precios: dict, hoy: dict | None = None) -> tuple[dict, str, str]:
+    """(precios {superior, regular, diesel}, fecha, fuente): el dato más reciente entre el informe del MEM
+    y lo observado hoy en medios (data/precio_hoy.json)."""
+    auto = dict((precios or {}).get("autoservicio", {}))
+    fecha = (precios or {}).get("fecha_monitoreo") or ""
+    fuente = (precios or {}).get("fuente") or "MEM"
+    hoy = hoy if hoy is not None else (leer_json(DATA / "precio_hoy.json", {}) or {})
+    u = hoy.get("ultimo") or {}
+    fechas = [u[p]["fecha"] for p in ("superior", "regular", "diesel") if p in u]
+    if fechas and max(fechas) > fecha:
+        auto = {p: u[p]["valor"] for p in ("superior", "regular", "diesel") if p in u}
+        fecha = max(fechas)
+        fuente = "medios: " + ", ".join(sorted({u[p]["fuente"] for p in u}))
+    return auto, fecha, fuente
+
+
 def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict) -> dict:
     """Diccionario con todas las variables que usan las plantillas."""
-    auto = (precios or {}).get("autoservicio", {})
+    auto, fecha_mem, _ = precios_vigentes(precios)
     barato = (deptos or {}).get("mas_barato") or {}
     caro = (deptos or {}).get("mas_caro") or {}
     titulares = [n["titulo"] for n in (noticias or {}).get("noticias", [])[:3]]
@@ -44,7 +60,7 @@ def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict) -> d
         "precio_caro": q(caro.get("regular")),
         "noticias": " · ".join(t[:60] for t in titulares) or "sin novedades",
         "fecha": ahora_gt().date().isoformat(),
-        "fecha_mem": (precios or {}).get("fecha_monitoreo", "–"),
+        "fecha_mem": fecha_mem or "–",
         "puntaje": f"{senal.get('puntaje', 0):+d}" if isinstance(senal.get("puntaje"), int) else "–",
         "proximo_martes": senal.get("proximo_martes", "–"),
         "rbob_pct": _pct(det.get("rbob_cambio_7d_pct")),

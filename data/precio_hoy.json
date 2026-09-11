@@ -1,0 +1,164 @@
+{
+  "actualizado": "2026-09-11T15:54-06:00",
+  "revisados": 25,
+  "nuevos": 5,
+  "ultimo": {
+    "superior": {
+      "tipo": "promedio",
+      "valor": 43.06,
+      "t": "2026-09-12T00:03+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/11/asi-estan-los-precios-de-los-combustibles-este-viernes/",
+      "n": 1,
+      "fecha": "2026-09-11"
+    },
+    "regular": {
+      "tipo": "promedio",
+      "valor": 40.93,
+      "t": "2026-09-12T00:03+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/11/asi-estan-los-precios-de-los-combustibles-este-viernes/",
+      "n": 1,
+      "fecha": "2026-09-11"
+    },
+    "diesel": {
+      "tipo": "promedio",
+      "valor": 47.39,
+      "t": "2026-09-12T00:03+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/11/asi-estan-los-precios-de-los-combustibles-este-viernes/",
+      "n": 1,
+      "fecha": "2026-09-11"
+    }
+  },
+  "cambio_dia": {
+    "superior": {
+      "vs_fecha": "2026-09-10",
+      "q": -0.31,
+      "pct": -0.7
+    },
+    "regular": {
+      "vs_fecha": "2026-09-10",
+      "q": -0.44,
+      "pct": -1.1
+    },
+    "diesel": {
+      "vs_fecha": "2026-09-10",
+      "q": -0.03,
+      "pct": -0.1
+    }
+  },
+  "diario": [
+    {
+      "fecha": "2026-09-09",
+      "superior": 43.59,
+      "regular": 41.59,
+      "diesel": 47.39
+    },
+    {
+      "fecha": "2026-09-10",
+      "superior": 43.37,
+      "regular": 41.37,
+      "diesel": 47.42
+    },
+    {
+      "fecha": "2026-09-11",
+      "superior": 43.06,
+      "regular": 40.93,
+      "diesel": 47.39
+    }
+  ],
+  "tope": {
+    "superior": 41.0,
+    "regular": 39.0,
+    "diesel": 39.0,
+    "fecha": "2026-09-09",
+    "fuente": "TV Azteca Guatemala",
+    "url": "https://tvaztecaguate.com/nacionales/2026/09/09/cuanto-costara-la-gasolina-y-el-diesel-en-guatemala-con-la-nueva-ley/",
+    "titulo": "Gasolinas y diésel: estos serán los nuevos precios tope para los guatemaltecos"
+  },
+  "serie": [
+    {
+      "t": "2026-09-09T18:21+00:00",
+      "fecha_dato": "2026-09-09",
+      "tipo": "promedio",
+      "superior": 43.59,
+      "regular": 41.59,
+      "diesel": 47.39,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/09/reportan-aumento-asi-estan-los-precios-de-los-combustibles-este-miercoles/",
+      "titulo": "Reportan aumento: así están los precios de los combustibles este miércoles",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-09T23:25+00:00",
+      "fecha_dato": "2026-09-09",
+      "tipo": "tope",
+      "superior": 41.0,
+      "regular": 39.0,
+      "diesel": 39.0,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/09/cuanto-costara-la-gasolina-y-el-diesel-en-guatemala-con-la-nueva-ley/",
+      "titulo": "Gasolinas y diésel: estos serán los nuevos precios tope para los guatemaltecos",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-10T18:27+00:00",
+      "fecha_dato": "2026-09-10",
+      "tipo": "promedio",
+      "superior": 44.69,
+      "regular": 42.69,
+      "diesel": 48.49,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/10/registran-cambios-asi-amanecieron-los-precios-de-los-combustibles/",
+      "titulo": "Registran cambios: así amanecieron los precios de los combustibles",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-10T21:08+00:00",
+      "fecha_dato": "2026-09-10",
+      "tipo": "promedio",
+      "superior": 42.05,
+      "regular": 40.05,
+      "diesel": 46.35,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/10/donde-esta-mas-barato-el-combustible-en-guatemala-estas-son-las-gasolineras/",
+      "titulo": "Estas son las gasolineras con los precios más bajos, según el MEM",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-12T00:03+00:00",
+      "fecha_dato": "2026-09-11",
+      "tipo": "promedio",
+      "superior": 43.06,
+      "regular": 40.93,
+      "diesel": 47.39,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/11/asi-estan-los-precios-de-los-combustibles-este-viernes/",
+      "titulo": "Así están los precios de los combustibles este viernes",
+      "extraido_por": "reglas"
+    }
+  ],
+  "sin_precio": [
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSnFUQmNSYVAyNE9CSkRnNnJ1dEhBRkg2RzVyZlNmcVJwTnV5U2NxMW95anBUM05HY05LMVprS1FxN1lxa3VOS2Q1QmxDQzBaNkIwSFloZXJkQnVFVjYtVjEtZEI0Tk4wc3RwOG1IXzFnSGw2RjlZdURhaVNoY0dNVXBVV0JIQUFGVEZHNFJmdXVEQjV2cWVXVnRYbjlyV3o4RE01OFlaZlotX3lCNVFjMzVzM3gxekc0aVZMWklJbmc4M0xQM0c3cTNwR0dNOE9yWVB1MHNDeWRZMy1kbnI0VE03MGQwdTF5NG5wQXhMa0lRWnZh0gGPAkFVX3lxTE1ITlZqLW00MXRKcThMTkhUYm5GY2dRbjFMamcxeU1IR1AzYlF0TDI1X1phTko1NUswQWpUTUVyb3JVeGZsUFBxV21xZ0xBREctdVhWUGJFRGx3Q1p4UlVPQTlOZkRBNHhjUnB5MXFic2Y3WGpGUW9hSjQ5YXc1ZnhfOG5TQjV6Yl9pSHF1SmExVmlRZ3ZfNzVnTjlpVkg0Yno0UlVVb0E3RGgtRGRUREhqUklGWDFqLW1uTHJ5R3V0NkxEbTU2c291TngxelNGWjZZLTBtTlZzZXRKX1pWcjJEYUgxNGdGaU1XcEZoM2ZKVXVkbjhsN3ZrNnFOYkJJZ1gtTzZrRDFjcmZyT3NWZ3c?oc=5",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbG5LZ1RyUF9FQ1NRU2R3ckVlb2ZiejZQMjdHUzl5SEhSaHh0Rk9TeGpGRWlVdXR1SkhUOUdDX042MEhDcWhkd01KN256ZkVDT2YxdG9RYlZmLUpiMDlyaUgzakFoZGRtZm1uNlJVcTZIYTgwLXhaRzRLVWlNaGRmWGgtMkpSQ1BVOEFkWWZTemxUQi0yb0xyYVZ3dVlMOHVWcWUyZTFOSEVzQlU5S1FvZTZmODlfZi1OTmZHWlVIck1ybmtNd3pob0ZOa3h1YlJqOWo5S3drRnhhekJmM3QxR3ZYNDZVRm1ycWpuQjBTVVRoRzVkcG9JWloxWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS0V6WjMzWFJWQTl1NV8waGFBd3p5ekw5VG1Zc0Z5WjVSVVVmVXp1WldCbE82QmRsdGp1T3Y1cUpCN2w5TnNkeEM4LU9IZE9XOGdDblNSSlUtcG15TUZIaWpMOFllaDJkaXZkZm00M1U3SktJczE0R0R1aW01RTNKTThDSUFaejY2RDNRQkg4UWktTHVpank1SHlQd3ZESFM2SW1XRko3dFNWYk9iVnVraTJaVEliXzRORklfbVVXZlVXcy1DMEF0WG1lU1JtcTJPVG41cXVObHVOamJKeURPU1RiRDV2ODRFM05aLU1n?oc=5",
+    "https://www.prensalibre.com/guatemala/comunitario/gasolina-guatemala-combustibles-que-tan-efectiva-sera-la-medida-para-su-bolsillo/",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY0tlQ3FNSFFCZ280aWx6V1Y2R0s0RWlxM3RZM3hFNWotdFY1MDVRT25Ocks1NGp4ZVhMNGIzaC1TV0M4dGJkWGs2R3NSSEpzemR6YWlNdW9WY3RkNWJ4VFFSTkJmaEw5WEwtdnBqS2lkeW9NZWdCQXAyUExGZDN6N3lzNjltUENfd29EWTRqV210Z2RUSTFuTU5XNmFIekxQZHBrWTRMM245MWxEQ05UODVFSDk4ZS1wS2VybWlTLTRfcDNzTHE1eHpDUGVHbVNmdkZySU1BcUxCamhTWWdrWlVXWlNGRUE?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2VjdzBnTU1QNjh4M3pLVUszTDVmUGR5a0xnc2NzTmRNczlLMFFQSlA1RVBnNE5kcEF6Z1o0OExyZThnWTBzTjJyc0w4c0FCNXV1Y2hOOGlPMHZvTFJLSUxRYnh3Qm1rbUItaUgySElMOVA1YkI1c19nLThLaFdaeTBHU3NndlBCOW1lRV80NGVQaDVZ?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDJwUDZ6S0pBeXNTWk9wS2tVdE1PUm1wa3ZOR2tYSHFhcjlQcWY3SDdnb1NiNHJKNk85S3owYzYwelpUTm9pV0ZQa1RRYmt6a2NkcnVuelp4SU8xb0ZjYkxNME9jYnRnd1dXNHotZkZOQmE5QkFiOXhDSU8xSkNWbTZBRkp5b2FWbDV6Um5mOWU2ZDROMDVCTFFSZ3Zndm1MSHNyb0hzeGdjMDlJZ25lT2x0bWswMkg4S1E?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVdvdnhhcjVKaktic0hzM2RsX21EaW04WVladTVjby14dWV0SXBRS0UxZ0Q0a05wRVlNV0lNeEtYQVJyWmh4TF92TVhKRks0bkR5UGxXVHduSVpNbUwxN0dpMkpER1VwVVFtTDNJX1hyaTFVbS1BUjNseVpMS05ta0pZVjZQSFU2SFRZUmI0RXFqMVN4RWp5TTJtRTl1RUlINVg2cXZUQdIBpwFBVV95cUxQRVdvdnhhcjVKaktic0hzM2RsX21EaW04WVladTVjby14dWV0SXBRS0UxZ0Q0a05wRVlNV0lNeEtYQVJyWmh4TF92TVhKRks0bkR5UGxXVHduSVpNbUwxN0dpMkpER1VwVVFtTDNJX1hyaTFVbS1BUjNseVpMS05ta0pZVjZQSFU2SFRZUmI0RXFqMVN4RWp5TTJtRTl1RUlINVg2cXZUQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc2ZTUkF2bGR5V3BBeE5wb21BNGE1Q056alZJeXJLSi1ONVliOC0yWUZOSWNaNzhkRlFId01IckxiOVBCUVlfY2t3QmZSQ2pUM1psYjJzLUw0dno5UHoyYzEyN1d4aWcyNjQ5YXFYbWdpZGJNQVAzTUc3T2NzeFozWUpmazVZZ2NBblE2aExBaEpBZVJRWXdTYVBn?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmJTQnIyelpEOVluQnRPWUc4ZmNPcXBCNXlVZHBUS3VKSkNnbjFFUUVuRm1aaVdrUzdkcFYtTnk3Q192TlpiYi11aDdQYmRyNUNQS1B1UE81ZXRDcER4dnl5SVE5NWtFWHVtOXRhaXJnVUVENmpOQU40ZlEtelNyckpLd05xbk41cjNQRzBWTlhuSzV3bGJLbllsaDVRdDk4TFpF?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFFDSVlnZGt4RndVLVJJYk9tOE9va3pfbnFqbUtnNnZqQ05DRUJTSUl6V240NlhhNWotRHF5TTVEWW1LM1BPbXJjQXVWVmFFS01Nd3RGd2c2Wmo0TVBoaXpLUlp5dk83TWtiVmYwdWk4R3RmZWtRVXM2VXN5dUkwa0h5MzZEbG9QeUFueDJxV3pldmZ5NnhsZnZvelcycjAwWkhNQ0JlNHk4U1RVS1E?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHFmVzlDT0sxOU5rQk1wb0tKWUpwUEVQRDFtcXVoTHd4RjhyTTAzbi0xQVdQalU3R0JxYlA2V2V3dHJyYVBrcm9RcU15aE53WFl0RDVxaVYwa0pPSnl4RUx4WTRSZ1F4aDdPc2hDNFZGbmlScHdKcElnQzFhOWtXUm5QSXFtd3RGQ0ZUNGxwRnh4Tlg5TVlqSE1rT3FIYjUwV0lZTFFsbE1mSlFHQzg3d2pn?oc=5",
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMnA3cTRremR6OU5BX2sxTk5yQUg1XzNSeUtqRXh0WkdaYy1sc2hrR2lhX3BEaGdQUElqVi0yZ09yNWNHRE5kdE5pZ0dxTEJVY2UwelNhTnh3cnpjQTYzMlphNGs3dWZSb1NVZ25EajV6UEZaaXRFQXZWZUVqeVRyTTNjZHM0d3RyYV8yOUN6aG1ab1ZRQTRha2xldEFyV0p1WnFvRjJQeUZCVHdscWU4MC1YNzZDdTdNTzAtbnd4UTFGRDBnTGFKOFpQV21vX1Q4M2I2ZlNIQkJHOTlwNVUwS2drUzBNcWQxZXEyeW5jQVZUWmFobWRON3pjZG80aUdrbjhmbUU1WjRqbFd3MFHSAagCQVVfeXFMTUZzNDlzMnp2SFdRWWFIcVcxbmY2VzM1UTFUQlZJSEdrSHlpY1Z5b1diMDJiTGxTS3hJOXYyLWRFYjBHTkRNTkJMTXUtX2hDV3NITEVpR1JZOTFyTkZMMXhjVFlXczZxX3FRMFRpUUczUmhWYjA0cVJwbzFVUkVXbWt2djY1MU5HMmtsaGJZSGp4YzIwX1FRRjQ5bDFobW1DY1JJN3d4RVRoLVFGemxTbGE0TjllY0IzV1RjcFNPck9lLVJwYjduT05mRjlWZG1DaW9WZjJiQzhtRWFka2lGN1VYdWZLSlBiRFFta0tRdWZaYS1zRUp1TktVUDk0QmxwVjVFS3lSYTFLa2pRcElqWlZDUV80S1RWVnQ1MXFaQVJHYXpXUDFQVDE?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XSzEtS0VvdkV5aTMzTVUwT2psUzhiNGRic0FzR3NDSjZ1RlVjcFZvMDhfU09qekp1WDhJT2dUeVNuaHB3dzBVRVkxUGYxWDR0bloyYnA4WWpocVpVSENRbHJR?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWHBrWTFEaDVTNm9jWHFzM3c5ZHNSc0hJckpYSUpYYUpacWFRU2kwbUZWUkhBN0lOenppQ3pDUlRwMXJOYWRndU1TQTJwaHRKUkRJTHM1R3ZOSUhLX2F3NDFtYmFpd21zekowVWZsY0x6aHdvYktSWEJmSU1vOHBaSlB0cGRxeUJUV0d3dTRyUkNsdEZGc1BwZ1NjcGpYZEpsalVaWllLTW9fOHBnR3Ixd2JtZVBMUEZ1bEtxcG9jajE3NGNUZUZNTkFrR0FtMC1WbTByNm9CQmM3S0tQQ19pY2xJdUkxdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmY3SzJmaTg4QUZfb2JZNFpQaU00Qk5GTW9TN0k0VkctbGtaNVdfajdUNmlpRXMtM3U2UEZWT3ROMnVsSmpaOXJvc3lJUFI5SUdfMXVSbDV2bU9HOWR0ejFOUGx5ZjU4WkpmczF2aW83WFB6M1pHeEltVG5CREZBV21hbjZibHdydmJOc1lET21sMFpka2YxOExwRDRBMmFBVlVSbzdudmxFX0RqYkwyLXBraUsyZHB2ZE5IenZ2SnZFOVc2UkxBbm9n?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGhCNzNsMDRsX0Z6cEpWTmVYQ2x5WHplUDBqMGNoaDIzOEYyUnAzWGswdW96NmlXcXU0QVY4SzRFNEFuM3hKaXVLeVcwZGphUTY3SHB0b1F1Z0FBdWpHNXRqR05fQ3A3dTNHRW1vcXNOZEUtV1E0NkhKX25uVnUtVGFvVnIxdENtRnJCZzdnd0FKNkFtRFRfd0NjX3pDZnZQX0NGTmdtOWlvZEdVUEd3dFVLUDU1cWVqelBv0gG7AUFVX3lxTFBQaEI3M2wwNGxfRnpwSlZOZVhDbHlYemVQMGowY2hoMjM4RjJScDNYazB1b3o2aVdxdTRBVjhLNEU0QW4zeEppdUt5VzBkamFRNjdIcHRvUXVnQUF1akc1dGpHTl9DcDd1M0dFbW9xc05kRS1XUTQ2SEpfbm5WdS1UYW9WcjF0Q21GckJnN2d3QUo2QW1EVF93Q2NfekNmdlBfQ0ZOZ205aW9kR1VQR3d0VUtQNTVxZWp6UG8?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTZYQXhwQ1RoZWtVeVp5VkRmeF9BeUk1NkpGQktxTm9oZW1NNHhxaUVHV3M5aWxSRy0xRUR3cHVpdk5DWjNlSk1XaXotMnlfWDdub00xZHVjeTB4UzlLNTdKWktsV3B3dWd3LUZScXRYMU41RjNaUkxzQ0s5OXJCS3pfNlVFU0RmSDR4NnpBQzJJNm5EbjRxaFFqaEZFVG5yVnZHcFdpS2hIOS1JaVNNZGpTVGRCcXR1R0dENkQ1QnRIYXBtNm5Lb2NqRmJqUDZvckRj?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFhFQU5wemE3Xy1waGlXRVFqM1NYQVRFelRyNzc2QVFuTW1jUnYyN2YzQ3BRMDd6T2hydVI1YzVhZmluR1dqNW5ZNC14RWtFVVRISW5YZmlLcjJ6aEs5Tm9MaGNJZk9XaDlBbWZaRm5rQ1hFZ0hqWFZXYjRrN09qMGN6SmJKZmdCdjZyc2VsQ0N2VjhuOTIxbnNXdjF2aUY4OGYyb3RXSHlCOE81cjI0QkVoS0ItNGM?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzJmakR2S0l3ZFlTNEhTR0MyclkxWWE2a0dCRVczN2RXLXBISEpoM2ljTTM4aVdNMDJoMTVyQWMyUkJnV2NSNnpGSml0TTZpMjdNS0lrTlVqMVNlSkVuckZLYVhnNV9hTWxfaXYxN2s3bXBhLUp0NTlBREcxc1JTaExHa2F2RU5QRG9hVjJnUko?oc=5"
+  ]
+}

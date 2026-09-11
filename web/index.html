@@ -25,16 +25,29 @@
     <button class="boton" id="btnCompartir" hidden>📲 Compartir por WhatsApp</button>
   </section>
 
-  <!-- 2. Cuánto cuesta -->
+  <!-- 2. Cuánto cuesta (panel estilo Google Finance) -->
   <section class="burbuja" id="precios" hidden>
     <p class="pregunta">¿Cuánto cuesta el galón hoy?</p>
-    <div class="precios">
-      <div class="precio"><div class="nombre">Súper</div><div class="valor" id="pSuperior">–</div><div class="cambio-chico" id="cSuperior"></div></div>
-      <div class="precio"><div class="nombre">Regular</div><div class="valor" id="pRegular">–</div><div class="cambio-chico" id="cRegular"></div></div>
-      <div class="precio"><div class="nombre">Diésel</div><div class="valor" id="pDiesel">–</div><div class="cambio-chico" id="cDiesel"></div></div>
+    <div class="chips" id="chipsPrecio">
+      <button data-p="regular" class="activo">Regular</button>
+      <button data-p="superior">Súper</button>
+      <button data-p="diesel">Diésel</button>
     </div>
-    <p class="nota" id="preciosFecha"></p>
-    <p class="aviso" id="preciosAviso" hidden></p>
+    <div class="precio-grande" id="precioGrande">–</div>
+    <div class="precio-producto" id="precioProducto"></div>
+    <div class="precio-cambio" id="precioCambio"></div>
+    <p class="nota" id="precioFuente"></p>
+    <p class="respuesta" id="precioOtros"></p>
+    <div class="tabs" id="tabsRango">
+      <button data-r="1S">1 semana</button>
+      <button data-r="1M" class="activo">1 mes</button>
+      <button data-r="3M">3 meses</button>
+      <button data-r="1A">1 año</button>
+    </div>
+    <div class="lienzo"><canvas id="graficaPrecio"></canvas></div>
+    <p class="nota" id="precioHueco" hidden>Hay semanas sin dato: el MEM bloqueó las descargas y las noticias no traían precios esos días.</p>
+    <p class="aviso" id="precioTope" hidden></p>
+    <p class="nota">Los puntos vienen del informe semanal del MEM y de lo que publican los medios cada día. En tu gasolinera puede variar unos centavos.</p>
   </section>
 
   <!-- 3. Dónde -->
@@ -107,6 +120,7 @@
   <p>Fuentes: Ministerio de Energía y Minas (precios de referencia), mercados de EE.UU. y prensa. Se actualiza solo cada hora en días hábiles. <a href="../data/log.txt">Bitácora</a> · <a href="https://github.com/" id="linkRepo">Código abierto</a>.</p>
   <p id="pie"></p>
 </footer>
+<script src="panel_precio.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
