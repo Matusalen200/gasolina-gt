@@ -3,91 +3,108 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Gasolina GT · ¿Dónde y cuándo llenar?</title>
-  <meta name="description" content="Precios de gasolina y diésel en Guatemala por departamento, señal semanal y noticias. Gratis.">
+  <title>Gasolina GT · ¿Lleno hoy o espero?</title>
+  <meta name="description" content="Te decimos si conviene llenar el tanque hoy o esperar, y dónde está más barata la gasolina en Guatemala. Gratis.">
   <link rel="stylesheet" href="estilos.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 </head>
 <body>
 <header>
   <h1>⛽ Gasolina GT</h1>
-  <p id="subtitulo">Dónde y cuándo llenar el tanque, antes que los medios.</p>
+  <p id="subtitulo">Te decimos si llenas hoy o esperas.</p>
 </header>
 <main>
 
-  <section class="tarjeta" id="veredicto">
+  <!-- 1. La respuesta -->
+  <section class="burbuja" id="veredicto">
+    <p class="pregunta">¿Lleno el tanque hoy?</p>
     <div class="semaforo">🟡</div>
-    <div class="decision">Calibrando…</div>
-    <div class="razon">Todavía no hay señal. Vuelve en unas horas.</div>
-    <div class="puntaje" hidden></div>
+    <div class="decision">Un momento…</div>
+    <p class="explicacion">Estamos revisando los precios. Vuelve en unas horas.</p>
+    <p class="cambio" hidden></p>
+    <button class="boton" id="btnCompartir" hidden>📲 Compartir por WhatsApp</button>
   </section>
 
-  <section class="tarjeta" id="precios" hidden>
-    <h2>Precio de referencia hoy (autoservicio, ciudad)</h2>
-    <p class="sub" id="preciosFecha"></p>
+  <!-- 2. Cuánto cuesta -->
+  <section class="burbuja" id="precios" hidden>
+    <p class="pregunta">¿Cuánto cuesta el galón hoy?</p>
     <div class="precios">
-      <div class="precio"><div class="nombre">Súper</div><div class="valor" id="pSuperior">–</div><div class="cambio" id="cSuperior"></div></div>
-      <div class="precio"><div class="nombre">Regular</div><div class="valor" id="pRegular">–</div><div class="cambio" id="cRegular"></div></div>
-      <div class="precio"><div class="nombre">Diésel</div><div class="valor" id="pDiesel">–</div><div class="cambio" id="cDiesel"></div></div>
+      <div class="precio"><div class="nombre">Súper</div><div class="valor" id="pSuperior">–</div><div class="cambio-chico" id="cSuperior"></div></div>
+      <div class="precio"><div class="nombre">Regular</div><div class="valor" id="pRegular">–</div><div class="cambio-chico" id="cRegular"></div></div>
+      <div class="precio"><div class="nombre">Diésel</div><div class="valor" id="pDiesel">–</div><div class="cambio-chico" id="cDiesel"></div></div>
     </div>
+    <p class="nota" id="preciosFecha"></p>
     <p class="aviso" id="preciosAviso" hidden></p>
   </section>
 
-  <section class="tarjeta" id="donde" hidden>
-    <h2>¿Dónde está más barato?</h2>
-    <p class="sub" id="dondeFecha"></p>
-    <div class="controles">
-      <div class="chips" id="chipsProducto">
-        <button data-p="regular" class="activo">Regular</button>
-        <button data-p="superior">Súper</button>
-        <button data-p="diesel">Diésel</button>
-      </div>
-      <select id="selDepto" aria-label="Tu departamento"><option value="">Resaltar mi departamento…</option></select>
+  <!-- 3. Dónde -->
+  <section class="burbuja" id="donde" hidden>
+    <p class="pregunta">¿Dónde está más barata?</p>
+    <label class="etiqueta-select" for="selDepto">Yo vivo en…</label>
+    <select id="selDepto"><option value="">Elige tu departamento</option></select>
+    <p class="respuesta" id="dondeMio" hidden></p>
+    <p class="respuesta" id="dondeBarato"></p>
+    <div class="chips" id="chipsProducto">
+      <button data-p="regular" class="activo">Regular</button>
+      <button data-p="superior">Súper</button>
+      <button data-p="diesel">Diésel</button>
     </div>
     <div class="lienzo"><canvas id="graficaDeptos"></canvas></div>
-    <p class="sub" id="dondeResumen"></p>
+    <p class="nota">Barras cortas = más barato. Tu departamento se pinta de naranja.</p>
+    <p class="nota" id="dondeFecha"></p>
   </section>
 
-  <section class="tarjeta" id="cuando" hidden>
-    <h2>¿Cuándo? Señal de los últimos 14 días</h2>
-    <p class="sub">Rojo: el precio tiende a subir (llena antes). Verde: tiende a bajar (espera). Las barras marcadas son martes, día en que el MEM cambia el precio.</p>
-    <div class="lienzo"><canvas id="graficaSenal"></canvas></div>
-    <div class="leyenda"><span><i style="background:var(--alza)"></i>Sube</span><span><i style="background:var(--baja)"></i>Baja</span><span><i style="background:var(--estable)"></i>Estable</span><span>▲ = martes</span></div>
+  <!-- 4. Últimos días -->
+  <section class="burbuja" id="cuando" hidden>
+    <p class="pregunta">¿Cómo ha estado la semana?</p>
+    <div class="tira" id="tiraDias"></div>
+    <p class="nota">🔴 tendía a subir · 🟢 tendía a bajar · 🟡 tranquilo. Los martes el MEM cambia el precio.</p>
   </section>
 
-  <section class="tarjeta" id="noticias" hidden>
-    <h2>Últimas noticias que mueven el precio</h2>
+  <!-- 5. Por qué -->
+  <section class="burbuja" id="noticias" hidden>
+    <p class="pregunta">¿Por qué?</p>
     <div id="listaNoticias"></div>
   </section>
 
-  <section class="tarjeta" id="aciertos" hidden>
-    <h2>¿Qué tan bien le atinamos?</h2>
-    <div class="grande" id="aciertoValor">Calibrando</div>
-    <p class="sub" id="aciertoDetalle"></p>
+  <!-- 6. Confianza -->
+  <section class="burbuja" id="aciertos" hidden>
+    <p class="pregunta">¿Le atinamos?</p>
+    <p class="respuesta" id="aciertoValor">Estamos empezando a medir.</p>
+    <p class="nota" id="aciertoDetalle"></p>
   </section>
 
-  <section class="tarjeta" id="proyeccion" hidden>
-    <h2>Hacia dónde va el precio (4 semanas)</h2>
-    <p class="sub" id="proyeccionNota"></p>
-    <div class="lienzo"><canvas id="graficaProyeccion"></canvas></div>
-  </section>
-
-  <section class="tarjeta" id="mercado" hidden>
-    <h2>Detalle para curiosos</h2>
-    <p class="sub">Gasolina en EE.UU. (RBOB), petróleo (WTI) y dólar en quetzales. Cambio a 7 días.</p>
-    <div id="listaMercado"></div>
-    <div class="lienzo"><canvas id="graficaMercado"></canvas></div>
-  </section>
-
-  <section class="tarjeta" id="plus" hidden>
-    <h2>Plus para flotillas</h2>
-    <p id="plusTexto"></p>
+  <!-- 7. Plus -->
+  <section class="burbuja" id="plus" hidden>
+    <p class="pregunta">Para flotillas</p>
+    <p class="respuesta" id="plusTexto"></p>
     <a class="boton" id="plusLink" href="#" target="_blank" rel="noopener">Quiero Plus</a>
   </section>
 
+  <!-- 8. Técnico, escondido -->
+  <details class="curiosos" id="curiosos">
+    <summary>Para curiosos (números y gráficas)</summary>
+    <div class="burbuja" id="proyeccion" hidden>
+      <p class="pregunta">Hacia dónde va el precio (4 semanas)</p>
+      <p class="nota" id="proyeccionNota"></p>
+      <div class="lienzo"><canvas id="graficaProyeccion"></canvas></div>
+    </div>
+    <div class="burbuja" id="mercado" hidden>
+      <p class="pregunta">Lo que mueve el precio</p>
+      <p class="nota">Gasolina en EE.UU. (RBOB), petróleo (WTI) y dólar. Cambio en 7 días.</p>
+      <div id="listaMercado"></div>
+      <div class="lienzo"><canvas id="graficaMercado"></canvas></div>
+    </div>
+    <div class="burbuja" id="detalleSenal" hidden>
+      <p class="pregunta">Cómo se calcula la señal</p>
+      <div id="listaSenal"></div>
+      <p class="nota">Regla completa en el README del proyecto. Claude redacta, no decide.</p>
+    </div>
+  </details>
+
 </main>
 <footer>
-  <p>Fuentes: Ministerio de Energía y Minas (precios de referencia semanales), Yahoo Finance (futuros RBOB, WTI, USD/GTQ) y medios de prensa. Los datos se actualizan solos cada hora en días hábiles. <a href="../data/log.txt">Bitácora del agente</a> · <a href="https://github.com/" id="linkRepo">Código abierto</a>.</p>
+  <p>Fuentes: Ministerio de Energía y Minas (precios de referencia), mercados de EE.UU. y prensa. Se actualiza solo cada hora en días hábiles. <a href="../data/log.txt">Bitácora</a> · <a href="https://github.com/" id="linkRepo">Código abierto</a>.</p>
   <p id="pie"></p>
 </footer>
 <script src="app.js"></script>

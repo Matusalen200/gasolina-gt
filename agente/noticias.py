@@ -110,6 +110,7 @@ def clasificar_claude(notas: list[dict]) -> list[dict] | None:
         id: str
         etiqueta: str  # ALZA | BAJA | NEUTRAL
         razon: str
+        titulo_es: str  # titular corto en español, para quien no lee inglés
 
     class Lote(BaseModel):
         notas: list[Nota]
@@ -124,7 +125,8 @@ def clasificar_claude(notas: list[dict]) -> list[dict] | None:
                 "de Estados Unidos y fija precios de referencia semanales (MEM) los martes. Clasifica cada noticia según "
                 "su efecto probable sobre el precio en Guatemala en las próximas 1-2 semanas: ALZA (empuja hacia arriba), "
                 "BAJA (empuja hacia abajo) o NEUTRAL (sin efecto claro o ya reflejado). La razón va en español sencillo, "
-                "máximo 12 palabras, sin tickers ni jerga: di 'petróleo' y 'gasolina en EE.UU.'. Devuelve una entrada por id."
+                "máximo 12 palabras, sin tickers ni jerga: di 'petróleo' y 'gasolina en EE.UU.'. En titulo_es escribe el titular "
+                "en español sencillo (máximo 12 palabras), aunque la nota esté en inglés. Devuelve una entrada por id."
             ),
             messages=[{"role": "user", "content": listado}],
             output_format=Lote,
@@ -136,7 +138,8 @@ def clasificar_claude(notas: list[dict]) -> list[dict] | None:
             et = (c.etiqueta.upper().strip() if c else "NEUTRAL")
             if et not in ("ALZA", "BAJA", "NEUTRAL"):
                 et = "NEUTRAL"
-            out.append({"etiqueta": et, "razon": (c.razon.strip() if c else "Sin efecto claro."), "clasificado_por": MODELO_CLAUDE})
+            out.append({"etiqueta": et, "razon": (c.razon.strip() if c else "Sin efecto claro."),
+                        "titulo_es": (c.titulo_es.strip() if c and c.titulo_es else None), "clasificado_por": MODELO_CLAUDE})
         log(f"Claude clasificó {len(notas)} noticias")
         return out
     except Exception as e:

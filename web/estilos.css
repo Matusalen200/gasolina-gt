@@ -1,22 +1,22 @@
 :root {
-  --fondo: #f6f7f9;
-  --tarjeta: #ffffff;
-  --texto: #1b1f24;
+  --fondo: #eef2f6;
+  --burbuja: #ffffff;
+  --texto: #14181d;
   --texto-suave: #5b6470;
-  --borde: #e3e6ea;
+  --borde: #dfe4ea;
   --alza: #d64545;
   --baja: #2e9e5b;
   --estable: #e0a800;
   --acento: #1f5fbf;
   --resalte: #ff8c1a;
-  --radio: 14px;
+  --radio: 18px;
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --fondo: #0f1216;
-    --tarjeta: #181c22;
-    --texto: #eef1f4;
-    --texto-suave: #9aa4b1;
+    --burbuja: #1a1f26;
+    --texto: #f1f3f5;
+    --texto-suave: #a3adb9;
     --borde: #2a3038;
   }
 }
@@ -27,83 +27,112 @@ body {
   background: var(--fondo);
   color: var(--texto);
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  font-size: 16px;
-  line-height: 1.4;
+  font-size: 18px;
+  line-height: 1.45;
 }
-header {
-  padding: 18px 16px 8px;
-  max-width: 720px;
-  margin: 0 auto;
-}
-header h1 { margin: 0; font-size: 1.5rem; }
-header p { margin: 4px 0 0; color: var(--texto-suave); font-size: 0.9rem; }
-main { max-width: 720px; margin: 0 auto; padding: 0 12px 40px; }
-section.tarjeta {
-  background: var(--tarjeta);
+header { max-width: 640px; margin: 0 auto; padding: 20px 18px 6px; }
+header h1 { margin: 0; font-size: 1.7rem; }
+header p { margin: 4px 0 0; color: var(--texto-suave); font-size: 1rem; }
+main { max-width: 640px; margin: 0 auto; padding: 0 12px 30px; }
+
+.burbuja {
+  background: var(--burbuja);
   border: 1px solid var(--borde);
   border-radius: var(--radio);
-  padding: 16px;
-  margin: 12px 0;
+  padding: 18px 18px 16px;
+  margin: 14px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 }
-section.tarjeta[hidden] { display: none; }
-h2 { font-size: 1.05rem; margin: 0 0 10px; }
-.sub { color: var(--texto-suave); font-size: 0.85rem; margin: 0 0 8px; }
+.burbuja[hidden] { display: none; }
+.pregunta { margin: 0 0 10px; font-size: 1.05rem; font-weight: 700; color: var(--texto-suave); }
+.respuesta { margin: 8px 0; font-size: 1.15rem; }
+.nota { color: var(--texto-suave); font-size: 0.9rem; margin: 8px 0 0; }
 
-/* Veredicto */
-#veredicto { text-align: center; }
-#veredicto .semaforo { font-size: 3rem; line-height: 1; }
-#veredicto .decision { font-size: 1.6rem; font-weight: 700; margin: 6px 0 2px; }
-#veredicto .razon { color: var(--texto-suave); }
-#veredicto .puntaje { display: inline-block; margin-top: 8px; padding: 4px 12px; border-radius: 20px; font-weight: 600; background: var(--borde); }
+/* 1. Veredicto */
+#veredicto { text-align: center; padding-top: 22px; }
+#veredicto .semaforo { font-size: 4.2rem; line-height: 1; }
+#veredicto .decision { font-size: 2.2rem; font-weight: 800; margin: 8px 0 4px; line-height: 1.15; }
+#veredicto .explicacion { font-size: 1.15rem; margin: 6px 0; }
+#veredicto .cambio { font-size: 1.05rem; font-weight: 600; margin: 4px 0 10px; }
 #veredicto.alza .decision { color: var(--alza); }
 #veredicto.baja .decision { color: var(--baja); }
 #veredicto.estable .decision { color: var(--estable); }
 
-/* Precios */
-.precios { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
-.precio { text-align: center; padding: 10px 4px; border-radius: 10px; background: var(--fondo); }
-.precio .nombre { font-size: 0.8rem; color: var(--texto-suave); }
-.precio .valor { font-size: 1.35rem; font-weight: 700; }
-.precio .cambio { font-size: 0.8rem; }
-.cambio.up { color: var(--alza); }
-.cambio.down { color: var(--baja); }
+/* 2. Precios */
+.precios { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.precio { text-align: center; padding: 12px 4px; border-radius: 14px; background: var(--fondo); }
+.precio .nombre { font-size: 0.95rem; color: var(--texto-suave); }
+.precio .valor { font-size: 1.6rem; font-weight: 800; }
+.cambio-chico { font-size: 0.85rem; }
+.cambio-chico.up { color: var(--alza); }
+.cambio-chico.down { color: var(--baja); }
 
-/* Controles */
-.controles { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
-select, .chips button {
+/* 3. Dónde */
+.etiqueta-select { display: block; font-weight: 600; margin-bottom: 6px; }
+select {
+  width: 100%;
   font: inherit;
-  padding: 8px 10px;
-  border-radius: 10px;
-  border: 1px solid var(--borde);
-  background: var(--tarjeta);
+  font-size: 1.1rem;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 2px solid var(--acento);
+  background: var(--burbuja);
   color: var(--texto);
 }
-.chips { display: flex; gap: 6px; }
+.chips { display: flex; gap: 8px; margin: 12px 0 8px; }
+.chips button {
+  flex: 1;
+  font: inherit;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid var(--borde);
+  background: var(--burbuja);
+  color: var(--texto);
+}
 .chips button.activo { background: var(--acento); color: #fff; border-color: var(--acento); }
 .lienzo { position: relative; width: 100%; }
-#graficaDeptos { height: 560px; }
-#graficaSenal { height: 220px; }
+#graficaDeptos { height: 620px; }
 #graficaProyeccion { height: 220px; }
 #graficaMercado { height: 200px; }
-.leyenda { display: flex; gap: 14px; font-size: 0.8rem; color: var(--texto-suave); margin-top: 6px; flex-wrap: wrap; }
-.leyenda i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -1px; margin-right: 4px; }
 
-/* Noticias */
-.noticia { display: flex; gap: 10px; padding: 10px 0; border-top: 1px solid var(--borde); }
-.noticia:first-child { border-top: 0; }
-.etiqueta { flex: 0 0 auto; font-size: 0.72rem; font-weight: 700; padding: 3px 8px; border-radius: 8px; height: fit-content; color: #fff; }
-.etiqueta.ALZA { background: var(--alza); }
-.etiqueta.BAJA { background: var(--baja); }
-.etiqueta.NEUTRAL { background: var(--texto-suave); }
-.noticia a { color: inherit; text-decoration: none; font-weight: 600; }
-.noticia .meta { font-size: 0.8rem; color: var(--texto-suave); }
+/* 4. Tira de días */
+.tira { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+.dia { text-align: center; font-size: 0.8rem; color: var(--texto-suave); }
+.dia .punto { font-size: 1.6rem; line-height: 1.2; }
+.dia.martes { font-weight: 700; color: var(--texto); }
+.dia.martes .punto::after { content: ""; display: block; height: 3px; border-radius: 2px; background: var(--acento); margin: 2px 8px 0; }
 
-/* Varios */
-.grande { font-size: 2rem; font-weight: 700; }
+/* 5. Noticias */
+.noticia { padding: 10px 0; border-top: 1px solid var(--borde); }
+.noticia:first-child { border-top: 0; padding-top: 0; }
+.noticia .frase { font-size: 1.05rem; margin: 0; }
+.noticia .frase a { color: inherit; text-decoration: none; }
+.noticia .meta { font-size: 0.85rem; color: var(--texto-suave); margin: 2px 0 0; }
+
+/* Botones y varios */
+.boton {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 12px 20px;
+  border-radius: 14px;
+  border: 0;
+  background: #25d366;
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+#plusLink { background: var(--acento); }
+.aviso { background: #fff6dd; color: #6b4e00; border-radius: 12px; padding: 10px 12px; font-size: 0.9rem; margin: 10px 0 0; }
+@media (prefers-color-scheme: dark) { .aviso { background: #3a2f0e; color: #ffe9a8; } }
 .fila { display: flex; justify-content: space-between; gap: 8px; padding: 6px 0; border-top: 1px solid var(--borde); font-size: 0.95rem; }
 .fila:first-of-type { border-top: 0; }
-.boton { display: inline-block; margin-top: 8px; padding: 10px 16px; border-radius: 10px; background: var(--acento); color: #fff; text-decoration: none; font-weight: 600; }
-footer { max-width: 720px; margin: 0 auto; padding: 0 16px 30px; color: var(--texto-suave); font-size: 0.8rem; }
+
+/* 8. Curiosos */
+.curiosos { margin: 18px 0; }
+.curiosos summary { cursor: pointer; color: var(--texto-suave); font-size: 0.95rem; padding: 8px 6px; }
+.curiosos .burbuja { margin-top: 10px; }
+footer { max-width: 640px; margin: 0 auto; padding: 0 18px 30px; color: var(--texto-suave); font-size: 0.8rem; }
 footer a { color: inherit; }
-.aviso { background: #fff6dd; color: #6b4e00; border-radius: 10px; padding: 8px 12px; font-size: 0.85rem; margin: 8px 0 0; }
-@media (prefers-color-scheme: dark) { .aviso { background: #3a2f0e; color: #ffe9a8; } }
