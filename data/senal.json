@@ -1,0 +1,27 @@
+{
+  "puntaje": -7,
+  "tendencia": "estable",
+  "veredicto": "Llena esta semana",
+  "emoji": "🟡",
+  "cambio_estimado_q": -0.55,
+  "cambio_estimado_texto": "Baja ~Q0.55 el martes.",
+  "componentes": {
+    "gasolina_eeuu": -27.2,
+    "dolar": 0.6,
+    "noticias": 20
+  },
+  "detalle": {
+    "rbob_cambio_7d_pct": -2.72,
+    "usdgtq_cambio_7d_pct": 0.03,
+    "noticias_alza_7d": 11,
+    "noticias_baja_7d": 7,
+    "rbob_precio": 3.1273,
+    "usdgtq": 7.628,
+    "tipo_cambio_usado": 7.6621
+  },
+  "razon": "La gasolina en EE.UU. bajó 3% esta semana y las noticias empujan hacia arriba.",
+  "redactado_por": "plantilla",
+  "actualizado": "2026-09-11T15:11-06:00",
+  "proximo_martes": "2026-09-15",
+  "fecha": "2026-09-11"
+}
