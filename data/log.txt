@@ -41,3 +41,14 @@ Noticias: White House Weighs Defense Production Act as U.S. Refineries · PNC y 
 2026-09-11 15:16 [INFO] Inicio corrida 2026-09-11 15:16 GT
 2026-09-11 15:16 [INFO] --- mensual ---
 2026-09-11 15:16 [INFO] Excel mensual generado: mensual-2026-09.xlsx (7 semanas, 0 martes, ahorro Q0.00/gal)
+2026-09-11 15:27 [INFO] Inicio corrida 2026-09-11 15:27 GT
+2026-09-11 15:27 [INFO] --- senal ---
+2026-09-11 15:27 [INFO] Señal: 🟡 Llena esta semana (puntaje -7) · La gasolina en EE.UU. bajó 3% esta semana y las noticias empujan hacia arriba.
+2026-09-11 15:27 [INFO] Inicio corrida 2026-09-11 15:27 GT
+2026-09-11 15:27 [INFO] --- reporte ---
+2026-09-11 15:27 [INFO] Reporte diario generado:
+🟡 Llena esta semana. Cambio pequeño el martes, de unos centavos.
+Súper Q27.49 · Regular Q26.53 · Diésel Q25.10
+La gasolina en EE.UU. bajó 3% esta semana y las noticias empujan hacia arriba.
+Más barato: Guatemala (regular Q26.59)
+Noticias: White House Weighs Defense Production Act as U.S. Refineries · PNC y Ejército implementarán operación conjunta para liberar · U.S. Oil Rig Count Rises as Oil Tops $100

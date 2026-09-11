@@ -31,6 +31,12 @@ def test_estable_dice_llena_esta_semana():
     assert s["cambio_estimado_texto"] == "Se mantiene el martes."
 
 
+def test_estable_no_anuncia_baja_aunque_rbob_cayera():
+    s = senal.calcular(mercado(-2.7, 0.0, rb_abs=-0.08), noticias(4, 0))  # -27 + 20 = -7 -> estable
+    assert s["tendencia"] == "estable"
+    assert "Baja" not in s["cambio_estimado_texto"] and "centavos" in s["cambio_estimado_texto"]
+
+
 def test_saturacion_de_componentes():
     s = senal.calcular(mercado(15.0, 5.0), noticias(20, 0))
     assert s["componentes"] == {"gasolina_eeuu": 60.0, "dolar": 20.0, "noticias": 20.0}

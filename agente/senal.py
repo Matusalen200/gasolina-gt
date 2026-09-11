@@ -54,10 +54,11 @@ def calcular(mercado: dict, noticias: dict, tipo_cambio: float | None = None) ->
 
     tc = tipo_cambio or fx.get("precio") or TIPO_CAMBIO_DEFECTO
     cambio_q = round((rb.get("cambio_7d_abs") or 0.0) * tc * TRASLADO / 0.05) * 0.05
-    if abs(cambio_q) < 0.05:
-        cambio_txt = "Se mantiene el martes."
+    # El texto sigue al veredicto para no contradecirlo: si la señal es "estable", no anunciamos alzas ni bajas.
+    if tendencia == "estable" or abs(cambio_q) < 0.05:
+        cambio_txt = "Cambio pequeño el martes, de unos centavos." if abs(cambio_q) >= 0.05 else "Se mantiene el martes."
     else:
-        cambio_txt = f"{'Sube' if cambio_q > 0 else 'Baja'} ~Q{abs(cambio_q):.2f} el martes."
+        cambio_txt = f"{'Sube' if tendencia == 'alza' else 'Baja'} ~Q{abs(cambio_q):.2f} el martes."
 
     return {
         "puntaje": puntaje,

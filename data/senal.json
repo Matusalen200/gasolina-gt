@@ -4,7 +4,7 @@
   "veredicto": "Llena esta semana",
   "emoji": "🟡",
   "cambio_estimado_q": -0.55,
-  "cambio_estimado_texto": "Baja ~Q0.55 el martes.",
+  "cambio_estimado_texto": "Cambio pequeño el martes, de unos centavos.",
   "componentes": {
     "gasolina_eeuu": -27.2,
     "dolar": 0.6,
@@ -21,7 +21,7 @@
   },
   "razon": "La gasolina en EE.UU. bajó 3% esta semana y las noticias empujan hacia arriba.",
   "redactado_por": "plantilla",
-  "actualizado": "2026-09-11T15:11-06:00",
+  "actualizado": "2026-09-11T15:27-06:00",
   "proximo_martes": "2026-09-15",
   "fecha": "2026-09-11"
 }
