@@ -48,6 +48,9 @@ jobs:
           echo "modo=$MODO" >> "$GITHUB_OUTPUT"
           echo "Modo: $MODO (hora UTC $HORA_UTC)"
 
+      - name: Pruebas rápidas
+        run: python -m pytest tests -q
+
       - name: Correr agente
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -62,14 +65,12 @@ jobs:
             *)       python agente/agente.py --solo "${{ steps.modo.outputs.modo }}" ;;
           esac
 
-      - name: Pruebas rápidas
-        run: python -m pytest tests -q
-
       - name: Guardar datos
         run: |
           git config user.name "gasolina-gt-bot"
           git config user.email "bot@gasolina-gt.local"
           git add data config reportes || true
+          git reset -q data/telegram_usuarios.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "datos: corrida ${{ steps.modo.outputs.modo }} $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main || true

@@ -11,19 +11,42 @@ publica, nadie toca nada.
 
 ## Para usarlo sin saber programar
 
-Cuatro archivos para doble clic en la carpeta del proyecto:
+**¿No quieres dejar la PC encendida?** Haz doble clic en **«Publicar en internet.bat»**. Eso pone el
+proyecto en GitHub y a partir de ahí todo corre en los servidores de GitHub: revisa precios cada hora y
+publica en tu canal a las 7:00 am aunque tu computadora esté apagada. Es gratis y sin límite de tiempo
+porque el proyecto es público. Solo tienes que entrar a tu cuenta de GitHub una vez.
+
+Archivos para doble clic en la carpeta del proyecto:
 
 | Doble clic en… | Qué hace |
 |---|---|
 | **Conectar bot.bat** | Te pide el token de @BotFather, encuentra tu canal, manda un mensaje de prueba y guarda las llaves. Se hace una sola vez. |
-| **Automatizar.bat** | Programa tu PC: revisa precios cada hora y publica el resumen todos los días a las 7:00 am. |
+| **Publicar en internet.bat** | Lo sube a GitHub y lo deja corriendo solo en sus servidores. **Tu PC puede estar apagada.** |
+| **Automatizar.bat** | Alternativa sin internet: programa tu propia PC (solo funciona si está encendida). |
 | **Gasolina GT.bat** | Busca los precios de hoy y abre el tablero en tu navegador. |
 | **Ver tablero.bat** | Solo abre el tablero, sin buscar nada. |
 | **Bot al instante.bat** | Deja el bot contestando al segundo mientras la ventana esté abierta. |
 
+### ¿En internet o en mi PC?
+
+| | En internet (GitHub Actions) | En mi PC (tareas programadas) |
+|---|---|---|
+| ¿PC encendida? | No hace falta | Sí, a las horas del trabajo |
+| Costo | Gratis, sin límite (repo público) | Gratis |
+| Precio del MEM | Por noticias y comunicados (los servidores no pasan el Cloudflare del MEM) | También puede leer la página oficial con `mem_navegador.py` |
+| Cómo se activa | «Publicar en internet.bat» | «Automatizar.bat» |
+
+Lo mejor es tener las dos: internet para que nunca falte, y tu PC los martes para traer la tabla oficial
+del MEM. No estorban entre sí.
+
 Las llaves (token del bot, canal, clave de Claude) se guardan en `config/.env.local`. Ese archivo es
 privado, está en `.gitignore` y **nunca** se sube a internet. El agente las lee solo al arrancar
-(`agente/comun.py` → `cargar_llaves`), así que no hay que configurar variables de entorno a mano.
+(`agente/comun.py` → `cargar_llaves`), así que no hay que configurar variables de entorno a mano. Al
+publicar en internet se copian a los «secrets» de GitHub, que van cifrados y nadie puede leer.
+
+Los departamentos que la gente guarda con `/midepto` quedan en `data/telegram_usuarios.json`, que **no**
+se sube: es información de otras personas. Por eso, en la versión de internet el bot vuelve a preguntar
+el departamento de vez en cuando.
 
 ## Qué hace
 
