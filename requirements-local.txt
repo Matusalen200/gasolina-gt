@@ -1,0 +1,5 @@
+# Solo para agente/mem_navegador.py (leer la página del MEM con navegador real en tu PC).
+# No se usa en GitHub Actions. Instala con:
+#   pip install -r requirements-local.txt
+#   python -m playwright install chromium
+playwright>=1.40

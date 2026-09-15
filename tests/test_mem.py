@@ -57,3 +57,14 @@ def test_candidatos_por_fecha_solo_dias_habiles():
     fechas = {c["fecha"] for c in cands}
     assert "2026-09-06" not in fechas and "2026-09-05" not in fechas  # fin de semana
     assert any("INFORME-EJECUTIVO-DE-PRECIOS-DE-LOS-COMBUSTIBLES-2026-09-11.pdf" in c["url"] for c in cands)
+
+
+def test_parsear_tabla_html_del_mem():
+    html = (FIX / "tabla-mem-2026-09-07.html").read_text(encoding="utf-8")
+    t = mem.parsear_tabla_html(html)
+    assert t["fecha_monitoreo"] == "2026-09-07"
+    assert t["autoservicio"]["superior"] == 43.06 and t["autoservicio"]["regular"] == 40.93 and t["autoservicio"]["diesel"] == 46.37
+    assert t["autoservicio"]["_anterior"]["regular"] == 38.64
+    assert t["servicio_completo"]["diesel"] == 47.42 and t["servicio_completo"]["kerosene"] == 55.0
+    assert t["tipo_cambio"] == 7.663
+    assert mem.parsear_tabla_html("<html><body>Un momento</body></html>") is None

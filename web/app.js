@@ -83,7 +83,7 @@
     $("donde").hidden = false;
     const fecha = deptos.fecha || deptos.vigencia_inicio;
     $("dondeFecha").textContent = deptos.estimado
-      ? "Dato de hoy (" + fechaCorta(fecha) + "). Es un cálculo: el precio de la capital hoy más lo que suele costar de más en cada departamento, según la última tabla oficial del MEM (" + fechaCorta(deptos.tabla_oficial_fecha) + ")."
+      ? "Cálculo: precio oficial del MEM en la capital (" + fechaCorta(fecha) + ") más lo que cada departamento suele costar de más, según la última tabla departamental del MEM (" + fechaCorta(deptos.tabla_oficial_fecha) + ")."
       : "Tabla oficial del MEM, vigente desde el " + fechaCorta(fecha) + ".";
     const sel = $("selDepto");
     const nombres = deptos.departamentos.map(d => d.departamento).sort((a, b) => a.localeCompare(b, "es"));

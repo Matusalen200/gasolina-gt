@@ -33,33 +33,42 @@
     if (!NOMBRE[producto]) producto = "regular";
     let rango = recordar("gasolinagt.rango") || "1M";
 
+    // El número grande es el precio OFICIAL del MEM si es reciente; si no, lo último de los medios.
+    const oficialReciente = auto[producto] != null && precios.fecha_monitoreo &&
+      (Date.now() - new Date(precios.fecha_monitoreo + "T12:00:00")) / 864e5 <= 10;
+
     function pintar() {
       const u = ultimo[producto];
-      const valor = u ? u.valor : auto[producto];
-      const fecha = u ? u.fecha : precios.fecha_monitoreo;
+      const usarOficial = oficialReciente;
+      const valor = usarOficial ? auto[producto] : (u ? u.valor : auto[producto]);
+      const fecha = usarOficial ? precios.fecha_monitoreo : (u ? u.fecha : precios.fecha_monitoreo);
       $("precioGrande").textContent = q(valor);
       $("precioProducto").textContent = NOMBRE[producto] + " · el galón en autoservicio";
-      const c = hoyDatos && hoyDatos.cambio_dia && hoyDatos.cambio_dia[producto];
       const cambioEl = $("precioCambio");
-      if (c && c.q != null) {
+      const cs = precios && precios.cambio_semanal && precios.cambio_semanal[producto];
+      const c = hoyDatos && hoyDatos.cambio_dia && hoyDatos.cambio_dia[producto];
+      if (usarOficial && cs != null) {
+        cambioEl.textContent = (cs > 0 ? "▲ subió Q" : cs < 0 ? "▼ bajó Q" : "= sin cambio, Q") + Math.abs(cs).toFixed(2) + " esta semana";
+        cambioEl.className = "precio-cambio " + (cs > 0 ? "up" : cs < 0 ? "down" : "");
+      } else if (c && c.q != null) {
         const signo = c.q > 0 ? "▲ subió Q" : c.q < 0 ? "▼ bajó Q" : "= igual, Q";
-        cambioEl.textContent = signo + Math.abs(c.q).toFixed(2) + " (" + (c.pct > 0 ? "+" : "") + c.pct.toFixed(1) + " %) desde el " + fechaLarga(c.vs_fecha);
+        cambioEl.textContent = signo + Math.abs(c.q).toFixed(2) + " desde el " + fechaLarga(c.vs_fecha);
         cambioEl.className = "precio-cambio " + (c.q > 0 ? "up" : c.q < 0 ? "down" : "");
-      } else if (precios && precios.cambio_semanal && precios.cambio_semanal[producto] != null && !u) {
-        const s = precios.cambio_semanal[producto];
-        cambioEl.textContent = (s > 0 ? "▲ subió Q" : s < 0 ? "▼ bajó Q" : "= igual, Q") + Math.abs(s).toFixed(2) + " en la semana";
-        cambioEl.className = "precio-cambio " + (s > 0 ? "up" : s < 0 ? "down" : "");
       } else {
-        cambioEl.textContent = "Primer dato de hoy; mañana verás el cambio.";
+        cambioEl.textContent = "Primer dato; mañana verás el cambio.";
         cambioEl.className = "precio-cambio";
       }
-      $("precioFuente").textContent = u
-        ? "Dato del " + fechaLarga(fecha) + " · " + u.fuente + (u.tipo === "estacion" ? " (precio en gasolineras)" : "")
-        : "Informe del MEM del " + fechaLarga(fecha || "");
-      if (u && u.url) { $("precioFuente").innerHTML += ' · <a href="' + u.url + '" target="_blank" rel="noopener">ver nota</a>'; }
+      const MEM_URL = "https://mem.gob.gt/que-hacemos/hidrocarburos/comercializacion-downstream/precios-combustible-nacionales/";
+      if (usarOficial) {
+        $("precioFuente").innerHTML = "Precio de referencia oficial del MEM, semana del " + fechaLarga(fecha) + '. <a href="' + MEM_URL + '" target="_blank" rel="noopener">Ver en mem.gob.gt</a>';
+      } else if (u) {
+        $("precioFuente").innerHTML = "Dato del " + fechaLarga(fecha) + " · " + u.fuente + (u.tipo === "estacion" ? " (precio en gasolineras)" : "") + (u.url ? ' · <a href="' + u.url + '" target="_blank" rel="noopener">ver nota</a>' : "");
+      } else {
+        $("precioFuente").textContent = "Informe del MEM del " + fechaLarga(fecha || "");
+      }
 
       const otros = Object.keys(NOMBRE).filter(p => p !== producto).map(p => {
-        const x = ultimo[p] ? ultimo[p].valor : auto[p];
+        const x = oficialReciente && auto[p] != null ? auto[p] : (ultimo[p] ? ultimo[p].valor : auto[p]);
         return NOMBRE[p] + " " + q(x);
       });
       $("precioOtros").textContent = otros.join(" · ");

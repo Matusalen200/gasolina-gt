@@ -22,6 +22,27 @@ DIAS_VENTANA = 30         # solo artículos de los últimos días
 MAX_ARTICULOS = 25        # por corrida
 MAX_SERIE = 600
 RANGO = (15.0, 80.0)      # Q/galón plausibles
+BANDA = 7.0               # un precio no puede alejarse más de Q7 del precio oficial del MEM
+
+
+def _referencia() -> dict:
+    """Precios oficiales del MEM (data/precios.json) para descartar cifras incoherentes de las noticias."""
+    pr = leer_json(DATA / "precios.json", {}) or {}
+    return {k: v for k, v in (pr.get("autoservicio") or {}).items() if isinstance(v, (int, float))}
+
+
+def _coherente(fila: dict, ref: dict) -> bool:
+    """Rechaza observaciones imposibles: súper por debajo de regular, o cifras muy lejos del precio oficial."""
+    s, r, d = fila.get("superior"), fila.get("regular"), fila.get("diesel")
+    if s is not None and r is not None and s < r:       # la súper siempre cuesta más que la regular
+        return False
+    for prod in ("superior", "regular", "diesel"):
+        v = fila.get(prod)
+        if v is None:
+            continue
+        if ref.get(prod) is not None and abs(v - ref[prod]) > BANDA:
+            return False
+    return True
 
 # Feeds que sí funcionan (probados el 11/09/2026). Google News sirve para titulares, no para el texto.
 FUENTES = [
@@ -192,6 +213,9 @@ def observar(c: dict) -> dict | None:
         datos = dict(precios, tipo=clasificar_tipo(texto, c["titulo"]), fecha_dato=_fecha_gt(c["fecha"]), extraido_por="reglas") if precios else {}
     if not datos or not any(datos.get(p) for p in ("superior", "regular", "diesel")):
         return None
+    if not _coherente(datos, _referencia()):
+        log(f"Precio hoy: descarto cifras incoherentes de {c['fuente']} ({c['titulo'][:50]}): S={datos.get('superior')} R={datos.get('regular')} D={datos.get('diesel')}", "WARN")
+        return None
     fecha_dato = datos.get("fecha_dato") or _fecha_gt(c["fecha"])
     if fecha_dato > ahora_gt().date().isoformat():
         fecha_dato = ahora_gt().date().isoformat()
@@ -261,13 +285,27 @@ def estimar_departamentos(hoy_datos: dict) -> dict | None:
     una tabla oficial más nueva que el dato de hoy, se usa la oficial tal cual."""
     tabla = leer_json(DATA / "departamentos.json", {}) or {}
     filas = tabla.get("departamentos") or []
+    # Base = precio de hoy en la capital. Preferimos el precio OFICIAL del MEM (data/precios.json);
+    # si no hay uno reciente, usamos lo último de los medios.
+    pr = leer_json(DATA / "precios.json", {}) or {}
+    auto = pr.get("autoservicio") or {}
     ultimo = (hoy_datos or {}).get("ultimo") or {}
-    if not filas or not ultimo:
+    oficial_reciente = bool(auto.get("superior")) and (pr.get("fecha_monitoreo") or "") >= (ahora_gt().date() - timedelta(days=10)).isoformat()
+    if oficial_reciente:
+        base = {k: auto[k] for k in ("superior", "regular", "diesel") if auto.get(k) is not None}
+        fecha_hoy = pr["fecha_monitoreo"]
+        base_fuente = "MEM (oficial)"
+    elif ultimo:
+        base = {k: ultimo[k]["valor"] for k in ("superior", "regular", "diesel") if k in ultimo}
+        fecha_hoy = max(u["fecha"] for u in ultimo.values())
+        base_fuente = ", ".join(sorted({u["fuente"] for u in ultimo.values()}))
+    else:
+        return None
+    if not filas or not base:
         return None
     capital = next((d for d in filas if d["departamento"] == "Guatemala"), None)
     if capital is None:
         return None
-    fecha_hoy = max(u["fecha"] for u in ultimo.values())
     if tabla.get("vigencia_inicio", "") >= fecha_hoy:
         salida = dict(tabla, estimado=False, fecha=tabla.get("vigencia_inicio"))
     else:
@@ -275,8 +313,8 @@ def estimar_departamentos(hoy_datos: dict) -> dict | None:
         for d in filas:
             fila = {"cabecera": d["cabecera"], "departamento": d["departamento"]}
             for p in ("superior", "regular", "diesel"):
-                if p in ultimo and d.get(p) is not None and capital.get(p) is not None:
-                    fila[p] = round(ultimo[p]["valor"] + (d[p] - capital[p]), 2)
+                if p in base and d.get(p) is not None and capital.get(p) is not None:
+                    fila[p] = round(base[p] + (d[p] - capital[p]), 2)
                     fila[p + "_diferencia"] = round(d[p] - capital[p], 2)
             if "regular" in fila:
                 deptos.append(fila)
@@ -284,8 +322,8 @@ def estimar_departamentos(hoy_datos: dict) -> dict | None:
         salida = {
             "estimado": True,
             "fecha": fecha_hoy,
-            "base": {p: ultimo[p]["valor"] for p in ultimo},
-            "base_fuente": ", ".join(sorted({u["fuente"] for u in ultimo.values()})),
+            "base": base,
+            "base_fuente": base_fuente,
             "tabla_oficial_fecha": tabla.get("vigencia_inicio"),
             "mas_barato": deptos[0] if deptos else None,
             "mas_caro": deptos[-1] if deptos else None,

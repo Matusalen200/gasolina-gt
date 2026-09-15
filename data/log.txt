@@ -111,3 +111,46 @@ Hoy el galón cuesta: Súper Q43.06 · Regular Q40.93 · Diésel Q47.39
 Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
 Lo más barato: Guatemala, regular a Q40.93
 Noticias: ¿Cuándo podría empezar el subsidio a la gasolina y diésel en · U.S. Oil Rig Count Rises as Oil Tops $100 · Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipelin
+2026-09-14 19:19 [WARN] MEM (navegador): Cloudflare pide verificación interactiva; no se intenta saltar. Abre la página una vez a mano en esta misma PC y vuelve a correr.
+2026-09-14 19:20 [ERROR] MEM (navegador) falló: Error: BrowserType.launch_persistent_context: spawn UNKNOWN
+Call log:
+  - <launching> C:\Users\darwi\AppData\Local\ms-playwright\chromium-1234\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\darwi\Gasolina Gt\data\.navegador --remote-debugging-pipe about:blank
+
+2026-09-14 19:21 [INFO] Inicio corrida 2026-09-14 19:21 GT
+2026-09-14 19:21 [INFO] --- hoy ---
+2026-09-14 19:21 [INFO] Precio hoy: Prensa Libre 2026-09-13 otro S=15.3 R=35.65 D=34.5 · De 3 centavos el galón a más de Q40: así ha evolucionado el 
+2026-09-14 19:22 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-14 19:22 [INFO] Precio hoy: 1 observaciones nuevas de 25 artículos · regular 35.65 (2026-09-13)
+2026-09-14 19:22 [INFO] Inicio corrida 2026-09-14 19:22 GT
+2026-09-14 19:22 [INFO] --- senal ---
+2026-09-14 19:22 [INFO] Señal: 🟡 Sin apuro (puntaje -7) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-09-14 19:22 [INFO] Inicio corrida 2026-09-14 19:22 GT
+2026-09-14 19:22 [INFO] --- reporte ---
+2026-09-14 19:22 [INFO] Reporte diario generado:
+🟡 Sin apuro. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q15.30 · Regular Q35.65 · Diésel Q34.50
+Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, regular a Q35.65
+Noticias: ¿Cuándo podría empezar el subsidio a la gasolina y diésel en · U.S. Oil Rig Count Rises as Oil Tops $100 · Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipelin
+2026-09-14 19:22 [INFO] Inicio corrida 2026-09-14 19:22 GT
+2026-09-14 19:22 [INFO] --- hoy ---
+2026-09-14 19:23 [WARN] Precio hoy: descarto cifras incoherentes de Prensa Libre (De 3 centavos el galón a más de Q40: así ha evoluc): S=15.3 R=35.65 D=34.5
+2026-09-14 19:23 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-11 promedio S=43.06 R=40.93 D=47.39 · Así están los precios de los combustibles este viernes
+2026-09-14 19:23 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-10 promedio S=42.05 R=40.05 D=46.35 · Estas son las gasolineras con los precios más bajos, según e
+2026-09-14 19:23 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-10 promedio S=44.69 R=42.69 D=48.49 · Registran cambios: así amanecieron los precios de los combus
+2026-09-14 19:23 [INFO] Precio hoy: Prensa Libre 2026-09-04 otro S=42.09 R=40.09 D=46.39 · Los precios de la gasolina en Guatemala vuelven a subir: así
+2026-09-14 19:23 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-14 19:23 [INFO] Precio hoy: 4 observaciones nuevas de 25 artículos · regular 40.93 (2026-09-11)
+2026-09-14 19:24 [INFO] Inicio corrida 2026-09-14 19:24 GT
+2026-09-14 19:24 [INFO] --- reporte ---
+2026-09-14 19:24 [INFO] Reporte diario generado:
+🟡 Sin apuro. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q43.06 · Regular Q40.93 · Diésel Q46.37
+Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, regular a Q40.93
+Noticias: ¿Cuándo podría empezar el subsidio a la gasolina y diésel en · U.S. Oil Rig Count Rises as Oil Tops $100 · Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipelin
+2026-09-14 19:25 [INFO] Inicio corrida 2026-09-14 19:25 GT
+2026-09-14 19:25 [INFO] --- hoy ---
+2026-09-14 19:26 [INFO] Precio hoy: Prensa Libre 2026-09-06 promedio S=43.09 R=41.09 D=None · Gasolinas registran otro aumento y el MEM lo atribuye al con
+2026-09-14 19:26 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-14 19:26 [INFO] Precio hoy: 1 observaciones nuevas de 25 artículos · regular 40.93 (2026-09-11)

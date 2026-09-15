@@ -195,6 +195,49 @@ def parsear_departamental(origen) -> dict:
     return res
 
 
+RX_CELDA = re.compile(r"<t[dh][^>]*>(.*?)</t[dh]>", re.S | re.I)
+
+
+def parsear_tabla_html(html: str) -> dict | None:
+    """Lee la tabla 'Comparación semanal de precios promedio' de la página del MEM.
+    Devuelve el mismo formato que parsear_ejecutivo (autoservicio, servicio_completo, tipo_cambio, fechas)."""
+    limpio = re.sub(r"<(script|style)[^>]*>.*?</>", " ", html, flags=re.S | re.I)
+    tablas = re.findall(r"<table[^>]*>(.*?)</table>", limpio, re.S | re.I)
+    res = {"tipo": "ejecutivo", "autoservicio": {}, "servicio_completo": {}, "historial": [], "tipo_cambio": None}
+    destinos = ["autoservicio", "servicio_completo"]
+    for t in tablas:
+        filas = [[re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", c)).strip() for c in RX_CELDA.findall(f)]
+                 for f in re.findall(r"<tr[^>]*>(.*?)</tr>", t, re.S | re.I)]
+        filas = [f for f in filas if f]
+        if not filas or not any("Monitoreados" in c for c in filas[0]):
+            continue
+        fechas = RX_FECHAS.findall(" ".join(filas[0]))
+        if len(fechas) < 2 or not destinos:
+            continue
+        destino = destinos.pop(0)
+        bloque = res[destino]
+        bloque["fecha_anterior"], bloque["fecha"] = _fecha_ddmmaaaa(fechas[0]), _fecha_ddmmaaaa(fechas[1])
+        for f in filas[1:]:
+            if len(f) < 3:
+                continue
+            nombre = _sin_acentos(f[0]).lower()
+            clave = "superior" if "superior" in nombre else "regular" if "regular" in nombre else "diesel" if "diesel" in nombre else "kerosene" if "keros" in nombre else None
+            if not clave:
+                continue
+            try:
+                bloque[clave] = _num(f[2])
+                bloque.setdefault("_anterior", {})[clave] = _num(f[1])
+            except ValueError:
+                continue
+    m = re.search(r"Tipo de cambio[^:]*:\s*Q?\s*([\d.]+)", limpio, re.I)
+    if m:
+        res["tipo_cambio"] = float(m.group(1))
+    if not res["autoservicio"].get("superior"):
+        return None
+    res["fecha_monitoreo"] = res["autoservicio"].get("fecha")
+    return res
+
+
 def parsear_pdf(origen, tipo: str | None = None) -> dict:
     """Detecta el tipo por contenido si no se indica."""
     if tipo is None:
@@ -277,6 +320,10 @@ def descubrir(hoy: date | None = None) -> list[dict]:
         enlaces = extraer_enlaces(r.text)
         log(f"Listado MEM leído directo: {len(enlaces)} informes")
         candidatos += enlaces
+        tabla = parsear_tabla_html(r.text)
+        if tabla:
+            integrar_ejecutivo(tabla, "MEM (página oficial)", URL_LISTADO)
+            log(f"Tabla HTML del MEM leída: monitoreo {tabla.get('fecha_monitoreo')}")
     else:
         log(f"Listado MEM no accesible (HTTP {getattr(r, 'status_code', 'sin respuesta')}); probando alternativas", "WARN")
         candidatos += candidatos_por_fecha(hoy)

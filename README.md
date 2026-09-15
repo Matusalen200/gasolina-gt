@@ -65,27 +65,40 @@ extracción la hace Claude leyendo la nota; sin clave, expresiones regulares (m�
 el último valor, el cambio contra el día anterior y una gráfica con pestañas de 1 semana a 1 año que une esta
 serie diaria con el historial semanal del MEM.
 
-## El problema del MEM (y qué hacemos)
+## La página oficial del MEM como fuente
 
-Desde mediados de 2026 `mem.gob.gt` está detrás de un reto de Cloudflare que bloquea cualquier descarga
-automática (curl, Python, GitHub Actions e incluso el crawler de Wayback devuelven 403). No intentamos
-saltarlo. `agente/mem.py` prueba en orden:
+La fuente principal es la página del MEM:
+`https://mem.gob.gt/que-hacemos/hidrocarburos/comercializacion-downstream/precios-combustible-nacionales/`.
+Trae la tabla "Comparación semanal de precios promedio · Área metropolitana" (autoservicio y servicio
+completo, dos fechas y tipo de cambio) y enlaces a los PDFs (Informe Ejecutivo, informe nacional por
+departamento). `agente/mem.py` sabe leer esa tabla (`parsear_tabla_html`) y esos PDFs.
 
-1. La página oficial de precios (por si vuelve a abrirse).
-2. URLs adivinadas por fecha con los nombres que usa el MEM
-   (`INFORME-EJECUTIVO-DE-PRECIOS-DE-LOS-COMBUSTIBLES-AAAA-MM-DD.pdf`,
-   `Precios-de-referencia-departamental-semanal-AAAA-MM-DD.pdf`, etc.).
-3. El índice de Wayback Machine del mes actual y el anterior.
-4. **Carpeta manual**: cualquier PDF que pongas en `data/pdf/` o una URL en el campo `pdf_url` de
-   *Actions → Agente Gasolina GT → Run workflow*. Bajar el PDF desde el navegador y subirlo toma un minuto.
+El problema: desde mediados de 2026 el sitio está detrás de un reto de Cloudflare que bloquea a curl,
+Python, GitHub Actions y hasta al crawler de Wayback (403). **No lo saltamos.** Hay dos caminos:
 
-Si nada funciona se conserva el último informe leído y el tablero lo avisa. Los parsers están probados
-con dos PDFs reales del 19/01/2026 en `tests/fixtures/`.
+- **En tu PC (recomendado, datos oficiales):** `agente/mem_navegador.py` abre la página con un navegador
+  real (Playwright/Chromium). Un navegador de verdad, desde una conexión doméstica, suele pasar la
+  verificación solo. Si aparece una casilla, la marcas una vez y queda guardada en `data/.navegador`.
+  Instala una vez: `pip install -r requirements-local.txt` y `python -m playwright install chromium`.
+  Corre `python agente/mem_navegador.py --push` (lee la tabla y los PDFs, guarda y sube a GitHub).
+  Prográmalo los martes 8:30 con el Programador de tareas de Windows (ver la cabecera del archivo).
+- **Automático en la nube (GitHub Actions):** como Cloudflare bloquea los servidores, ahí se usan los
+  respaldos de `agente/mem.py` (URLs por fecha, índice de Wayback) y, sobre todo, `agente/hoy.py`, que
+  saca el precio de las noticias y comunicados del día. Esos números coinciden con los del MEM; cuando
+  no hay dato oficial reciente, se usa el de los medios y se marca la fuente.
+
+**Coherencia:** los precios de las noticias se validan contra el último precio oficial del MEM
+(`agente/hoy.py`, función `_coherente`): se descarta cualquier cifra imposible (la súper por debajo de la
+regular) o alejada más de Q7 del precio oficial. Así una nota vieja o mal redactada no ensucia el tablero.
+
+También queda la **carpeta manual**: cualquier PDF en `data/pdf/` o una URL en el campo `pdf_url` de
+*Actions → Agente Gasolina GT → Run workflow*. Si nada funciona se conserva el último dato bueno y el
+tablero lo avisa. Los parsers están probados con PDFs y una tabla HTML reales en `tests/fixtures/`.
 
 ## Estructura
 
 ```
-agente/       agente.py (orquestador), comun.py, mem.py, hoy.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
+agente/       agente.py (orquestador), comun.py, mem.py, mem_navegador.py, hoy.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
 bot/          plantillas.py (edita los textos aquí), telegram.py
 web/          index.html, app.js, estilos.css  (JS vanilla + Chart.js desde CDN)
 data/         JSON que produce el agente (precios, departamentos, mercado, noticias, señal, aciertos, proyección, reportes/)

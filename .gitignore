@@ -4,3 +4,5 @@ __pycache__/
 .pytest_cache/
 .env
 data/pdf/*.pdf
+data/.navegador/
+data/mem_ultima_pagina.html

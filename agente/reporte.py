@@ -28,13 +28,17 @@ def precios_vigentes(precios: dict, hoy: dict | None = None) -> tuple[dict, str,
     auto = dict((precios or {}).get("autoservicio", {}))
     fecha = (precios or {}).get("fecha_monitoreo") or ""
     fuente = (precios or {}).get("fuente") or "MEM"
-    hoy = hoy if hoy is not None else (leer_json(DATA / "precio_hoy.json", {}) or {})
-    u = hoy.get("ultimo") or {}
-    fechas = [u[p]["fecha"] for p in ("superior", "regular", "diesel") if p in u]
-    if fechas and max(fechas) > fecha:
-        auto = {p: u[p]["valor"] for p in ("superior", "regular", "diesel") if p in u}
-        fecha = max(fechas)
-        fuente = "medios: " + ", ".join(sorted({u[p]["fuente"] for p in u}))
+    # El precio oficial del MEM manda si es de los últimos 10 días. Solo si no hay MEM reciente
+    # se usa lo que reportan los medios (que puede ser una estación suelta, no el promedio oficial).
+    oficial_reciente = bool(auto.get("superior")) and fecha >= (ahora_gt().date() - timedelta(days=10)).isoformat()
+    if not oficial_reciente:
+        hoy = hoy if hoy is not None else (leer_json(DATA / "precio_hoy.json", {}) or {})
+        u = hoy.get("ultimo") or {}
+        fechas = [u[p]["fecha"] for p in ("superior", "regular", "diesel") if p in u]
+        if fechas and max(fechas) > fecha:
+            auto = {p: u[p]["valor"] for p in ("superior", "regular", "diesel") if p in u}
+            fecha = max(fechas)
+            fuente = "medios: " + ", ".join(sorted({u[p]["fuente"] for p in u}))
     return auto, fecha, fuente
 
 

@@ -1,28 +1,29 @@
 {
-  "actualizado": "2026-09-11T15:03",
-  "fuente": "MEM (archivo)",
-  "origen": "informe-ejecutivo-area-metropolitana-2026-01-19.pdf",
-  "fecha_monitoreo": "2026-01-19",
-  "correlativo": "DGH-DAE-SCC-IPC-2026-01-05",
-  "tipo_cambio": 7.6621,
+  "actualizado": "2026-09-14T19:21",
+  "fuente": "MEM (página oficial)",
+  "origen": "https://mem.gob.gt/que-hacemos/hidrocarburos/comercializacion-downstream/precios-combustible-nacionales/",
+  "fecha_monitoreo": "2026-09-07",
+  "correlativo": null,
+  "tipo_cambio": 7.663,
   "autoservicio": {
-    "superior": 27.49,
-    "regular": 26.53,
-    "diesel": 25.1,
-    "fecha_anterior": "2026-01-12",
-    "fecha": "2026-01-19"
+    "fecha_anterior": "2026-08-31",
+    "fecha": "2026-09-07",
+    "superior": 43.06,
+    "regular": 40.93,
+    "diesel": 46.37,
+    "kerosene": 55.0
   },
   "servicio_completo": {
-    "superior": 28.59,
-    "regular": 27.58,
-    "diesel": 26.18,
-    "kerosene": 37.0,
-    "fecha_anterior": "2026-01-12",
-    "fecha": "2026-01-19"
+    "fecha_anterior": "2026-08-31",
+    "fecha": "2026-09-07",
+    "superior": 44.11,
+    "regular": 41.97,
+    "diesel": 47.42,
+    "kerosene": 55.0
   },
   "cambio_semanal": {
-    "superior": 0.2,
-    "regular": 0.24,
-    "diesel": 0.21
+    "superior": 2.48,
+    "regular": 2.29,
+    "diesel": 1.66
   }
 }
