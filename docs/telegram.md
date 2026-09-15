@@ -2,6 +2,11 @@
 
 Tiempo: 10 minutos. Todo gratis.
 
+> **¿Ya creaste el bot y el canal?** Entonces solo haz **doble clic en «Conectar bot.bat»** y sigue
+> las preguntas. Te pide el token, encuentra tu canal solo, manda un mensaje de prueba y te ofrece
+> programar todo para que corra sin que hagas nada. Los pasos de abajo son por si quieres entender
+> qué está pasando o hacerlo a mano.
+
 ## 1. Crea el bot (2 minutos)
 
 1. En Telegram busca **@BotFather** y escríbele `/newbot`.

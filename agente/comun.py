@@ -33,6 +33,38 @@ except Exception:  # pragma: no cover
     pass
 
 
+ARCHIVO_LLAVES = CONFIG / ".env.local"
+
+
+def cargar_llaves(ruta: Path | None = None) -> dict:
+    """Lee config/.env.local (TELEGRAM_BOT_TOKEN=..., una por línea) y las pone en el entorno.
+
+    Así el bot y Claude funcionan con solo hacer doble clic, sin configurar nada a mano.
+    Lo que ya venga en el entorno (por ejemplo los secrets de GitHub Actions) manda y no se pisa.
+    El archivo es privado: está en .gitignore y nunca se sube.
+    """
+    ruta = ruta or ARCHIVO_LLAVES
+    puestas = {}
+    try:
+        if not ruta.exists():
+            return puestas
+        for linea in ruta.read_text(encoding="utf-8").splitlines():
+            linea = linea.strip()
+            if not linea or linea.startswith("#") or "=" not in linea:
+                continue
+            clave, valor = linea.split("=", 1)
+            clave, valor = clave.strip(), valor.strip().strip('"').strip("'")
+            if clave and valor and not os.environ.get(clave):
+                os.environ[clave] = valor
+                puestas[clave] = valor
+    except Exception as e:  # nunca romper por culpa del archivo de llaves
+        print(f"Aviso: no pude leer {ruta}: {e}")
+    return puestas
+
+
+cargar_llaves()
+
+
 def ahora_gt() -> datetime:
     return datetime.now(TZ_GT)
 

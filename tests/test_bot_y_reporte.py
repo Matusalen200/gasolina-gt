@@ -79,3 +79,31 @@ def test_ahorro_por_semana():
     assert ahorro_semana("alza", -0.30) == -0.30
     assert ahorro_semana("estable", 0.40) == 0.0
     assert ahorro_semana(None, 0.40) == 0.0
+
+
+def test_cargar_llaves_desde_archivo(tmp_path, monkeypatch):
+    """La 'conexión' del bot: el agente toma sus llaves de config/.env.local sin configurar nada."""
+    from agente import comun
+    archivo = tmp_path / ".env.local"
+    archivo.write_text('# comentario\nTELEGRAM_BOT_TOKEN=123:ABC\nTELEGRAM_CHANNEL_ID="@canal"\n\nMALA\n', encoding="utf-8")
+    monkeypatch.delenv("TELEGRAM_BOT_TOKEN", raising=False)
+    monkeypatch.delenv("TELEGRAM_CHANNEL_ID", raising=False)
+    puestas = comun.cargar_llaves(archivo)
+    assert puestas == {"TELEGRAM_BOT_TOKEN": "123:ABC", "TELEGRAM_CHANNEL_ID": "@canal"}
+    import os
+    assert os.environ["TELEGRAM_CHANNEL_ID"] == "@canal"   # sin comillas
+
+
+def test_cargar_llaves_no_pisa_lo_que_ya_existe(tmp_path, monkeypatch):
+    from agente import comun
+    archivo = tmp_path / ".env.local"
+    archivo.write_text("TELEGRAM_BOT_TOKEN=del-archivo\n", encoding="utf-8")
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "de-github-actions")
+    assert comun.cargar_llaves(archivo) == {}
+    import os
+    assert os.environ["TELEGRAM_BOT_TOKEN"] == "de-github-actions"
+
+
+def test_cargar_llaves_sin_archivo_no_rompe(tmp_path):
+    from agente import comun
+    assert comun.cargar_llaves(tmp_path / "no-existe") == {}

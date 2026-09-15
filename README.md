@@ -9,6 +9,22 @@ publica, nadie toca nada.
   (`/hoy`, `/senal`, `/precio`, `/baratos`, `/tanque`, `/noticias`, `/futuro`, `/aciertos`, `/mercado`,
   `/tope`, `/historial`, `/midepto`). Guía completa en [docs/telegram.md](docs/telegram.md).
 
+## Para usarlo sin saber programar
+
+Cuatro archivos para doble clic en la carpeta del proyecto:
+
+| Doble clic en… | Qué hace |
+|---|---|
+| **Conectar bot.bat** | Te pide el token de @BotFather, encuentra tu canal, manda un mensaje de prueba y guarda las llaves. Se hace una sola vez. |
+| **Automatizar.bat** | Programa tu PC: revisa precios cada hora y publica el resumen todos los días a las 7:00 am. |
+| **Gasolina GT.bat** | Busca los precios de hoy y abre el tablero en tu navegador. |
+| **Ver tablero.bat** | Solo abre el tablero, sin buscar nada. |
+| **Bot al instante.bat** | Deja el bot contestando al segundo mientras la ventana esté abierta. |
+
+Las llaves (token del bot, canal, clave de Claude) se guardan en `config/.env.local`. Ese archivo es
+privado, está en `.gitignore` y **nunca** se sube a internet. El agente las lee solo al arrancar
+(`agente/comun.py` → `cargar_llaves`), así que no hay que configurar variables de entorno a mano.
+
 ## Qué hace
 
 | Cada hora (lun–vie 7:00–15:00 GT) | Cada día 7:00 GT | Martes | Día 1 del mes |
