@@ -23,22 +23,20 @@ def _pct(v) -> str:
 
 
 def precios_vigentes(precios: dict, hoy: dict | None = None) -> tuple[dict, str, str]:
-    """(precios {superior, regular, diesel}, fecha, fuente): el dato más reciente entre el informe del MEM
-    y lo observado hoy en medios (data/precio_hoy.json)."""
-    auto = dict((precios or {}).get("autoservicio", {}))
+    """(precios {superior, regular, diesel}, fecha, fuente).
+
+    Gana el dato más reciente entre el informe oficial del MEM (`precios`) y el promedio que publican
+    los medios (`hoy`, o data/precio_hoy.json). En empate gana el oficial.
+    """
+    auto = {k: v for k, v in ((precios or {}).get("autoservicio") or {}).items() if isinstance(v, (int, float))}
     fecha = (precios or {}).get("fecha_monitoreo") or ""
     fuente = (precios or {}).get("fuente") or "MEM"
-    # El precio oficial del MEM manda si es de los últimos 10 días. Solo si no hay MEM reciente
-    # se usa lo que reportan los medios (que puede ser una estación suelta, no el promedio oficial).
-    oficial_reciente = bool(auto.get("superior")) and fecha >= (ahora_gt().date() - timedelta(days=10)).isoformat()
-    if not oficial_reciente:
-        hoy = hoy if hoy is not None else (leer_json(DATA / "precio_hoy.json", {}) or {})
-        u = hoy.get("ultimo") or {}
-        fechas = [u[p]["fecha"] for p in ("superior", "regular", "diesel") if p in u]
-        if fechas and max(fechas) > fecha:
-            auto = {p: u[p]["valor"] for p in ("superior", "regular", "diesel") if p in u}
-            fecha = max(fechas)
-            fuente = "medios: " + ", ".join(sorted({u[p]["fuente"] for p in u}))
+    hoy = hoy if hoy is not None else (leer_json(DATA / "precio_hoy.json", {}) or {})
+    u = {k: v for k, v in (hoy.get("ultimo") or {}).items() if v.get("tipo") == "promedio"}
+    fecha_medios = max((v["fecha"] for v in u.values()), default="")
+    if u and (not auto or fecha_medios > fecha):
+        return ({k: u[k]["valor"] for k in ("superior", "regular", "diesel") if k in u},
+                fecha_medios, ", ".join(sorted({v["fuente"] for v in u.values()})))
     return auto, fecha, fuente
 
 
@@ -48,9 +46,9 @@ def departamentos_vigentes(deptos: dict) -> dict:
     return hoy if hoy.get("departamentos") else (deptos or {})
 
 
-def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict) -> dict:
+def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict, hoy: dict | None = None) -> dict:
     """Diccionario con todas las variables que usan las plantillas."""
-    auto, fecha_mem, _ = precios_vigentes(precios)
+    auto, fecha_mem, _ = precios_vigentes(precios, hoy)
     deptos = departamentos_vigentes(deptos)
     barato = (deptos or {}).get("mas_barato") or {}
     caro = (deptos or {}).get("mas_caro") or {}
@@ -84,8 +82,8 @@ def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict) -> d
     }
 
 
-def mensaje_corto(senal: dict, precios: dict, deptos: dict, noticias: dict) -> str:
-    return P.MENSAJE_DIARIO.format(**datos_mensaje(senal, precios, deptos, noticias))
+def mensaje_corto(senal: dict, precios: dict, deptos: dict, noticias: dict, hoy: dict | None = None) -> str:
+    return P.MENSAJE_DIARIO.format(**datos_mensaje(senal, precios, deptos, noticias, hoy))
 
 
 # ----------------------------------------------------------------------------- martes

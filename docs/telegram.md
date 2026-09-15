@@ -7,12 +7,8 @@ Tiempo: 10 minutos. Todo gratis.
 1. En Telegram busca **@BotFather** y escríbele `/newbot`.
 2. Nombre: `Gasolina GT`. Usuario: algo que termine en `bot`, por ejemplo `gasolinagt_bot`.
 3. BotFather te da un **token** (parecido a `123456789:AAH...`). Guárdalo, es la llave del bot.
-4. Opcional: `/setcommands` y pega:
-   ```
-   senal - ¿Lleno hoy o espero?
-   precio - Precio en tu departamento, ej. /precio Petén
-   ayuda - Qué hace este bot
-   ```
+4. No hace falta configurar los comandos a mano: la primera vez que corre, el bot registra solo su menú
+   (el botón «/» de Telegram) con la lista de `bot/plantillas.py` → `COMANDOS_MENU`.
 
 ## 2. Crea el canal (2 minutos)
 
@@ -35,23 +31,48 @@ Si todavía no lo publicaste, pásalos al script y él los guarda:
 .\scripts\publicar.ps1 -Nombre gasolina-gt -AnthropicKey "sk-ant-..." -TelegramToken "123456789:AAH..." -TelegramChannel "@gasolinagt"
 ```
 
-## 4. Qué pasa después
+## 4. Qué sabe hacer el bot
 
-- Cada mañana a las **7:00** el agente publica en el canal el mensaje de 5 líneas (el mismo que sale en el
-  tablero con el botón "Compartir por WhatsApp").
-- Cualquier persona puede escribirle al bot `/senal` o `/precio Quetzaltenango`. El bot responde en la
-  siguiente corrida del agente (cada hora en horario hábil). Si quieres respuestas al instante, ese es el
-  siguiente paso: un pequeño servidor gratis (Cloudflare Workers) con webhook; el código de respuestas ya
-  está listo en `bot/telegram.py`.
+| Comando | Qué contesta |
+|---|---|
+| `/hoy` | El resumen del día en 5 líneas |
+| `/senal` | ¿Lleno hoy o espero? y cuánto cambia el martes |
+| `/precio [departamento]` | Precio de los tres combustibles ahí. Sin nombre usa el que guardaste |
+| `/baratos` · `/caros` | Los 5 departamentos más baratos o más caros. Acepta `super` o `diesel` |
+| `/tanque 10` | Cuánto te cuesta llenar y cuánto ahorrarías en el lugar más barato |
+| `/noticias` | Las 3 noticias que están moviendo el precio |
+| `/futuro` | Lo que esperamos las próximas 4 semanas |
+| `/aciertos` | Qué tan seguido le atinamos |
+| `/mercado` | Petróleo, gasolina en EE.UU. y dólar |
+| `/tope` | El precio tope aprobado por el Congreso |
+| `/historial` | Los precios de las últimas semanas |
+| `/midepto Quetzaltenango` | Guarda tu departamento para no repetirlo |
+| `/tablero` | Enlace al tablero con gráficas |
+| `/ayuda` | La lista completa |
+
+También entiende texto normal: «Petén», «¿va a subir?», «dónde está más barata»,
+«cuánto cuesta llenar 15 galones». Si hay `ANTHROPIC_API_KEY`, Claude responde las preguntas libres
+usando **solo** los datos del agente (no inventa números); sin clave, el bot sugiere un comando.
+
+## 5. Cuándo responde
+
+- Cada mañana a las **7:00** publica el resumen en el canal.
+- En GitHub Actions responde los mensajes pendientes **cada hora** en horario hábil.
+- Para respuestas **al instante**, deja esto corriendo en tu PC:
+  ```powershell
+  $env:TELEGRAM_BOT_TOKEN="123456789:AAH..."
+  python bot/telegram.py --escuchar
+  ```
 - Para compartir el canal: manda el enlace `https://t.me/gasolinagt` por WhatsApp o ponlo en el tablero.
 
-## 5. Probar sin publicar nada
+## 6. Probar sin publicar nada
 
 ```powershell
 python bot/telegram.py "/precio Petén"
-python bot/telegram.py "/senal"
+python bot/telegram.py "/tanque 12 super Quetzaltenango"
+python bot/telegram.py "¿va a subir la gasolina?"
 ```
 
-## 6. Cambiar los textos
+## 7. Cambiar los textos
 
 Todos los mensajes están en `bot/plantillas.py`. Cambia las palabras y listo; no hay que tocar nada más.

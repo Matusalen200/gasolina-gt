@@ -1,6 +1,16 @@
 {
-  "actualizado": null,
-  "semanas": [],
+  "actualizado": "2026-09-15T16:39-06:00",
+  "semanas": [
+    {
+      "fecha_martes": "2026-09-15",
+      "predicho": "estable",
+      "cambio_predicho_q": -0.55,
+      "fecha_mem": null,
+      "cambio_real_q": null,
+      "real": null,
+      "acierto": null
+    }
+  ],
   "total": 0,
   "aciertos": 0,
   "porcentaje": null,

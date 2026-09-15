@@ -33,13 +33,18 @@
     if (!NOMBRE[producto]) producto = "regular";
     let rango = recordar("gasolinagt.rango") || "1M";
 
-    // El número grande es el precio OFICIAL del MEM si es reciente; si no, lo último de los medios.
-    const oficialReciente = auto[producto] != null && precios.fecha_monitoreo &&
-      (Date.now() - new Date(precios.fecha_monitoreo + "T12:00:00")) / 864e5 <= 10;
+    // Gana el dato MÁS RECIENTE entre el informe oficial del MEM y el promedio que publican los medios.
+    // Una gasolinera suelta (tipo "estacion") nunca reemplaza al promedio. En empate manda el oficial.
+    function usaOficial(prod) {
+      const u = ultimo[prod];
+      if (auto[prod] == null) return false;
+      if (!u || u.tipo !== "promedio") return true;
+      return (precios.fecha_monitoreo || "") >= u.fecha;
+    }
 
     function pintar() {
       const u = ultimo[producto];
-      const usarOficial = oficialReciente;
+      const usarOficial = usaOficial(producto);
       const valor = usarOficial ? auto[producto] : (u ? u.valor : auto[producto]);
       const fecha = usarOficial ? precios.fecha_monitoreo : (u ? u.fecha : precios.fecha_monitoreo);
       $("precioGrande").textContent = q(valor);
@@ -62,13 +67,13 @@
       if (usarOficial) {
         $("precioFuente").innerHTML = "Precio de referencia oficial del MEM, semana del " + fechaLarga(fecha) + '. <a href="' + MEM_URL + '" target="_blank" rel="noopener">Ver en mem.gob.gt</a>';
       } else if (u) {
-        $("precioFuente").innerHTML = "Dato del " + fechaLarga(fecha) + " · " + u.fuente + (u.tipo === "estacion" ? " (precio en gasolineras)" : "") + (u.url ? ' · <a href="' + u.url + '" target="_blank" rel="noopener">ver nota</a>' : "");
+        $("precioFuente").innerHTML = "Precio del " + fechaLarga(fecha) + ", según " + u.fuente + (u.tipo === "estacion" ? " (precio en gasolineras)" : "") + ". El MEM aún no publica el informe de esta semana." + (u.url ? ' <a href="' + u.url + '" target="_blank" rel="noopener">Ver nota</a>' : "");
       } else {
         $("precioFuente").textContent = "Informe del MEM del " + fechaLarga(fecha || "");
       }
 
       const otros = Object.keys(NOMBRE).filter(p => p !== producto).map(p => {
-        const x = oficialReciente && auto[p] != null ? auto[p] : (ultimo[p] ? ultimo[p].valor : auto[p]);
+        const x = usaOficial(p) ? auto[p] : (ultimo[p] ? ultimo[p].valor : auto[p]);
         return NOMBRE[p] + " " + q(x);
       });
       $("precioOtros").textContent = otros.join(" · ");

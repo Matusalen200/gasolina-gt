@@ -14,7 +14,7 @@ NOTICIAS = {"noticias": [{"titulo": "Petróleo sube por tensión en Medio Orient
 
 
 def test_mensaje_corto_cinco_lineas_y_estilo():
-    m = reporte.mensaje_corto(SENAL, PRECIOS, DEPTOS, NOTICIAS)
+    m = reporte.mensaje_corto(SENAL, PRECIOS, DEPTOS, NOTICIAS, hoy={})
     lineas = m.splitlines()
     assert len(lineas) <= 5
     assert lineas[0] == "🔴 Llena HOY. El martes sube como Q0.45 el galón."
@@ -52,11 +52,25 @@ def test_evaluar_martes_sin_dato_mem(tmp_path, monkeypatch):
 
 
 def test_bot_responde_comandos():
-    assert telegram.responder("hola") is None
+    assert telegram.responder("") is None
     assert telegram.responder("/start").startswith("⛽")
     assert "gratis" in telegram.responder("/plus").lower()
+    assert telegram.responder("/comando-que-no-existe") == P.MENSAJE_NO_ENTIENDO
     r = telegram.responder("/precio peten")
-    assert r is not None and ("Petén" in r or "No encontré" in r)
+    assert r is not None and ("Petén" in r or "No conozco" in r)
+
+
+def test_precios_vigentes_gana_el_mas_reciente():
+    hoy_nuevo = {"ultimo": {p: {"valor": v, "fecha": "2026-09-15", "tipo": "promedio", "fuente": "Medios"}
+                            for p, v in (("superior", 44.59), ("regular", 42.59), ("diesel", 49.39))}}
+    auto, fecha, fuente = reporte.precios_vigentes(PRECIOS, hoy_nuevo)   # medios 15 > oficial 14
+    assert auto["regular"] == 42.59 and fecha == "2026-09-15" and fuente == "Medios"
+    hoy_viejo = {"ultimo": {"regular": {"valor": 39.0, "fecha": "2026-09-01", "tipo": "promedio", "fuente": "Medios"}}}
+    auto, fecha, _ = reporte.precios_vigentes(PRECIOS, hoy_viejo)        # oficial 14 > medios 1
+    assert auto["regular"] == 31.09 and fecha == "2026-09-14"
+    hoy_estacion = {"ultimo": {"regular": {"valor": 39.0, "fecha": "2026-09-20", "tipo": "estacion", "fuente": "X"}}}
+    auto, _, _ = reporte.precios_vigentes(PRECIOS, hoy_estacion)          # una gasolinera suelta no manda
+    assert auto["regular"] == 31.09
 
 
 def test_ahorro_por_semana():

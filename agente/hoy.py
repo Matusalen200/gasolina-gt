@@ -32,10 +32,13 @@ def _referencia() -> dict:
 
 
 def _coherente(fila: dict, ref: dict) -> bool:
-    """Rechaza observaciones imposibles: súper por debajo de regular, o cifras muy lejos del precio oficial."""
+    """Rechaza observaciones imposibles: súper por debajo de regular, o cifras muy lejos del precio oficial.
+    El precio tope del Congreso es un límite legal, no un precio de mercado: solo se le exige el orden."""
     s, r, d = fila.get("superior"), fila.get("regular"), fila.get("diesel")
     if s is not None and r is not None and s < r:       # la súper siempre cuesta más que la regular
         return False
+    if fila.get("tipo") == "tope":
+        return True
     for prod in ("superior", "regular", "diesel"):
         v = fila.get(prod)
         if v is None:
@@ -279,6 +282,19 @@ def consolidar(serie: list[dict]) -> dict:
 RUTA_DEPTOS_HOY = DATA / "departamentos_hoy.json"
 
 
+def precio_vigente(hoy_datos: dict | None = None) -> tuple[dict, str, str, bool]:
+    """(precios, fecha, fuente, es_oficial) del galón en autoservicio.
+
+    Manda el dato MÁS RECIENTE entre el informe oficial del MEM y el promedio que publican los medios.
+    En empate gana el oficial. Así, el martes que el MEM sube el precio, el tablero lo refleja el mismo
+    día aunque el PDF oficial todavía no se pueda bajar.
+    """
+    from agente.reporte import precios_vigentes
+    pr = leer_json(DATA / "precios.json", {}) or {}
+    auto, fecha, fuente = precios_vigentes(pr, hoy_datos if hoy_datos is not None else (leer_json(RUTA, {}) or {}))
+    return auto, fecha, fuente, fuente == (pr.get("fuente") or "MEM")
+
+
 def estimar_departamentos(hoy_datos: dict) -> dict | None:
     """Precio de hoy por departamento = precio de hoy en la capital + diferencia habitual del departamento
     (según la última tabla oficial del MEM en data/departamentos.json). Se marca como estimado; cuando llega
@@ -287,20 +303,9 @@ def estimar_departamentos(hoy_datos: dict) -> dict | None:
     filas = tabla.get("departamentos") or []
     # Base = precio de hoy en la capital. Preferimos el precio OFICIAL del MEM (data/precios.json);
     # si no hay uno reciente, usamos lo último de los medios.
-    pr = leer_json(DATA / "precios.json", {}) or {}
-    auto = pr.get("autoservicio") or {}
-    ultimo = (hoy_datos or {}).get("ultimo") or {}
-    oficial_reciente = bool(auto.get("superior")) and (pr.get("fecha_monitoreo") or "") >= (ahora_gt().date() - timedelta(days=10)).isoformat()
-    if oficial_reciente:
-        base = {k: auto[k] for k in ("superior", "regular", "diesel") if auto.get(k) is not None}
-        fecha_hoy = pr["fecha_monitoreo"]
+    base, fecha_hoy, base_fuente, es_oficial = precio_vigente(hoy_datos)
+    if es_oficial:
         base_fuente = "MEM (oficial)"
-    elif ultimo:
-        base = {k: ultimo[k]["valor"] for k in ("superior", "regular", "diesel") if k in ultimo}
-        fecha_hoy = max(u["fecha"] for u in ultimo.values())
-        base_fuente = ", ".join(sorted({u["fuente"] for u in ultimo.values()}))
-    else:
-        return None
     if not filas or not base:
         return None
     capital = next((d for d in filas if d["departamento"] == "Guatemala"), None)

@@ -5,7 +5,9 @@ entienden en el celular. Todo corre gratis en GitHub Actions + GitHub Pages: el 
 publica, nadie toca nada.
 
 - Tablero: `https://<usuario>.github.io/gasolina-gt/web/`
-- Canal de Telegram: el bot publica cada día a las 7:00 am y responde `/senal` y `/precio <departamento>`.
+- Canal de Telegram: el bot publica cada día a las 7:00 am y contesta todo lo del tablero por chat
+  (`/hoy`, `/senal`, `/precio`, `/baratos`, `/tanque`, `/noticias`, `/futuro`, `/aciertos`, `/mercado`,
+  `/tope`, `/historial`, `/midepto`). Guía completa en [docs/telegram.md](docs/telegram.md).
 
 ## Qué hace
 
@@ -36,6 +38,11 @@ cambio estimado del martes (Q/gal) = cambio_7d_abs_RBOB (US$/gal) x tipo de camb
 
 El 0.85 es el traslado típico del precio internacional al surtidor en Guatemala. Los umbrales están en
 `agente/senal.py`; los tests en `tests/test_senal.py` fijan el comportamiento.
+
+**Qué precio manda**: gana el dato más reciente entre el informe oficial del MEM y el promedio que
+publican los medios ese día (`agente/reporte.py` → `precios_vigentes`). En empate manda el oficial, y el
+precio de una gasolinera suelta nunca reemplaza al promedio. Así, el martes que el MEM sube el precio el
+tablero lo refleja el mismo día aunque el PDF oficial todavía no se pueda bajar.
 
 **Acierto**: cada martes se toma la última señal antes del martes y se compara con el cambio real del precio
 regular que publica el MEM (> +Q0.10 alza, < −Q0.10 baja, si no estable). El tablero muestra el % de acierto
@@ -121,6 +128,7 @@ python agente/agente.py                              # corrida horaria completa
 python agente/agente.py --diario                     # + reporte, proyección, Telegram
 python agente/agente.py --solo noticias              # una etapa
 python bot/telegram.py "/precio Petén"               # probar una respuesta del bot sin token
+python bot/telegram.py --escuchar                    # bot con respuestas al instante (necesita token)
 python -m pytest tests -q
 python -m http.server 8765                           # abre http://127.0.0.1:8765/web/
 ```
