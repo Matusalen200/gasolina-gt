@@ -1,12 +1,100 @@
 {
-  "actualizado": "2026-09-17T04:09+00:00",
+  "actualizado": "2026-09-17T13:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 22,
-    "BAJA": 5,
-    "NEUTRAL": 23
+    "ALZA": 19,
+    "BAJA": 7,
+    "NEUTRAL": 24
   },
   "noticias": [
+    {
+      "id": "03f054fda9fc",
+      "titulo": "Alberta Plans New Royalty Incentives to Spur Oil Production",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-Plans-New-Royalty-Incentives-to-Spur-Oil-Production.html",
+      "fecha": "2026-09-17T10:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fb8bf38efcd3",
+      "titulo": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-More-Upside-in-Gasoline-as-Diesel-Crunch-Deepens.html",
+      "fecha": "2026-09-17T09:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "a1ecef0dea2b",
+      "titulo": "India Pushes Back on U.S. Tariff Threat Over Russian Oil",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pushes-Back-on-US-Tariff-Threat-Over-Russian-Oil.html",
+      "fecha": "2026-09-17T08:15+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "46f39eebcc02",
+      "titulo": "Dollar's allure, oil surge fan bearish bets on emerging Asian currencies: Reuters poll",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjZNT3kxN1I5MU1zUWhFWTdlRm1tZVpGOU1sdWVEX0t6R2pDMkt0TXY0ZVQ5SVotOG1qZ3BZVFNlZGl5dktfamVFZmxYb2RtUkY2aF9SNVFTN2ItTHIyR2FodldIYlJZSDl2eEpkOGVwa3pCSmtBQko4X3pCWElueWJaZERaZEFvZm1WT3dJTVY4Q3hxUVowRU4yX0JtOTZjRVhtVzJ1UWZnalhVZV9pOXpRVFlGU3A4MHJETkxsMA?oc=5",
+      "fecha": "2026-09-17T07:42+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7b779a8ddcf0",
+      "titulo": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Saudi-Arabia-Reroutes-Crude-via-Oman.html",
+      "fecha": "2026-09-17T05:20+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "18db8bd76000",
+      "titulo": "India says new US tariffs over Russian oil could hit ties, vows to protect energy security",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
+      "fecha": "2026-09-17T05:19+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2ba937e63ca0",
+      "titulo": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-huties-los-rebeldes-aliados-de-iran-en-yemen-que-tienen-en-vilo-al-mercado-mundial-de-petroleo/",
+      "fecha": "2026-09-17T03:43+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1b1890c42891",
+      "titulo": "Indian shares muted as Fed, oil and IPO rush dent risk appetite",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkdJa0oyTlF5UEN1Z1F0ZUhhN1dfOHpyZmwwUFJVUnNyZUYyT0xiUDNaRmNGNUViX0UxZ3NralBWd1dHd0VZeFlDeTBoYXFMb1k4eWZvNU16c0M4Q20xM0VDUWYzbFZVWjlFTUF5b0h4VFptTUNETC05OVdWM0lHSE9La2kxUUozMFFnUEYxN1lXR01sZEdpcXR1cHlGYzcyUWpaVHpSS0NhVHFTM0o1clhKcVMtdkM4VTYzY0RINA?oc=5",
+      "fecha": "2026-09-17T02:32+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "26610528c15b",
       "titulo": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
@@ -16,6 +104,39 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "274d05339d25",
+      "titulo": "Dollar eases from peak as oil prices extend decline, BoJ in focus",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
+      "fecha": "2026-09-17T02:08+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "67f6293feb48",
+      "titulo": "Seis propuestas buscan bajar el precio de las gasolinas y el diésel: qué plantea cada una y cómo avanzan",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/seis-propuestas-buscan-bajar-el-precio-de-las-gasolinas-y-el-diesel-que-plantea-cada-una-y-como-avanzan/",
+      "fecha": "2026-09-17T02:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c2a906fc8fd7",
+      "titulo": "US temporarily eases curb on working hours for fuel truck drivers",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZThIZDBuVHcySk8yc2NoaHZKeWlMY3lRNkU5dXFVTFpZeEJEU2NxR2FSbmNXMl9TNk1YMHJucTFGNENnYlZyTm9mMDJUa0dRUjRRc2otMkdIYmFnQnlWNEZKbXR0eWU1UHVDcU1HM0lZSFZJRnluNmVYREdlMENKQU45ckJGVDdwMWF2bWkxZi1VXzl1TzJKcWloQ1BSMTBkYnJuaUpHY2hWR1FMQzJZ?oc=5",
+      "fecha": "2026-09-17T01:01+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -30,11 +151,143 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ad8da402d57c",
+      "titulo": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
+      "fecha": "2026-09-17T00:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5612e40ed068",
+      "titulo": "Arévalo pide al Legislativo resolver objeciones a la ley que propone precios de referencia a los combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/arevalo-pide-al-legislativo-resolver-objeciones-a-la-ley-que-propone-precios-de-referencia-a-los-combustibles/",
+      "fecha": "2026-09-16T23:55+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8d38660a89cc",
+      "titulo": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
+      "fecha": "2026-09-16T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2a77b7199fcb",
+      "titulo": "Combustible supera los Q42 en Guatemala: ¿Cuánto cuesta en el resto de Centroamérica?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/combustible-supera-los-q42-en-guatemala-cuanto-cuesta-en-el-resto-de-centroamerica/",
+      "fecha": "2026-09-16T22:36+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "31e50f4f8dfe",
+      "titulo": "La Reserva Federal sube los tipos de interés un cuarto de punto para combatir la inflación",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/la-reserva-federal-sube-los-tipos-de-interes-un-cuarto-de-punto-para-combatir-la-inflacion/",
+      "fecha": "2026-09-16T22:36+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "d93a94aab631",
       "titulo": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0Q2S2JRT3llcENjREtGM2t4eDlYa0VxdUEwT0Z0TTlSUjdadWdSZnNEUlRYWGI3M3hOZ0xXYU9xZEZqVjV1VFo1amtXVVZnejhnazk0TXpyUlY3QTlaeGFSRmd1Z0dXOVBsc2I2SV85aW9oejlMWjA1OFF5Vk1sbGRLRV92TlVLV3NuaGhWanVlbVBMQTdQUXNGd0RBWU5zRG9tV2RUMlpzb2ZZSG1idWl2ZHlCclVyVTdtYQ?oc=5",
       "fecha": "2026-09-16T22:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c1b87ddc2dd5",
+      "titulo": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Above-100-Pushes-US-Fuel-Prices-to-New-Records.html",
+      "fecha": "2026-09-16T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2481a24df476",
+      "titulo": "Directiva del Congreso intentaría pausar interpelación para tramitar objeción que frena el subsidio a combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/directiva-del-congreso-intentaria-pausar-interpelacion-para-tramitar-objecion-que-frena-el-subsidio-a-combustibles/",
+      "fecha": "2026-09-16T21:20+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5489639a75a5",
+      "titulo": "Inside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Inside-Putins-135-Billion-Arctic-Gamble-That-Could-Save-His-Ukraine-War.html",
+      "fecha": "2026-09-16T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b110e750a899",
+      "titulo": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Shale-Oil-Now-Makes-Up-72-of-Argentinas-Crude-Output-Data-Shows.html",
+      "fecha": "2026-09-16T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3b3f537e3f60",
+      "titulo": "Comisión de Comunicaciones avala iniciativa para reducir impuestos a los combustibles durante seis meses",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/comision-de-comunicaciones-avala-iniciativa-para-reducir-impuestos-a-los-combustibles-durante-seis-meses/",
+      "fecha": "2026-09-16T19:26+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c0dc42a61bd4",
+      "titulo": "Saudi Oil Crisis Is About to Hit Europe",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Crisis-Is-About-to-Hit-Europe.html",
+      "fecha": "2026-09-16T18:32+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8a9975f7d49b",
+      "titulo": "Continental Strikes Venezuela Oil Deal with PDVSA",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Continental-Strikes-Venezuela-Oil-Deal-with-PDVSA.html",
+      "fecha": "2026-09-16T18:30+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -68,6 +321,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFRfeVl2ai1BT2EwMjVXdUluRDBneGk2ZlVJQ2lxemhCMl9renVjQWhXR1FlTEN6MjQ4ZUNMLWlyZEV4ZVFvOWl5OXlVbzhvSDZ4ZGIwZEl5d1R1Z2Nnd2pvb3FtekU5V1RNb0N3TTJJa0h0ME5KMExZUDJaRWRaY1J4X1lHQm1iamxvcThfdzBXQVNnMjJkelAtQkVfekd6cEdMejU0b1U?oc=5",
       "fecha": "2026-09-16T16:47+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "699e292ed588",
+      "titulo": "Iraq trucks southern crude north in bid to raise exports via Turkey",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXFFWmRIdjFUNWZFUzdWYUoxR3Y5c1I1TUI3bHRKODB1RGNTSFEwbkJNZ1Vaa3V0Qk9MTjYyQ1hzMk96OUFOWFJEWmVmV2tEZHNBdm9DVGVaWWtWTldJYng1eU8yS1drazFmazVWOXdUX1AwUV9uZ0tCb3NSMlVvVS1ZRUN2MlRoVWdHR2VTVHFWRXVDNHNmaGFSQzJOWFo1YWw3bGFZeFhVV1cwZ3V3VmdrMA?oc=5",
+      "fecha": "2026-09-16T16:12+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -261,6 +525,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "8fb8b1f3b7b5",
+      "titulo": "Dangote profits from Europe fuel crunch as IPO tests investor appetite",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbERvenJsbkxzUzVzeXZnZ3Zic1hnQ0JEMFhvQ3JNd3hfOXBmVFA1WTJadS00NzZyekZxV0h3QlZHN0d4R0hPU0ZSWTgwVFNzV09NeC1xeFRrSXFFN3lBZ3RjbU1WU0VXZS1hM1R2dThTWkMxQnpDQVBVbVFNc3hYWXp4b2c3SEEzWG9xR1BzdE9fQ3lLUEVweUZqX0J5S0ZPVHFIVl84Y0pVRGFHSDBIemFtMjA?oc=5",
+      "fecha": "2026-09-15T14:16+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "ff1330d3de8d",
       "titulo": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say",
       "fuente": "Reuters (vía Google News)",
@@ -280,281 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5f835e526422",
-      "titulo": "EXCLUSIVE: Half of Russia's top diesel-producing refineries cut back output after drone strikes",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTc4U01wbEFNekZ3TjQ0TnY3SHZRWGVLeVpYSm92RFV2aUVrSC1LdUg4S0JYd3ZLUExpU3JpOERrUm55XzY3S1c5QmJ5X1VZbFg2eFAxdXlta3BUR25fOFhINm5PZkx1YkVQSDRlNEx6Sm1yVHJSVkw1RkE4SHUwYW1nVmFEMHRVSEJpZlRlZlluWERqcjZsOWNzT0NzTjFJM2hqaDRIeDZRSFNYOGFJUWVKQWdFX1k2TzFCTXdwcXJkWWNqaDV1ZEM2c00?oc=5",
-      "fecha": "2026-09-15T09:51+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3cf2817d866f",
-      "titulo": "Gold edges down as oil-driven inflation fears lift rate-hike bets",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtaVGZLb1VLWXI1QlhvSGNHeThxbkxfa3NIdk1SZFA3LWZta2JmdnBUTEtKV0dUSGg4OGVQSHYyV0w5RGY1QXEwaG02OVVoVlJmRG9xc3VwQ2RZSFh2V25neWVqS01jVm9pTFg0U29TcXdueHBXbnRuTmRuOFA0TzlyNEppVUJldE9KVFE4c3FlS04zRXRsaXNCQWhqQQ?oc=5",
-      "fecha": "2026-09-15T05:29+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "056fc6fcb676",
-      "titulo": "China's August oil throughput rises as fuel exports rebound amid Iran war",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5",
-      "fecha": "2026-09-15T05:12+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "20f5345a644b",
-      "titulo": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
-      "fecha": "2026-09-14T20:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d5fc697ce676",
-      "titulo": "Exxon Mobil shuts down Joliet refinery after power outage",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczY1S0dabWl4V3hFOWdJd3J6N1Z1UENYbjJnbm1DeFlteW1ZM3lLUkxBUzMwRFRjaHZGN21fS29zR25xMTFWY2NTa2ZVejh1ZGxHYWhFWXdTUjlhNzViT0ZaY0RQcm9CdkZmS0pVZnRUNU5OelJkajNIVTV4ck5Kc0RYSDBzRTZPN25BaVExR2RiYld5bzhJT3FCQklVYlVhRlRTcm9nQlNQajFqUnEzYg?oc=5",
-      "fecha": "2026-09-14T19:56+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b744e0986f8f",
-      "titulo": "Dollar rises as Middle East conflict lifts oil, Fed hike looms",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzNkV09NNEdQWTNoSFp6dGI0bWxzUU82ZWQ4TjZfWVI4bWZibFBJNVVBRmZpMC00WWVKdExyZUhKTEttU3pRTWczSEhMbVR4RzdSeHhBd0tnQy04aGVzMTcwZEJjenRKNGRhcDZQeWx3YTVhTkUxZC1tbnNud3ZyS1JYTmpFTDU4OXRjcWdaeTd0ZXRzaUxMM2VQUy11YXZidmRHVDU4VkJQbHExRHVXUUh5dw?oc=5",
-      "fecha": "2026-09-14T17:40+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "548e4f386272",
-      "titulo": "Orlen sees no immediate supply disruptions as Saudi oil deliveries set to drop",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmNWNlZVckY2U2xoNzg4aThUUlhrR0tCbmptWTF3VXVjY1p3MkJkbkNaYkc5NGROMExOZ1FXTVBGQlloMC01NWQwWnhibUpUYkhHQTl5dEVlSExGUjVkTm5waUN5M2dXV0VjcEg3NWlBQUc5NE91QlhWMFY0c0c0cWZuTjV3MnRXNXhKRU92UWdmbmpKV0E5Uk5NdUpFTWNvejRLQkZIdUVab1JJcGtnTW5KTGFjTWJjU2otYVFEenVndw?oc=5",
-      "fecha": "2026-09-14T16:35+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "51bfb5c977d5",
-      "titulo": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1982",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalROb3hVS0lNZDNRVGlydnBOQUx4VkxiQzR4ZktfdjMwX1NQOXZvUkhFOUI4S2ktcFpaQjBON0hObW9tT0xRRkFPRTBjVTFDa0dQTS1IbWIxS3pwUWp0Xy1EcXVnOHhmRnFiUVllUkNJcVNZbUItUkM0N0hJZTNCS29mbXR1MFltN2phTzZxU1pSNW1lcFk4aTRQS3BNU3lrdTNsa0cxbEQybUNSZ1lTbXFxN0FQX1NlWnNKdGpMVQ?oc=5",
-      "fecha": "2026-09-14T15:53+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0ab012a9ac57",
-      "titulo": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjlwYUFLdF9Cc3lZbHQxSHlwT2Y4T3Yzd2ZfZUNwdmNWM1Y5d2M4azA3SUEyLUkzTWo1NEJVeVJSSFROXzJHM0tjdlBfWGpJUkY0MlJpSFFxSmlPcDgydF81R1BYekZyQklaNjNGRDFfUkZ2UVo4MmNKOUJkUDBSbEY3ZkUtM0FJajE4NWVDejk4XzFHb2F3ZzhiOEVRUHRxeElFWmlvOC1pc29LZXFEX25XZ3pHN3FhaUFjWnR1b21zb0E?oc=5",
-      "fecha": "2026-09-14T10:46+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "76791f79b96b",
-      "titulo": "Facts about Nigeria's Dangote oil refinery Initial Public Offering",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkdiZlZGd2FuZ05TaF9qcDQtTkpZNkJWaGZoTXZVcWE3M1FWWU4wUlo5a3FQMHU1REFLWnhSczRZdlJFUGRkRXZ2Q3pBTUI4Uzl2dUR5MTVwV0pmam1NTFhRakxHSjl5QUxxUjE4VDE0ZUhQZHE0aTVseHNFYWJqbzRiMTByeHg2SUFoR0J4Zm5ydG5mQkhVVlVPNnFLQWYxNTAtRmJCaUhrU054QkNZT24xMkdUR2l6?oc=5",
-      "fecha": "2026-09-14T07:03+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a4d5fc712949",
-      "titulo": "Morning Bid: Shipping oil gets ever harder, costlier",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJCUUMxaW05Wm0yazVud3pVRFlHLTJKai13QUcxaUhtX2dlTEJPcV9XOWZGSnRzdFRXejctZE1sUGZrcEd3Sy1JOUZxVktnQW9hVl9vbTVSdEhldXBEaUxQTlJRanQyWDFpQXNaTlE1UWUwaVgzMU8yTmF2dzFGYUNuUQ?oc=5",
-      "fecha": "2026-09-14T04:33+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "68fffbe6605c",
-      "titulo": "Oil settles higher after Saudi strikes stoke supply worries",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
-      "fecha": "2026-09-13T22:26+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e1acc3055528",
-      "titulo": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/White-House-Weighs-Defense-Production-Act-as-US-Refineries-Maxed-Out.html",
-      "fecha": "2026-09-12T02:21+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9303d391fdd0",
-      "titulo": "PNC y Ejército implementarán operación conjunta para liberar paso en puntos bloqueados en Guatemala",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/politica/pnc-y-ejercito-implementaran-operacion-conjunta-para-liberar-paso-en-puntos-bloqueados-en-el-pais/",
-      "fecha": "2026-09-12T02:05+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7134f92919c6",
-      "titulo": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
-      "fecha": "2026-09-12T00:59+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8f09b5ccbb33",
-      "titulo": "U.S. Oil Rig Count Rises as Oil Tops $100",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rig-Count-Rises-as-Oil-Tops-100.html",
-      "fecha": "2026-09-11T23:19+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "68bbe6efc2c4",
-      "titulo": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strikes-Hit-Saudi-Arabias-Vital-East-West-Oil-Pipeline.html",
-      "fecha": "2026-09-11T23:04+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "891d2dd56e8b",
-      "titulo": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say - Reuters",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0ZqSUthcUJzTkJ2dzNRelh0akJQaS1LaGYxMjRzQUEyMktJalJWTkJXTVhFYy12ZzhPc2xEZXlHLVpjQzRrTzBQemxMMWV5RjROYzVTbGxMMGVhUjhkVi1NQXdaNGkxRFVrdkFBdnhRWDFCNG9UaFF3d1B1eEVicmJiNS11bmJIMkwyeU9uOTNhVlFpOVdoeUJ2WTFUREE3OTJMY2xOaEdGaW9sUENWY0ViTkM0UlhsM0ozdGt0MFhBUQ?oc=5",
-      "fecha": "2026-09-11T22:54+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "336c2e8661e9",
-      "titulo": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-Critical-Oil-Bypass-Comes-Under-Threat.html",
-      "fecha": "2026-09-11T22:05+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0f858675812d",
-      "titulo": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Supertanker-Rates-Hit-800000-a-Day-as-Gulf-Tensions-Escalate.html",
-      "fecha": "2026-09-11T22:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4878cec38bef",
-      "titulo": "Chevron CEO says depleted crude oil buffers could lead to higher prices - Reuters",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZEtqcVRxSzRKdkFERnkxUDFwd2l6ZmVOQXNiNWJFLUxGc2R6X19JZ19WaUNQZzRTWXNjRTJsTjZ6MnNzTUhGcDR3QzRlOXdvRFVNZWV3V3B2Y0M2bmRVa0NuQXdRc1Z4TFljREh6XzRZQkpOaHoyX2lFeFhKa0Jqc0pyRWdtQnBWV0VFakt4cGQ0T0t4RWlQVzI2cmxXZXBLR08xdGJSemdfOHhGbnhWby1OcExja3F3RnYxNQ?oc=5",
-      "fecha": "2026-09-11T21:53+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bb628555a64f",
-      "titulo": "MEM asegura que hay suficiente combustible, pero bloqueos dificultan su distribución - Soy502",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXJ3T2RCejBwSUNwdmJQbmk2eTRVU244RlNxNnJlZmhxT2E3QzZqNTB6Ti1MOWs2ajBfaTM3ZHBuWThaVnpZaDd6UHFiYVZtSnRqbEdFLVg3Y0k3Ql96MWtWOEU2a0Z3ZFpIYlF3d3BJUFhZNk43SWdxZEo5UV9lV2dNY3NIVGliN3VZRFEwcEZNRm9acEJn?oc=5",
-      "fecha": "2026-09-11T21:33+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cfa7bdc70ff1",
-      "titulo": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Sees-57-Million-Bpd-Oil-Supply-Plunge-as-Gulf-Recovery-Slips-to-2027.html",
-      "fecha": "2026-09-11T21:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4602fc39afcb",
-      "titulo": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
-      "fecha": "2026-09-11T21:28+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a3abecf3b182",
-      "titulo": "Oil tanker rates hit record highs following Iran, US shipping attacks - Reuters",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
-      "fecha": "2026-09-11T20:37+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]

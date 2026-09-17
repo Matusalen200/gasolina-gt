@@ -240,3 +240,33 @@ Noticias: 22 apuntan a que sube y 5 a que baja
 2026-09-16 22:30 [INFO] Inicio corrida 2026-09-16 22:30 GT
 2026-09-16 22:30 [INFO] --- grafica ---
 2026-09-16 22:30 [INFO] Gráfica lista: grafica_precios.png (7 días, 4 combustibles)
+2026-09-17 07:15 [INFO] Inicio corrida 2026-09-17 07:15 GT
+2026-09-17 07:15 [INFO] --- mem ---
+2026-09-17 07:15 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-17 07:16 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-17 07:16 [INFO] --- hoy ---
+2026-09-17 07:16 [WARN] Precio hoy: descarto cifras incoherentes de La Hora (Crisis de combustibles: así enfrentan Guatemala y ): S=None R=39.17 D=37.03
+2026-09-17 07:16 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-17 07:16 [INFO] Precio hoy: 0 observaciones nuevas de 9 artículos · regular 42.59 (2026-09-16)
+2026-09-17 07:16 [INFO] --- mercado ---
+2026-09-17 07:16 [INFO] Mercado: RBOB 3.1763 (1.17% 7d), WTI 100.0, USD/GTQ 7.6215 · 3/3 símbolos
+2026-09-17 07:16 [INFO] --- noticias ---
+2026-09-17 07:16 [INFO] RSS: 246 notas relevantes en 8 fuentes
+2026-09-17 07:16 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 19, 'BAJA': 7, 'NEUTRAL': 24}
+2026-09-17 07:16 [INFO] --- senal ---
+2026-09-17 07:16 [INFO] Señal: 🔴 Llena HOY (puntaje +30) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+2026-09-17 07:16 [INFO] --- proyeccion ---
+2026-09-17 07:16 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.9, 42.9, 42.9, 42.9]
+2026-09-17 07:16 [INFO] --- reporte ---
+2026-09-17 07:16 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes sube como Q0.25 el galón.
+Hoy el galón cuesta: Súper Q44.66 · Normal Q42.58 · Diésel Q49.36
+Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q42.58
+Noticias: Seis propuestas buscan bajar el precio de las gasolinas y… · Combustible supera los Q42 en Guatemala: ¿Cuánto cuesta…
+2026-09-17 07:16 [INFO] --- grafica ---
+2026-09-17 07:16 [INFO] Gráfica lista: grafica_precios.png (7 días, 4 combustibles)
+2026-09-17 07:16 [INFO] --- telegram ---
+2026-09-17 07:16 [INFO] Telegram: reporte 2026-09-17 publicado en -1003973167814
+2026-09-17 07:16 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-17 07:16 [INFO] Fin corrida
