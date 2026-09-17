@@ -12,5 +12,12 @@
     "tendencia": "estable",
     "veredicto": "Sin apuro",
     "cambio_estimado_q": -0.55
+  },
+  {
+    "fecha": "2026-09-16",
+    "puntaje": 79,
+    "tendencia": "alza",
+    "veredicto": "Llena HOY",
+    "cambio_estimado_q": 1.35
   }
 ]

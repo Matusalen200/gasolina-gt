@@ -1,6 +1,6 @@
 {
   "estimado": true,
-  "fecha": "2026-09-15",
+  "fecha": "2026-09-16",
   "base": {
     "superior": 44.59,
     "regular": 42.59,
@@ -250,5 +250,5 @@
       "diesel_diferencia": 1.29
     }
   ],
-  "actualizado": "2026-09-15T16:39-06:00"
+  "actualizado": "2026-09-16T22:09-06:00"
 }
