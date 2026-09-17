@@ -75,6 +75,7 @@ def paso_token() -> str | None:
     titulo("PASO 1 de 4 · El token de tu bot")
     guardadas = leer_guardadas()
     if guardadas.get("TELEGRAM_BOT_TOKEN"):
+        esperando("Comprobando el bot que ya tenías guardado")
         ok, info = api(guardadas["TELEGRAM_BOT_TOKEN"], "getMe")
         if ok:
             print(f"Ya tenías conectado el bot @{info.get('username')}.")
@@ -117,6 +118,7 @@ def paso_canal(token: str) -> str | None:
     print("  → dale permiso de «Publicar mensajes» → Guardar.")
     input("\nCuando ya lo hiciste, dale Enter para seguir... ")
 
+    esperando("Buscando tu canal")
     chat = _detectar_canal(token)
     if chat:
         nombre = chat.get("title") or chat.get("username")
@@ -151,6 +153,7 @@ def paso_prueba(token: str, canal: str) -> bool:
     titulo("PASO 3 de 4 · Mensaje de prueba")
     texto = ("⛽ ¡Listo! Gasolina GT ya está conectado.\n"
              "Desde ahora publico aquí cada mañana a las 7 si conviene llenar el tanque.")
+    esperando("Mandando el mensaje")
     ok, info = api(token, "sendMessage", chat_id=canal, text=texto, disable_web_page_preview=True)
     if ok:
         print("✅ Mandé un mensaje de prueba. Revisa tu canal: ya debería estar ahí.")

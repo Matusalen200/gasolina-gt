@@ -27,8 +27,8 @@ CABECERAS_HTTP = {
     "Accept": "text/html,application/pdf,application/xhtml+xml,*/*;q=0.8",
 }
 
-try:  # Windows imprime cp1252 por defecto; forzamos UTF-8 para los acentos
-    sys.stdout.reconfigure(encoding="utf-8")
+try:  # Windows imprime cp1252 por defecto; forzamos UTF-8 y que salga al instante,
+    sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)  # si no, la ventana parece trabada
 except Exception:  # pragma: no cover
     pass
 
