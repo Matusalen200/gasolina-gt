@@ -228,3 +228,15 @@ Hoy el galón cuesta: Súper Q44.66 · Normal Q42.58 · Diésel Q49.36
 Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
 Lo más barato: Guatemala, normal a Q42.58
 Noticias: Gold rises over 1% as investors digest Fed hike, oil rally s · Oil prices extend losses as fears of Middle East supply disr · Poland's Orlen buys 16 extra crude cargoes to cover Saudi di
+2026-09-16 22:29 [INFO] Gráfica lista: grafica_precios.png (7 días)
+2026-09-16 22:30 [INFO] Inicio corrida 2026-09-16 22:30 GT
+2026-09-16 22:30 [INFO] --- reporte ---
+2026-09-16 22:30 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes sube como Q1.35 el galón.
+Hoy el galón cuesta: Súper Q44.66 · Normal Q42.58 · Diésel Q49.36
+Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q42.58
+Noticias: 22 apuntan a que sube y 5 a que baja
+2026-09-16 22:30 [INFO] Inicio corrida 2026-09-16 22:30 GT
+2026-09-16 22:30 [INFO] --- grafica ---
+2026-09-16 22:30 [INFO] Gráfica lista: grafica_precios.png (7 días, 4 combustibles)

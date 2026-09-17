@@ -107,3 +107,42 @@ def test_cargar_llaves_no_pisa_lo_que_ya_existe(tmp_path, monkeypatch):
 def test_cargar_llaves_sin_archivo_no_rompe(tmp_path):
     from agente import comun
     assert comun.cargar_llaves(tmp_path / "no-existe") == {}
+
+
+def test_noticias_solo_en_espanol():
+    """Una nota en inglés sin traducir no sirve en un mensaje corto: se deja fuera."""
+    noticias = {"noticias": [
+        {"titulo": "Oil prices extend losses as fears of Middle East supply disruption fade", "idioma": "en", "etiqueta": "BAJA"},
+        {"titulo": "Sube el precio del diésel en Guatemala esta semana", "idioma": "es", "etiqueta": "ALZA"},
+        {"titulo": "Crude rallies", "titulo_es": "El petróleo vuelve a subir", "idioma": "en", "etiqueta": "ALZA"},
+    ]}
+    t = reporte.titulares_en_espanol(noticias)
+    assert t == ["Sube el precio del diésel en Guatemala esta semana", "El petróleo vuelve a subir"]
+    assert all("Oil prices" not in x for x in t)
+
+
+def test_titulares_no_se_cortan_a_media_palabra():
+    largo = "Poland's Orlen compra 16 cargamentos extra de crudo para cubrir la falta saudita"
+    r = reporte.recortar(largo)
+    assert r.endswith("…") and len(r) <= 60
+    assert not r.rstrip("…").endswith(" ")
+    assert r.rstrip("…").split()[-1] in largo.split()   # la última palabra está completa
+
+
+def test_si_no_hay_noticias_en_espanol_se_explica_con_numeros():
+    solo_ingles = {"noticias": [{"titulo": "Oil up", "idioma": "en", "etiqueta": "ALZA"}],
+                   "balance_7d": {"ALZA": 22, "BAJA": 5, "NEUTRAL": 3}}
+    datos = reporte.datos_mensaje(SENAL, PRECIOS, DEPTOS, solo_ingles, hoy={})
+    assert datos["noticias"] == "22 apuntan a que sube y 5 a que baja"
+    assert reporte.frase_de_noticias({"balance_7d": {"ALZA": 0, "BAJA": 0}}) == "sin novedades"
+
+
+def test_la_imagen_del_mensaje_trae_la_tabla_completa():
+    from agente import grafica
+    precios = {"autoservicio": {"superior": 44.66, "regular": 42.58, "diesel": 49.36, "kerosene": 55.0,
+                                "fecha_anterior": "2026-09-07"},
+               "cambio_semanal": {"superior": 1.6, "regular": 1.65, "diesel": 2.99, "kerosene": 0.0}}
+    filas = grafica.filas_tabla(precios, precios["autoservicio"])
+    assert [f[0] for f in filas] == ["Súper", "Normal", "Diésel", "Kerosene"]
+    assert filas[0][1] == 43.06 and filas[0][2] == 44.66 and filas[0][3] == 1.6   # antes, hoy, cambio
+    assert filas[3][3] == 0.0

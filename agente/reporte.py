@@ -46,16 +46,57 @@ def departamentos_vigentes(deptos: dict) -> dict:
     return hoy if hoy.get("departamentos") else (deptos or {})
 
 
+def recortar(texto: str, largo: int = 58) -> str:
+    """Corta sin partir palabras, para que no quede un 'supply disr' a medias."""
+    texto = " ".join((texto or "").split())
+    if len(texto) <= largo:
+        return texto
+    corte = texto[:largo].rsplit(" ", 1)[0]
+    return (corte or texto[:largo]).rstrip(" ,.;:") + "…"
+
+
+def titulares_en_espanol(noticias: dict, cuantos: int = 2) -> list[str]:
+    """Solo titulares que la gente pueda leer: en español, o traducidos por Claude.
+
+    Las notas en inglés sin traducir se dejan fuera: el tablero las muestra con su enlace,
+    pero en un mensaje corto no sirven de nada.
+    """
+    utiles = []
+    for n in (noticias or {}).get("noticias", [])[:25]:
+        titulo = n.get("titulo_es") or (n["titulo"] if n.get("idioma") == "es" else None)
+        if titulo:
+            utiles.append((0 if n.get("etiqueta") != "NEUTRAL" else 1, recortar(titulo)))
+    utiles.sort(key=lambda x: x[0])
+    vistos, salida = set(), []
+    for _, t in utiles:
+        if t not in vistos:
+            vistos.add(t)
+            salida.append(t)
+        if len(salida) == cuantos:
+            break
+    return salida
+
+
+def frase_de_noticias(noticias: dict) -> str:
+    """Cuando no hay titulares en español, se explica con números en vez de dejarlo vacío."""
+    b = (noticias or {}).get("balance_7d", {}) or {}
+    alza, baja = b.get("ALZA", 0), b.get("BAJA", 0)
+    if not alza and not baja:
+        return "sin novedades"
+    if alza > baja:
+        return f"{alza} apuntan a que sube y {baja} a que baja"
+    if baja > alza:
+        return f"{baja} apuntan a que baja y {alza} a que sube"
+    return f"{alza} a favor y {baja} en contra, empatadas"
+
+
 def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict, hoy: dict | None = None) -> dict:
     """Diccionario con todas las variables que usan las plantillas."""
     auto, fecha_mem, _ = precios_vigentes(precios, hoy)
     deptos = departamentos_vigentes(deptos)
     barato = (deptos or {}).get("mas_barato") or {}
     caro = (deptos or {}).get("mas_caro") or {}
-    # Titulares en español primero (o traducidos por Claude); las que mueven el precio antes que las neutrales.
-    lista = (noticias or {}).get("noticias", [])[:20]
-    lista = sorted(lista, key=lambda n: -((2 if n.get("etiqueta") != "NEUTRAL" else 0) + (1 if n.get("idioma") == "es" or n.get("titulo_es") else 0)))
-    titulares = [n.get("titulo_es") or n["titulo"] for n in lista[:3]]
+    titulares = titulares_en_espanol(noticias)
     det = (senal or {}).get("detalle", {})
     return {
         "emoji": senal.get("emoji", "🟡"),
@@ -70,7 +111,7 @@ def datos_mensaje(senal: dict, precios: dict, deptos: dict, noticias: dict, hoy:
         "precio_barato": q(barato.get("regular")),
         "depto_caro": caro.get("departamento", "–"),
         "precio_caro": q(caro.get("regular")),
-        "noticias": " · ".join(t[:60] for t in titulares) or "sin novedades",
+        "noticias": " · ".join(titulares) if titulares else frase_de_noticias(noticias),
         "fecha": ahora_gt().date().isoformat(),
         "fecha_mem": fecha_bonita(fecha_mem),
         "puntaje": f"{senal.get('puntaje', 0):+d}" if isinstance(senal.get("puntaje"), int) else "–",

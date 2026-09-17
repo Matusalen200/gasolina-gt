@@ -8,3 +8,4 @@ data/.navegador/
 data/mem_ultima_pagina.html
 config/.env.local
 data/telegram_usuarios.json
+data/grafica_precios.png

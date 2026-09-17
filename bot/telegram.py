@@ -59,6 +59,22 @@ def enviar(chat_id, texto: str):
     return _llamar("sendMessage", chat_id=chat_id, text=texto[:4000], disable_web_page_preview=True)
 
 
+def enviar_foto(chat_id, ruta, pie: str):
+    """Manda la imagen (gráfica + tabla) con el texto debajo. Si falla, devuelve None."""
+    try:
+        with open(ruta, "rb") as img:
+            r = requests.post(API.format(token=_token(), metodo="sendPhoto"),
+                              data={"chat_id": chat_id, "caption": pie[:1000]},
+                              files={"photo": img}, timeout=120)
+        datos = r.json()
+        if datos.get("ok"):
+            return datos["result"]
+        log(f"Telegram sendPhoto: {datos.get('description')}", "WARN")
+    except Exception as e:
+        log(f"Telegram sendPhoto falló: {e}", "WARN")
+    return None
+
+
 def _normalizar(txt: str) -> str:
     txt = unicodedata.normalize("NFD", (txt or "").lower())
     return "".join(c for c in txt if unicodedata.category(c) != "Mn").strip()
@@ -460,7 +476,12 @@ def publicar_diario(estado: dict) -> bool:
         return False
     if estado.get("ultimo_publicado") == ultimo["fecha"]:
         return False
-    if enviar(canal, ultimo["mensaje"]) is not None:
+    # Preferimos la imagen (gráfica + tabla) con el texto de pie; si no se puede, solo texto.
+    imagen = DATA / "grafica_precios.png"
+    enviado = enviar_foto(canal, imagen, ultimo["mensaje"]) if imagen.exists() else None
+    if enviado is None:
+        enviado = enviar(canal, ultimo["mensaje"])
+    if enviado is not None:
         estado["ultimo_publicado"] = ultimo["fecha"]
         log(f"Telegram: reporte {ultimo['fecha']} publicado en {canal}")
         return True

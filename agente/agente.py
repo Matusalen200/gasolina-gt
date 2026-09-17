@@ -63,6 +63,11 @@ def etapa_proyeccion():
     return proyeccion.actualizar()
 
 
+def etapa_grafica():
+    from agente import grafica
+    return grafica.generar()
+
+
 def etapa_telegram():
     from bot import telegram
     return telegram.corrida()
@@ -80,6 +85,7 @@ ETAPAS = {
     "noticias": etapa_noticias,
     "senal": etapa_senal,
     "reporte": etapa_reporte,
+    "grafica": etapa_grafica,
     "proyeccion": etapa_proyeccion,
     "telegram": etapa_telegram,
     "mensual": etapa_mensual,
@@ -111,7 +117,7 @@ def main(argv=None) -> int:
     for nombre in ("mem", "hoy", "mercado", "noticias", "senal"):
         _etapa(nombre, ETAPAS[nombre])
     if args.diario:
-        for nombre in ("proyeccion", "reporte", "telegram"):
+        for nombre in ("proyeccion", "reporte", "grafica", "telegram"):
             _etapa(nombre, ETAPAS[nombre])
         if ahora_gt().day == 1:
             _etapa("mensual", ETAPAS["mensual"])
