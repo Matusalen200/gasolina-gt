@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T17:13+00:00",
+  "actualizado": "2026-09-17T18:18+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 19,
@@ -7,6 +7,28 @@
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "259a71db7a80",
+      "titulo": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html",
+      "fecha": "2026-09-17T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "56e957a4535b",
+      "titulo": "Russia's Yaroslavl refinery shuts processing after a drone attack, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdwcm5UdmhsM25Bc2lQT0Y4N0E0YTNGbnlQNEU5dWhsRjB6LXJBbWp0NUNBZ2w5YThsQXc3WXl0dVN6TlMzaGpleE5NbWd2cnljV3ZZV3pKdEZoX0o1U2JDRFRuM1R4bXMyaGNuMU0yX2ktZnEweUR4SmlsTHZNdDgya2RNNjRmU2xKeUtZV0oxUGYtQ1NULUR3QWlBU2JILUVwUXdGaW44cmhqR3ZhbkwyRlU2QThQRDRCb0ttZzl6MlRz?oc=5",
+      "fecha": "2026-09-17T16:43+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c93c121552f6",
       "titulo": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2b2dadc5cd72",
-      "titulo": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
-      "fecha": "2026-09-15T21:10+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4e101fdcac0a",
-      "titulo": "Libya NOC chief says production not greatly affected after protests hit oil facilities",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXRYcW9RcHZ0dFhuVkt5NHc1QTFUOFd2RFNHck80emxPZ3ByeGx6OGdRcjJUSGxsbWpvcXNncENtZFY0ay1QNHQxVVRCMy1CQmdfTDBpTnJkUTRxdjFNV2ppemM4akNyVFF3VWxuRFdnR1lZbWgwMUhjZ0JwRUpMT0IwN1o2WHFrMG4xeVgyYXVBcTR3VWJHdGRLSGo3MEl3MkRSbGFLWEg2Y3liOEtLSmRHcTE5THdZUHAybG5ReVphMGRKRDdkblB3?oc=5",
-      "fecha": "2026-09-15T20:14+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]

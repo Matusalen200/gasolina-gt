@@ -343,3 +343,20 @@ Noticias: Seis propuestas buscan bajar el precio de las gasolinas y… · Combus
 2026-09-17 11:13 [INFO] --- telegram ---
 2026-09-17 11:13 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-17 11:13 [INFO] Fin corrida
+2026-09-17 12:17 [INFO] Inicio corrida 2026-09-17 12:17 GT
+2026-09-17 12:17 [INFO] --- mem ---
+2026-09-17 12:17 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-17 12:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-17 12:18 [INFO] --- hoy ---
+2026-09-17 12:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-17 12:18 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 42.59 (2026-09-16)
+2026-09-17 12:18 [INFO] --- mercado ---
+2026-09-17 12:18 [INFO] Mercado: RBOB 3.2463 (1.53% 7d), WTI 101.77, USD/GTQ 7.629 · 3/3 símbolos
+2026-09-17 12:18 [INFO] --- noticias ---
+2026-09-17 12:18 [INFO] RSS: 242 notas relevantes en 8 fuentes
+2026-09-17 12:18 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 19, 'BAJA': 8, 'NEUTRAL': 23}
+2026-09-17 12:18 [INFO] --- senal ---
+2026-09-17 12:18 [INFO] Señal: 🔴 Llena HOY (puntaje +35) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+2026-09-17 12:18 [INFO] --- telegram ---
+2026-09-17 12:18 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-17 12:18 [INFO] Fin corrida
