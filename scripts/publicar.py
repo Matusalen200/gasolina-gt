@@ -60,6 +60,15 @@ def git(*args):
 
 
 # ----------------------------------------------------------------------------- pasos
+def nombre_de_url(url: str) -> str:
+    """Saca el nombre del proyecto de la dirección de git.
+
+    Ojo: aquí hay que usar removesuffix y NO rstrip(".git"), porque rstrip quita cualquiera de esas
+    letras del final y "gasolina-gt" se convertiría en "gasolina-".
+    """
+    return url.strip().rstrip("/").removesuffix(".git").split("/")[-1]
+
+
 def paso_gh() -> bool:
     titulo("PASO 1 de 5 · Tu cuenta de GitHub")
     ok, salida = gh("auth", "status")
@@ -175,7 +184,7 @@ def main() -> int:
     if not usuario:
         return 1
     ok, nombre = git("remote", "get-url", "origin")
-    nombre = nombre.rstrip("/").rstrip(".git").split("/")[-1] if ok else "gasolina-gt"
+    nombre = nombre_de_url(nombre) if ok else "gasolina-gt"
 
     paso_secrets()
     url = paso_pages(usuario, nombre)

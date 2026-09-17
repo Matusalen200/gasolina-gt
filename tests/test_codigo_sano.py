@@ -19,3 +19,12 @@ def test_no_hay_nombres_indefinidos_ni_imports_rotos():
                  if "undefined name" in l or "imported but unused" not in l and l.strip()]
     graves = [l for l in problemas if "undefined name" in l or "syntax" in l.lower()]
     assert not graves, "Código roto:\n" + "\n".join(graves)
+
+
+def test_nombre_del_proyecto_no_se_come_letras():
+    """rstrip('.git') se comía el final de 'gasolina-gt'. Este es el caso que falló de verdad."""
+    from scripts.publicar import nombre_de_url
+    assert nombre_de_url("https://github.com/Matusalen200/gasolina-gt.git") == "gasolina-gt"
+    assert nombre_de_url("https://github.com/Matusalen200/gasolina-gt") == "gasolina-gt"
+    assert nombre_de_url("https://github.com/alguien/git-git.git/") == "git-git"
+    assert nombre_de_url("git@github.com:alguien/proyecto.git") == "proyecto"
