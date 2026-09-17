@@ -325,3 +325,21 @@ Noticias: Seis propuestas buscan bajar el precio de las gasolinas y… · Combus
 2026-09-17 10:17 [INFO] --- telegram ---
 2026-09-17 10:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-17 10:17 [INFO] Fin corrida
+2026-09-17 11:12 [INFO] Inicio corrida 2026-09-17 11:12 GT
+2026-09-17 11:12 [INFO] --- mem ---
+2026-09-17 11:12 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-17 11:13 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-17 11:13 [INFO] --- hoy ---
+2026-09-17 11:13 [WARN] Precio hoy: descarto cifras incoherentes de TV Azteca Guatemala (Bono de Q500 por tres meses: presentan propuesta p): S=36.0 R=34.5 D=35.0
+2026-09-17 11:13 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-17 11:13 [INFO] Precio hoy: 0 observaciones nuevas de 3 artículos · regular 42.59 (2026-09-16)
+2026-09-17 11:13 [INFO] --- mercado ---
+2026-09-17 11:13 [INFO] Mercado: RBOB 3.241 (1.69% 7d), WTI 102.09, USD/GTQ 7.629 · 3/3 símbolos
+2026-09-17 11:13 [INFO] --- noticias ---
+2026-09-17 11:13 [INFO] RSS: 241 notas relevantes en 8 fuentes
+2026-09-17 11:13 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 19, 'BAJA': 8, 'NEUTRAL': 23}
+2026-09-17 11:13 [INFO] --- senal ---
+2026-09-17 11:13 [INFO] Señal: 🔴 Llena HOY (puntaje +37) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+2026-09-17 11:13 [INFO] --- telegram ---
+2026-09-17 11:13 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-17 11:13 [INFO] Fin corrida
