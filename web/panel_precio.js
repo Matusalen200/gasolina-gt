@@ -17,6 +17,14 @@
   function recordar(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
   function guardar(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* nada */ } }
 
+  /** Degradado suave debajo de la línea, como en las gráficas de bolsa. */
+  function relleno(ctx, hex) {
+    const g = ctx.createLinearGradient(0, 0, 0, 240);
+    g.addColorStop(0, hex + "44");
+    g.addColorStop(1, hex + "05");
+    return g;
+  }
+
   function color(prod) {
     return { superior: css("--resalte"), regular: css("--acento"), diesel: "#8b5cf6", kerosene: css("--texto-suave") }[prod];
   }
@@ -96,12 +104,14 @@
 
       const datasets = dibujables.map(p => {
         const s = serie(hoyDatos, historialMem, p);
+        const c = color(p);
         return {
           label: NOMBRE[p],
           data: visibles.map(f => (s[f] != null ? s[f] : null)),
-          borderColor: color(p), backgroundColor: color(p),
-          tension: 0.25, spanGaps: true, borderWidth: 2.5,
-          pointRadius: visibles.length > 40 ? 0 : 3,
+          borderColor: c,
+          backgroundColor: relleno($("graficaPrecio").getContext("2d"), c),
+          fill: "start", tension: 0.25, spanGaps: true, borderWidth: 2.5,
+          pointRadius: 0, pointHoverRadius: 5, pointHoverBackgroundColor: c,
         };
       });
 
@@ -113,12 +123,14 @@
           responsive: true, maintainAspectRatio: false,
           interaction: { mode: "index", intersect: false },
           plugins: {
-            legend: { position: "top", labels: { boxWidth: 24, usePointStyle: true, pointStyle: "line" } },
+            legend: { position: "top", align: "start", labels: { boxWidth: 22, usePointStyle: true, pointStyle: "line", padding: 16 } },
             tooltip: { callbacks: { title: i => fechaCorta(i[0].label), label: c => " " + c.dataset.label + ": " + q(c.raw) } },
           },
           scales: {
-            y: { grid: { color: css("--borde") }, ticks: { callback: v => "Q" + v, maxTicksLimit: 5 } },
-            x: { grid: { display: false }, ticks: { maxTicksLimit: 4, maxRotation: 0, callback: (v, i) => fechaCorta(visibles[i]) } },
+            y: { border: { display: false }, grid: { color: css("--borde"), drawTicks: false },
+                 ticks: { callback: v => "Q" + v, maxTicksLimit: 5, padding: 8 } },
+            x: { border: { display: false }, grid: { display: false },
+                 ticks: { maxTicksLimit: 4, maxRotation: 0, padding: 6, callback: (v, i) => fechaCorta(visibles[i]) } },
           },
         },
       });

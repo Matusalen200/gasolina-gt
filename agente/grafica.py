@@ -15,7 +15,9 @@ PRODUCTOS = [("superior", "Súper", "#e8871a"), ("regular", "Normal", "#1f5fbf")
              ("diesel", "Diésel", "#8b5cf6"), ("kerosene", "Kerosene", "#8a94a6")]
 EN_GRAFICA = ("superior", "regular", "diesel")
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
-ALZA, BAJA, SUAVE, TEXTO, BORDE = "#d64545", "#2e9e5b", "#5b6470", "#14181d", "#dfe4ea"
+# Estilo oscuro tipo panel financiero: fondo negro, línea con relleno y casi nada de adornos.
+FONDO, TEXTO, SUAVE, BORDE = "#131619", "#f1f3f5", "#9aa4b1", "#2a3038"
+ALZA, BAJA = "#d64545", "#2e9e5b"
 
 
 def _serie(historial: list[dict], diario: list[dict], prod: str) -> dict[str, float]:
@@ -79,10 +81,10 @@ def generar(ruta=None):
     from agente.reporte import precios_vigentes
     vigente, fecha_dato, _ = precios_vigentes(precios, hoy_datos)
 
-    fig = plt.figure(figsize=(9, 7.2), dpi=110, facecolor="white")
-    ejes = fig.add_gridspec(2, 1, height_ratios=[1.45, 1], hspace=0.28)
+    fig = plt.figure(figsize=(9, 7.4), dpi=110, facecolor=FONDO)
+    ejes = fig.add_gridspec(2, 1, height_ratios=[1.5, 1], hspace=0.3)
     ax = fig.add_subplot(ejes[0])
-    ax.set_facecolor("white")
+    ax.set_facecolor(FONDO)
 
     x = range(len(visibles))
     for prod, nombre, color in PRODUCTOS:
@@ -95,19 +97,23 @@ def generar(ruta=None):
             y.append(ultimo)
         if all(v is None for v in y):
             continue
-        ax.plot(x, y, label=nombre, color=color, linewidth=2.8, marker="o", markersize=4)
+        ax.plot(x, y, label=nombre, color=color, linewidth=2.6, solid_capstyle="round")
+        piso = min(v for v in y if v is not None)
+        ax.fill_between(x, y, piso - 0.6, color=color, alpha=0.13, linewidth=0)
         if y[-1] is not None:
             ax.annotate(f"Q{y[-1]:.2f}", (len(visibles) - 1, y[-1]), textcoords="offset points",
-                        xytext=(8, 0), color=color, fontsize=11, fontweight="bold", va="center")
+                        xytext=(10, 0), color=color, fontsize=12, fontweight="bold", va="center")
 
-    ax.set_title("Gasolina GT · precio del galón", fontsize=16, fontweight="bold", color=TEXTO, pad=12)
-    ax.legend(loc="upper left", frameon=False, fontsize=11)
-    ax.grid(axis="y", color=BORDE, linewidth=1)
+    ax.set_title("Gasolina GT · precio del galón", fontsize=16, fontweight="bold", color=TEXTO, pad=14, loc="left")
+    leyenda = ax.legend(loc="upper left", frameon=False, fontsize=11, ncol=3,
+                        bbox_to_anchor=(0, 1.02), handlelength=1.6)
+    for t in leyenda.get_texts():
+        t.set_color(SUAVE)
+    ax.grid(axis="y", color=BORDE, linewidth=0.9)
     ax.set_axisbelow(True)
-    for lado in ("top", "right", "left"):
+    for lado in ("top", "right", "left", "bottom"):
         ax.spines[lado].set_visible(False)
-    ax.spines["bottom"].set_color(BORDE)
-    ax.tick_params(colors=SUAVE, labelsize=10)
+    ax.tick_params(colors=SUAVE, labelsize=10, length=0)
     paso = max(1, len(visibles) // 5)
     ax.set_xticks(list(x)[::paso])
     ax.set_xticklabels([_etiqueta(visibles[i]) for i in list(x)[::paso]])
@@ -149,10 +155,10 @@ def generar(ruta=None):
         axt.text(cols[3], y, txt, fontsize=13, color=col, fontweight="bold", ha="right", transform=axt.transAxes)
         y -= 0.19
 
-    fig.text(0.5, 0.015, "Precios de referencia del MEM (autoservicio) y lo que publican los medios · gasolinagt",
+    fig.text(0.5, 0.015, "Precios de referencia del MEM (autoservicio) y lo que publican los medios",
              ha="center", fontsize=9, color=SUAVE)
     ruta.parent.mkdir(parents=True, exist_ok=True)
-    fig.savefig(ruta, facecolor="white", bbox_inches="tight", pad_inches=0.35)
+    fig.savefig(ruta, facecolor=FONDO, bbox_inches="tight", pad_inches=0.35)
     plt.close(fig)
     log(f"Gráfica lista: {ruta.name} ({len(visibles)} días, {len(filas)} combustibles)")
     return ruta
