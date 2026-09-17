@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T13:16+00:00",
+  "actualizado": "2026-09-17T14:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 19,
@@ -8,11 +8,44 @@
   },
   "noticias": [
     {
+      "id": "f36c75f938ee",
+      "titulo": "Wall St opens higher as easing oil prices boost Fed hike relief",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+      "fecha": "2026-09-17T13:38+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "dcf13ccb7ba1",
+      "titulo": "Rising oil, rates and yields brew up stagflation cocktail for markets",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmhlTzlKbEFSMGdBRGhpNGxzWDVGZzFsWHR5cXZXLVZwTjRZX0xtVjN4UW1LU3BVNW4wSGlod0VLSEhBbWRJNS0za2NIWWkxVlJqSzBsVU1rWHlIcXNUVmRDemNnbFBrV2J3eEhRSjM4NG9xaHl2ZXR0ZzAySFpOT0tFeWxnZw?oc=5",
+      "fecha": "2026-09-17T13:25+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "03f054fda9fc",
       "titulo": "Alberta Plans New Royalty Incentives to Spur Oil Production",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-Plans-New-Royalty-Incentives-to-Spur-Oil-Production.html",
       "fecha": "2026-09-17T10:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c6704ab04584",
+      "titulo": "Chile weighs ethanol-gasoline blend as government seeks cheaper fuels amid fiscal strains",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDhqUDlSd244emFaTlZ6eGVQQVhtOHk1d3piTkFVemtIUkVsckh0bko1dG1Kd1NILUhlSW1tRWlkcjFDQjZuUS1NNTU4S1JVY3VFT252ejJNWkVtQkpWRWZKV1hZaEl3bE1tZTc4U294UlAxdWlyWGRyZzhaQUdYdkY0TVd6emFUbjM3cFZndE93RHg5bFV3VS1jcUE2OUM3YnZlajlkUHZCLUItVm9JQVRvdllWQW1OZ3VITlZxczdtdElIYl9uQ1pB?oc=5",
+      "fecha": "2026-09-17T10:18+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -173,6 +206,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "42a901896e3d",
+      "titulo": "Arévalo asegura que urge poner en vigencia subsidio para los combustibles",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVUtkTk5sZjF4V09pUDJ0c1J0WEVUSDlidUlHR01RNlB1UFM2N25GS05lV1pCNGdIU1E0eHBIcldVdHlPV1NQWG93V3RQVEM4emhaZVlXWGNFNDBtVmYwT2ZJMklSX0RpemNoNU8wSk9jS2hVY1IwUU5aTXU3LV8xZVFIMHFPQkp4dHlkSm5HRDhUNF9EbVNWVUdLRQ?oc=5",
+      "fecha": "2026-09-16T23:24+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "8d38660a89cc",
       "titulo": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
       "fuente": "OilPrice.com",
@@ -289,6 +333,17 @@
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Continental-Strikes-Venezuela-Oil-Deal-with-PDVSA.html",
       "fecha": "2026-09-16T18:30+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f6d95669bde5",
+      "titulo": "Así quedarían los precios de los combustibles si se suspenden impuestos",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamhyWDJDemx5RXFCU0VyTGREREdfcUhzZllTTUEyeGxYZ01PTkVyVDNWYS1JNDZvWXQxcmZDRkhoRDlmbTdNZ3Q0TE1WcDJBRVBuSmNzUFY3TjZWbkJfaTBJNXhkNHVEeWJ1Q05xdWpIVWlQRmM1Z3hIZlNOMmVWcnowSTBfejlpdjVOVUxNdGgta0Z4Q1UwYXZXVQ?oc=5",
+      "fecha": "2026-09-16T18:04+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -492,69 +547,14 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "e2fb2ab73101",
-      "titulo": "US energy chief says Saudi Arabia oil pipeline should be back online within days",
+      "id": "3cf2817d866f",
+      "titulo": "Gold edges down as oil-driven inflation fears lift rate-hike bets",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjVqU3FIVkpudnZrWWI3ZndxaldTN2FtV0lXR0JuSnIweGhPRDFYS0FPUWxxVG5YS1Rmb3J0QlBRZ0hucFgxX3hWc3JBWllZbDZLWkJ4STd6X1lUekNXeUd6OXNRZTJ5dEFQRmwzY2M4bUlLSmlHTkZzUWFFRkJCWTZSRlJ1TGtQNnNydFdGZ01uQmVtNWplOG9yLTFidlV6aG5jaE51SXRSSGVMUmdJTGh2M3pVdG5sWWM4SzBQcFlOdzA?oc=5",
-      "fecha": "2026-09-15T16:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtaVGZLb1VLWXI1QlhvSGNHeThxbkxfa3NIdk1SZFA3LWZta2JmdnBUTEtKV0dUSGg4OGVQSHYyV0w5RGY1QXEwaG02OVVoVlJmRG9xc3VwQ2RZSFh2V25neWVqS01jVm9pTFg0U29TcXdueHBXbnRuTmRuOFA0TzlyNEppVUJldE9KVFE4c3FlS04zRXRsaXNCQWhqQQ?oc=5",
+      "fecha": "2026-09-15T17:57+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bb95814a08fd",
-      "titulo": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzFDc2FCc0FfZmtWMnByQ3RVclRnWXlXOUdlSWJlVFdrOUZ0VFU2MHMtZXFRck9JdXZqTUs1VTlNRGVYdk1CQnZmQVRhaEh6UzlDbmQxMlZrSGdQTnBidmVibG10MnhiVDhZMC03Mi01VWRZdnNvT1R6M2tzMlI2RTFVNzJLdy1LbWtGY1A3Vm5Ka3VKRUpRRzU3U1BZTHdTU0c0T0RiM0tINDFoWE84UFUtdFBqa2lUcE5v?oc=5",
-      "fecha": "2026-09-15T16:46+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "29bd67b69de9",
-      "titulo": "Argentina escalates legal push against Falklands oil exploration firms",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVNoaWFlOEUtNzd5ZWZrUFByN0F2c01lcE5zb0U2bmdZdkx4aThaN3dwT1IyZlI1YlR5R001RlNQa3ZxSTBKendFSkgxVVVVWmtRSllEay1GdjY2TnVLeVVFSFJDM2tfaWhudGx0ckRzTDNSUzRuREFkNnhaRzNZemtzZTNtQjJwNHBuNDZBZkwxVzZDM1VFdTF0QndJZUIyai1Id3dpWEtLa2R0?oc=5",
-      "fecha": "2026-09-15T16:21+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8fb8b1f3b7b5",
-      "titulo": "Dangote profits from Europe fuel crunch as IPO tests investor appetite",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbERvenJsbkxzUzVzeXZnZ3Zic1hnQ0JEMFhvQ3JNd3hfOXBmVFA1WTJadS00NzZyekZxV0h3QlZHN0d4R0hPU0ZSWTgwVFNzV09NeC1xeFRrSXFFN3lBZ3RjbU1WU0VXZS1hM1R2dThTWkMxQnpDQVBVbVFNc3hYWXp4b2c3SEEzWG9xR1BzdE9fQ3lLUEVweUZqX0J5S0ZPVHFIVl84Y0pVRGFHSDBIemFtMjA?oc=5",
-      "fecha": "2026-09-15T14:16+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ff1330d3de8d",
-      "titulo": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVctVzBuTWtQU01oYjJyMGRQNDlnYktuTlItaFRidlFFX3VZRHVUamZMc2tyd1l4YkhTQndtZlNyeGlwN0xsT1c3QmhnaWhqeE1kZUJGZTBwMkFrQ2RtU0tOdldHQWRCUlpjcDFrYXhlclU4Y05SRldPb21uSExkUTJYR1I5OXJHdWhWSzZwVFVMZGdwTDJzUHliazNMSFh3ZUZ0Vk8xUV9TWE5y?oc=5",
-      "fecha": "2026-09-15T13:46+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "14c7c2dff9dd",
-      "titulo": "Poland to revive windfall tax on oil firms, use proceeds for fuel price relief",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenNDazRTMmI0Q3BPWkpVMzVOQWo5b1BtaGM0MUpleS0tQzFaYTBpT2hOYkg0N051WU9mQ2N4SVUycy1yb1ZpQzYxOEEwZ3N1UnpXT3I2TEk1dVdyR0I5cFEyV2FGZE8wZHBIUXNOVWg5NXExWFB4QlZMYlVmMWtSTmNKUFV5ZUhybF82c0c4blFHYnR1cHVMdHpXRWxmQjNGdm9ORFNocGppSkxnV2tQeHg1SFNDMmJPbTJB?oc=5",
-      "fecha": "2026-09-15T11:33+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
