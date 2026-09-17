@@ -27,9 +27,14 @@ LLAVES_CONOCIDAS = ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHANNEL_ID", "ANTHROPIC_API_
 
 
 def titulo(texto: str) -> None:
-    print("\n" + "─" * 60)
-    print(texto)
-    print("─" * 60)
+    print("\n" + "─" * 60, flush=True)
+    print(texto, flush=True)
+    print("─" * 60, flush=True)
+
+
+def esperando(texto: str) -> None:
+    """Avisa antes de algo que tarda, para que la ventana nunca se vea vacía."""
+    print(f"   {texto}...", flush=True)
 
 
 def api(token: str, metodo: str, **params):
