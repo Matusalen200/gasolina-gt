@@ -15,9 +15,9 @@ Variables disponibles (se rellenan con str.format):
 # Mensaje corto diario (canal de Telegram, WhatsApp, tablero). 5 líneas.
 MENSAJE_DIARIO = (
     "{emoji} {veredicto}. {cambio}\n"
-    "Hoy el galón cuesta: Súper {superior} · Regular {regular} · Diésel {diesel}\n"
+    "Hoy el galón cuesta: Súper {superior} · Normal {regular} · Diésel {diesel}\n"
     "{razon}\n"
-    "Lo más barato: {depto_barato}, regular a {precio_barato}\n"
+    "Lo más barato: {depto_barato}, normal a {precio_barato}\n"
     "Noticias: {noticias}"
 )
 
@@ -31,7 +31,7 @@ MENSAJE_SENAL = (
 # Respuesta a /precio <departamento>
 MENSAJE_PRECIO = (
     "⛽ Hoy en {departamento} ({cabecera}):\n"
-    "Súper {superior} · Regular {regular} · Diésel {diesel}\n"
+    "Súper {superior} · Normal {regular} · Diésel {diesel}\n"
     "{comparacion}\n"
     "Dato del {fecha_mem}.{estimado}"
 )
@@ -66,7 +66,7 @@ MENSAJE_NOTICIAS = "📰 Lo que está moviendo el precio:\n{lista}"
 FILA_NOTICIA = "{emoji} {titulo}"
 
 MENSAJE_FUTURO = (
-    "🔮 Lo que esperamos para las próximas 4 semanas (regular):\n"
+    "🔮 Lo que esperamos para las próximas 4 semanas (gasolina normal):\n"
     "{lista}\n"
     "{nota}"
 )
@@ -92,7 +92,7 @@ MENSAJE_MERCADO = (
 
 MENSAJE_TOPE = (
     "⚖️ Precio tope aprobado por el Congreso:\n"
-    "Súper {superior} · Regular {regular} · Diésel {diesel}\n"
+    "Súper {superior} · Normal {regular} · Diésel {diesel}\n"
     "Cuando entre en vigor, ninguna gasolinera debería cobrar más."
 )
 MENSAJE_TOPE_SIN_DATO = "Todavía no hay un precio tope vigente que yo conozca."
@@ -175,7 +175,7 @@ REPORTE_MD = """# Reporte Gasolina GT · {fecha}
 | Producto | Precio hoy (Q/galón, autoservicio) |
 |---|---|
 | Súper | {superior} |
-| Regular | {regular} |
+| Normal (regular) | {regular} |
 | Diésel | {diesel} |
 
 Dato del {fecha_mem}.
@@ -185,7 +185,7 @@ Dato del {fecha_mem}.
 **Puntaje de señal:** {puntaje} (de -100 a +100). Gasolina en EE.UU. a 7 días: {rbob_pct}. Dólar a 7 días: {fx_pct}.
 Noticias últimos 7 días: {n_alza} al alza, {n_baja} a la baja.
 
-**Más barato:** {depto_barato} ({cabecera_barata}), regular {precio_barato}. **Más caro:** {depto_caro}, regular {precio_caro}.
+**Más barato:** {depto_barato} ({cabecera_barata}), normal {precio_barato}. **Más caro:** {depto_caro}, normal {precio_caro}.
 
 ## Noticias que mueven el precio
 {noticias_md}

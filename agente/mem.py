@@ -382,7 +382,7 @@ def integrar_ejecutivo(info: dict, fuente: str, origen: str) -> dict:
             "tipo_cambio": info.get("tipo_cambio"),
             "autoservicio": auto,
             "servicio_completo": {k: v for k, v in info["servicio_completo"].items() if not k.startswith("_")},
-            "cambio_semanal": {k: round(auto[k] - anterior[k], 2) for k in ("superior", "regular", "diesel") if k in auto and k in anterior},
+            "cambio_semanal": {k: round(auto[k] - anterior[k], 2) for k in ("superior", "regular", "diesel", "kerosene") if k in auto and k in anterior},
         }
         guardar_json(RUTA_PRECIOS, actual)
     for fila in info.get("historial", []):

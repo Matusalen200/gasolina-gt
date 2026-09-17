@@ -25,19 +25,9 @@
     <button class="boton" id="btnCompartir" hidden>📲 Compartir por WhatsApp</button>
   </section>
 
-  <!-- 2. Cuánto cuesta (panel estilo Google Finance) -->
+  <!-- 2. Cuánto cuesta: gráfica arriba, tabla abajo (como la del MEM) -->
   <section class="burbuja" id="precios" hidden>
     <p class="pregunta">¿Cuánto cuesta el galón hoy?</p>
-    <div class="chips" id="chipsPrecio">
-      <button data-p="regular" class="activo">Regular</button>
-      <button data-p="superior">Súper</button>
-      <button data-p="diesel">Diésel</button>
-    </div>
-    <div class="precio-grande" id="precioGrande">–</div>
-    <div class="precio-producto" id="precioProducto"></div>
-    <div class="precio-cambio" id="precioCambio"></div>
-    <p class="nota" id="precioFuente"></p>
-    <p class="respuesta" id="precioOtros"></p>
     <div class="tabs" id="tabsRango">
       <button data-r="1S">1 semana</button>
       <button data-r="1M" class="activo">1 mes</button>
@@ -45,9 +35,15 @@
       <button data-r="1A">1 año</button>
     </div>
     <div class="lienzo"><canvas id="graficaPrecio"></canvas></div>
-    <p class="nota" id="precioHueco" hidden>Hay semanas sin dato: el MEM bloqueó las descargas y las noticias no traían precios esos días.</p>
+    <table class="tabla-precios">
+      <thead>
+        <tr><th>Combustible</th><th id="colAntes">Antes</th><th id="colHoy">Hoy</th><th>Cambio</th></tr>
+      </thead>
+      <tbody id="cuerpoTabla"></tbody>
+    </table>
+    <p class="nota" id="precioFuente"></p>
+    <p class="nota">Precio por galón. En tu gasolinera puede variar unos centavos.</p>
     <p class="aviso" id="precioTope" hidden></p>
-    <p class="nota">Los puntos vienen del informe semanal del MEM y de lo que publican los medios cada día. En tu gasolinera puede variar unos centavos.</p>
   </section>
 
   <!-- 3. Dónde -->
@@ -58,7 +54,7 @@
     <p class="respuesta" id="dondeMio" hidden></p>
     <p class="respuesta" id="dondeBarato"></p>
     <div class="chips" id="chipsProducto">
-      <button data-p="regular" class="activo">Regular</button>
+      <button data-p="regular" class="activo">Normal</button>
       <button data-p="superior">Súper</button>
       <button data-p="diesel">Diésel</button>
     </div>

@@ -209,3 +209,22 @@ Noticias: Gold rises over 1% as investors digest Fed hike, oil rally s · Oil pr
 2026-09-16 22:09 [INFO] Telegram: reporte 2026-09-16 publicado en -1003973167814
 2026-09-16 22:09 [INFO] Telegram: 0 mensajes respondidos, publicado=True
 2026-09-16 22:09 [INFO] Fin corrida
+2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
+2026-09-16 22:22 [INFO] --- hoy ---
+2026-09-16 22:22 [INFO] Precio hoy: Prensa Libre 2026-09-06 promedio S=43.09 R=41.09 D=None · Gasolinas registran otro aumento y el MEM lo atribuye al con
+2026-09-16 22:22 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-16 22:22 [INFO] Precio hoy: 1 observaciones nuevas de 8 artículos · regular 42.59 (2026-09-16)
+2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
+2026-09-16 22:22 [INFO] --- senal ---
+2026-09-16 22:22 [INFO] Señal: 🔴 Llena HOY (puntaje +79) · Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
+2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
+2026-09-16 22:22 [INFO] --- proyeccion ---
+2026-09-16 22:22 [INFO] Proyección (calibrando, n=9, MAE=None): regular [43.36, 43.36, 43.36, 43.36]
+2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
+2026-09-16 22:22 [INFO] --- reporte ---
+2026-09-16 22:22 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes sube como Q1.35 el galón.
+Hoy el galón cuesta: Súper Q44.66 · Normal Q42.58 · Diésel Q49.36
+Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q42.58
+Noticias: Gold rises over 1% as investors digest Fed hike, oil rally s · Oil prices extend losses as fears of Middle East supply disr · Poland's Orlen buys 16 extra crude cargoes to cover Saudi di

@@ -33,7 +33,7 @@ RUTA_ESTADO = DATA / "telegram_estado.json"
 RUTA_USUARIOS = DATA / "telegram_usuarios.json"
 API = "https://api.telegram.org/bot{token}/{metodo}"
 TABLERO_URL = os.environ.get("TABLERO_URL", "https://github.com/").strip()
-PRODUCTOS = {"superior": "súper", "regular": "regular", "diesel": "diésel"}
+PRODUCTOS = {"superior": "súper", "regular": "normal", "diesel": "diésel"}
 GALONES_DEFECTO = 10
 
 
@@ -119,7 +119,7 @@ def _producto_de(texto: str) -> str:
         return "superior"
     if "diesel" in t:
         return "diesel"
-    return "regular"
+    return "regular"   # la gente le dice "normal"; adentro se llama regular, como en el MEM
 
 
 def _lista_deptos() -> str:

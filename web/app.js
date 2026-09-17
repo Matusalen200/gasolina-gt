@@ -7,7 +7,7 @@
     alza: css("--alza"), baja: css("--baja"), estable: css("--estable"),
     acento: css("--acento"), resalte: css("--resalte"), suave: css("--texto-suave"), texto: css("--texto"), borde: css("--borde"),
   };
-  const NOMBRE_PRODUCTO = { superior: "Súper", regular: "Regular", diesel: "Diésel" };
+  const NOMBRE_PRODUCTO = { superior: "Súper", regular: "Normal", diesel: "Diésel" };
   const SEMANA = ["dom", "lun", "mar", "mié", "jue", "vie", "sáb"];
   const EMOJI = { alza: "🔴", baja: "🟢", estable: "🟡" };
 

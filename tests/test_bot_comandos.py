@@ -71,7 +71,7 @@ def test_baratos_y_caros_por_producto():
 
 def test_tanque_calcula_y_compara():
     r = telegram.responder("/tanque 10 Petén")
-    assert "10 galones de regular en Petén" in r and "Q438.80" in r
+    assert "10 galones de normal en Petén" in r and "Q438.80" in r
     assert "ahorras Q12.90" in r          # 10 gal x (43.88 - 42.59)
     assert "Ya estás en el lugar más barato" in telegram.responder("/tanque 5 Guatemala")
     assert "súper" in telegram.responder("/tanque 12 super Quetzaltenango")
@@ -104,7 +104,7 @@ def test_texto_normal_sin_comando():
     assert "Petén" in telegram.responder("Petén")
     assert telegram.responder("¿va a subir?").startswith("🔴")
     assert "💚" in telegram.responder("dónde está más barata")
-    assert "galones de regular" in telegram.responder("cuánto cuesta llenar 15 galones")
+    assert "galones de normal" in telegram.responder("cuánto cuesta llenar 15 galones")
     assert telegram.responder("cualquier cosa rara") == P.MENSAJE_NO_ENTIENDO  # sin Claude, cae aquí
 
 

@@ -18,7 +18,7 @@ def test_mensaje_corto_cinco_lineas_y_estilo():
     lineas = m.splitlines()
     assert len(lineas) <= 5
     assert lineas[0] == "🔴 Llena HOY. El martes sube como Q0.45 el galón."
-    assert lineas[1] == "Hoy el galón cuesta: Súper Q32.09 · Regular Q31.09 · Diésel Q27.29"
+    assert lineas[1] == "Hoy el galón cuesta: Súper Q32.09 · Normal Q31.09 · Diésel Q27.29"
     assert "RBOB" not in m and "WTI" not in m
     assert "Guatemala" in lineas[3]
 

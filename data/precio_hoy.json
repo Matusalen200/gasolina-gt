@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-09-16T22:09-06:00",
-  "revisados": 25,
-  "nuevos": 2,
+  "actualizado": "2026-09-16T22:22-06:00",
+  "revisados": 8,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
@@ -56,6 +56,11 @@
       "diesel": 46.39
     },
     {
+      "fecha": "2026-09-06",
+      "superior": 43.09,
+      "regular": 41.09
+    },
+    {
       "fecha": "2026-09-10",
       "superior": 42.05,
       "regular": 40.05,
@@ -92,6 +97,18 @@
       "fuente": "Prensa Libre",
       "url": "https://www.prensalibre.com/economia/los-precios-de-la-gasolina-en-guatemala-vuelven-a-subir-asi-queda-el-galon-de-la-regular-superior-y-el-diesel-este-3-de-septiembre/",
       "titulo": "Los precios de la gasolina en Guatemala vuelven a subir: así queda el galón de la regular, superior y el diésel este 3 de septiembre",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-07T00:30+00:00",
+      "fecha_dato": "2026-09-06",
+      "tipo": "promedio",
+      "superior": 43.09,
+      "regular": 41.09,
+      "diesel": null,
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/gasolinas-registran-otro-aumento-y-el-mem-lo-atribuye-al-conflicto-en-medio-oriente/",
+      "titulo": "Gasolinas registran otro aumento y el MEM lo atribuye al conflicto en Medio Oriente",
       "extraido_por": "reglas"
     },
     {
@@ -235,6 +252,13 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdVJUUmNlaktwWkl2M3BRVzVvc0F1VHlmZ05uRm5rbVRpeDBpbHBXRnpxVUdGM0MzOVNHaVM2SFZCOUUweU1QdDZCS0lnQzNYZEFlVFBMWXhxeWlUTVRWNWNHV3lybThJWTZGRUpFT29MUDAxcVhiektMaGRLVkRGMS1MRjVBTkd2eEd2YnhlOA?oc=5",
     "https://lahora.gt/internacionales/hbeteta/2026/09/16/ee-uu-interviene-una-estacion-de-combustible-flotante-vinculada-a-los-choneros-now/",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGF0X0NWbHViT1hIQk5xYS1SZmtMb3ZPd05JM0p5ajdCNGRZWGFSTWdrR09OSjlMYU50cU1vSWY5TkE1U2lKTERzVHRENEhtSXRSa1VjZTY1UE1lUUtNZ2tGSVBORGtBcFc2WVR4Y1VTMUdndG9td3pUTDdjcmFMWWlmdmRGVXpzcDlTYkZyRkRNbEJDdF9xSzBIUk5HYllZb2M4QTB3QmljaUgtYVpxX0M3UHZweFVOMHFFNHR4RG5VMktST2RZbWl1OERwZ01nZDFPbVRVV0lmWHRRdE05X01ndUNHSGp6YjcyTmhoelVXeGl0VEdTcUVn0gH6AUFVX3lxTE80YXRfQ1ZsdWJPWEhCTnFhLVJma0xvdk93TkkzSnlqN0I0ZFlYYVJNZ2tHT05KOUxhTnRxTW9JZjlOQTVTaUpMRHNUdEQ0SG1JdFJrVWNlNjVQTWVRS01na0ZJUE5Ea0FwVzZZVHhjVVMxR2d0b213elRMN2NyYUxZaWZ2ZEZVenNwOVNiRnJGRE1sQkN0X3FLMEhSTkdiWVlvYzhBMHdCaWNpSC1hWnFfQzdQdnB4VU4wcUU0dHhEblUyS1JPZFltaXU4RHBnTWdkMU9tVFVXSWZYdFF0TTlfTWd1Q0dIanpiNzJOaGh6VVd4aXRUR1NxRWc?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVFvbl9KR3V3SS1FSTJyQTNoVlpxVVVibGZNNEhWRjlMSVRadGR3ZG1jQkt4VkxFb0o4Z01IYmMtZlpIRnA4QUREU3gyM205QVZnbExfU2NqSl9mbklsYm44c0VfeWxLRkcxOVJHVUM2TEtmaUtVVVZuMnp5T0JkYTN2aWNjNFRnWWNtZE45SXJaRDVSN2lENQ?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVFvbl9KR3V3SS1FSTJyQTNoVlpxVVVibGZNNEhWRjlMSVRadGR3ZG1jQkt4VkxFb0o4Z01IYmMtZlpIRnA4QUREU3gyM205QVZnbExfU2NqSl9mbklsYm44c0VfeWxLRkcxOVJHVUM2TEtmaUtVVVZuMnp5T0JkYTN2aWNjNFRnWWNtZE45SXJaRDVSN2lENQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRWw2V0ZWWDBRTEI1bTNSX2E1Wm0zQTdzVkNUR1g5STR0QXhNNUhBOUNoTnMxc2dYVE15cmJEZHBRcExVY1dkemJXYjl0Y0RvM016WmJmVkMzSGJJOE8wbEROY2Y0MHVaMDVSNFlVckRUT0RQR2FQWmh2aURMNXJQWnJWbU52aVh4MllYc3BkcmgycEpsTXN4bE1TaVBVNFNIY3Y0T0ZRU3RaTWhHMzBtQ25KMXVsNzZfT09adUYzTUFTTGJCTzM3b2lwUnl2NVNCZkZKV0tUT1VwelhySEhWV2dRM2R4cEszbl95Ykg1MGgzMUt6?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdGNmWXN0UnRob3U5dUZ0YkhZMk9CUmNJUll3dTdtamVUTlFkdTNYeUFIbjYwTFRJemF1VGF0VTdJbTJVc3BZaGI4cmhnVTVuTnFfcldVYzRYRUpiTnNMTUNGSlNSZ2o4RjZCa0tQYTZHMFFucFJyWVl4bWdtQWJycEJjQzZoaGlQWjFOUHpNTlRCZFFVTWd4M0hkMHB5WXdSWlVzZjlhakJSZ1FZSmhYQkJURnUwVE5yX2NlLVg4MWJoa0h6MUdsWWVqUkMwWTF6ZlBVbU9ZRWVGSThESmpNZDE2ZWw3XzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmV1ZXNFUWZsdkFMQmpmQ1ZJWDRHb1RISE8wSEZ5VUlEZXBiMVlKWjFCUXVZSTh4ZENwTGU0ajB5aFFkQW56MG9pSDhxalBxWExMMlNkNGZMTEpFaW5FbVJlQnRMNEFSbVZ4aC11bUF0MTJiZ3JtNURQemxqZjJjUVF1N0pfaEEwV3dqalMwenpYNUxoS1VsSUd3N2wtdWJCRlE?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT0VsQmlXUFJuamJGM2dOdHFGZ3lLNzU0TXBvN2ZLc1VXNk5OOTJJNlRkcG1tS2lnc1llaHJIeEI4bEhRRTA5RjdwOEJYSThjSVh2NzM1VFEtZkd2Z2E1QUJ5TzVidEVLQmdjZnVVOVF5UDVjUTVjbHlSbzl0bWZXX0IxRVlaUEJDRnJIU0FFYnRlUXBORFZLak95TFdRVkY0M1RGTGhfdlZXZlNfOGtwdkxWanduMldhbFppR2Q0Rzd5WURLZG9YNEZyMFJQSWZTRnlEbkpteGdZbGkzUHZLdXA2Ul9JdmUtbVFGMXdDVEdldTQzN0lqSNIBkwJBVV95cUxOczhwbDFNZnZVRk9SQUdIeC05Szc1c0ZoeXFDQjRHRnFqSkRHZ0t6OTdWaHBYUHpJTERVb3d4Ung0SWc0aHdiTTJDeUM3X21BMHJjMXR1NURLZTBVRjhYcm91eHpwZ2R6ZkZOejVIR0VxWFBZamx2U1VRRmQ3NjlFdWhxdDNEcUhJQ3NlazNubW55a0ZvNGc0ajQxYTJrTXJJek1IcVFlR1ZQN1B1SGJjUEVKaVFybWhYVERvck52X1V5dzNtRlVIbFdzT2dtZkxZNkd4a2ItNkh1TGtNZHJjOS1JcDVVWmJSbGRGejJ5RTkxY1RpSFFGXzJxWm9NMC1xcGhvLWxFdXNTcHJUWThLeW5rbw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTV0dVFwMzZiTUZxNzFYZllrQU5INERkWmJ5MkZVd01sNmxXTENEZmF6U3VyV245ME41dzdoRWVCMC1Fc0Z2Y1ptd2xmVHd1cUxxbk1GZXE0M1kwWTRIdDh4QktrSV80dmh4dl9IckU5YUJ3WTM2ckdGeHJXQ1RMOVphUjNfWmhfQmFwdTc5T2pYZUpoMnpFQ1ZKbFNjUkhmVkc2UFA5blFFWnF6?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUIyOTlwU3dfUTgyeUJwb3BsMnVlYzc0dnFfVjdyUnhsbVg4bGxMdXlGSTkxVHg0VVR0UkxrYWJoR0hQM2IzY2s2a200M2w2SGZYME85anI2WWp3Uk9iWFZzX0dZb291N0p5ZG1LTW41RFVzQWNJTHUxdmRsbDV2bldPa0lRQUlueWlWcXZuRG9GSkFTdVcxbnRSMElWMEVOaERSQ2lLbUVzbVlEWEU1eVhjT1lGVFU4bTRTMnc0eTdYOWRiRDhB0gHHAUFVX3lxTE01QjI5OXBTd19RODJ5QnBvcGwydWVjNzR2cV9WN3JSeGxtWDhsbEx1eUZJOTFUeDRVVHRSTGthYmhHSFAzYjNjazZrbTQzbDZIZlgwTzlqcjZZandST2JYVnNfR1lvb3U3SnlkbUtNbjVEVXNBY0lMdTF2ZGxsNXZuV09rSVFBSW55aVZxdm5Eb0ZKQVN1VzFudFIwSVYwRU5oRFJDaUttRXNtWURYRTV5WGNPWUZUVThtNFMydzR5N1g5ZGJEOEE?oc=5",
+    "https://www.prensalibre.com/economia/verificamos-por-usted-habra-menos-gasolina-superior-disponible-en-guatemala/"
   ]
 }

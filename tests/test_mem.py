@@ -68,3 +68,15 @@ def test_parsear_tabla_html_del_mem():
     assert t["servicio_completo"]["diesel"] == 47.42 and t["servicio_completo"]["kerosene"] == 55.0
     assert t["tipo_cambio"] == 7.663
     assert mem.parsear_tabla_html("<html><body>Un momento</body></html>") is None
+
+
+def test_tabla_oficial_del_16_de_septiembre():
+    """Los números que publicó el MEM el 16/09/2026, tal como se ven en su página."""
+    info = mem.parsear_tabla_html((FIX / "tabla-mem-2026-09-16.html").read_text(encoding="utf-8"))
+    assert info["fecha_monitoreo"] == "2026-09-16"
+    assert info["autoservicio"]["superior"] == 44.66
+    assert info["autoservicio"]["regular"] == 42.58
+    assert info["autoservicio"]["diesel"] == 49.36
+    assert info["autoservicio"]["kerosene"] == 55.00
+    assert info["autoservicio"]["_anterior"]["diesel"] == 46.37
+    assert info["autoservicio"]["fecha_anterior"] == "2026-09-07"
