@@ -189,10 +189,47 @@ def paso_automatizar() -> None:
     print(r.stdout.strip() or r.stderr.strip())
 
 
+def ya_esta_conectado() -> tuple[str, str] | None:
+    """Si el bot y el canal ya quedaron conectados y siguen funcionando, devuelve (nombre_bot, nombre_canal)."""
+    g = leer_guardadas()
+    token, canal = g.get("TELEGRAM_BOT_TOKEN"), g.get("TELEGRAM_CHANNEL_ID")
+    if not token or not canal:
+        return None
+    ok_bot, info_bot = api(token, "getMe")
+    if not ok_bot:
+        return None
+    ok_canal, info_canal = api(token, "getChat", chat_id=canal)
+    if not ok_canal:
+        return None
+    return f"@{info_bot.get('username')}", info_canal.get("title") or canal
+
+
+def pantalla_ya_listo(bot: str, canal: str) -> None:
+    titulo("YA ESTÁ TODO CONECTADO · no tienes que hacer nada aquí")
+    print(f"  Tu bot:    {bot}")
+    print(f"  Tu canal:  «{canal}»")
+    print("\nEste archivo ya hizo su trabajo. No necesitas volver a abrirlo.")
+    print("\n👉 LO SIGUIENTE ES:  doble clic en «Publicar en internet»")
+    print("   Eso hace que funcione aunque tu computadora esté apagada.")
+    print("\nY mientras tanto, ya puedes escribirle a tu bot en Telegram:")
+    print("   /hoy   ·   /precio Quetzaltenango   ·   /tanque 10", flush=True)
+
+
 def main() -> int:
     cargar_llaves()
     print("\n⛽  GASOLINA GT · Conectar tu bot de Telegram")
     print("Esto toma 2 minutos y solo se hace una vez.")
+    print("\nSi la ventana se queda quieta, haz clic en ella y presiona la tecla Esc.", flush=True)
+
+    esperando("Revisando si ya lo habías conectado antes")
+    listo = ya_esta_conectado()
+    if listo:
+        pantalla_ya_listo(*listo)
+        respuesta = input("\n¿Quieres cambiar el bot o el canal? (no / sí): ").strip().lower()
+        if respuesta not in ("si", "sí", "s", "yes"):
+            print("\nPerfecto, no toqué nada. Cierra esta ventana cuando quieras.\n")
+            return 0
+        print("\nBueno, vamos a configurarlo otra vez.")
 
     token = paso_token()
     if not token:
@@ -211,11 +248,13 @@ def main() -> int:
     paso_menu(token)
     paso_automatizar()
 
-    titulo("¡Todo listo!")
-    print("Ahora puedes:")
-    print("  · Escribirle a tu bot en Telegram: /hoy, /precio Quetzaltenango, /tanque 10")
-    print("  · Doble clic en «Gasolina GT.bat» para ver el tablero cuando quieras.")
-    print("  · Olvidarte: él solo publica cada mañana en tu canal.\n")
+    titulo("TERMINASTE · no vuelvas a abrir este archivo")
+    print("Tu bot ya quedó conectado con tu canal. Eso no hay que repetirlo nunca.")
+    print("\n👉 LO SIGUIENTE ES:  doble clic en «Publicar en internet»")
+    print("   Eso hace que funcione aunque tu computadora esté apagada.")
+    print("\nY ya puedes escribirle a tu bot en Telegram:")
+    print("   /hoy   ·   /precio Quetzaltenango   ·   /tanque 10")
+    print("\nCierra esta ventana cuando quieras.\n", flush=True)
     return 0
 
 
