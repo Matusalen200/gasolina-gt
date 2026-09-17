@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T18:18+00:00",
+  "actualizado": "2026-09-17T19:14+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 19,
@@ -7,6 +7,17 @@
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "001acbd5f8cb",
+      "titulo": "Aerolíneas de EE. UU. reducirán vuelos más baratos por el precio del combustible y así impactará al consumidor",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/aerolineas-de-ee-uu-reduciran-vuelos-mas-baratos-por-el-precio-del-combustible-y-asi-impactara-al-consumidor/",
+      "fecha": "2026-09-17T18:17+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "259a71db7a80",
       "titulo": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "69e9eca19f1e",
-      "titulo": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
-      "fecha": "2026-09-15T22:49+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
