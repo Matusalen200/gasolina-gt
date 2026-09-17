@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T20:16+00:00",
+  "actualizado": "2026-09-17T21:16+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 18,
@@ -16,6 +16,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f1a924f0f0b8",
+      "titulo": "Congreso conocerá hasta el martes 22 de septiembre objeciones al decreto sobre combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/congreso-conocera-hasta-el-martes-22-de-septiembre-objeciones-al-decreto-sobre-combustibles/",
+      "fecha": "2026-09-17T19:57+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -536,22 +547,11 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "b831f93cf903",
-      "titulo": "Russia set to extend diesel export ban until end of October, Vedomosti reports",
+      "id": "5931472b64c6",
+      "titulo": "Indian shares edge higher after selloff; oil, US rate worries cap gains",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTAzazg3QTJwbjdTNFcwd2VNcGhiTWVYTGNpeURzY3gzSlBnRG5odEVuNzlIQkpjTEY5dlU4OWVybGttTU5kdjlNRFo0MVdZQ1JLMU9PWG1aUWNCMFJfSlctanppNnk2TUZPMVBuZnRkb184RTNQNHJQSVlVUjViQmVQNHVEU0Z6c1E0Y3RJc0p2aDFLMGltaFRCSlByNGROTUhETUUtOU1JWFNlM3ZVbjZuZVE3YkJMa29WaVdqWFA?oc=5",
-      "fecha": "2026-09-16T08:07+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fc16be39aff3",
-      "titulo": "Saudi offers more crude via Oman loading after pipeline attacks, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHd3ZXRacHUwZzJ0NlI1cnlrQmhnaXJRNWRZRTFXdnQzTUJ2azZ1X09DOXVUa0ZBalBYNlBpRVJ2X3YtczUwbmJjYjJXZGtjZFdVWEZ5YVVzUUJIOWRaZXdYa29xUjF0d25oMC1uZzlOc0JHSUFVOV9iNkxLbGRRdUNwSzcwZDZaRFhFck9uckhQVzdJN2k1aDdVTEFzYlJGTnl1ajlkQWUwVnljanR1ZHJzdl9XZkt2OXg5NThqSm5ib3ZuSnc?oc=5",
-      "fecha": "2026-09-16T04:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGZwNnhJd2VnRFVFRzkxTlFVSl9CM2NDVXduY3V6c21DMnFjNThSTkR2OFFTNUR6aVdabVBybkZ0TEVCTS1yR0p5YlZCYlR6dTl2NnhVRnRvcVJPeXU1NWFNVWNESW8yRld2c1JLanJsdXh2d1V1R0lId2RuQXU0cUVIb1g4RW1rMUJHZ1hSMGM1Y2JXTnhnLURBTkRKNlFzM3JqVmlZU21xRXlReG5GdG5sMFhCX0czb2ZNSmlsT0ZKX3lfNVVn?oc=5",
+      "fecha": "2026-09-16T12:09+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
