@@ -54,28 +54,6 @@
     if (ultimoReporte && ultimoReporte.fecha) $("subtitulo").textContent = "Actualizado el " + fechaCorta(ultimoReporte.fecha) + ".";
   }
 
-  /* ---------------------------------------------------------------- 2. precios */
-  function pintarPrecios(precios) {
-    if (!precios || !precios.autoservicio) return;
-    const a = precios.autoservicio, c = precios.cambio_semanal || {};
-    $("precios").hidden = false;
-    $("preciosFecha").textContent = "Precio de referencia del MEM en la ciudad, del " + fechaCorta(precios.fecha_monitoreo) + ". En tu gasolinera puede variar unos centavos.";
-    for (const k of ["superior", "regular", "diesel"]) {
-      const K = k[0].toUpperCase() + k.slice(1);
-      $("p" + K).textContent = q(a[k]);
-      const el = $("c" + K);
-      if (c[k] != null) {
-        el.textContent = c[k] > 0 ? "subió Q" + c[k].toFixed(2) : c[k] < 0 ? "bajó Q" + Math.abs(c[k]).toFixed(2) : "igual que la semana pasada";
-        el.className = "cambio-chico " + (c[k] > 0 ? "up" : c[k] < 0 ? "down" : "");
-      }
-    }
-    const dias = (Date.now() - new Date(precios.fecha_monitoreo + "T12:00:00")) / 864e5;
-    if (dias > 10) {
-      $("preciosAviso").hidden = false;
-      $("preciosAviso").textContent = "Ojo: estos precios son del " + fechaCorta(precios.fecha_monitoreo) + ". El sitio del MEM no nos deja bajar el informe nuevo; seguimos intentando cada hora.";
-    }
-  }
-
   /* ---------------------------------------------------------------- 3. dónde (lista simple) */
   function pintarDeptos(deptosOficial, deptosHoy) {
     const deptos = (deptosHoy && deptosHoy.departamentos && deptosHoy.departamentos.length) ? deptosHoy : deptosOficial;
@@ -265,6 +243,11 @@
     for (const [k, v] of filas) { const f = document.createElement("div"); f.className = "fila"; f.innerHTML = "<span>" + k + "</span><b>" + v + "</b>"; lista.appendChild(f); }
   }
 
+  /** Dibuja una sección. Si algo falla ahí, el resto del tablero sigue funcionando. */
+  function seccion(dibujar) {
+    try { dibujar(); } catch (e) { console.error("Falló una sección del tablero:", e); }
+  }
+
   /* ---------------------------------------------------------------- arranque */
   async function iniciar() {
     const [precios, deptos, senal, historialSenal, noticias, aciertos, proyeccion, mercado, plan, ultimoReporte, precioHist] = await Promise.all([
@@ -274,16 +257,16 @@
     ]);
     const precioHoy = await cargar("precio_hoy.json");
     const deptosHoy = await cargar("departamentos_hoy.json");
-    pintarVeredicto(senal, ultimoReporte);
-    if (window.pintarPanelPrecio) window.pintarPanelPrecio(precioHoy, precios, precioHist); else pintarPrecios(precios);
-    pintarDeptos(deptos, deptosHoy);
-    pintarTira(historialSenal);
-    pintarNoticias(noticias, senal);
-    pintarAciertos(aciertos);
-    pintarPlus(plan);
-    pintarProyeccion(proyeccion, precioHist);
-    pintarMercado(mercado);
-    pintarDetalleSenal(senal);
+    seccion(() => pintarVeredicto(senal, ultimoReporte));
+    seccion(() => window.pintarPanelPrecio(precioHoy, precios, precioHist));
+    seccion(() => pintarDeptos(deptos, deptosHoy));
+    seccion(() => pintarTira(historialSenal));
+    seccion(() => pintarNoticias(noticias, senal));
+    seccion(() => pintarAciertos(aciertos));
+    seccion(() => pintarPlus(plan));
+    seccion(() => pintarProyeccion(proyeccion, precioHist));
+    seccion(() => pintarMercado(mercado));
+    seccion(() => pintarDetalleSenal(senal));
     const act = (senal && senal.actualizado) || (precios && precios.actualizado);
     if (act) $("pie").textContent = "Última revisión: " + new Date(act).toLocaleString("es-GT", { dateStyle: "long", timeStyle: "short" }) + ".";
     if (location.hostname.endsWith("github.io")) {
