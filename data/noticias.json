@@ -1,12 +1,56 @@
 {
-  "actualizado": "2026-09-17T19:14+00:00",
+  "actualizado": "2026-09-17T20:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 19,
-    "BAJA": 8,
+    "ALZA": 18,
+    "BAJA": 9,
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "43c961ded9ac",
+      "titulo": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
+      "fecha": "2026-09-17T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e209aeae8fc3",
+      "titulo": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/America-Is-Paying-a-Lot-for-Fuel-Not-Running-Out-of-Gasoline.html",
+      "fecha": "2026-09-17T19:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "cdb847a40b53",
+      "titulo": "Transportistas piden al Congreso aprobar paquete extraordinario para reducir el precio del combustible",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/comunitario/transportistas-piden-al-congreso-aprobar-paquete-extraordinario-para-reducir-el-precio-del-combustible-breaking/",
+      "fecha": "2026-09-17T19:28+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c977bb215c12",
+      "titulo": "Russian Fuel Exports Rebound in August But Still Down 50% From Last Year",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Fuel-Exports-Rebound-in-August-But-Still-Down-50-From-Last-Year.html",
+      "fecha": "2026-09-17T19:15+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "001acbd5f8cb",
       "titulo": "Aerolíneas de EE. UU. reducirán vuelos más baratos por el precio del combustible y así impactará al consumidor",
@@ -508,50 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHd3ZXRacHUwZzJ0NlI1cnlrQmhnaXJRNWRZRTFXdnQzTUJ2azZ1X09DOXVUa0ZBalBYNlBpRVJ2X3YtczUwbmJjYjJXZGtjZFdVWEZ5YVVzUUJIOWRaZXdYa29xUjF0d25oMC1uZzlOc0JHSUFVOV9iNkxLbGRRdUNwSzcwZDZaRFhFck9uckhQVzdJN2k1aDdVTEFzYlJGTnl1ajlkQWUwVnljanR1ZHJzdl9XZkt2OXg5NThqSm5ib3ZuSnc?oc=5",
       "fecha": "2026-09-16T04:42+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5931472b64c6",
-      "titulo": "Indian shares edge higher after selloff; oil, US rate worries cap gains",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGZwNnhJd2VnRFVFRzkxTlFVSl9CM2NDVXduY3V6c21DMnFjNThSTkR2OFFTNUR6aVdabVBybkZ0TEVCTS1yR0p5YlZCYlR6dTl2NnhVRnRvcVJPeXU1NWFNVWNESW8yRld2c1JLanJsdXh2d1V1R0lId2RuQXU0cUVIb1g4RW1rMUJHZ1hSMGM1Y2JXTnhnLURBTkRKNlFzM3JqVmlZU21xRXlReG5GdG5sMFhCX0czb2ZNSmlsT0ZKX3lfNVVn?oc=5",
-      "fecha": "2026-09-16T02:32+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "35235dad1b88",
-      "titulo": "Oil slips as Saudi Arabia offers more crude via Oman",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUw2WF9wc1NsbDZJRTlsTzlIOFYzZWtQMEJUS0tNT3VPUEhJUnhIZTZBTlJTcG50M0IxOXNLYTFSQVZRb2VIWllBT2ZzNC14RnAwUkhWYW91MlJrVm5TX3BZR3RSeVU3dUtjZmJuWm1hZWNyd29LLUUyY3BIekxROHllS0xoME02UUNDWnJlakRUU3hnOFg2aUV3X0FVVWd3SUpkRkZUTjdoX3VTRm95UE5CTWQxVXk1?oc=5",
-      "fecha": "2026-09-16T00:41+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ccc2d63432b4",
-      "titulo": "Japan August imports jump as oil prices lift costs, exports stay firm",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDRjeXFUNG1qY1A5RVAyZjh0UW9QeU9KclNsb1BWQktuVlUwOXhlcGFQclY2LUdGR3ZrWWFVS1hTY09ORmZZSkU1OEdaMU1TZXBObW9pVjY0U0ZDRE5kUEtfUldBWEI0UUJxdFR1cGtkNG94ZGo2RlRhWTAwdkJTalFKOEplX21tWU1BbXA2YmtPMW85ZUxFeGhkaHdrOFd4S1Fxd3RkeFFnd09VcGJkcTRCdjhMd0E3aDVEeA?oc=5",
-      "fecha": "2026-09-16T00:33+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "034dd524ce13",
-      "titulo": "US Coast Guard boarded a Texas-bound oil tanker to investigate a cyberattack, Bloomberg News reports",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ21WNTZrOXplZkFRZzRlWUVtSzlOOC1fOWFqQ0NkOW4tSXNPQnZyaGdDWVlsakZtNXRlMGtaN0dMWklld3A0cUE3MGlEbmtaNGJnWEE0Wk1ocUh6Smc0b1otY1dGcHZBdEpjS0cySHhEV1hSV2JqS3lJR0dmOGVXT05idWl6RXdfd1FHMFR0UnVhYjlxNk45SVZocGtvdkNMOWVZM3J0eDlMSG45S0R0YjVNclRMdnN3eUFjMVFNa1NHUQ?oc=5",
-      "fecha": "2026-09-15T23:33+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
