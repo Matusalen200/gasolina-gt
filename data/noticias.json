@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-18T18:17+00:00",
+  "actualizado": "2026-09-18T19:14+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
-    "BAJA": 7,
-    "NEUTRAL": 29
+    "ALZA": 13,
+    "BAJA": 6,
+    "NEUTRAL": 31
   },
   "noticias": [
     {
@@ -272,6 +272,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "e034d116a891",
+      "titulo": "COMMENTARY: Record diesel prices could be Trump's Achilles' heel",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEZ0M2pPUVB1SkZaZTlOS09jZnVpNTRsS1F5dk1FVV9RdThja1BHSkZNMUtFaktfZWtQS3NITmJwLTVPNWRYdjhCNERvc29abmVRLURkM2tsNDJHa3dXNGVDRTE1QjRzVTJuLXhzOFVlV2tobmtqRnJTekVmSERwMllyRjhUZzVUNDM3T1dBOTFTSGFURjIyT3VIQ1R2d1FieUVwMmNSZjhhWkFFWV9oei1sZHJCaEgzZFZB?oc=5",
+      "fecha": "2026-09-18T06:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "da7d652a173d",
       "titulo": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes",
       "fuente": "Reuters (vía Google News)",
@@ -371,6 +382,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f36c75f938ee",
+      "titulo": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+      "fecha": "2026-09-17T22:43+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "f58be4b73cb2",
       "titulo": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
       "fuente": "OilPrice.com",
@@ -421,6 +443,17 @@
       "url": "https://www.prensalibre.com/guatemala/politica/congreso-conocera-hasta-el-martes-22-de-septiembre-objeciones-al-decreto-sobre-combustibles/",
       "fecha": "2026-09-17T19:57+00:00",
       "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2c3e26b39fff",
+      "titulo": "Oil falls 1% as investors watch Middle East supply disruptions",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
+      "fecha": "2026-09-17T19:38+00:00",
+      "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -519,39 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdwcm5UdmhsM25Bc2lQT0Y4N0E0YTNGbnlQNEU5dWhsRjB6LXJBbWp0NUNBZ2w5YThsQXc3WXl0dVN6TlMzaGpleE5NbWd2cnljV3ZZV3pKdEZoX0o1U2JDRFRuM1R4bXMyaGNuMU0yX2ktZnEweUR4SmlsTHZNdDgya2RNNjRmU2xKeUtZV0oxUGYtQ1NULUR3QWlBU2JILUVwUXdGaW44cmhqR3ZhbkwyRlU2QThQRDRCb0ttZzl6MlRz?oc=5",
       "fecha": "2026-09-17T16:43+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c93c121552f6",
-      "titulo": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Kpler-Sees-Oil-Grinding-Higher-as-Diesel-Crunch-Deepens.html",
-      "fecha": "2026-09-17T16:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ae1ffe2c5024",
-      "titulo": "Oil Prices Slide as China Presses Iran to Rein In the Houthis",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Slide-as-China-Presses-Iran-to-Rein-In-the-Houthis.html",
-      "fecha": "2026-09-17T14:54+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f2549f08f4f9",
-      "titulo": "Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-Refinery-as-Moscow-Prepares-to-Extend-Diesel-Export-Ban.html",
-      "fecha": "2026-09-17T14:30+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
