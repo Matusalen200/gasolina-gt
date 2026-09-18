@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-18T14:15+00:00",
+  "actualizado": "2026-09-18T15:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
+    "ALZA": 13,
     "BAJA": 7,
-    "NEUTRAL": 31
+    "NEUTRAL": 30
   },
   "noticias": [
     {
@@ -162,6 +162,39 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "0c4992e0cb3c",
+      "titulo": "¿Cuánto recauda el IDP en Guatemala y qué implicaría suspender este impuesto a los combustibles?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/cuanto-recauda-el-idp-en-guatemala-y-que-implicaria-suspender-este-impuesto-a-los-combustibles/",
+      "fecha": "2026-09-18T06:10+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9c93e02762ca",
+      "titulo": "Diésel llega a US$8.35 por galón en California y analistas advierten que los precios podrían subir más",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/diesel-llega-a-us8-35-por-galon-en-california-y-analistas-advierten-que-los-precios-podrian-subir-mas/",
+      "fecha": "2026-09-18T06:05+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ddbd534d81bf",
+      "titulo": "Precio de la gasolina, lo peor está por llegar",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/opinion/columnasdiarias/precio-de-la-gasolina-lo-peor-esta-por-llegar/",
+      "fecha": "2026-09-18T06:03+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "da7d652a173d",
       "titulo": "EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes",
       "fuente": "Reuters (vía Google News)",
@@ -212,6 +245,17 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
       "fecha": "2026-09-18T01:01+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b4365899b48f",
+      "titulo": "¿Cuánto costaría el galón de gasolina y diésel si se elimina el IDP y el IVA?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/cuanto-costaria-el-galon-de-gasolina-y-diesel-si-se-elimina-el-idp-y-el-iva/",
+      "fecha": "2026-09-18T00:16+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7b779a8ddcf0",
-      "titulo": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Saudi-Arabia-Reroutes-Crude-via-Oman.html",
-      "fecha": "2026-09-17T05:20+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "18db8bd76000",
-      "titulo": "India says new US tariffs over Russian oil could hit ties, vows to protect energy security",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
-      "fecha": "2026-09-17T05:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2ba937e63ca0",
-      "titulo": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-huties-los-rebeldes-aliados-de-iran-en-yemen-que-tienen-en-vilo-al-mercado-mundial-de-petroleo/",
-      "fecha": "2026-09-17T03:43+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1b1890c42891",
-      "titulo": "Indian shares muted as Fed, oil and IPO rush dent risk appetite",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkdJa0oyTlF5UEN1Z1F0ZUhhN1dfOHpyZmwwUFJVUnNyZUYyT0xiUDNaRmNGNUViX0UxZ3NralBWd1dHd0VZeFlDeTBoYXFMb1k4eWZvNU16c0M4Q20xM0VDUWYzbFZVWjlFTUF5b0h4VFptTUNETC05OVdWM0lHSE9La2kxUUozMFFnUEYxN1lXR01sZEdpcXR1cHlGYzcyUWpaVHpSS0NhVHFTM0o1clhKcVMtdkM4VTYzY0RINA?oc=5",
-      "fecha": "2026-09-17T02:32+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
