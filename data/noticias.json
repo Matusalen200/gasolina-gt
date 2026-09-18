@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-18T13:15+00:00",
+  "actualizado": "2026-09-18T14:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
-    "BAJA": 8,
+    "ALZA": 12,
+    "BAJA": 7,
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "e05a386ddea7",
+      "titulo": "The Oil Market’s Backup Plan Is Breaking Down",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Markets-Backup-Plan-Is-Breaking-Down.html",
+      "fecha": "2026-09-18T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5b08ffba7a3f",
+      "titulo": "What goes into diesel prices?",
+      "fuente": "EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68164",
+      "fecha": "2026-09-18T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "6ab4f0abbd45",
       "titulo": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
@@ -74,6 +96,28 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "974b0ed169ad",
+      "titulo": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnVndzQ3SmZYYlFqRkN3QnJteXljZTAzdW9uckxBSDZpRGtPTTFtSGhDZ2J4SWstN2NEd3pQYkxSNUpfSFpJQkgtUjhZRlhNZzFHbHZtQUREaGdqUnFURkxXLXRiWHh6Z3ppaGh0UlRFSmkwR0wzQ2taLW94bnNPM2pLdEQzWnk0NzR1R2FRc29JSnlEU2pZQ0hZVkFMMm1VR3ZHRy1scHN3Yy1SSjVxZHhfY2NsOHAxb0JDWQ?oc=5",
+      "fecha": "2026-09-18T11:26+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "0fa1911d2826",
+      "titulo": "Gasolina y diésel en Guatemala: las crisis del 2022 y 2026 que llevaron a aplicar millonarios subsidios",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/gasolina-y-diesel-en-guatemala-las-crisis-del-2022-y-2026-que-llevaron-a-aplicar-millonarios-subsidios/",
+      "fecha": "2026-09-18T11:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "4fc2295c4bcd",
       "titulo": "EU ministers to discuss taxing windfall profits of energy companies as oil prices surge",
       "fuente": "Reuters (vía Google News)",
@@ -96,6 +140,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "79311a909088",
+      "titulo": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Exports-Surge-as-Global-Diesel-Shortage-Deepens.html",
+      "fecha": "2026-09-18T08:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "8db903318857",
       "titulo": "Japan's refiners secured sufficient crude supplies through November, industry body says",
       "fuente": "Reuters (vía Google News)",
@@ -115,6 +170,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6dc29c5a9801",
+      "titulo": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html",
+      "fecha": "2026-09-18T05:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -145,6 +211,39 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
       "fecha": "2026-09-18T01:01+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "524624938a27",
+      "titulo": "What Yemen Really Means to the U.S.-Iran War",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html",
+      "fecha": "2026-09-18T00:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4c5614782b2c",
+      "titulo": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html",
+      "fecha": "2026-09-17T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f58be4b73cb2",
+      "titulo": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html",
+      "fecha": "2026-09-17T22:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -453,105 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkdJa0oyTlF5UEN1Z1F0ZUhhN1dfOHpyZmwwUFJVUnNyZUYyT0xiUDNaRmNGNUViX0UxZ3NralBWd1dHd0VZeFlDeTBoYXFMb1k4eWZvNU16c0M4Q20xM0VDUWYzbFZVWjlFTUF5b0h4VFptTUNETC05OVdWM0lHSE9La2kxUUozMFFnUEYxN1lXR01sZEdpcXR1cHlGYzcyUWpaVHpSS0NhVHFTM0o1clhKcVMtdkM4VTYzY0RINA?oc=5",
       "fecha": "2026-09-17T02:32+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "26610528c15b",
-      "titulo": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
-      "fecha": "2026-09-17T02:27+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "274d05339d25",
-      "titulo": "Dollar eases from peak as oil prices extend decline, BoJ in focus",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
-      "fecha": "2026-09-17T02:08+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "67f6293feb48",
-      "titulo": "Seis propuestas buscan bajar el precio de las gasolinas y el diésel: qué plantea cada una y cómo avanzan",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/seis-propuestas-buscan-bajar-el-precio-de-las-gasolinas-y-el-diesel-que-plantea-cada-una-y-como-avanzan/",
-      "fecha": "2026-09-17T02:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c2a906fc8fd7",
-      "titulo": "US temporarily eases curb on working hours for fuel truck drivers",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZThIZDBuVHcySk8yc2NoaHZKeWlMY3lRNkU5dXFVTFpZeEJEU2NxR2FSbmNXMl9TNk1YMHJucTFGNENnYlZyTm9mMDJUa0dRUjRRc2otMkdIYmFnQnlWNEZKbXR0eWU1UHVDcU1HM0lZSFZJRnluNmVYREdlMENKQU45ckJGVDdwMWF2bWkxZi1VXzl1TzJKcWloQ1BSMTBkYnJuaUpHY2hWR1FMQzJZ?oc=5",
-      "fecha": "2026-09-17T01:01+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2c3e26b39fff",
-      "titulo": "Oil prices extend losses as fears of Middle East supply disruptions ease",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
-      "fecha": "2026-09-17T01:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ad8da402d57c",
-      "titulo": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
-      "fecha": "2026-09-17T00:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5612e40ed068",
-      "titulo": "Arévalo pide al Legislativo resolver objeciones a la ley que propone precios de referencia a los combustibles",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/politica/arevalo-pide-al-legislativo-resolver-objeciones-a-la-ley-que-propone-precios-de-referencia-a-los-combustibles/",
-      "fecha": "2026-09-16T23:55+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "42a901896e3d",
-      "titulo": "Arévalo asegura que urge poner en vigencia subsidio para los combustibles",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVUtkTk5sZjF4V09pUDJ0c1J0WEVUSDlidUlHR01RNlB1UFM2N25GS05lV1pCNGdIU1E0eHBIcldVdHlPV1NQWG93V3RQVEM4emhaZVlXWGNFNDBtVmYwT2ZJMklSX0RpemNoNU8wSk9jS2hVY1IwUU5aTXU3LV8xZVFIMHFPQkp4dHlkSm5HRDhUNF9EbVNWVUdLRQ?oc=5",
-      "fecha": "2026-09-16T23:24+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8d38660a89cc",
-      "titulo": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
-      "fecha": "2026-09-16T23:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
