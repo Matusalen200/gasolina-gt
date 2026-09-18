@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T17:14+00:00",
+  "actualizado": "2026-09-18T18:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
@@ -7,6 +7,28 @@
     "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "7dcd1ee1b532",
+      "titulo": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
+      "fecha": "2026-09-18T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "39857126e86a",
+      "titulo": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Rig-Count-Creeps-Up-With-Strong-Prices.html",
+      "fecha": "2026-09-18T17:18+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "7ed480065bfb",
       "titulo": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
@@ -530,28 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-Refinery-as-Moscow-Prepares-to-Extend-Diesel-Export-Ban.html",
       "fecha": "2026-09-17T14:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c3979192fd91",
-      "titulo": "Russian seaborne oil product exports rose 16.4% in August, data from sources shows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1duWnBIRTBxMnFnaGVnV1p4eDJQMDR3RXBfb0xCYzdnd3Z0OUhVeFVZMDFjM1IxRk1Qel9kNExaMWhvU0J2OWtCSUNTVW9MQlNmYVJMc3Jkc2ZManJidzc3Qk1WeXlnU1JxOWVyTlFDUzJZSng2NUxaYmNvaUhLVHoySkdYRDVXX3VfcF9qV0d5LUU2Y3dydGU3VmFZb24yTVgzc1NBdlZWN0RUMUdhUU1ET1lLb1I5WHIxQlhiYnE?oc=5",
-      "fecha": "2026-09-17T14:09+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f36c75f938ee",
-      "titulo": "Wall St opens higher as easing oil prices boost Fed hike relief",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
-      "fecha": "2026-09-17T13:38+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
