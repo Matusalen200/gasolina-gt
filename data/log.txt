@@ -477,3 +477,20 @@ Noticias: Transportistas piden al Congreso aprobar paquete… · Aerolíneas de 
 2026-09-18 09:15 [INFO] --- telegram ---
 2026-09-18 09:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-18 09:15 [INFO] Fin corrida
+2026-09-18 10:13 [INFO] Inicio corrida 2026-09-18 10:13 GT
+2026-09-18 10:13 [INFO] --- mem ---
+2026-09-18 10:13 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-18 10:14 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-18 10:14 [INFO] --- hoy ---
+2026-09-18 10:14 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-18 10:14 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 42.59 (2026-09-16)
+2026-09-18 10:14 [INFO] --- mercado ---
+2026-09-18 10:14 [INFO] Mercado: RBOB 3.24 (3.04% 7d), WTI 96.77, USD/GTQ 7.629 · 3/3 símbolos
+2026-09-18 10:14 [INFO] --- noticias ---
+2026-09-18 10:14 [INFO] RSS: 244 notas relevantes en 8 fuentes
+2026-09-18 10:14 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 14, 'BAJA': 7, 'NEUTRAL': 29}
+2026-09-18 10:14 [INFO] --- senal ---
+2026-09-18 10:14 [INFO] Señal: 🔴 Llena HOY (puntaje +51) · Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
+2026-09-18 10:14 [INFO] --- telegram ---
+2026-09-18 10:14 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-18 10:14 [INFO] Fin corrida
