@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T19:14+00:00",
+  "actualizado": "2026-09-18T20:15+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 13,
@@ -7,6 +7,39 @@
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "50d73205eac5",
+      "titulo": "Transportistas de carga advierten del impacto del alto costo del combustible en los alimentos",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/transportistas-de-carga-advierten-del-impacto-del-alto-costo-del-combustible-en-los-alimentos-breaking/",
+      "fecha": "2026-09-18T19:20+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "847da838f19e",
+      "titulo": "Cinco sucesos geopolíticos han presionado al alza los combustibles, explica el MEM",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/cinco-sucesos-geopoliticos-han-presionado-al-alza-los-combustibles-explica-el-mem/",
+      "fecha": "2026-09-18T18:00+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4c78439aca43",
+      "titulo": "Precio del combustible: transportistas advierten alza en las tarifas si sus propuestas no reciben respuesta",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/comunitario/precio-del-combustible-transportistas-advierten-alza-en-las-tarifas-si-sus-propuestas-no-reciben-respuesta-breaking/",
+      "fecha": "2026-09-18T17:56+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "7dcd1ee1b532",
       "titulo": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5167d35be051",
-      "titulo": "EXCLUSIVE: US shale oil producer HighPeak Energy exploring sale, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2dTSlE2eXVkSlRtazZ2MHFKMndPMGRyckswNXIxQzc0eEtqYTIwYjNwVUFka2dxbnRIeTBucUtOLTlDTjVpMEx4NUdFcDd5eVZScmpsWDhaWnBtN1NSSDZ5cnAyNXE5RmJBdVRIRUN3a0hNQ01CRG9NU05zdC1rZnFBMGZIQ2liay1rR3o0bkVkcXRDSGFaV0ljblpoaGhxSDl0Tjg1ckRtMjBxWDc5X3c0TTcyZ3c?oc=5",
-      "fecha": "2026-09-17T17:56+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "87a67b12c088",
-      "titulo": "European stocks rise after Fed hike as oil slips, yields stabilise",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRm16cXFKWWRKaW9qbDZsVjgycGJVZy1Pbnd1dU5wd2dDcEk5UXktS2JuUzM2TFJRRC1xSE1LQXlWYWR1bEJxbWo1YjcyZjY4VnlhYlVwOTE1ODdTVkdIbWVVVXd5dmVXZEtPVmZsM1hVNEZ1QXZXR1dlbUg5cGwwd3J5UUh2RTQ4Qmg1UUpyZ1BFS0NQa0NhQVNR?oc=5",
-      "fecha": "2026-09-17T16:44+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "56e957a4535b",
-      "titulo": "Russia's Yaroslavl refinery shuts processing after a drone attack, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdwcm5UdmhsM25Bc2lQT0Y4N0E0YTNGbnlQNEU5dWhsRjB6LXJBbWp0NUNBZ2w5YThsQXc3WXl0dVN6TlMzaGpleE5NbWd2cnljV3ZZV3pKdEZoX0o1U2JDRFRuM1R4bXMyaGNuMU0yX2ktZnEweUR4SmlsTHZNdDgya2RNNjRmU2xKeUtZV0oxUGYtQ1NULUR3QWlBU2JILUVwUXdGaW44cmhqR3ZhbkwyRlU2QThQRDRCb0ttZzl6MlRz?oc=5",
-      "fecha": "2026-09-17T16:43+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
