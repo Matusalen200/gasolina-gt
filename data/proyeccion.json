@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T07:16-06:00",
+  "actualizado": "2026-09-18T07:15-06:00",
   "estado": "calibrando",
   "metodo": "traslado_simple",
   "n_semanas": 9,
@@ -15,35 +15,35 @@
   "semanas": [
     {
       "fecha": "2026-09-22",
-      "regular": 42.9,
-      "superior": 44.98,
-      "diesel": 49.68,
-      "rango_bajo": 42.15,
-      "rango_alto": 43.65
+      "regular": 43.08,
+      "superior": 45.16,
+      "diesel": 49.86,
+      "rango_bajo": 42.33,
+      "rango_alto": 43.83
     },
     {
       "fecha": "2026-09-29",
-      "regular": 42.9,
-      "superior": 44.98,
-      "diesel": 49.68,
-      "rango_bajo": 41.84,
-      "rango_alto": 43.96
+      "regular": 43.08,
+      "superior": 45.16,
+      "diesel": 49.86,
+      "rango_bajo": 42.02,
+      "rango_alto": 44.14
     },
     {
       "fecha": "2026-10-06",
-      "regular": 42.9,
-      "superior": 44.98,
-      "diesel": 49.68,
-      "rango_bajo": 41.6,
-      "rango_alto": 44.2
+      "regular": 43.08,
+      "superior": 45.16,
+      "diesel": 49.86,
+      "rango_bajo": 41.78,
+      "rango_alto": 44.38
     },
     {
       "fecha": "2026-10-13",
-      "regular": 42.9,
-      "superior": 44.98,
-      "diesel": 49.68,
-      "rango_bajo": 41.4,
-      "rango_alto": 44.4
+      "regular": 43.08,
+      "superior": 45.16,
+      "diesel": 49.86,
+      "rango_bajo": 41.58,
+      "rango_alto": 44.58
     }
   ],
   "nota": "Calibrando: solo hay 9 semanas con datos del MEM y de mercado (se necesitan 10). Mientras tanto se muestra un traslado simple del cambio de la gasolina en EE.UU. desde el último dato del MEM (2026-09-16)."
