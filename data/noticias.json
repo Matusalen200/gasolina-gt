@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-18T20:15+00:00",
+  "actualizado": "2026-09-18T21:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
-    "BAJA": 6,
+    "ALZA": 14,
+    "BAJA": 5,
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "43d788f19591",
+      "titulo": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
+      "fecha": "2026-09-18T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2f609ea4d5d6",
+      "titulo": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
+      "fecha": "2026-09-18T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "50d73205eac5",
       "titulo": "Transportistas de carga advierten del impacto del alto costo del combustible en los alimentos",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "001acbd5f8cb",
-      "titulo": "Aerolíneas de EE. UU. reducirán vuelos más baratos por el precio del combustible y así impactará al consumidor",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/aerolineas-de-ee-uu-reduciran-vuelos-mas-baratos-por-el-precio-del-combustible-y-asi-impactara-al-consumidor/",
-      "fecha": "2026-09-17T18:17+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "259a71db7a80",
-      "titulo": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html",
-      "fecha": "2026-09-17T18:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
