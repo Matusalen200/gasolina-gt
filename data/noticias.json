@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-18T21:15+00:00",
+  "actualizado": "2026-09-19T13:21+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
-    "BAJA": 5,
-    "NEUTRAL": 31
+    "BAJA": 4,
+    "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "0765ef996132",
+      "titulo": "Combustibles en Guatemala: cuánto perdería el fisco si se suspenden IVA e IDP",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/combustibles-en-guatemala-cuanto-perderia-el-fisco-si-se-suspenden-iva-e-idp/",
+      "fecha": "2026-09-19T06:10+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "43d788f19591",
       "titulo": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
@@ -481,6 +492,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "274d05339d25",
+      "titulo": "Dollar pauses after Fed rally as yields, oil retreat",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
+      "fecha": "2026-09-17T21:04+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "43c961ded9ac",
       "titulo": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
       "fuente": "OilPrice.com",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cdb847a40b53",
-      "titulo": "Transportistas piden al Congreso aprobar paquete extraordinario para reducir el precio del combustible",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/comunitario/transportistas-piden-al-congreso-aprobar-paquete-extraordinario-para-reducir-el-precio-del-combustible-breaking/",
-      "fecha": "2026-09-17T19:28+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c977bb215c12",
-      "titulo": "Russian Fuel Exports Rebound in August But Still Down 50% From Last Year",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Fuel-Exports-Rebound-in-August-But-Still-Down-50-From-Last-Year.html",
-      "fecha": "2026-09-17T19:15+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
