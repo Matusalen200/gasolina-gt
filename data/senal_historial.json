@@ -40,5 +40,12 @@
     "tendencia": "alza",
     "veredicto": "Llena HOY",
     "cambio_estimado_q": 0.75
+  },
+  {
+    "fecha": "2026-09-20",
+    "puntaje": 61,
+    "tendencia": "alza",
+    "veredicto": "Llena HOY",
+    "cambio_estimado_q": 0.85
   }
 ]

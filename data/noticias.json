@@ -1,12 +1,67 @@
 {
-  "actualizado": "2026-09-19T13:21+00:00",
+  "actualizado": "2026-09-20T13:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
+    "ALZA": 13,
     "BAJA": 4,
-    "NEUTRAL": 32
+    "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "aff8ba2a0cb0",
+      "titulo": "Arévalo no asistirá por primera vez a Asamblea de la ONU por coincidencia con discusión sobre subsidio a combustibles en el Congreso",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/arevalo-no-asistira-a-asamblea-de-la-onu-mientras-congreso-discute-decreto-sobre-combustibles/",
+      "fecha": "2026-09-20T12:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1d76e2db28cf",
+      "titulo": "Two dead in Moscow region, drones hit oil refinery in Russian capital",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA?oc=5",
+      "fecha": "2026-09-20T05:44+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4730901ebdfb",
+      "titulo": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5",
+      "fecha": "2026-09-19T23:23+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "14d2cc5fe8cf",
+      "titulo": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
+      "fecha": "2026-09-19T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b1aaa7d6f985",
+      "titulo": "Europe Outbids Asia for LNG as Prices Surge 150%",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+      "fecha": "2026-09-19T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "0765ef996132",
       "titulo": "Combustibles en Guatemala: cuánto perdería el fisco si se suspenden IVA e IDP",
@@ -35,6 +90,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
       "fecha": "2026-09-18T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1c2b3d6827e2",
+      "titulo": "Germany cuts energy tax to offer motorists relief from soaring fuel prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZobnk2M04td0ZjWFpXR0g2d0ZwSHBxeXplMnhTVU1RcjdvMXZMVWtWY19Rd2lwRTVJNzk1Z0pzU2xKblRvcy1Mbi12aEFQQXV4YndRMVdkbEtTWW4waXZLdm1nemlRcWxNcHl2T2U3WkRrZXFmaVM0OHFocjE3dkl2NUg0LU94ZjFScVM5QllIOWJ5ZC12S21pbUUtZjVlSXpCZmc5UFJranZrM21hamVsSQ?oc=5",
+      "fecha": "2026-09-18T20:24+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -382,6 +448,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "26610528c15b",
+      "titulo": "Gold gains over 2% on weaker dollar, easing oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
+      "fecha": "2026-09-18T03:17+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "18e351f363cc",
       "titulo": "Indian shares post longest weekly losing streak in six years on oil, rate worries",
       "fuente": "Reuters (vía Google News)",
@@ -475,83 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzdPX2ViTG81M19sQUpjMS1xZUhzOGJJYWxnb0oxenVXcW1GWmd0QWtHV1JTX0tNd0NubUxSdXRHWnNud3MwT0FPYkp4OFRGbXFuTDFzTk5jNTlsc0xWVTExc2FPRDBtamJUeE9DWHpiM2FRLUt3SHRHQkJBRVZDRzBTNDFYNHg2X2xGcWEybmxYdTFVUktYQWZnZjVFdjQtSFVpMmxjZEd3aXUtbWtOTGt4cE9JX3FoYXFub2pqbHRRZw?oc=5",
       "fecha": "2026-09-17T21:11+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fb9820f1b472",
-      "titulo": "COMMENTARY: Trading Day: Lower oil, yields boost stocks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3ZtQ0pqR09sVzhBX0VXTG00TUUwek9aMG5TVkZhOUdKay1hV1BLNmhzQm5DdDJsTHludUlIeVB3RWRhZU9ZbDQtQWExdGtOX3F5alJNMTdPUk0tOTkzaGFkSjhEMUJDUXJBV0xObW11TDR2X0UxS1EtWldadnZSeVJ6Z2E1T29GeTlnbk12clBkTnpVMzdUeUlFX254UGJqOURfdVZR?oc=5",
-      "fecha": "2026-09-17T21:08+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "274d05339d25",
-      "titulo": "Dollar pauses after Fed rally as yields, oil retreat",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
-      "fecha": "2026-09-17T21:04+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "43c961ded9ac",
-      "titulo": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
-      "fecha": "2026-09-17T20:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f1a924f0f0b8",
-      "titulo": "Congreso conocerá hasta el martes 22 de septiembre objeciones al decreto sobre combustibles",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/politica/congreso-conocera-hasta-el-martes-22-de-septiembre-objeciones-al-decreto-sobre-combustibles/",
-      "fecha": "2026-09-17T19:57+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2c3e26b39fff",
-      "titulo": "Oil falls 1% as investors watch Middle East supply disruptions",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
-      "fecha": "2026-09-17T19:38+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "971224ee4113",
-      "titulo": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
-      "fecha": "2026-09-17T19:32+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e209aeae8fc3",
-      "titulo": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/America-Is-Paying-a-Lot-for-Fuel-Not-Running-Out-of-Gasoline.html",
-      "fecha": "2026-09-17T19:30+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
