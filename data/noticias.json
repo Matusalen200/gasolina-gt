@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-21T14:16+00:00",
+  "actualizado": "2026-09-21T15:14+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
+    "ALZA": 13,
     "BAJA": 9,
-    "NEUTRAL": 29
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "3d7d2efec05c",
+      "titulo": "The Secret Houthi-U.S. Deal That Could Push Saudi Arabia Back to Beijing",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Secret-Houthi-US-Deal-That-Could-Push-Saudi-Arabia-Back-to-Beijing.html",
+      "fecha": "2026-09-21T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "af10c099fa82",
       "titulo": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
@@ -104,6 +115,28 @@
       "idioma": "es",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "80beebfb119d",
+      "titulo": "Seamos serios",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/opinion/columnasdiarias/seamos-serios/",
+      "fecha": "2026-09-21T06:03+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ceeeb90c5ba2",
+      "titulo": "Lo que se pide vs. lo que se ofrece",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/opinion/columnasdiarias/lo-que-se-pide-vs-lo-que-se-ofrece/",
+      "fecha": "2026-09-21T06:01+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5152f8e32ab9",
-      "titulo": "Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Exports-Rebound-at-Hormuz-While-East-West-Pipeline-Remains-Offline.html",
-      "fecha": "2026-09-18T12:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "974b0ed169ad",
-      "titulo": "Russian ESPO oil price exceeds $120 per barrel, traders say and data shows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnVndzQ3SmZYYlFqRkN3QnJteXljZTAzdW9uckxBSDZpRGtPTTFtSGhDZ2J4SWstN2NEd3pQYkxSNUpfSFpJQkgtUjhZRlhNZzFHbHZtQUREaGdqUnFURkxXLXRiWHh6Z3ppaGh0UlRFSmkwR0wzQ2taLW94bnNPM2pLdEQzWnk0NzR1R2FRc29JSnlEU2pZQ0hZVkFMMm1VR3ZHRy1scHN3Yy1SSjVxZHhfY2NsOHAxb0JDWQ?oc=5",
-      "fecha": "2026-09-18T11:26+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0fa1911d2826",
-      "titulo": "Gasolina y diésel en Guatemala: las crisis del 2022 y 2026 que llevaron a aplicar millonarios subsidios",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/gasolina-y-diesel-en-guatemala-las-crisis-del-2022-y-2026-que-llevaron-a-aplicar-millonarios-subsidios/",
-      "fecha": "2026-09-18T11:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
