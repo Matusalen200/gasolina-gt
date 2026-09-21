@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-21T13:15+00:00",
+  "actualizado": "2026-09-21T14:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
-    "BAJA": 8,
+    "ALZA": 12,
+    "BAJA": 9,
     "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "af10c099fa82",
+      "titulo": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Reroutes-Oil-Exports-as-Houthi-Strikes-Target-Yanbu.html",
+      "fecha": "2026-09-21T13:51+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "536efb87412b",
       "titulo": "Wall St set for higher open as AI stocks rise, oil slides",
@@ -52,6 +63,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "66e8e774e80a",
+      "titulo": "Indian Oil to invest $256 million for Kochi-Thoothukudi natural gas pipeline",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVi1fNmlSaEdodWR2LW5yZDlzUUtTS2FnV3BQZ0ROYkNfS3FtNU9BUm9Lck9RaEF4cVYyU1pwUGwtTXJ6eFdvUWJaSFV5THYzQkliXzFPWFBiRmQtWl9kcnNyUmVmbllmR2RCazUzZTlBYXJQMFFiWVkySGJWUS1lYXN0TnhoaFZYcmRGb3B4djFqNU9ELUZjWWxpSkFsbGh5M1RVbmctRGtEd2FsU3plYWdDdkxqa2VKcFMwWA?oc=5",
+      "fecha": "2026-09-21T08:27+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "5e0c8bf3569e",
       "titulo": "Europe’s Fuel Crisis Spreads From Diesel to Jet Fuel",
       "fuente": "OilPrice.com",
@@ -71,6 +93,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "af3424395615",
+      "titulo": "Guatemala paga 40.8% más por importar hidrocarburos en el 2026, qué elevó el costo",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/factura-petrolera-para-guatemala-por-importacion-de-hidrocarburos-sube-40-8-hasta-julio-del-2026/",
+      "fecha": "2026-09-21T06:10+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -173,6 +206,28 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "a36bcf07bc4b",
+      "titulo": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+      "fecha": "2026-09-20T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e7202e47ef45",
+      "titulo": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
+      "fecha": "2026-09-20T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "aff8ba2a0cb0",
       "titulo": "Arévalo no asistirá por primera vez a Asamblea de la ONU por coincidencia con discusión sobre subsidio a combustibles en el Congreso",
       "fuente": "Prensa Libre",
@@ -225,6 +280,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "26caf69c03b3",
+      "titulo": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+      "fecha": "2026-09-19T08:20+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -489,72 +555,6 @@
       "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4fc2295c4bcd",
-      "titulo": "EU ministers to discuss taxing windfall profits of energy companies as oil prices surge",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVJtbzcwLVk2dHVrbldyS2FMTGFwV1hFNXN0RW1tSFNnQm8yU3dpT3B4azJEN01qUUQ2VGw4YW1SUm1iX0dMY2JmUm00eldRWDdraFVZVjV6NVhVS0ZRZ0hycjFYaWI3ZVF4T1AzU3FDRm1tVHRsaGxya256TWg2Q2JReUxseWFHOWQtRTc5blVDNDlReWpQd3owc1Q5VGpjb3RqLWFSWHB2cHJ6Unkyb1V4bkpqa2lIVjNkRnlMR3FBUmVOQTg3WTV3?oc=5",
-      "fecha": "2026-09-18T09:47+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fd55a4af269b",
-      "titulo": "Hormuz Tanker Traffic Slumps as Saudi Arabia Scrambles for New Oil Routes",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-Saudi-Arabia-Scrambles-for-New-Oil-Routes.html",
-      "fecha": "2026-09-18T09:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "79311a909088",
-      "titulo": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Exports-Surge-as-Global-Diesel-Shortage-Deepens.html",
-      "fecha": "2026-09-18T08:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8db903318857",
-      "titulo": "Japan's refiners secured sufficient crude supplies through November, industry body says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRkVMcEZkQjRZR3BIajJfbldDYWpRZVRyXzF6ZWY3amd1U3BIUE9RRDBNSGRscWdBSllaVHZhdlV2aEVlYm9jLXFOTE80aGU1cklpOVBwR05tb2pwb1k1RTQzRHNwYzdueDBmZHBRcVpLNDBiT1lBWWhCMmgyb3pJdWhmV1ByamJJVW1hblRRM1dKQThBQVMyaVhuYTIzSnZiYmg5MnVPYW9nQlhmdWxKSDA4ZWsxUUhBS0drdU83MTdQZ1d2STRZUnRwWU0?oc=5",
-      "fecha": "2026-09-18T06:40+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0c4992e0cb3c",
-      "titulo": "¿Cuánto recauda el IDP en Guatemala y qué implicaría suspender este impuesto a los combustibles?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/cuanto-recauda-el-idp-en-guatemala-y-que-implicaria-suspender-este-impuesto-a-los-combustibles/",
-      "fecha": "2026-09-18T06:10+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9c93e02762ca",
-      "titulo": "Diésel llega a US$8.35 por galón en California y analistas advierten que los precios podrían subir más",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/diesel-llega-a-us8-35-por-galon-en-california-y-analistas-advierten-que-los-precios-podrian-subir-mas/",
-      "fecha": "2026-09-18T06:05+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
