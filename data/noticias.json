@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-21T20:15+00:00",
+  "actualizado": "2026-09-21T21:14+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
+    "ALZA": 14,
     "BAJA": 12,
-    "NEUTRAL": 23
+    "NEUTRAL": 24
   },
   "noticias": [
     {
@@ -49,6 +49,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "120b64544c06",
+      "titulo": "Europe's STOXX 600 rallies on tech, banks strength as oil prices retreat",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWF0aU9mWUM0TjNtekhpT0I0NTM1RXoydldTZDlzNVM4Q0FnRXFCLTlaLUQxdEZfMS1qeU1XV0lsNHhvc09zMTBUQV9xVFhaakdCU196dW5sQ212UHdLVjVySHo5UWczV0dVS2dnY3d2Q2dTbWRkOWFRZ0g5aTlGaEtnQkFQcno2ZjdfdndQdGdSR1c3MjdEXzNCZlhRM216di1sdllQSl9OT3pkcWRSd3p3?oc=5",
+      "fecha": "2026-09-21T16:40+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -542,17 +553,6 @@
       "url": "https://www.prensalibre.com/guatemala/comunitario/precio-del-combustible-transportistas-advierten-alza-en-las-tarifas-si-sus-propuestas-no-reciben-respuesta-breaking/",
       "fecha": "2026-09-18T17:56+00:00",
       "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7dcd1ee1b532",
-      "titulo": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
-      "fecha": "2026-09-18T17:30+00:00",
-      "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
