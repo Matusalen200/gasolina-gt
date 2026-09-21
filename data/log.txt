@@ -724,3 +724,20 @@ Noticias: Arévalo no asistirá por primera vez a Asamblea de la ONU… · Combu
 2026-09-21 10:16 [INFO] --- telegram ---
 2026-09-21 10:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-21 10:16 [INFO] Fin corrida
+2026-09-21 11:12 [INFO] Inicio corrida 2026-09-21 11:12 GT
+2026-09-21 11:12 [INFO] --- mem ---
+2026-09-21 11:12 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-21 11:13 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-21 11:13 [INFO] --- hoy ---
+2026-09-21 11:14 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-21 11:14 [INFO] Precio hoy: 0 observaciones nuevas de 0 artículos · regular 42.59 (2026-09-21)
+2026-09-21 11:14 [INFO] --- mercado ---
+2026-09-21 11:14 [INFO] Mercado: RBOB 3.1749 (1.3% 7d), WTI 91.59, USD/GTQ 7.6255 · 3/3 símbolos
+2026-09-21 11:14 [INFO] --- noticias ---
+2026-09-21 11:14 [INFO] RSS: 236 notas relevantes en 8 fuentes
+2026-09-21 11:14 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 14, 'BAJA': 10, 'NEUTRAL': 26}
+2026-09-21 11:14 [INFO] --- senal ---
+2026-09-21 11:14 [INFO] Señal: 🔴 Llena HOY (puntaje +34) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+2026-09-21 11:14 [INFO] --- telegram ---
+2026-09-21 11:14 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-21 11:14 [INFO] Fin corrida

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T16:16+00:00",
+  "actualizado": "2026-09-21T17:14+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
@@ -7,6 +7,39 @@
     "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "c939e1e3fe40",
+      "titulo": "Bitcoin Tops $85,000 For First Time Since Late January",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Finance/the-Economy/Bitcoin-Tops-85000-For-First-Time-Since-Late-January.html",
+      "fecha": "2026-09-21T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5c5dbcb3bd84",
+      "titulo": "UK indexes climb as oil prices retreat, banks lead gains",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODZIYnhhdnBpWldya3A4NDlISEduRzZWd0twSXFsa0tDanh5MV8teTM3T19CS2FLZURxeTRRbW9NR0JIVHdjd01FRTl3S2ZibFNHSENXYzZ0anB1OVdUNDl3eHJfdnBZSUs0NkEteTcybXoxOW5sYmxiQ3EzbnNwUGVUQVRsRWtwQUtXaGczckszX1R1R1JqZWdqMmJnUQ?oc=5",
+      "fecha": "2026-09-21T16:13+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "02a0f03c61a7",
+      "titulo": "California clears sales of higher-ethanol fuel to lower gasoline costs",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWZDSEVlazl5RHBxMVU0akFKWlRnaUZHeTZtTEZ5UFNWdkdVWENLQk5qY0tiSlk3c0NJTUI0LVZrbENReWdfWG9ZdmpoMHlmLUo2MGVNS05qNmFGS0VCQ1RZR2ZSRV9jWnh2U04zaUo3bGE0WkVZZEllTXJQOV9fU014ZEpwel9SdmJ6alNxMl83Tlg1eWFTZHFJNktTNDctUnFLM3lsektsalFvZU1LSVdSM1lIWEE?oc=5",
+      "fecha": "2026-09-21T16:07+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "8aa88955925e",
       "titulo": "Record Diesel Prices Raise Fears of Local Fuel Shortages",
@@ -415,6 +448,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "6e59948ae769",
+      "titulo": "Transportistas declaran crisis operativa por alto costo del diésel y exigen medidas",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDlKOHhPSW1qa08yVlhRYTNaaUY3aHYwNEF3alNjam9zc3RjMmZmQW51VFdNYVJfY1FhcmV3LWlOeVZiVzhfTHpfbzgwLVlXaVdGLXEtSEVwUnd1eUkyNnphRFhzZkdMOU9zM0VSQ1hSU3RmcFZ2ZTFVT1JabE1QV2RYMnhiTldRWG1rN0hGU19EZklrdndwUFFiWFg0UQ?oc=5",
+      "fecha": "2026-09-18T20:00+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "50d73205eac5",
       "titulo": "Transportistas de carga advierten del impacto del alto costo del combustible en los alimentos",
       "fuente": "Prensa Libre",
@@ -423,6 +467,17 @@
       "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e19d57b98f16",
+      "titulo": "Gold rises to one-week high, heads for weekly gain on easing oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEtrczJxeXh5VlUxY1VWWF9xVVdYX0xwZjU4UGlCU19tTV91TzlFdzVyeXJWS0JmNjBVVHo2VVVSa1FwN1RWODJXbko1MkxmQnlwVEZ6eHV5cV9RRno1VHl3Si1OZU51bEgtSV9SeUNOaERzMjdmQ0wwelFVR3lPTWhXV3VlamQwU09XZkFsTlRTb0cyQ0VaaThBWWxIRUwtOFAw?oc=5",
+      "fecha": "2026-09-18T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -500,61 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4cea772ad685",
-      "titulo": "Aramco halts October crude deliveries to some European refiners after pipeline attack, Bloomberg reports",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXZOci1kaFhqMWtjVXZMN1BDS0Q0LUF0UjNEVUlIMHlJR2x0bkNvZlhnX3FSQXg1T0lyRlVHSDlIV09xOFBOdUFSWU4yMmpMOUE5aXpJYjdJaGNZVTdwVmdxWlZuNmd1OU5hUXh5clNDbHh0dFNTQVJRaUdJdGNfdk4ySE1NVXZtODQ1UENyczdUMGpTTzNBaG82bjBvSm94WGxLZFNIOXFBQy1xb0Zqb0d6cVRISG52UkNSOXc0aGJROUgzLUE?oc=5",
-      "fecha": "2026-09-18T15:25+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e05a386ddea7",
-      "titulo": "The Oil Market’s Backup Plan Is Breaking Down",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Markets-Backup-Plan-Is-Breaking-Down.html",
-      "fecha": "2026-09-18T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5b08ffba7a3f",
-      "titulo": "What goes into diesel prices?",
-      "fuente": "EIA",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68164",
-      "fecha": "2026-09-18T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6ab4f0abbd45",
-      "titulo": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Refiners-Have-Enough-Crude-to-Last-Through-November-Industry-Body-Says.html",
-      "fecha": "2026-09-18T13:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "15d7b67c6283",
-      "titulo": "Wall St set for tepid open as oil prices fall, Treasury yields rise",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-      "fecha": "2026-09-18T12:53+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
