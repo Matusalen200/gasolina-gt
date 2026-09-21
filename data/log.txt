@@ -641,3 +641,34 @@ Noticias: Arévalo no asistirá por primera vez a Asamblea de la ONU… · Cinco
 2026-09-20 07:21 [INFO] Telegram: reporte 2026-09-20 publicado en -1003973167814
 2026-09-20 07:21 [INFO] Telegram: 0 mensajes respondidos, publicado=True
 2026-09-20 07:21 [INFO] Fin corrida
+2026-09-21 07:13 [INFO] Inicio corrida 2026-09-21 07:13 GT
+2026-09-21 07:13 [INFO] --- mem ---
+2026-09-21 07:13 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-21 07:14 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-21 07:14 [INFO] --- hoy ---
+2026-09-21 07:14 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-21 promedio S=44.59 R=42.59 D=49.39 · Así se encuentran los precios de los combustibles este lunes
+2026-09-21 07:14 [WARN] Precio hoy: descarto cifras incoherentes de Prensa Libre (Guatemala paga 40.8% más por importar hidrocarburo): S=27.91 R=42.58 D=49.36
+2026-09-21 07:14 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-21 07:14 [INFO] Precio hoy: 1 observaciones nuevas de 13 artículos · regular 42.59 (2026-09-21)
+2026-09-21 07:14 [INFO] --- mercado ---
+2026-09-21 07:14 [INFO] Mercado: RBOB 3.1939 (-1.61% 7d), WTI 93.08, USD/GTQ 7.629 · 3/3 símbolos
+2026-09-21 07:14 [INFO] --- noticias ---
+2026-09-21 07:15 [INFO] RSS: 236 notas relevantes en 8 fuentes
+2026-09-21 07:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 13, 'BAJA': 8, 'NEUTRAL': 29}
+2026-09-21 07:15 [INFO] --- senal ---
+2026-09-21 07:15 [INFO] Señal: 🟡 Sin apuro (puntaje +4) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-09-21 07:15 [INFO] --- proyeccion ---
+2026-09-21 07:15 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.18, 42.18, 42.18, 42.18]
+2026-09-21 07:15 [INFO] --- reporte ---
+2026-09-21 07:15 [INFO] Reporte diario generado:
+🟡 Sin apuro. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q44.59 · Normal Q42.59 · Diésel Q49.39
+Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q42.59
+Noticias: Arévalo no asistirá por primera vez a Asamblea de la ONU… · Combustibles en Guatemala: cuánto perdería el fisco si se…
+2026-09-21 07:15 [INFO] --- grafica ---
+2026-09-21 07:15 [INFO] Gráfica lista: grafica_precios.png (10 días, 4 combustibles)
+2026-09-21 07:15 [INFO] --- telegram ---
+2026-09-21 07:15 [INFO] Telegram: reporte 2026-09-21 publicado en -1003973167814
+2026-09-21 07:15 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-21 07:15 [INFO] Fin corrida
