@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-22T17:15+00:00",
+  "actualizado": "2026-09-22T18:19+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 19,
-    "BAJA": 15,
+    "ALZA": 18,
+    "BAJA": 16,
     "NEUTRAL": 16
   },
   "noticias": [
+    {
+      "id": "f9455764bd6e",
+      "titulo": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Russian-Oil-Imports-Slide-as-Refiners-Hunt-for-Alternatives.html",
+      "fecha": "2026-09-22T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "915e350efd22",
       "titulo": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bd40cf8e7aa9",
-      "titulo": "U.S. Diesel Hits Record $6.50 as Global Fuel Crunch Deepens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Hits-Record-650-as-Global-Fuel-Crunch-Deepens.html",
-      "fecha": "2026-09-21T10:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
