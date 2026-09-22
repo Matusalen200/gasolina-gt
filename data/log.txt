@@ -810,3 +810,33 @@ Noticias: Arévalo no asistirá por primera vez a Asamblea de la ONU… · Combu
 2026-09-21 15:14 [INFO] --- telegram ---
 2026-09-21 15:14 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-21 15:14 [INFO] Fin corrida
+2026-09-22 07:15 [INFO] Inicio corrida 2026-09-22 07:15 GT
+2026-09-22 07:15 [INFO] --- mem ---
+2026-09-22 07:15 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-22 07:15 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-22 07:15 [INFO] --- hoy ---
+2026-09-22 07:15 [WARN] Precio hoy: descarto cifras incoherentes de La Hora (Crisis por precio de combustibles: diputados logra): S=None R=34.59 D=40.66
+2026-09-22 07:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-22 07:15 [INFO] Precio hoy: 0 observaciones nuevas de 17 artículos · regular 42.59 (2026-09-21)
+2026-09-22 07:15 [INFO] --- mercado ---
+2026-09-22 07:15 [INFO] Mercado: RBOB 3.2059 (-0.19% 7d), WTI 90.06, USD/GTQ 7.625 · 3/3 símbolos
+2026-09-22 07:15 [INFO] --- noticias ---
+2026-09-22 07:16 [INFO] RSS: 240 notas relevantes en 8 fuentes
+2026-09-22 07:16 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 15, 'BAJA': 16, 'NEUTRAL': 19}
+2026-09-22 07:16 [INFO] --- senal ---
+2026-09-22 07:16 [INFO] Señal: 🟡 Sin apuro (puntaje -6) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de bajadas.
+2026-09-22 07:16 [INFO] --- proyeccion ---
+2026-09-22 07:16 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.26, 42.26, 42.26, 42.26]
+2026-09-22 07:16 [INFO] --- reporte ---
+2026-09-22 07:16 [INFO] Reporte diario generado:
+🟡 Sin apuro. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q44.59 · Normal Q42.59 · Diésel Q49.39
+Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de bajadas.
+Lo más barato: Guatemala, normal a Q42.59
+Noticias: 16 apuntan a que baja y 15 a que sube
+2026-09-22 07:16 [INFO] --- grafica ---
+2026-09-22 07:16 [INFO] Gráfica lista: grafica_precios.png (10 días, 4 combustibles)
+2026-09-22 07:16 [INFO] --- telegram ---
+2026-09-22 07:16 [INFO] Telegram: reporte 2026-09-22 publicado en -1003973167814
+2026-09-22 07:16 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-22 07:16 [INFO] Fin corrida

@@ -54,5 +54,12 @@
     "tendencia": "estable",
     "veredicto": "Sin apuro",
     "cambio_estimado_q": 0.05
+  },
+  {
+    "fecha": "2026-09-22",
+    "puntaje": -6,
+    "tendencia": "estable",
+    "veredicto": "Sin apuro",
+    "cambio_estimado_q": -0.05
   }
 ]
