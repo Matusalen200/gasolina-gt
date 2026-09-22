@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T19:14+00:00",
+  "actualizado": "2026-09-22T20:16+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 18,
@@ -7,6 +7,17 @@
     "NEUTRAL": 16
   },
   "noticias": [
+    {
+      "id": "c5ab5a652189",
+      "titulo": "Norway’s Liquids Output Rebounds by Nearly 100,000 Bpd—but Still Trails 2025",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Liquids-Output-Rebounds-by-Nearly-100000-Bpdbut-Still-Trails-2025.html",
+      "fecha": "2026-09-22T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "f9455764bd6e",
       "titulo": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "787f6660ff3e",
-      "titulo": "Bangladesh raises fuel prices as Middle East conflict drives up costs",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
-      "fecha": "2026-09-21T10:37+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
