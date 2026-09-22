@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-22T14:16+00:00",
+  "actualizado": "2026-09-22T15:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
+    "ALZA": 17,
     "BAJA": 17,
-    "NEUTRAL": 17
+    "NEUTRAL": 16
   },
   "noticias": [
+    {
+      "id": "4d2d0d12deee",
+      "titulo": "Why Utility Profits Could Be the Next Target",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Why-Utility-Profits-Could-Be-the-Next-Target.html",
+      "fecha": "2026-09-22T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7495a9ed944e",
+      "titulo": "Libya’s Largest Oilfield Hit by New Armed Group Blockade",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Largest-Oilfield-Hit-by-New-Armed-Group-Blockade.html",
+      "fecha": "2026-09-22T14:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "992f8bc868c5",
       "titulo": "Public companies produce most U.S. crude oil and natural gas",
@@ -38,6 +60,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "da3a9fc337a5",
+      "titulo": "India's Russian oil imports fell in August, seen lower in September, data shows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2xoNlhIRmM0OGlDbzZXSF9uQ2Z2N3NHTVNtOFQyNDZPcHJlYjd3S0hZYm5WWF91U2xyLURzeUJmMVNpb2dsNExRNDdwV19pcE1UOG5TUEIzbmlWT3hacXVxSi1CYkVqcm9SR3ZzX3hXc2laUFpIQnR0bGdsQ3RsUGQ4Tm9PZEFyMllSZWYzVVZQdFhqMVdfUlJ3VnBfSnA2MW9xSG8tYXgwTGNMTV9EZFB3UXhIMjliWkE?oc=5",
+      "fecha": "2026-09-22T13:28+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -470,6 +503,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "787f6660ff3e",
+      "titulo": "Bangladesh raises fuel prices as Middle East conflict drives up costs",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
+      "fecha": "2026-09-21T10:37+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "bd40cf8e7aa9",
       "titulo": "U.S. Diesel Hits Record $6.50 as Global Fuel Crunch Deepens",
       "fuente": "OilPrice.com",
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "af3424395615",
-      "titulo": "Guatemala paga 40.8% más por importar hidrocarburos en el 2026, qué elevó el costo",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/factura-petrolera-para-guatemala-por-importacion-de-hidrocarburos-sube-40-8-hasta-julio-del-2026/",
-      "fecha": "2026-09-21T06:10+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "80beebfb119d",
-      "titulo": "Seamos serios",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/opinion/columnasdiarias/seamos-serios/",
-      "fecha": "2026-09-21T06:03+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ceeeb90c5ba2",
-      "titulo": "Lo que se pide vs. lo que se ofrece",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/opinion/columnasdiarias/lo-que-se-pide-vs-lo-que-se-ofrece/",
-      "fecha": "2026-09-21T06:01+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9d0c870eb0c9",
-      "titulo": "COMMENTARY: Hormuz shuttles keep oil flowing, but at a high cost",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1ZqYkdEeGVjVmotcmtLNWlndkR4bTgzYzlVVThwZ184TG9oX2U2a0ZhYXp1QXZKSnNiT0ZrTngzS1N3OUczT2ZSSFNYUjRPb0VuaEZTcnpDQ0JYTldvMXBlaVRXbU1laHpPUlpSanNXb0pNZnRPcktpVGFtc1h0WG9RMlhMSndOelVoQzBXQmZKbjd5SUZIZEl0ZEl1S0R3VEV4aUd6VlVqMmJQVjE3Wg?oc=5",
-      "fecha": "2026-09-21T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
