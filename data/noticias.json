@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-22T13:16+00:00",
+  "actualizado": "2026-09-22T14:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
-    "BAJA": 16,
-    "NEUTRAL": 19
+    "ALZA": 16,
+    "BAJA": 17,
+    "NEUTRAL": 17
   },
   "noticias": [
     {
@@ -16,6 +16,28 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "11f6ff3167ce",
+      "titulo": "Yemen Escalation Raises New Risks for Global Oil Markets",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Yemen-Escalation-Raises-New-Risks-for-Global-Oil-Markets.html",
+      "fecha": "2026-09-22T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "033bee22be32",
+      "titulo": "“We're Living On An Oil Market Credit Card”: Analyst Sounds Alarm",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Were-Living-On-An-Oil-Market-Credit-Card-Analyst-Sounds-Alarm.html",
+      "fecha": "2026-09-22T13:37+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -184,6 +206,28 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "e7fabd9aaad7",
+      "titulo": "Subsidio al diésel daría estabilidad a las tarifas por época de fin de año, afirman transportistas",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/subsidio-al-diesel-daria-estabilidad-a-las-tarifas-por-epoca-de-fin-de-ano-afirman-transportistas/",
+      "fecha": "2026-09-22T00:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2a9c216fc9d3",
+      "titulo": "Verificamos por usted: ¿Hay desabastecimiento de gasolina en Guatemala? Ministerio de Energía y Asociación de Expendedores responden",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/verificamos-por-usted-hay-desabastecimiento-de-gasolina-en-guatemala-ministerio-de-energia-y-asociacion-de-expendedores-responden/",
+      "fecha": "2026-09-21T23:30+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "4efe259602f6",
       "titulo": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade",
       "fuente": "OilPrice.com",
@@ -214,6 +258,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e1628068b244",
+      "titulo": "Congreso podría aprobar una exención fiscal a los combustibles en la plenaria de este martes",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/congreso-podria-aprobar-una-exencion-fiscal-a-los-combustibles-en-la-plenaria-de-este-martes/",
+      "fecha": "2026-09-21T21:01+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -497,61 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1ZqYkdEeGVjVmotcmtLNWlndkR4bTgzYzlVVThwZ184TG9oX2U2a0ZhYXp1QXZKSnNiT0ZrTngzS1N3OUczT2ZSSFNYUjRPb0VuaEZTcnpDQ0JYTldvMXBlaVRXbU1laHpPUlpSanNXb0pNZnRPcktpVGFtc1h0WG9RMlhMSndOelVoQzBXQmZKbjd5SUZIZEl0ZEl1S0R3VEV4aUd6VlVqMmJQVjE3Wg?oc=5",
       "fecha": "2026-09-21T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c950f061f3de",
-      "titulo": "COMMENTARY: Oil shock raises risk of metals shock as EV sales accelerate",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHczWUtjYjdodWhSTDM4Z1g4Y0hBcmUxd2JRcUR2QXp4SVVCYU94XzkwOFhNeW5HNzVMTnEwaHdiWVNPWXBvMlByQ0pyNi1KSUdlWW1BM3lBdGRXSUNwUlhyY2d5X3hXazd6aFM0eHZlNU1KSGs3UDNVX0tKaTVPMVdseGlSTWdvdXFWRGRpeVhPal9EUVMtUzkyX0k3alp1S2R4b3dYVkRYT0xCRy1HWTIydHM0a2drRWhsSEdEN1o?oc=5",
-      "fecha": "2026-09-21T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4591d0dae290",
-      "titulo": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Traders-Bet-on-Iran-Diplomacy.html",
-      "fecha": "2026-09-21T05:45+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "755128351c18",
-      "titulo": "Morning Bid: More oil is flowing, depending on who you ask",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Jd0l3UTB2OW9fa0lvYXhMTkFmSjdHaTdPR3VweEhxQ0J1bTgtb1lsZlhkVjBTbXJLYU9qRGdtbk9QUWc5dXFCRldlM0Jrd1VrQVFFY0xjdFhjNGJ2Z2JVY01sTUJJNGd0T0dNdDQ1Z1pNaXUyamdoME13UTRYVnc?oc=5",
-      "fecha": "2026-09-21T04:36+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "787f6660ff3e",
-      "titulo": "Bangladesh raises fuel prices as Middle East conflict drives up costs",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
-      "fecha": "2026-09-21T02:04+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b70b023df2cb",
-      "titulo": "Indian rupee eyes portfolio flows, oil prices; bonds face liquidity drain",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHhZQ0IxYTNRTmk1MloxN2t5c29LeVZodFNTa3VGN3g3cjVvVDRraG9ERjlpbUY3ZTRZblZWWnVTeU1ldEs0dS1qdzJHbFRQcV9Qc0pXek1ERFNraUxZb3FObElIbHdZcTNad3dlMlpDN2VtMnd6SmctWVJNNjdjTGJWWTFvaDVoZDA1WkxHU2lONllmTVJZWVhLQzk2SVM1ZElIbTFFUGVRak1aSGlCLVhuVlhkQWUwX1VN?oc=5",
-      "fecha": "2026-09-21T01:33+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
