@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-22T16:15+00:00",
+  "actualizado": "2026-09-22T17:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 18,
+    "ALZA": 19,
     "BAJA": 15,
-    "NEUTRAL": 17
+    "NEUTRAL": 16
   },
   "noticias": [
+    {
+      "id": "915e350efd22",
+      "titulo": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Restart-Fails-to-End-Oil-Market-Tightness.html",
+      "fecha": "2026-09-22T16:10+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "930440219136",
       "titulo": "Saudi Arabia Restarts East-West Oil Pipeline",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "66e8e774e80a",
-      "titulo": "Indian Oil to invest $256 million for Kochi-Thoothukudi natural gas pipeline",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVi1fNmlSaEdodWR2LW5yZDlzUUtTS2FnV3BQZ0ROYkNfS3FtNU9BUm9Lck9RaEF4cVYyU1pwUGwtTXJ6eFdvUWJaSFV5THYzQkliXzFPWFBiRmQtWl9kcnNyUmVmbllmR2RCazUzZTlBYXJQMFFiWVkySGJWUS1lYXN0TnhoaFZYcmRGb3B4djFqNU9ELUZjWWxpSkFsbGh5M1RVbmctRGtEd2FsU3plYWdDdkxqa2VKcFMwWA?oc=5",
-      "fecha": "2026-09-21T08:27+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
