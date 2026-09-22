@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T20:16+00:00",
+  "actualizado": "2026-09-22T21:14+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 18,
@@ -7,6 +7,17 @@
     "NEUTRAL": 16
   },
   "noticias": [
+    {
+      "id": "a53f96e91f73",
+      "titulo": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Distillate-Inventories-Continue-to-Fall-as-Crude-Stocks-Hold.html",
+      "fecha": "2026-09-22T21:08+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c5ab5a652189",
       "titulo": "Norway’s Liquids Output Rebounds by Nearly 100,000 Bpd—but Still Trails 2025",
@@ -470,6 +481,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "9cebed18a7d1",
+      "titulo": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+      "fecha": "2026-09-21T15:45+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "cf917d2c17f8",
       "titulo": "Hungary Asks U.S. to Waive Tariffs Over Russian Oil Purchases",
       "fuente": "OilPrice.com",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "07f53648c3d8",
-      "titulo": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trafigura-Launches-Volare-Shipping-to-Cash-In-on-Record-Tanker-Rates.html",
-      "fecha": "2026-09-21T12:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a87a7270130a",
-      "titulo": "Norway's Arctic Oil Pitch Falls Flat in Brussels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Arctic-Oil-Pitch-Falls-Flat-in-Brussels.html",
-      "fecha": "2026-09-21T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
