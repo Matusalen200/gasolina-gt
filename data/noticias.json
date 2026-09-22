@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-22T15:16+00:00",
+  "actualizado": "2026-09-22T16:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 17,
-    "BAJA": 17,
-    "NEUTRAL": 16
+    "ALZA": 18,
+    "BAJA": 15,
+    "NEUTRAL": 17
   },
   "noticias": [
+    {
+      "id": "930440219136",
+      "titulo": "Saudi Arabia Restarts East-West Oil Pipeline",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Restarts-East-West-Oil-Pipeline.html",
+      "fecha": "2026-09-22T16:02+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "4d2d0d12deee",
       "titulo": "Why Utility Profits Could Be the Next Target",
@@ -14,6 +25,17 @@
       "url": "https://oilprice.com/Energy/Energy-General/Why-Utility-Profits-Could-Be-the-Next-Target.html",
       "fecha": "2026-09-22T15:00+00:00",
       "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c2463596d59e",
+      "titulo": "En medio del debate por suspender impuestos a los combustibles surge una nueva iniciativa del oficialismo",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/en-medio-del-debate-por-suspender-impuestos-a-los-combustibles-surge-una-nueva-iniciativa-del-oficialismo/",
+      "fecha": "2026-09-22T14:59+00:00",
+      "idioma": "es",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5e0c8bf3569e",
-      "titulo": "Europe’s Fuel Crisis Spreads From Diesel to Jet Fuel",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Crisis-Spreads-From-Diesel-to-Jet-Fuel.html",
-      "fecha": "2026-09-21T08:15+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4c5958d57113",
-      "titulo": "Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Traffic-Falls-Further-as-Saudi-Oil-Flows-Rise.html",
-      "fecha": "2026-09-21T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
