@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-09-23T16:16+00:00",
+  "actualizado": "2026-09-23T17:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
-    "BAJA": 12,
-    "NEUTRAL": 27
+    "ALZA": 8,
+    "BAJA": 14,
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "e7764291d013",
+      "titulo": "Guatemala suspende IVA e IDP a combustibles: estos son los efectos fiscales que anticipan analistas",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/guatemala-suspende-iva-e-idp-a-combustibles-estos-son-los-efectos-fiscales-que-anticipan-analistas/",
+      "fecha": "2026-09-23T17:05+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "92784b4d5d7d",
+      "titulo": "U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn't Work",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Energy-Secretary-Blunt-Tool-of-Banning-Diesel-Exports-Doesnt-Work.html",
+      "fecha": "2026-09-23T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f323e723a3b7",
+      "titulo": "Dangote's Kenya Refinery Project Launches This Week at Up to $20B",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangotes-Kenya-Refinery-Project-Launches-This-Week-at-Up-to-20B.html",
+      "fecha": "2026-09-23T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "1a9c2b07d13e",
       "titulo": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average",
@@ -305,6 +338,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1b57b2e6c74d",
+      "titulo": "Nasdaq sets record high, oil dips on improved crude flows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNkdDWExac0tiSmtsc3Exd0ZHOTVDZFJCbTRtZW9jM3hTLU84b3JWbHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5",
+      "fecha": "2026-09-22T21:09+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "a53f96e91f73",
       "titulo": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
       "fuente": "OilPrice.com",
@@ -335,6 +379,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "061602a3fab5",
+      "titulo": "Oil prices settle lower as crude flows from Middle East improve",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzJ5LUNVMlYtZzRwaGc4MDRoSlpkWFJpVkZnUWlIR2dhbHlqc3ltYXpEQTd2SmhDWlhydUFqMkpMQ2FrZkk0NzlUYWwwR0R2SDBKcWMxaklPcV9FNGpvN2tYOExMb1kzMzZFTGJrNHpvY1FvSElhUDBBSDgxakxoUTlJOXVncjJJbXQyZy15bHFkUzViQlhlTHpMeUNpa2lxN0E?oc=5",
+      "fecha": "2026-09-22T19:35+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -500,61 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7eb8186e8a7e",
-      "titulo": "COMMENTARY: Morning Bid: As oil swoons, AI recharges",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDg3N3o3aUpOS0JUNnBBVjZhOF9hendQRFd4aXNzV0ZIa1Q5Z3piVkc5NUt0ZWItMHdHeEk2ZGRaR240dFVOaHBKMVhUdXZKX3JlSFdxSktEenNrRkV1R3BWdWRINkJfVDZ1Z0lwMGtoSG9PWG9mM0xTamcyY2l3c0d4Yjg5cjBfNzFQS18ydlplWmdlcXdR?oc=5",
-      "fecha": "2026-09-22T11:13+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2e6daef16efa",
-      "titulo": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Lifeline-May-Reopen-as-Aramco-Eyes-Yanbu-Restart.html",
-      "fecha": "2026-09-22T10:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1b04eabc9a06",
-      "titulo": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVVMaFBzbF9UZE5pd2VoZlZnclpPTjU3SVRDTkFzSjFOWk04VzREVjRnSlFCZTBJV1g0SXRMT3hJeFRwVjNwM2JuLTBVOHJZcndDZTc0bEt6NFlweElqQ3oyWGFtTzBUVDE1dEV4NFE5UnVDbV9IelEzU2dHNzhSQ3lKbVVBNW1pMTdSbTFqV0RCOXd6Z3FfU2NBMU1tUWZPOXItX3d5Z1RQZnRlU3VzLXVveFN2LThhSjdxaXp3?oc=5",
-      "fecha": "2026-09-22T10:15+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4fedc11a8728",
-      "titulo": "India’s Oil Import Bill Jumps 48% as Crude Prices Soar",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Import-Bill-Jumps-48-as-Crude-Prices-Soar.html",
-      "fecha": "2026-09-22T09:15+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "612eaae661b1",
-      "titulo": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-and-Gas-Prices-Push-Europes-Inflation-Fight-Into-2027.html",
-      "fecha": "2026-09-22T08:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]

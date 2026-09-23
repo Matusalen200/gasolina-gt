@@ -1,27 +1,27 @@
 {
-  "puntaje": 21,
+  "puntaje": 16,
   "tendencia": "alza",
   "veredicto": "Llena HOY",
   "emoji": "🔴",
-  "cambio_estimado_q": 0.5,
-  "cambio_estimado_texto": "El martes sube como Q0.50 el galón.",
+  "cambio_estimado_q": 0.65,
+  "cambio_estimado_texto": "El martes sube como Q0.65 el galón.",
   "componentes": {
-    "gasolina_eeuu": 23.2,
+    "gasolina_eeuu": 32.3,
     "dolar": 3.2,
-    "noticias": -5
+    "noticias": -20
   },
   "detalle": {
-    "rbob_cambio_7d_pct": 2.32,
+    "rbob_cambio_7d_pct": 3.23,
     "usdgtq_cambio_7d_pct": 0.16,
-    "noticias_alza_7d": 11,
-    "noticias_baja_7d": 12,
-    "rbob_precio": 3.2959,
+    "noticias_alza_7d": 8,
+    "noticias_baja_7d": 14,
+    "rbob_precio": 3.3217,
     "usdgtq": 7.6335,
     "tipo_cambio_usado": 7.6335
   },
-  "razon": "Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de bajadas.",
+  "razon": "Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de bajadas.",
   "redactado_por": "plantilla",
-  "actualizado": "2026-09-23T10:16-06:00",
+  "actualizado": "2026-09-23T11:15-06:00",
   "proximo_martes": "2026-09-29",
   "fecha": "2026-09-23"
 }
