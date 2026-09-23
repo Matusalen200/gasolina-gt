@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-23T13:18+00:00",
+  "actualizado": "2026-09-23T14:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
-    "BAJA": 13,
-    "NEUTRAL": 23
+    "ALZA": 12,
+    "BAJA": 12,
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "1bffc8880993",
+      "titulo": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/International/Chinas-80-Grip-on-Iranian-Oil-Looms-Over-Trump-Xi-Summit.html",
+      "fecha": "2026-09-23T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "aadd2638d185",
       "titulo": "Wall St set to open lower as oil, bond yields tick up",
@@ -14,6 +25,17 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
       "fecha": "2026-09-23T13:09+00:00",
       "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6a1b32d98031",
+      "titulo": "Combustibles: el Congreso aprobó una nueva medida, pero ¿qué pasará con el subsidio?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/combustibles-el-congreso-aprobo-una-nueva-medida-pero-que-pasara-con-el-subsidio/",
+      "fecha": "2026-09-23T13:00+00:00",
+      "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
@@ -41,6 +63,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "00da5c86decb",
+      "titulo": "MEM analiza si es necesario declarar emergencia en el sistema de electricidad ante déficit de lluvia",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/mem-analiza-si-es-necesario-declarar-emergencia-en-el-sistema-de-electricidad-ante-deficit-de-lluvia/",
+      "fecha": "2026-09-23T11:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "454799dd4f9a",
       "titulo": "Oil Set for Longest Losing Streak Since August 2025",
       "fuente": "OilPrice.com",
@@ -52,12 +85,34 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1fcfa0f3277a",
+      "titulo": "UK's FTSE 100 up as banks gain, oil prices steady",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYm9UZS1CY1Z1eU5IVFFEUFd6V2VCbW80eWgwMjk4Z3ZyWDJSSk9JZ1dXY3oyd3oxX2RyRmJMT0o2SmFEOEhMWG4yMnBrUEdyQ09MVERNWkx0UDFmOFNIdV9NXzBON09NSFcyM2RlRmdnbUJvcGQ3RFhPNWJYeVlPbU5zRGp4NVU3VmJZNUZvTDZvRnc?oc=5",
+      "fecha": "2026-09-23T09:53+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "b574912c704d",
       "titulo": "PODCAST: Crude hopes",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb21VdGdkTmtQODVPbjhOUk1wSG42bXFwdUNWdWpNSklYU0ZGZVVpcWlqbXphNVJTS25ZTS15dHFwdEIxbEZ0U1RSbENOekZSYnJVQzVqc2VBbzhSTmFGTDJ4MzFxWmNZT3RkV0E1cGhMVEdnRXBuT0Nib1ZpNmhGWkt3?oc=5",
       "fecha": "2026-09-23T09:36+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7f28e1d1b057",
+      "titulo": "Así quedan los precios de los combustibles tras exoneración de impuestos",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmtJYkFqZThFdlNVb1lrYU9lRlZoMXdEbDFZSDlIRFRxc1dMdVJlR2hoSml5TFZmZHRnUEdtTGwtc05CZThQR2tVOEx1UVVoSl84ckFSOHd4Q1F2UE5PVEJtbGs5bHR6RFpVdllWTFQ5MWFQVFMzNFFzNmZITld1VXRwR2lWSDZQVVRvbA?oc=5",
+      "fecha": "2026-09-23T09:33+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -91,6 +146,17 @@
       "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html",
       "fecha": "2026-09-23T06:29+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6b7056c0852c",
+      "titulo": "Gasolina regular con etanol: qué cambió tras el primer mes de uso en Guatemala",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/gasolina-regular-con-etanol-que-cambio-tras-el-primer-mes-de-uso-en-guatemala/",
+      "fecha": "2026-09-23T06:10+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -135,6 +201,17 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
       "fecha": "2026-09-23T01:44+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3f68345e1bfa",
+      "titulo": "CC mantiene vigente el uso de etanol en la gasolina regular al no suspender el reglamento",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/justicia/cc-mantiene-vigente-el-uso-de-etanol-en-la-gasolina-regular-al-no-suspender-el-reglamento-breaking/",
+      "fecha": "2026-09-23T01:27+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -212,6 +289,17 @@
       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Distillate-Inventories-Continue-to-Fall-as-Crude-Stocks-Hold.html",
       "fecha": "2026-09-22T21:08+00:00",
       "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b8c640067994",
+      "titulo": "¡Se desploma! Precio del petróleo cae tras encuentro entre EE.UU. e Irán",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1JPcDhvdlV0R0syaTZ4elVmSXJpcWd4aEFPQ3RtWFA0Q3BldVRGelZ1MklkeDM0V2VEZE5UYUl2VGtoZmpSay11LXZqdVNQaTFwWmt2aGZKOXhCV09BS015eGxhUFdkZl9SUE9vN05lNTdzR3NlYTlIZTVkbFQ1R3FpSkhkTGhxdlJaNGgzbW1ibEVrTkE?oc=5",
+      "fecha": "2026-09-22T21:01+00:00",
+      "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
@@ -467,94 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "72053ff7d3d7",
-      "titulo": "Rupee sways with oil and intervention cues, keeping traders light-footed",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWZrdHpXRTZxYlZrdHdteGhlbjY4M3lwblRfTEM3d1RsUzRhVjlxX3B5Vnd1a3I5bFZOZ3J1TnpBNTgyYk90WUY1MVdCSEdqZ2Nha0RNV0NvN2RueGgxZ2ZWd3lrVldUUGJValV0djJmNHY2TV9SNUQyeXBTWjBFY2VLTHV4b3UyTmxQRVFHWEFKQU5RSWtSODhuVmU3RDNhai02NzBjQXd6cGZxSFNRZThR?oc=5",
-      "fecha": "2026-09-22T02:58+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0f017c4f735d",
-      "titulo": "Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXlPVWFzejJKbzBBSVA5ZFhMbUdTZ0VVS1RZVXBpMlJRZC1Lak9aNmdldDEwdVZ1RGlPMjlUUFdFSGdocFlTbVpjLTFLcXJsN2VqTFhVZ1d0YmYwLTBUNG9tUHVmWEs2Q1E3em4za29OcHo3MFk2Q0twV3M5WFB4Q2ppeW9LVnd3SzJ2SHhLN1N6MTI4YVU0dDBuS0htU3R5SW9maHVnR2NDUFlManVqYTRidGZiYzVv?oc=5",
-      "fecha": "2026-09-22T02:27+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1b57b2e6c74d",
-      "titulo": "Stocks rally on AI optimism and oil below $100",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNkdDWExac0tiSmtsc3Exd0ZHOTVDZFJCbTRtZW9jM3hTLU84b3JWbHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5",
-      "fecha": "2026-09-22T02:08+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "00a234e8e8bb",
-      "titulo": "Dollar falters after Iran's offer to reopen Hormuz sends oil lower",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5",
-      "fecha": "2026-09-22T00:53+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "061602a3fab5",
-      "titulo": "Oil falls to two-week low as Gulf supply outlook improves",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzJ5LUNVMlYtZzRwaGc4MDRoSlpkWFJpVkZnUWlIR2dhbHlqc3ltYXpEQTd2SmhDWlhydUFqMkpMQ2FrZkk0NzlUYWwwR0R2SDBKcWMxaklPcV9FNGpvN2tYOExMb1kzMzZFTGJrNHpvY1FvSElhUDBBSDgxakxoUTlJOXVncjJJbXQyZy15bHFkUzViQlhlTHpMeUNpa2lxN0E?oc=5",
-      "fecha": "2026-09-22T00:34+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e7fabd9aaad7",
-      "titulo": "Subsidio al diésel daría estabilidad a las tarifas por época de fin de año, afirman transportistas",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/subsidio-al-diesel-daria-estabilidad-a-las-tarifas-por-epoca-de-fin-de-ano-afirman-transportistas/",
-      "fecha": "2026-09-22T00:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2a9c216fc9d3",
-      "titulo": "Verificamos por usted: ¿Hay desabastecimiento de gasolina en Guatemala? Ministerio de Energía y Asociación de Expendedores responden",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/verificamos-por-usted-hay-desabastecimiento-de-gasolina-en-guatemala-ministerio-de-energia-y-asociacion-de-expendedores-responden/",
-      "fecha": "2026-09-21T23:30+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4efe259602f6",
-      "titulo": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/New-US-Sanctions-Law-Threatens-Indias-Huge-Russian-Oil-Trade.html",
-      "fecha": "2026-09-21T23:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
