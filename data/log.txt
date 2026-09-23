@@ -1030,3 +1030,23 @@ Noticias: 14 apuntan a que sube y 13 a que baja
 2026-09-23 08:17 [INFO] --- telegram ---
 2026-09-23 08:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-23 08:17 [INFO] Fin corrida
+2026-09-23 09:14 [INFO] Inicio corrida 2026-09-23 09:14 GT
+2026-09-23 09:14 [INFO] --- mem ---
+2026-09-23 09:14 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-23 09:15 [WARN] HTTP fallo https://web.archive.org/cdx/search/cdx?url=mem.gob.gt/wp-content/uploads/2026/09/*&filter=statuscode:200&fl=original&collapse=original&limit=200: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=60)
+2026-09-23 09:15 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-23 09:15 [INFO] --- hoy ---
+2026-09-23 09:15 [WARN] Precio hoy: descarto cifras incoherentes de La Hora (De Q40.66 a Q32.90: así quedarían los combustibles): S=34.59 R=32.9 D=40.66
+2026-09-23 09:15 [WARN] Precio hoy: descarto cifras incoherentes de TV Azteca Guatemala (¿Cuándo bajarán los combustibles? Así funcionará l): S=34.59 R=32.9 D=40.66
+2026-09-23 09:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-23 09:15 [INFO] Precio hoy: 0 observaciones nuevas de 6 artículos · regular 43.29 (2026-09-23)
+2026-09-23 09:15 [INFO] --- mercado ---
+2026-09-23 09:15 [INFO] Mercado: RBOB 3.2375 (0.91% 7d), WTI 91.25, USD/GTQ 7.6335 · 3/3 símbolos
+2026-09-23 09:15 [INFO] --- noticias ---
+2026-09-23 09:15 [INFO] RSS: 243 notas relevantes en 8 fuentes
+2026-09-23 09:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 11, 'BAJA': 12, 'NEUTRAL': 27}
+2026-09-23 09:15 [INFO] --- senal ---
+2026-09-23 09:15 [INFO] Señal: 🟡 Sin apuro (puntaje +7) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de bajadas.
+2026-09-23 09:15 [INFO] --- telegram ---
+2026-09-23 09:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-23 09:15 [INFO] Fin corrida
