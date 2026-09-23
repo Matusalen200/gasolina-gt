@@ -1,51 +1,51 @@
 {
-  "actualizado": "2026-09-22T15:13-06:00",
-  "revisados": 1,
-  "nuevos": 0,
+  "actualizado": "2026-09-23T07:18-06:00",
+  "revisados": 21,
+  "nuevos": 2,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 44.59,
-      "t": "2026-09-21T12:34+00:00",
+      "valor": 45.29,
+      "t": "2026-09-23T12:27+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/21/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
-      "fecha": "2026-09-21"
+      "fecha": "2026-09-23"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 42.59,
-      "t": "2026-09-21T12:34+00:00",
+      "valor": 43.29,
+      "t": "2026-09-23T12:27+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/21/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
-      "fecha": "2026-09-21"
+      "fecha": "2026-09-23"
     },
     "diesel": {
       "tipo": "promedio",
       "valor": 49.39,
-      "t": "2026-09-21T12:34+00:00",
+      "t": "2026-09-23T12:27+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/21/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
-      "fecha": "2026-09-21"
+      "fecha": "2026-09-23"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-09-18",
-      "q": -0.07,
-      "pct": -0.2
+      "vs_fecha": "2026-09-21",
+      "q": 0.7,
+      "pct": 1.6
     },
     "regular": {
-      "vs_fecha": "2026-09-18",
-      "q": 0.01,
-      "pct": 0.0
+      "vs_fecha": "2026-09-21",
+      "q": 0.7,
+      "pct": 1.6
     },
     "diesel": {
-      "vs_fecha": "2026-09-18",
-      "q": 0.03,
-      "pct": 0.1
+      "vs_fecha": "2026-09-21",
+      "q": 0.0,
+      "pct": 0.0
     }
   },
   "diario": [
@@ -98,6 +98,12 @@
       "fecha": "2026-09-21",
       "superior": 44.59,
       "regular": 42.59,
+      "diesel": 49.39
+    },
+    {
+      "fecha": "2026-09-23",
+      "regular": 43.29,
+      "superior": 45.29,
       "diesel": 49.39
     }
   ],
@@ -233,6 +239,30 @@
       "fuente": "TV Azteca Guatemala",
       "url": "https://tvaztecaguate.com/nacionales/2026/09/21/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes/",
       "titulo": "Así se encuentran los precios de los combustibles este lunes",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-23T06:10+00:00",
+      "fecha_dato": "2026-09-23",
+      "tipo": "otro",
+      "superior": null,
+      "regular": 44.66,
+      "diesel": null,
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/gasolina-regular-con-etanol-que-cambio-tras-el-primer-mes-de-uso-en-guatemala/",
+      "titulo": "Gasolina regular con etanol: qué cambió tras el primer mes de uso en Guatemala",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-23T12:27+00:00",
+      "fecha_dato": "2026-09-23",
+      "tipo": "promedio",
+      "superior": 45.29,
+      "regular": 43.29,
+      "diesel": 49.39,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
+      "titulo": "¿Aumentaron? Así amanecieron los precios de los combustibles este miércoles",
       "extraido_por": "reglas"
     }
   ],
@@ -441,6 +471,25 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUdrRzVHQmZGMVhVeXpqaG81bXViQU1tb2t6UEhYZzZKSDdSN2NFNmJoMzZMTnB2LVRXdmdxUXBBX0htbXZ6T2syVGhvRXlvYTVnWDUtdFJGMVkzeFNXYVROSUdDc01aalJ3OWZFRDFTMGZZVDNqeWFscV9xeHVaVUdod3FrUC03cjY4SVZrd0M3dGRmVTdnbHFRd28tTDg1?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckJ6TC1hZVFFeFllc1poMHNXekY4ck0ycnU1WWlsYlN3czkwS1pNVnFoa0pnRlRINGdGOTd5QzBxTHhaQ19xeFdoaE1MWkNROWRnbmFSOGpIS2lIY0hZelNmbXlTOWxaZUZ3ZXJBb1BJUzhVakhzWlpJd2UtMTkxVTRtVUl6MlR0aTkyZzRB?oc=5",
     "https://lahora.gt/nacionales/kjordan/2026/09/22/48-cantones-rechaza-nuevo-subsidio-a-combustibles-y-anuncia-vigilancia-de-sesion-del-congreso-now/",
-    "https://lahora.gt/nacionales/hgodinez/2026/09/22/retransmision-congreso-de-la-republica-sesiona-y-conoce-objeciones-al-decreto-por-combustibles-now/"
+    "https://lahora.gt/nacionales/hgodinez/2026/09/22/retransmision-congreso-de-la-republica-sesiona-y-conoce-objeciones-al-decreto-por-combustibles-now/",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmtJYkFqZThFdlNVb1lrYU9lRlZoMXdEbDFZSDlIRFRxc1dMdVJlR2hoSml5TFZmZHRnUEdtTGwtc05CZThQR2tVOEx1UVVoSl84ckFSOHd4Q1F2UE5PVEJtbGs5bHR6RFpVdllWTFQ5MWFQVFMzNFFzNmZITld1VXRwR2lWSDZQVVRvbA?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUHVKT0tBNmJ4LVQwQjlraDdkUGROcjh1WEN2RGc5blpRYktORzU1ajhvX1dieWpHZHgtSTRNT1hNNXZNSE5PVnIxNHBodHZUOTV6NV9rZXVxZ3ZJc3kwZGRycE9vUXVtd2hUZDd5QXdjZ09LTWJpMVhuM0FoVndla3MzR1pFMTVQOXhDLXdJMHg0Ujk1X2FqRjQweU5UOEktVUNwRmdEZHJYODNTaDZZUmR0ajdOMjFzOTY4VUdXdjE4VUlsVFJLbnpra0VPaXY2OVE?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSjhVTG5KRmhmVHJsVXNneWpxYWY1SzVQRE9TVXpUdVdlMldMZ1VXak02M1RYYVhZOTRXTC04OFZCZ1B2QUdMRk1yd1J1ckpRdFQyWGhHbHI3cVl3c0tJNGVjVXhJT0x1QmRKQ0cxVk54U0plSnpwY0RxRUJtclk4b0RudFBQMmVPZmNmSWpPN1BVLUhEemlhV3REbEFVZnc4VUVadUxfajBadzdwQjc2VUoxQUN0X0JFWXUtY00tdzNVNjc1Mm9wbWRsdEhWTjF6?oc=5",
+    "https://tvaztecaguate.com/nacionales/2026/09/22/exencion-de-impuestos-asi-quedarian-los-descuentos-en-los-precios-de-los-combustibles/",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeUoyR3AyU3NUb0dhcnV5WDNkX1ZtQjZxWkVTcXNzQXpaakxXeEZWc3hISjV1QnlDQ2NXRG9rVDAwMkxSV1hnbDFBOUE1UWxqenVDQkdLNDl5YUF1WENNMVlpZmVhOTY3d2xoX21BRUxxc3lGRkNWalpVYmlDUjdlVU1BdmhWcjczZXFiYmxNWk1Jd0VSaEVubnd4dC1mbU5QZ0JOSkdkQmsyVXgwemFkbWNpYmlTWW13Q3JjUW1XN2pfSnZMNTJVVjZ5dVUwSzhZcE54N25RWGtHQWxGSjNIbDhFZVQ5Zw?oc=5",
+    "https://www.prensalibre.com/economia/combustibles-el-congreso-aprobo-una-nueva-medida-pero-que-pasara-con-el-subsidio/",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek9KMjNWNm9xVTdkb3lmZzd4MWZnSjFVMVdqcnZSNXVSV2lLOTRuNnU1NmlLUUlhaEtNYjF5RVBFZTFPLTFQSVM4ZzFPS1Vmam5Ca2Z1bGFreGRqSFBldGF0ZzdST3pQMU1ycjdzRFNwMFJkVW9SRjFMVkN3TTNWZnM5RGxWUU10b29zbUZVY1JpYTczS3M5SVFaSGxYaGZ6eUNjOGdjSk1CckFzSk9oVnJQTXo0Q0xGdHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNlZJQTVBaVJFbUxrWV9yTTN1Z2FkN29ENVVsU2Zobk56OGE4aV83Y3UybGJDMGFwSHU0ejdmM2xadjVxb2dBc25abG5lLTFmcjBKQjRYdWFFRXBIbVJhYjVsdGVadjMxNk5Odm9ta3J5cEJUYlNkWnRqOTZaS3kyOXFZaC1XWHhmeUNkbjhha1VrZmtuLUFENmhSdlZqcXRmTU5IMEl6aXEzdjB5YWJ0eEpaQi1uZ2ZMeUxiaWlkVDhhOW5vNUI4aQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdWF0YmEtT3Q0UU0wQTE1NWEtTnBzTzgyamtFczFJOW93NGx3REx3MGVVRGZFTDZQQ3pTeWdJb2VMYlRQaDRKX1hDT25RVGthZW1UUmxuQl9MZUZxMkdsUlJXUXNxQWN0R3FocWxHRjJvbTc2ZVlXWFh0NW8yR1hkeEo2WmVYd1dzNzFuQXFQMFhqLWdmTFpnVTgyTFZMeF95UzQ1OTNDY0plb1BZREk3QXNqZDVpdw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDRiNXRCVDdlR25OT3BOazVUMnpvUjRwdm13bUJ4Q1VQX0R6VFNVbnVZX3NUN1RuaGg1YWZ1YUJJNm91VUgxM2NkMFYwY3cyUnVtY2NIUThKcV9XcnhGRzc3LXpSTGRsLVhZaTFhdXdBc3FYNjloMmw3bDNmQkxIdkE1eXpSUS1EaGtXc0g2MzBHZDA?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzJ0anZ5SE91b2RiM19QeEZBX20wUkhJQXFYbFNYYWIweGp5LXlia0hjbnJyVHB2b0JIb01HZWFlVkl4LUxDYXgzb2lnUXNUQjlPdjdLeW9kb2ZjeW05THZRUTJ4ZGRUb2JiWE1XV2lKNUppd2kweHF3YnBMVVlvMXQzUFpFaE1NdzdMaU92Mm9ma01nSzhzdHBnbUNwRnZRWE54TDI2RQ?oc=5",
+    "https://tvaztecaguate.com/nacionales/2026/09/22/congreso-aprueba-en-urgencia-nacional-ley-para-exonerar-impuestos-a-los-combustibles/",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHkzbGF1dDQwZURvUW5ibzRjSS1PVldTaEVuZmhfb1pYRkxlTGczalY0TnNuWlJUQVcwLTBHVGl4YzA5MVpIbU5STUd0dENEVUtrR25JaDVYdzltZFFKTjV5NUhnR2U5MGN0NVdocFRQazFOcWlOdm1HLWF1MnhsWEtPNGZ0VzdqTndYcDF5Zm1JVngwc0RraU9IWGh5LUZ2enhuMFpUNFEzOVdZTW85MEVxLUpkSEE?oc=5",
+    "https://republica.com/politica/congreso-aprueba-exencion-temporal-de-impuestos-a-los-combustibles-202692218570",
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSUJVZk04TnVjdm9DWlJZMGZ6VGN1Njl5YlRpb2lPQXh0aE5rbEhqTkJ3N2JGTzcxXzFldE5uZXFyZThWblBBc1pnN19uTldNMS1lSXNacDZCZ3AwYnIzbFJWUzNhZm1Vakl2VkpLeDE2UGRzcEtmYUFwTmN4MEhyRW9nX3BVQVpBNXBUaVhoMHVaeldibm8xeVU3ajNLUkFrOXFweXd1aGpCT01tbXJDYUROcUhXcVpQRVFCaFhjMUhmS2dtcGVPb3RpNm0xYnFpVEpMWDVaTVJXX01qNG5EOTRzZTN1OXFaUGlnbkJDUjBMaFZNMEpmVFNCZzYtUG9QNUd2Vw?oc=5",
+    "https://tvaztecaguate.com/nacionales/2026/09/22/sat-advierte-que-eliminacion-de-impuestos-a-los-combustibles-reduciria-la-recaudacion-en-mas-de-q3-mil-400-millones/",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX2FYTGw1dl9tYmlKMTVITVg2M0ZaLV9MZFJOejVlTkhhXzgxal8yVnlpLXZoUnUzenZSa19QREpNY0toZy04dUl0MEROU2hXeHg5ME1OSkdHc2htNGE1ajB3aFRTa2xTNEl3RjJQcTdIVExNVGdoUWc2cG5PSHIwc1ltdndHTWZqZ1JoTDV3WGRqdXNFak40UFVlVmowVnJjTUczMVJfU1JNMzhVeHN1SjlkOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczNvOENVVHR4NVlzVW1qLUV6SjIxZWd4S0p3MDJUZ1gtRm9MZEdlUDU1aW9HM3ZhS1NnbFZiOWdfanJybGFUb1pvUnlWcWZCSnRWbWdWUU1UQW1ZR2JaZjRmaUZwZ19MR3ZXeW9LNGUwcUtaZWVqcWkzZFFNcEh5UVNDS1ByekZnbWlYdk1hRDNOS05CTVlaVVVINHhRQWlVeXpINWFMcU52WjBfRzJVbG5zY2dVTDk5R2wzcVZRbzdoRXFXcjhwN2NR?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXQtUFhrNXluSjBVYURNMFNrNDZjb2xwVzUtRWlfX1gwMVBqNmVBcGN0TzRkU2JVREFxb2RJNDZaa09RYkdUd2VubUNhX3IwUFllTGRxOHNGWkhORFgwcXlsc0tYZTFNd3M5ZGxuNkMxSnZOU2NSZ1JGcHRETWh4TER6Y3lDUHhYbmJfeEREZ2sxd3pKTzBOTXdJeHNQRWg2bW8zSnY0TFJ2QWF3d3Z0LWVjUE5rVGNOWE9GZUc0Z09DdXJnd0FsdV85YWFKNlhuWWc?oc=5"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "estimado": true,
-  "fecha": "2026-09-21",
+  "fecha": "2026-09-23",
   "base": {
-    "superior": 44.59,
-    "regular": 42.59,
+    "superior": 45.29,
+    "regular": 43.29,
     "diesel": 49.39
   },
   "base_fuente": "TV Azteca Guatemala",
@@ -11,9 +11,9 @@
   "mas_barato": {
     "cabecera": "Ciudad de Guatemala",
     "departamento": "Guatemala",
-    "superior": 44.59,
+    "superior": 45.29,
     "superior_diferencia": 0.0,
-    "regular": 42.59,
+    "regular": 43.29,
     "regular_diferencia": 0.0,
     "diesel": 49.39,
     "diesel_diferencia": 0.0
@@ -21,9 +21,9 @@
   "mas_caro": {
     "cabecera": "Flores",
     "departamento": "Petén",
-    "superior": 45.88,
+    "superior": 46.58,
     "superior_diferencia": 1.29,
-    "regular": 43.88,
+    "regular": 44.58,
     "regular_diferencia": 1.29,
     "diesel": 50.68,
     "diesel_diferencia": 1.29
@@ -32,9 +32,9 @@
     {
       "cabecera": "Ciudad de Guatemala",
       "departamento": "Guatemala",
-      "superior": 44.59,
+      "superior": 45.29,
       "superior_diferencia": 0.0,
-      "regular": 42.59,
+      "regular": 43.29,
       "regular_diferencia": 0.0,
       "diesel": 49.39,
       "diesel_diferencia": 0.0
@@ -42,9 +42,9 @@
     {
       "cabecera": "Escuintla",
       "departamento": "Escuintla",
-      "superior": 44.59,
+      "superior": 45.29,
       "superior_diferencia": 0.0,
-      "regular": 42.59,
+      "regular": 43.29,
       "regular_diferencia": 0.0,
       "diesel": 49.39,
       "diesel_diferencia": 0.0
@@ -52,9 +52,9 @@
     {
       "cabecera": "Puerto Barrios",
       "departamento": "Izabal",
-      "superior": 44.59,
+      "superior": 45.29,
       "superior_diferencia": 0.0,
-      "regular": 42.59,
+      "regular": 43.29,
       "regular_diferencia": 0.0,
       "diesel": 49.39,
       "diesel_diferencia": 0.0
@@ -62,9 +62,9 @@
     {
       "cabecera": "Chimaltenango",
       "departamento": "Chimaltenango",
-      "superior": 44.61,
+      "superior": 45.31,
       "superior_diferencia": 0.02,
-      "regular": 42.61,
+      "regular": 43.31,
       "regular_diferencia": 0.02,
       "diesel": 49.41,
       "diesel_diferencia": 0.02
@@ -72,9 +72,9 @@
     {
       "cabecera": "Antigua Guatemala",
       "departamento": "Sacatepéquez",
-      "superior": 44.62,
+      "superior": 45.32,
       "superior_diferencia": 0.03,
-      "regular": 42.62,
+      "regular": 43.32,
       "regular_diferencia": 0.03,
       "diesel": 49.42,
       "diesel_diferencia": 0.03
@@ -82,9 +82,9 @@
     {
       "cabecera": "Mazatenango",
       "departamento": "Suchitepéquez",
-      "superior": 44.77,
+      "superior": 45.47,
       "superior_diferencia": 0.18,
-      "regular": 42.77,
+      "regular": 43.47,
       "regular_diferencia": 0.18,
       "diesel": 49.57,
       "diesel_diferencia": 0.18
@@ -92,9 +92,9 @@
     {
       "cabecera": "Sololá",
       "departamento": "Sololá",
-      "superior": 44.83,
+      "superior": 45.53,
       "superior_diferencia": 0.24,
-      "regular": 42.83,
+      "regular": 43.53,
       "regular_diferencia": 0.24,
       "diesel": 49.63,
       "diesel_diferencia": 0.24
@@ -102,9 +102,9 @@
     {
       "cabecera": "Retalhuleu",
       "departamento": "Retalhuleu",
-      "superior": 44.84,
+      "superior": 45.54,
       "superior_diferencia": 0.25,
-      "regular": 42.84,
+      "regular": 43.54,
       "regular_diferencia": 0.25,
       "diesel": 49.63,
       "diesel_diferencia": 0.24
@@ -112,9 +112,9 @@
     {
       "cabecera": "Cuilapa",
       "departamento": "Santa Rosa",
-      "superior": 44.84,
+      "superior": 45.54,
       "superior_diferencia": 0.25,
-      "regular": 42.84,
+      "regular": 43.54,
       "regular_diferencia": 0.25,
       "diesel": 49.64,
       "diesel_diferencia": 0.25
@@ -122,9 +122,9 @@
     {
       "cabecera": "Guastatoya",
       "departamento": "El Progreso",
-      "superior": 44.88,
+      "superior": 45.58,
       "superior_diferencia": 0.29,
-      "regular": 42.88,
+      "regular": 43.58,
       "regular_diferencia": 0.29,
       "diesel": 49.68,
       "diesel_diferencia": 0.29
@@ -132,9 +132,9 @@
     {
       "cabecera": "Santa Cruz del Quiché",
       "departamento": "Quiché",
-      "superior": 44.9,
+      "superior": 45.6,
       "superior_diferencia": 0.31,
-      "regular": 42.9,
+      "regular": 43.6,
       "regular_diferencia": 0.31,
       "diesel": 49.7,
       "diesel_diferencia": 0.31
@@ -142,9 +142,9 @@
     {
       "cabecera": "Jalapa",
       "departamento": "Jalapa",
-      "superior": 44.9,
+      "superior": 45.6,
       "superior_diferencia": 0.31,
-      "regular": 42.9,
+      "regular": 43.6,
       "regular_diferencia": 0.31,
       "diesel": 49.7,
       "diesel_diferencia": 0.31
@@ -152,9 +152,9 @@
     {
       "cabecera": "Jutiapa",
       "departamento": "Jutiapa",
-      "superior": 44.91,
+      "superior": 45.61,
       "superior_diferencia": 0.32,
-      "regular": 42.91,
+      "regular": 43.61,
       "regular_diferencia": 0.32,
       "diesel": 49.71,
       "diesel_diferencia": 0.32
@@ -162,9 +162,9 @@
     {
       "cabecera": "Quetzaltenango",
       "departamento": "Quetzaltenango",
-      "superior": 44.93,
+      "superior": 45.63,
       "superior_diferencia": 0.34,
-      "regular": 42.93,
+      "regular": 43.63,
       "regular_diferencia": 0.34,
       "diesel": 49.73,
       "diesel_diferencia": 0.34
@@ -172,9 +172,9 @@
     {
       "cabecera": "Totonicapán",
       "departamento": "Totonicapán",
-      "superior": 44.96,
+      "superior": 45.66,
       "superior_diferencia": 0.37,
-      "regular": 42.96,
+      "regular": 43.66,
       "regular_diferencia": 0.37,
       "diesel": 49.76,
       "diesel_diferencia": 0.37
@@ -182,9 +182,9 @@
     {
       "cabecera": "San Marcos",
       "departamento": "San Marcos",
-      "superior": 45.02,
+      "superior": 45.72,
       "superior_diferencia": 0.43,
-      "regular": 43.02,
+      "regular": 43.72,
       "regular_diferencia": 0.43,
       "diesel": 49.82,
       "diesel_diferencia": 0.43
@@ -192,9 +192,9 @@
     {
       "cabecera": "Salamá",
       "departamento": "Baja Verapaz",
-      "superior": 45.03,
+      "superior": 45.73,
       "superior_diferencia": 0.44,
-      "regular": 43.03,
+      "regular": 43.73,
       "regular_diferencia": 0.44,
       "diesel": 49.83,
       "diesel_diferencia": 0.44
@@ -202,9 +202,9 @@
     {
       "cabecera": "Zacapa",
       "departamento": "Zacapa",
-      "superior": 45.03,
+      "superior": 45.73,
       "superior_diferencia": 0.44,
-      "regular": 43.03,
+      "regular": 43.73,
       "regular_diferencia": 0.44,
       "diesel": 49.83,
       "diesel_diferencia": 0.44
@@ -212,9 +212,9 @@
     {
       "cabecera": "Chiquimula",
       "departamento": "Chiquimula",
-      "superior": 45.08,
+      "superior": 45.78,
       "superior_diferencia": 0.49,
-      "regular": 43.07,
+      "regular": 43.77,
       "regular_diferencia": 0.48,
       "diesel": 49.87,
       "diesel_diferencia": 0.48
@@ -222,9 +222,9 @@
     {
       "cabecera": "Huehuetenango",
       "departamento": "Huehuetenango",
-      "superior": 45.37,
+      "superior": 46.07,
       "superior_diferencia": 0.78,
-      "regular": 43.37,
+      "regular": 44.07,
       "regular_diferencia": 0.78,
       "diesel": 50.17,
       "diesel_diferencia": 0.78
@@ -232,9 +232,9 @@
     {
       "cabecera": "Cobán",
       "departamento": "Alta Verapaz",
-      "superior": 45.44,
+      "superior": 46.14,
       "superior_diferencia": 0.85,
-      "regular": 43.44,
+      "regular": 44.14,
       "regular_diferencia": 0.85,
       "diesel": 50.24,
       "diesel_diferencia": 0.85
@@ -242,13 +242,13 @@
     {
       "cabecera": "Flores",
       "departamento": "Petén",
-      "superior": 45.88,
+      "superior": 46.58,
       "superior_diferencia": 1.29,
-      "regular": 43.88,
+      "regular": 44.58,
       "regular_diferencia": 1.29,
       "diesel": 50.68,
       "diesel_diferencia": 1.29
     }
   ],
-  "actualizado": "2026-09-22T15:13-06:00"
+  "actualizado": "2026-09-23T07:18-06:00"
 }

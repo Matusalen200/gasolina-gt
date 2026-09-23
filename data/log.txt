@@ -979,3 +979,35 @@ Noticias: 16 apuntan a que baja y 15 a que sube
 2026-09-22 15:14 [INFO] --- telegram ---
 2026-09-22 15:14 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-22 15:14 [INFO] Fin corrida
+2026-09-23 07:16 [INFO] Inicio corrida 2026-09-23 07:16 GT
+2026-09-23 07:16 [INFO] --- mem ---
+2026-09-23 07:16 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-23 07:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-23 07:18 [INFO] --- hoy ---
+2026-09-23 07:18 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-23 promedio S=45.29 R=43.29 D=49.39 · ¿Aumentaron? Así amanecieron los precios de los combustibles
+2026-09-23 07:18 [WARN] Precio hoy: descarto cifras incoherentes de Prensa Libre (Combustibles: el Congreso aprobó una nueva medida,): S=None R=34.59 D=32.9
+2026-09-23 07:18 [INFO] Precio hoy: Prensa Libre 2026-09-23 otro S=None R=44.66 D=None · Gasolina regular con etanol: qué cambió tras el primer mes d
+2026-09-23 07:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-23 07:18 [INFO] Precio hoy: 2 observaciones nuevas de 21 artículos · regular 43.29 (2026-09-23)
+2026-09-23 07:18 [INFO] --- mercado ---
+2026-09-23 07:18 [INFO] Mercado: RBOB 3.2769 (2.24% 7d), WTI 91.08, USD/GTQ 7.6285 · 3/3 símbolos
+2026-09-23 07:18 [INFO] --- noticias ---
+2026-09-23 07:18 [INFO] RSS: 244 notas relevantes en 8 fuentes
+2026-09-23 07:18 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 14, 'BAJA': 13, 'NEUTRAL': 23}
+2026-09-23 07:18 [INFO] --- senal ---
+2026-09-23 07:18 [INFO] Señal: 🔴 Llena HOY (puntaje +29) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+2026-09-23 07:18 [INFO] --- proyeccion ---
+2026-09-23 07:18 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.72, 42.72, 42.72, 42.72]
+2026-09-23 07:18 [INFO] --- reporte ---
+2026-09-23 07:18 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes sube como Q0.45 el galón.
+Hoy el galón cuesta: Súper Q45.29 · Normal Q43.29 · Diésel Q49.39
+Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q43.29
+Noticias: 14 apuntan a que sube y 13 a que baja
+2026-09-23 07:18 [INFO] --- grafica ---
+2026-09-23 07:18 [INFO] Gráfica lista: grafica_precios.png (11 días, 4 combustibles)
+2026-09-23 07:18 [INFO] --- telegram ---
+2026-09-23 07:18 [INFO] Telegram: reporte 2026-09-23 publicado en -1003973167814
+2026-09-23 07:18 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-23 07:18 [INFO] Fin corrida
