@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T19:14+00:00",
+  "actualizado": "2026-09-23T20:16+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 9,
@@ -7,6 +7,17 @@
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "564039fcdb11",
+      "titulo": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Workarounds-Keep-Gulf-Oil-Flowingat-a-Steep-Cost.html",
+      "fecha": "2026-09-23T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "e9c3d02eada1",
       "titulo": "India cuts edible oil import duty to lower prices ahead of festivals",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "da3a9fc337a5",
-      "titulo": "India's Russian oil imports fell in August, seen lower in September, data shows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2xoNlhIRmM0OGlDbzZXSF9uQ2Z2N3NHTVNtOFQyNDZPcHJlYjd3S0hZYm5WWF91U2xyLURzeUJmMVNpb2dsNExRNDdwV19pcE1UOG5TUEIzbmlWT3hacXVxSi1CYkVqcm9SR3ZzX3hXc2laUFpIQnR0bGdsQ3RsUGQ4Tm9PZEFyMllSZWYzVVZQdFhqMVdfUlJ3VnBfSnA2MW9xSG8tYXgwTGNMTV9EZFB3UXhIMjliWkE?oc=5",
-      "fecha": "2026-09-22T13:28+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]

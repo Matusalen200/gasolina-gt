@@ -1119,3 +1119,20 @@ Noticias: 14 apuntan a que sube y 13 a que baja
 2026-09-23 13:14 [INFO] --- telegram ---
 2026-09-23 13:14 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-23 13:14 [INFO] Fin corrida
+2026-09-23 14:15 [INFO] Inicio corrida 2026-09-23 14:15 GT
+2026-09-23 14:15 [INFO] --- mem ---
+2026-09-23 14:15 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-23 14:16 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-23 14:16 [INFO] --- hoy ---
+2026-09-23 14:16 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-23 14:16 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 43.29 (2026-09-23)
+2026-09-23 14:16 [INFO] --- mercado ---
+2026-09-23 14:16 [INFO] Mercado: RBOB 3.3502 (3.42% 7d), WTI 92.61, USD/GTQ 7.6335 · 3/3 símbolos
+2026-09-23 14:16 [INFO] --- noticias ---
+2026-09-23 14:16 [INFO] RSS: 246 notas relevantes en 8 fuentes
+2026-09-23 14:16 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 9, 'BAJA': 13, 'NEUTRAL': 28}
+2026-09-23 14:16 [INFO] --- senal ---
+2026-09-23 14:16 [INFO] Señal: 🔴 Llena HOY (puntaje +17) · Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de bajadas.
+2026-09-23 14:16 [INFO] --- telegram ---
+2026-09-23 14:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-23 14:16 [INFO] Fin corrida
