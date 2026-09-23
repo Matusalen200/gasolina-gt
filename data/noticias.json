@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-23T18:20+00:00",
+  "actualizado": "2026-09-23T19:14+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 9,
-    "BAJA": 12,
-    "NEUTRAL": 29
+    "BAJA": 13,
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "e9c3d02eada1",
+      "titulo": "India cuts edible oil import duty to lower prices ahead of festivals",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
+      "fecha": "2026-09-23T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "111e0f36fa8d",
       "titulo": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c10e6a11b6f8",
-      "titulo": "Saudi crude oil exports hit four-month high in July, data shows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2gwV3N1aks0MUxSbmFGLVVEcEMyaTNfc0RBRGc4SjROTW0zOWhDS2thTEhkYmU0MGJPMlBuV3Zicmt4Z0x2MGp2ZGRXSzlUZDNqRVBJUExDYk5pVWZNYmdsRkFwcVRJRklDbFY4SURQSlE3WEZBY0R1S1d5X0FKRVAxYzZTZnAtaFFWd3luUjQxRGpsZkFublJPcEpDeDhKM2xxQWs1eFdxOURfZVRPXw?oc=5",
-      "fecha": "2026-09-22T12:51+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
