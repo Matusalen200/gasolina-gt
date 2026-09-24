@@ -1187,3 +1187,20 @@ Noticias: Guatemala suspende IVA e IDP a combustibles: estos son…
 2026-09-24 07:17 [INFO] Telegram: reporte 2026-09-24 publicado en -1003973167814
 2026-09-24 07:17 [INFO] Telegram: 0 mensajes respondidos, publicado=True
 2026-09-24 07:17 [INFO] Fin corrida
+2026-09-24 08:15 [INFO] Inicio corrida 2026-09-24 08:15 GT
+2026-09-24 08:15 [INFO] --- mem ---
+2026-09-24 08:15 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-24 08:16 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-24 08:16 [INFO] --- hoy ---
+2026-09-24 08:16 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-24 08:16 [INFO] Precio hoy: 0 observaciones nuevas de 3 artículos · regular 43.29 (2026-09-23)
+2026-09-24 08:16 [INFO] --- mercado ---
+2026-09-24 08:16 [INFO] Mercado: RBOB 3.3547 (6.09% 7d), WTI 94.06, USD/GTQ 7.6365 · 3/3 símbolos
+2026-09-24 08:16 [INFO] --- noticias ---
+2026-09-24 08:16 [INFO] RSS: 240 notas relevantes en 8 fuentes
+2026-09-24 08:16 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 9, 'BAJA': 11, 'NEUTRAL': 30}
+2026-09-24 08:16 [INFO] --- senal ---
+2026-09-24 08:16 [INFO] Señal: 🔴 Llena HOY (puntaje +52) · Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de bajadas.
+2026-09-24 08:16 [INFO] --- telegram ---
+2026-09-24 08:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-24 08:16 [INFO] Fin corrida
