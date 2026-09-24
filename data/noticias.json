@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-24T18:18+00:00",
+  "actualizado": "2026-09-24T19:14+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
+    "ALZA": 12,
     "BAJA": 12,
-    "NEUTRAL": 27
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "082b283ff17f",
+      "titulo": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Export-Costs-Surge-as-Red-Sea-Risks-Mount.html",
+      "fecha": "2026-09-24T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "de42bbb26ab8",
       "titulo": "Why Are Diesel Prices So High?",
@@ -24,6 +35,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html",
       "fecha": "2026-09-24T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f01a908a0e83",
+      "titulo": "Saudi oil export strategy hits new hurdle as Red Sea insurance costs soar",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTRXRkRnZzBpWmo3VklXUlM4NzZOUXZKTjlndXgydERQalUwdHZDV2loS1F4YnRreHRWYlhUb1RnWGt3Nm1NaERsMC1Gb3QxSlZaTWZGWllwbnVwOWhtRkNlc0JFQUdNYTU2X1lTRGxweTBqTk1Gdk5RdTY0NldlUmlSbDgxbGFfM2NqVWk5UHRCTVZCb3NBSS1BcnF4ZHVqVUNlU3Zpd1lyM1BVWkhzT1h0cVZmX0ozQlZUdUFEYw?oc=5",
+      "fecha": "2026-09-24T16:57+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1fcfa0f3277a",
-      "titulo": "UK's FTSE 100 up as banks gain, oil prices steady",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYm9UZS1CY1Z1eU5IVFFEUFd6V2VCbW80eWgwMjk4Z3ZyWDJSSk9JZ1dXY3oyd3oxX2RyRmJMT0o2SmFEOEhMWG4yMnBrUEdyQ09MVERNWkx0UDFmOFNIdV9NXzBON09NSFcyM2RlRmdnbUJvcGQ3RFhPNWJYeVlPbU5zRGp4NVU3VmJZNUZvTDZvRnc?oc=5",
-      "fecha": "2026-09-23T09:53+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b574912c704d",
-      "titulo": "PODCAST: Crude hopes",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb21VdGdkTmtQODVPbjhOUk1wSG42bXFwdUNWdWpNSklYU0ZGZVVpcWlqbXphNVJTS25ZTS15dHFwdEIxbEZ0U1RSbENOekZSYnJVQzVqc2VBbzhSTmFGTDJ4MzFxWmNZT3RkV0E1cGhMVEdnRXBuT0Nib1ZpNmhGWkt3?oc=5",
-      "fecha": "2026-09-23T09:36+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
