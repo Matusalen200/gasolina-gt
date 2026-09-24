@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-24T15:17+00:00",
+  "actualizado": "2026-09-24T16:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 9,
-    "BAJA": 13,
+    "ALZA": 10,
+    "BAJA": 12,
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "0f23b16fa6c6",
+      "titulo": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Begins-Oil-Exports-From-Its-Giant-Vostok-Arctic-Project.html",
+      "fecha": "2026-09-24T15:35+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c796e4030bdd",
       "titulo": "China Could Cut Fuel Exports in October as Inventories Plunge",
@@ -283,6 +294,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ee41e4038427",
+      "titulo": "Oil settles up around 4% as Iran's president vows to never surrender",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
+      "fecha": "2026-09-23T18:48+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "eba72a6369ae",
       "titulo": "US diesel futures fall after report of export ban plan, which the White House denies",
       "fuente": "Reuters (vía Google News)",
@@ -426,6 +448,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "58e62bb42d86",
+      "titulo": "¡Sube la gasolina! Así amanecen los precios de los combustibles este miércoles",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1NtdmJrWW5iNVRpV0hhYThSS0Z2YkJGbEtQa3JfWEdqS2ZSTEltVzQzMG9GbXRCUmhwZzNUTUJtWnFWelBSYXNWWmIwak9wbnN6WmFWR3dRN1U0d21qRklmZngtOGNtUVRhME5wMG5ZeEdpdDRCYU9PenJnMjFYeHpXMFVGYUNDUTcxYVU4c2Q4UQ?oc=5",
+      "fecha": "2026-09-23T12:50+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "6006ac6263ee",
       "titulo": "Hormuz Traffic Running 80% Below Its 10-Day Average",
       "fuente": "OilPrice.com",
@@ -456,6 +489,17 @@
       "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "bef87ad5a91b",
+      "titulo": "Indian shares advance on oil retreat; financials lead",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjZWUkdWUm0zQnhJSHI0Y3V0eTV6dGd4emdYeHRGTzgtTWx1NUVMcjNfc3VGekFYN1JNTWpjUmNmS1IzZ1pUMC1FTDFwQlM0djJ1YlBYN1RZa25MM0lVTFRqVjhwTXJsVllQTzdFMVZWZ2x5T2Etc0xGZjRHblppWEJ0dXRsNUhSNFBIVlpHUVIyd2dFUEE0MGM1aGFNMTN5UXRxUVh5TDhiVkwyM3lvUg?oc=5",
+      "fecha": "2026-09-23T10:21+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -508,50 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHFRTHZVRGQzMGxlSDl0Rk1JRzZNMlotYkNCdHJQQkpJRGE3VFZTVU1xVTktcU1aMVU3MXpfQWttVVJ5eHZrdUgtQUw4N2NnanpMNDF0UWRxYjkyRVVmejA2MzdyWXZ5d0g4UWxvNWM5M2xOSjc5ejNtNTM2YzFNbnlMdHFJdVZrMV9iQnV2UHJXVHlxc3RzY2hpeldDbmFBaVFrYXBmel9CdXJBUXk5Y3lR?oc=5",
       "fecha": "2026-09-23T09:07+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8476258f24c8",
-      "titulo": "$100 Brent Keeping China's Oil Buying in Check, Goldman Says",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/100-Brent-Keeping-Chinas-Oil-Buying-in-Check-Goldman-Says.html",
-      "fecha": "2026-09-23T09:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e111fe58ec0c",
-      "titulo": "Michigan Judge Tosses State's Antitrust Suit Against Big Oil",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Michigan-Judge-Tosses-States-Antitrust-Suit-Against-Big-Oil.html",
-      "fecha": "2026-09-23T08:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0f017c4f735d",
-      "titulo": "Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXlPVWFzejJKbzBBSVA5ZFhMbUdTZ0VVS1RZVXBpMlJRZC1Lak9aNmdldDEwdVZ1RGlPMjlUUFdFSGdocFlTbVpjLTFLcXJsN2VqTFhVZ1d0YmYwLTBUNG9tUHVmWEs2Q1E3em4za29OcHo3MFk2Q0twV3M5WFB4Q2ppeW9LVnd3SzJ2SHhLN1N6MTI4YVU0dDBuS0htU3R5SW9maHVnR2NDUFlManVqYTRidGZiYzVv?oc=5",
-      "fecha": "2026-09-23T07:57+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7fec4c1d8ef5",
-      "titulo": "South Korea Aims to Cut Middle East Crude Reliance to 50% by 2035",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html",
-      "fecha": "2026-09-23T06:29+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
