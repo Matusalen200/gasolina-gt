@@ -1153,3 +1153,37 @@ Noticias: 14 apuntan a que sube y 13 a que baja
 2026-09-23 15:15 [INFO] --- telegram ---
 2026-09-23 15:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-23 15:15 [INFO] Fin corrida
+2026-09-24 07:16 [INFO] Inicio corrida 2026-09-24 07:16 GT
+2026-09-24 07:16 [INFO] --- mem ---
+2026-09-24 07:16 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-24 07:17 [WARN] HTTP fallo https://web.archive.org/cdx/search/cdx?url=mem.gob.gt/wp-content/uploads/2026/09/*&filter=statuscode:200&fl=original&collapse=original&limit=200: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=60)
+2026-09-24 07:17 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-24 07:17 [INFO] --- hoy ---
+2026-09-24 07:17 [INFO] Precio hoy: Prensa Libre 2026-09-23 otro S=45.29 R=45.29 D=49.4 · Precio de los combustibles en Guatemala: estos son los preci
+2026-09-24 07:17 [WARN] Precio hoy: descarto cifras incoherentes de La Hora (A un mes de la venta de gasolina con etanol, cambi): S=None R=35.44 D=20.55
+2026-09-24 07:17 [WARN] Precio hoy: descarto cifras incoherentes de Prensa Libre (Suspensión del IVA y del IDP: no atiende la situac): S=34.59 R=32.9 D=40.66
+2026-09-24 07:17 [WARN] Precio hoy: descarto cifras incoherentes de TV Azteca Guatemala (¿A dónde se destinan los impuestos que se pagan po): S=27.66 R=28.26 D=None
+2026-09-24 07:17 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-24 07:17 [INFO] Precio hoy: 1 observaciones nuevas de 13 artículos · regular 43.29 (2026-09-23)
+2026-09-24 07:17 [INFO] --- mercado ---
+2026-09-24 07:17 [INFO] Mercado: RBOB 3.366 (5.97% 7d), WTI 93.75, USD/GTQ 7.6365 · 3/3 símbolos
+2026-09-24 07:17 [INFO] --- noticias ---
+2026-09-24 07:17 [INFO] RSS: 241 notas relevantes en 8 fuentes
+2026-09-24 07:17 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 9, 'BAJA': 10, 'NEUTRAL': 31}
+2026-09-24 07:17 [INFO] --- senal ---
+2026-09-24 07:17 [INFO] Señal: 🔴 Llena HOY (puntaje +59) · Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de bajadas.
+2026-09-24 07:17 [INFO] --- proyeccion ---
+2026-09-24 07:17 [INFO] Proyección (calibrando, n=9, MAE=None): regular [43.3, 43.3, 43.3, 43.3]
+2026-09-24 07:17 [INFO] --- reporte ---
+2026-09-24 07:17 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes sube como Q1.25 el galón.
+Hoy el galón cuesta: Súper Q45.29 · Normal Q43.29 · Diésel Q49.39
+Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de bajadas.
+Lo más barato: Guatemala, normal a Q43.29
+Noticias: Guatemala suspende IVA e IDP a combustibles: estos son…
+2026-09-24 07:17 [INFO] --- grafica ---
+2026-09-24 07:17 [INFO] Gráfica lista: grafica_precios.png (11 días, 4 combustibles)
+2026-09-24 07:17 [INFO] --- telegram ---
+2026-09-24 07:17 [INFO] Telegram: reporte 2026-09-24 publicado en -1003973167814
+2026-09-24 07:17 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-24 07:17 [INFO] Fin corrida
