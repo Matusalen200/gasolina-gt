@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T20:16+00:00",
+  "actualizado": "2026-09-24T21:15+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 13,
@@ -7,6 +7,17 @@
     "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "1b6e557f74bf",
+      "titulo": "Can the World Hit 35% Electrification by 2035?",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Can-the-World-Hit-35-Electrification-by-2035.html",
+      "fecha": "2026-09-24T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "082b73814053",
       "titulo": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5a544567547a",
-      "titulo": "Asia's Crude Imports Hit Highest Level Since the Iran War Began",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Asias-Crude-Imports-Hit-Highest-Level-Since-the-Iran-War-Began.html",
-      "fecha": "2026-09-23T11:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
