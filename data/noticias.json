@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-24T19:14+00:00",
+  "actualizado": "2026-09-24T20:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 12,
-    "NEUTRAL": 26
+    "ALZA": 13,
+    "BAJA": 10,
+    "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "082b73814053",
+      "titulo": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
+      "fecha": "2026-09-24T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d0ad65aa9b6d",
+      "titulo": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0Z6R1B2THkxTXRCQXNqNE5ZUkVSbU9RR1Jsd1hwSzk4bkVTYTNpRVJVMjFZdkp5WEpXb1RwWDhOb0xPdW92WGx3dF84UGh2dkI1ZmxHUTdYZTJiREpHZm5XVjIzcUtXWHkzeGh2amdiNEhITkc1Y1BtTElUMWxta25yWUFwVXVKajdISE5RSWRZMmFsMkNNVTJ6bUhwcGN4R0tDODd1Qk5nSXdaQ2g3emE2b3RLbklEaGlLbFN3?oc=5",
+      "fecha": "2026-09-24T19:51+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "082b283ff17f",
       "titulo": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
@@ -115,6 +137,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fc9e594438fa",
+      "titulo": "Trump rolled back regulations for oil company campaign donors, Democrats say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2xQaXlsZUNqdmhhanV2SmJrQVcxTUFZcVI5eHRRNXlFN3llQTc0dkRtTXlyTEN1RXg2TUVUUGloa1M0M2RUbGN6WHJUMDVnTnJzWFJ0VzlZSmcwUklibkdjNC1xTEc3UnJlWW1VX1hpYkRQcTdHNHRrZzJ0dXFFck16Z3hLTFhsdFFwMEpYNFRQVDdwSTdrOExvczc5T3Y3bXJURDk3cE1kcDVPYjUwbXc4RHBieE1ZNlpuS013d2V2UQ?oc=5",
+      "fecha": "2026-09-24T13:27+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "00da5c86decb",
-      "titulo": "MEM analiza si es necesario declarar emergencia en el sistema de electricidad ante déficit de lluvia",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/mem-analiza-si-es-necesario-declarar-emergencia-en-el-sistema-de-electricidad-ante-deficit-de-lluvia/",
-      "fecha": "2026-09-23T11:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bef87ad5a91b",
-      "titulo": "Indian shares advance on oil retreat; financials lead",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjZWUkdWUm0zQnhJSHI0Y3V0eTV6dGd4emdYeHRGTzgtTWx1NUVMcjNfc3VGekFYN1JNTWpjUmNmS1IzZ1pUMC1FTDFwQlM0djJ1YlBYN1RZa25MM0lVTFRqVjhwTXJsVllQTzdFMVZWZ2x5T2Etc0xGZjRHblppWEJ0dXRsNUhSNFBIVlpHUVIyd2dFUEE0MGM1aGFNMTN5UXRxUVh5TDhiVkwyM3lvUg?oc=5",
-      "fecha": "2026-09-23T10:21+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "454799dd4f9a",
-      "titulo": "Oil Set for Longest Losing Streak Since August 2025",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Set-for-Longest-Losing-Streak-Since-August-2025.html",
-      "fecha": "2026-09-23T10:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
