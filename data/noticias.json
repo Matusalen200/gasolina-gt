@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-24T14:16+00:00",
+  "actualizado": "2026-09-24T15:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 9,
-    "BAJA": 11,
-    "NEUTRAL": 30
+    "BAJA": 13,
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "c796e4030bdd",
+      "titulo": "China Could Cut Fuel Exports in October as Inventories Plunge",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/China-Could-Cut-Fuel-Exports-in-October-as-Inventories-Plunge.html",
+      "fecha": "2026-09-24T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "4f960f7497c9",
       "titulo": "Record Fuel Prices Send European EV Sales Soaring",
@@ -16,6 +27,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1981b12c903a",
+      "titulo": "Russia starts exports from Arctic Vostok Oil project in boost to long-term production",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXA0X3pNQTJnQUo0Ti1PQnlsbW9tNy1BY19Qek1XS0JmQ2tjT0hpYXE0UmlKYy1sN1FXdm5VTGYwQzh5WF8yOFY5OE1fMUlBT1llVlRGc1pEOThuT3pLRFhTNmVYa3IzLV9oMDcwYm42UjZWVXpOZGFsN3pUNGVTeGZwb2c1ZHktNG9tNXA2aExoazFLXy1wZl9fZnVsSTVtWXVwU2U0dWl3TjNEbC1iT0ZlSTF0YzRWa205ZnBTX2g0UU5P?oc=5",
+      "fecha": "2026-09-24T14:06+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -49,6 +71,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7990ae10ae99",
+      "titulo": "UK stocks fall as lack of progress in US-Iran talks lifts oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHdHT0VLakV1eGx5V2lEejBTV2hZdC02WXdYM3ctdVNtNXA1SURvX25YZjFQeUJfUFVocEFQZ1dUc3RjVnJnX1pTaUxPcEpHdUFkYVYxU01zTGp3bG5yRlRZNmxmcnI3V3JwSUE1VFBWTThOQzVqZHlhWE54bXhhZU85R1FaTkhJNEdTV3ExN1I1YjJqVzZlN0Y3V3dSczVWdE42a1hPVQ?oc=5",
+      "fecha": "2026-09-24T10:20+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -135,6 +168,17 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFFxTmNRWmhLTU95M3RUZ2NLTDJLOXF4MnNFLU9xY3JGZ3BSNC1qRWdhYnI3dTJFSGxXS0hJQ2VQMVZGS1ZidVFTeEtVdTJHQmxHcGtPUk9nZEpRcU9lLTFGejJrejNMc1BPNEx1ejhpUS1jb2NWSWUtcUpTcm1pRVlyLWcwbjBLdWNIVi1HQU9SLWtDQWRRWWFMZmR5XzF1RFVFSHFsMGhmbXc0TEM0SGFjTU9vWS03UlZ2NVpJS2pCdVQxTHZCNUx6T2p3UEg5MmtxeDQyYzNnZw?oc=5",
       "fecha": "2026-09-24T05:01+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "901a29b980ec",
+      "titulo": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-busca-poner-fin-a-la-guerra-con-iran-pero-no-como-trump-quiere/",
+      "fecha": "2026-09-24T03:33+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -310,6 +354,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHdtekdjUEh0dXhIa040bjZnR1UtRG5PdVdLYjZnY0VMaVdzZGM5eDc0UUNnMW16aXRrVUFPTHh0WVBtWTFLOFN4TjQzNGdPY1VQb09IcDVDdF8yazJIbmJOWDQ5UWQ2ekZUMnZoUFpERVhsN3h6cFByS1VwelZYbkxMejE1dkV4RXFVV2lxVC1BdGNueTBBQWVkRWhNaWFDZ3ZBRUk5bkdQbkZDbzlGMnJNd1NTNkdVV0UwdmdmeDY?oc=5",
       "fecha": "2026-09-23T16:25+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4ebefa14700f",
+      "titulo": "US judge dismisses Michigan climate lawsuit against oil companies",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkZ5eXYtMDNUYjFadlJmZlltWmlrSVRwLVlqT2tLSFlNUF9iTWtzcVVLX3MwY1AzbWg0SVVxQXg2dDVTeFV1QmFyRE85WkltWUJ0ejQ2Q1RydkFjTEJmUmlZc0NwTkc0OEdrMWM4eURCNXVMWEhUdjhWYVZFclF1UDFvUTIybl9OaTlvQW82TlRFVi1PSGdWV1lUX0ZFLXdVS0NyejRjaVVxTmxtT0I4RDJ1ajR3ZzZSbUE?oc=5",
+      "fecha": "2026-09-23T15:15+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -497,61 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html",
       "fecha": "2026-09-23T06:29+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6b7056c0852c",
-      "titulo": "Gasolina regular con etanol: qué cambió tras el primer mes de uso en Guatemala",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/gasolina-regular-con-etanol-que-cambio-tras-el-primer-mes-de-uso-en-guatemala/",
-      "fecha": "2026-09-23T06:10+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "88a6c6b61463",
-      "titulo": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Backs-Diesel-Export-Ban-as-Prices-Hit-Record-Highs.html",
-      "fecha": "2026-09-23T05:35+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bef87ad5a91b",
-      "titulo": "Indian shares advance on oil retreat; financials lead",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjZWUkdWUm0zQnhJSHI0Y3V0eTV6dGd4emdYeHRGTzgtTWx1NUVMcjNfc3VGekFYN1JNTWpjUmNmS1IzZ1pUMC1FTDFwQlM0djJ1YlBYN1RZa25MM0lVTFRqVjhwTXJsVllQTzdFMVZWZ2x5T2Etc0xGZjRHblppWEJ0dXRsNUhSNFBIVlpHUVIyd2dFUEE0MGM1aGFNMTN5UXRxUVh5TDhiVkwyM3lvUg?oc=5",
-      "fecha": "2026-09-23T02:24+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9d916a8f96ca",
-      "titulo": "Global stocks stall, oil ticks up as investors await Mideast peace signals",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5",
-      "fecha": "2026-09-23T01:51+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ee41e4038427",
-      "titulo": "Oil holds near two-week lows while diesel cracks hit record peak",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
-      "fecha": "2026-09-23T01:44+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
