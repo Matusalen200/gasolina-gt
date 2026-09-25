@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T14:18+00:00",
+  "actualizado": "2026-09-25T15:18+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 18,
@@ -7,6 +7,17 @@
     "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "36c6bdc1f2ce",
+      "titulo": "Trump’s Diesel Export Threat Puts Britain on Edge",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Diesel-Export-Threat-Puts-Britain-on-Edge.html",
+      "fecha": "2026-09-25T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "25c8bf5acc51",
       "titulo": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge",
@@ -542,17 +553,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1JINFhpNlRoREQ1VUJrTWpBR0swMVRjM1VxY2NJOGRCNHRPRWUzWU83SHRYb2FIcWR0SjdDOHJZeXBzZ3NsWlNFVUlMUldnS3h2Qm9rZFVlVDdBQWFvSjhtTEpaNXo4S1pOQ1VLbXJTUXBLSHpPaVd2QnRMcDBtajhtMWZmWDZqdzRSR2hnaHZRSzJMTWt3S280LVFSMTlVcHR0Tldrckk1WlczSDdHNklOTjF2dTY2LS1kZ1NYTngtRGp3TGc?oc=5",
       "fecha": "2026-09-24T06:42+00:00",
       "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "008b8f5225a7",
-      "titulo": "Suspensión del IVA y del IDP: no atiende la situación del diésel, y sectores piden medidas más sostenibles",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/suspension-del-iva-y-del-idp-no-atiende-la-situacion-del-diesel-y-sectores-piden-medidas-mas-sostenibles/",
-      "fecha": "2026-09-24T06:10+00:00",
-      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
