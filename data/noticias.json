@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T17:16+00:00",
+  "actualizado": "2026-09-25T18:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
@@ -7,6 +7,17 @@
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "b787b6cf8579",
+      "titulo": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Oil-Output-Could-Hit-18-Million-Bpd-By-2030-Rystad-Says.html",
+      "fecha": "2026-09-25T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d37ac03dcd40",
       "titulo": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts",
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2xQaXlsZUNqdmhhanV2SmJrQVcxTUFZcVI5eHRRNXlFN3llQTc0dkRtTXlyTEN1RXg2TUVUUGloa1M0M2RUbGN6WHJUMDVnTnJzWFJ0VzlZSmcwUklibkdjNC1xTEc3UnJlWW1VX1hpYkRQcTdHNHRrZzJ0dXFFck16Z3hLTFhsdFFwMEpYNFRQVDdwSTdrOExvczc5T3Y3bXJURDk3cE1kcDVPYjUwbXc4RHBieE1ZNlpuS013d2V2UQ?oc=5",
       "fecha": "2026-09-24T13:27+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "47a9f663e4ab",
-      "titulo": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sells-100-Million-Barrels-of-Crude-to-Asia-via-Hormuz.html",
-      "fecha": "2026-09-24T13:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
