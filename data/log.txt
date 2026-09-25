@@ -1446,3 +1446,22 @@ Noticias: 17 apuntan a que sube y 6 a que baja
 2026-09-25 12:17 [INFO] --- telegram ---
 2026-09-25 12:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-25 12:17 [INFO] Fin corrida
+2026-09-25 13:12 [INFO] Inicio corrida 2026-09-25 13:12 GT
+2026-09-25 13:12 [INFO] --- mem ---
+2026-09-25 13:12 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-25 13:14 [WARN] HTTP fallo https://web.archive.org/cdx/search/cdx?url=mem.gob.gt/wp-content/uploads/2026/09/*&filter=statuscode:200&fl=original&collapse=original&limit=200: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=60)
+2026-09-25 13:14 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-25 13:14 [INFO] --- hoy ---
+2026-09-25 13:15 [WARN] Feed Diaco: HTTP sin respuesta
+2026-09-25 13:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-25 13:15 [INFO] Precio hoy: 0 observaciones nuevas de 0 artículos · regular 43.29 (2026-09-23)
+2026-09-25 13:15 [INFO] --- mercado ---
+2026-09-25 13:15 [INFO] Mercado: RBOB 3.1924 (-1.37% 7d), WTI 92.4, USD/GTQ 7.6365 · 3/3 símbolos
+2026-09-25 13:15 [INFO] --- noticias ---
+2026-09-25 13:15 [INFO] RSS: 241 notas relevantes en 8 fuentes
+2026-09-25 13:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 17, 'BAJA': 5, 'NEUTRAL': 28}
+2026-09-25 13:15 [INFO] --- senal ---
+2026-09-25 13:15 [INFO] Señal: 🟡 Sin apuro (puntaje +8) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-09-25 13:15 [INFO] --- telegram ---
+2026-09-25 13:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-25 13:15 [INFO] Fin corrida
