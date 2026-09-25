@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-09-25T13:18+00:00",
+  "actualizado": "2026-09-25T14:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 17,
+    "ALZA": 18,
     "BAJA": 6,
-    "NEUTRAL": 27
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "25c8bf5acc51",
+      "titulo": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Italy-Pushes-Refineries-to-Raise-Fuel-Output-Amid-Price-Surge.html",
+      "fecha": "2026-09-25T14:15+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "157d521f5c95",
+      "titulo": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
+      "fecha": "2026-09-25T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b2a1c9e470d9",
+      "titulo": "SNAPSHOT Wall St opens steady as AI enthusiasm eases worries over higher oil prices, yields",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
+      "fecha": "2026-09-25T13:34+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "cdf9c4b3c4eb",
       "titulo": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
@@ -74,6 +107,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ed57cfbe6cc1",
+      "titulo": "Economía de Guatemala mantiene crecimiento, pero El Niño y el petróleo generan riesgos",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/economia-de-guatemala-mantiene-crecimiento-pero-el-nino-y-el-petroleo-generan-riesgos/",
+      "fecha": "2026-09-25T11:00+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "c844f5d98784",
       "titulo": "India shares log longest weekly losing run since 2020 as oil prices bite",
       "fuente": "Reuters (vía Google News)",
@@ -115,6 +159,39 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e7ec6b82890c",
+      "titulo": "Análisis: Arévalo cede ante la exoneración de impuestos en medio del desgaste y la negociación del presupuesto",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/politica/analisis-arevalo-cede-ante-la-exoneracion-de-impuestos-en-medio-del-desgaste-y-la-negociacion-del-presupuesto/",
+      "fecha": "2026-09-25T06:12+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6e9b90f0d075",
+      "titulo": "¿Quién ganó más en la crisis de los combustibles?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/opinion/columnasdiarias/quien-gano-mas-en-la-crisis-de-los-combustibles/",
+      "fecha": "2026-09-25T06:01+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "943b871c5c86",
+      "titulo": "Oportunistas medran en la ignorancia",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/opinion/columnasdiarias/oportunistas-medran-en-la-ignorancia/",
+      "fecha": "2026-09-25T06:00+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -203,6 +280,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "87e064ce13a7",
+      "titulo": "Factura petrolera aumenta demanda de dólares y presiona el tipo de cambio en Guatemala",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/factura-petrolera-aumenta-demanda-de-dolares-y-presiona-el-tipo-de-cambio/",
+      "fecha": "2026-09-25T00:30+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -467,94 +555,6 @@
       "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8e5430a31a05",
-      "titulo": "Combustibles: alivio temporal",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/opinion/columnasdiarias/combustibles-alivio-temporal/",
-      "fecha": "2026-09-24T06:03+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "91a7f016fcad",
-      "titulo": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Iran-Talks-Stall-Over-Hormuz-Conditions.html",
-      "fecha": "2026-09-24T05:08+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e5f7d0a9ca47",
-      "titulo": "COMMENTARY: Asia's crude oil imports hit post-Iran conflict high in September, but remain weak",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFFxTmNRWmhLTU95M3RUZ2NLTDJLOXF4MnNFLU9xY3JGZ3BSNC1qRWdhYnI3dTJFSGxXS0hJQ2VQMVZGS1ZidVFTeEtVdTJHQmxHcGtPUk9nZEpRcU9lLTFGejJrejNMc1BPNEx1ejhpUS1jb2NWSWUtcUpTcm1pRVlyLWcwbjBLdWNIVi1HQU9SLWtDQWRRWWFMZmR5XzF1RFVFSHFsMGhmbXc0TEM0SGFjTU9vWS03UlZ2NVpJS2pCdVQxTHZCNUx6T2p3UEg5MmtxeDQyYzNnZw?oc=5",
-      "fecha": "2026-09-24T05:01+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "901a29b980ec",
-      "titulo": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-busca-poner-fin-a-la-guerra-con-iran-pero-no-como-trump-quiere/",
-      "fecha": "2026-09-24T03:33+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e7dc54dabc29",
-      "titulo": "Rupee declines to one-week low as oil rally fans global rate hike worries",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWxRcGJGem9jUEZ0dXY2NDVGblVTZElHakV4bmVHQXl5SHpyemdjME1vZFlOMldrWk5uWm5ncFI3dHNpdUJpS2FPUHFxTGc3bVFFQjF3bmR2ckdpaU1NUXl6OUNudzlYLWE4ZEVHelRFNk5GdzRRQzV2ZFRlNmJUSGtZSFhTWEFmMmdIdlRTVjlucjVhTEE3STJtdGppemZpM2Vka0RsTE1qbjZJZHlZ?oc=5",
-      "fecha": "2026-09-24T02:45+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b696ded99ef9",
-      "titulo": "Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFR1dnlza0cxUU5PbXRVYmRRT19oaHZFS3NmTDZUdHhDUVpIaTJDVDFHYThvSXE3RzNWenBDSUlDUDVCdE51VkpDaXppUEl2M1htMGxsMkxPV3ZaS2d3YVhYVTlFUEphWm45cWVuYTZLYmJ2V0xwT2dtMFkwQXZ5bjVWOVh2UHczVnZUSFQ5NFBrUkJaQTJwRXFoSlY5ajhXaHJXOVd3enFaclR4QUpXODFjMWxjVVE?oc=5",
-      "fecha": "2026-09-24T02:39+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "168c686c5133",
-      "titulo": "Gold slips as rising oil prices, Treasury yields dent appeal",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
-      "fecha": "2026-09-24T02:23+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "093911f638a5",
-      "titulo": "Oil jump sends 30-year yields to two-decade high",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
-      "fecha": "2026-09-24T01:48+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
