@@ -1323,3 +1323,34 @@ Noticias: Guatemala suspende IVA e IDP a combustibles: estos son…
 2026-09-24 15:15 [INFO] --- telegram ---
 2026-09-24 15:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-24 15:15 [INFO] Fin corrida
+2026-09-25 07:16 [INFO] Inicio corrida 2026-09-25 07:16 GT
+2026-09-25 07:16 [INFO] --- mem ---
+2026-09-25 07:16 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-25 07:17 [WARN] HTTP fallo https://web.archive.org/cdx/search/cdx?url=mem.gob.gt/wp-content/uploads/2026/08/*&filter=statuscode:200&fl=original&collapse=original&limit=200: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=60)
+2026-09-25 07:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-25 07:18 [INFO] --- hoy ---
+2026-09-25 07:18 [WARN] Feed Diaco: HTTP sin respuesta
+2026-09-25 07:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-25 07:18 [INFO] Precio hoy: 0 observaciones nuevas de 7 artículos · regular 43.29 (2026-09-23)
+2026-09-25 07:18 [INFO] --- mercado ---
+2026-09-25 07:18 [INFO] Mercado: RBOB 3.2037 (-0.03% 7d), WTI 92.72, USD/GTQ 7.6365 · 3/3 símbolos
+2026-09-25 07:18 [INFO] --- noticias ---
+2026-09-25 07:18 [INFO] RSS: 243 notas relevantes en 8 fuentes
+2026-09-25 07:18 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 17, 'BAJA': 6, 'NEUTRAL': 27}
+2026-09-25 07:18 [INFO] --- senal ---
+2026-09-25 07:18 [INFO] Señal: 🔴 Llena HOY (puntaje +22) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de subidas.
+2026-09-25 07:18 [INFO] --- proyeccion ---
+2026-09-25 07:18 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.24, 42.24, 42.24, 42.24]
+2026-09-25 07:18 [INFO] --- reporte ---
+2026-09-25 07:18 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q45.29 · Normal Q43.29 · Diésel Q49.39
+Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q43.29
+Noticias: 17 apuntan a que sube y 6 a que baja
+2026-09-25 07:18 [INFO] --- grafica ---
+2026-09-25 07:19 [INFO] Gráfica lista: grafica_precios.png (11 días, 4 combustibles)
+2026-09-25 07:19 [INFO] --- telegram ---
+2026-09-25 07:19 [INFO] Telegram: reporte 2026-09-25 publicado en -1003973167814
+2026-09-25 07:19 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-25 07:19 [INFO] Fin corrida
