@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T19:15+00:00",
+  "actualizado": "2026-09-25T20:14+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
@@ -481,6 +481,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "550545cccf6b",
+      "titulo": "Vitol emerges as one of Iraq's top crude buyers, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnM5bHJiMXlJWWp2SGtra1NHRmtKXzBNZldESHppcVhWY0UzLXRRejc3TnNMa2hNbXB2eGZJUlYxb2VTOEpWOUZxanZHM2lHYVZQS2hpUlVHRHkwMTlSX2xiWThuSldlbzc0OVVTaHdSYzJRTmRLQS1ubmlPaUhzMlYzV2FWaC1kQlZsejdyU05YV3JVZnBYcnNsZWFZQV9mUU5CTEt3WQ?oc=5",
+      "fecha": "2026-09-24T16:19+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "0f23b16fa6c6",
       "titulo": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
       "fuente": "OilPrice.com",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fc9e594438fa",
-      "titulo": "Trump rolled back regulations for oil company campaign donors, Democrats say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2xQaXlsZUNqdmhhanV2SmJrQVcxTUFZcVI5eHRRNXlFN3llQTc0dkRtTXlyTEN1RXg2TUVUUGloa1M0M2RUbGN6WHJUMDVnTnJzWFJ0VzlZSmcwUklibkdjNC1xTEc3UnJlWW1VX1hpYkRQcTdHNHRrZzJ0dXFFck16Z3hLTFhsdFFwMEpYNFRQVDdwSTdrOExvczc5T3Y3bXJURDk3cE1kcDVPYjUwbXc4RHBieE1ZNlpuS013d2V2UQ?oc=5",
-      "fecha": "2026-09-24T13:27+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
