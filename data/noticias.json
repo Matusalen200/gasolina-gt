@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-09-25T20:14+00:00",
+  "actualizado": "2026-09-25T21:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 17,
-    "BAJA": 5,
+    "ALZA": 18,
+    "BAJA": 4,
     "NEUTRAL": 28
   },
   "noticias": [
@@ -437,6 +437,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "168c686c5133",
+      "titulo": "Gold at one week-low as higher oil, hawkish Fed weigh",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
+      "fecha": "2026-09-24T18:36+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "082b283ff17f",
       "titulo": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
       "fuente": "OilPrice.com",
@@ -544,17 +555,6 @@
       "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "eb79dc851273",
-      "titulo": "Wall St set for lower open as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-      "fecha": "2026-09-24T13:28+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
