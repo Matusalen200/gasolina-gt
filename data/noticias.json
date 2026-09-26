@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-25T21:15+00:00",
+  "actualizado": "2026-09-26T13:20+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 18,
-    "BAJA": 4,
+    "ALZA": 17,
+    "BAJA": 5,
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "ee57c31fe522",
+      "titulo": "Licitación PET 4: El MEM adiciona 13 obras al Plan de Expansión de Transmisión de electricidad",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/licitacion-pet-4-el-mem-adiciona-13-obras-al-plan-de-expansion-de-transmision-de-electricidad/",
+      "fecha": "2026-09-26T11:00+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "653b76d0c9c6",
+      "titulo": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Nigeria-Joins-IEA-As-Crude-Output-Hits-Six-Year-High.html",
+      "fecha": "2026-09-25T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "b787b6cf8579",
       "titulo": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
@@ -503,6 +525,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "7990ae10ae99",
+      "titulo": "UK stocks fall as lack of progress in US-Iran talks lifts oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHdHT0VLakV1eGx5V2lEejBTV2hZdC02WXdYM3ctdVNtNXA1SURvX25YZjFQeUJfUFVocEFQZ1dUc3RjVnJnX1pTaUxPcEpHdUFkYVYxU01zTGp3bG5yRlRZNmxmcnI3V3JwSUE1VFBWTThOQzVqZHlhWE54bXhhZU85R1FaTkhJNEdTV3ExN1I1YjJqVzZlN0Y3V3dSczVWdE42a1hPVQ?oc=5",
+      "fecha": "2026-09-24T16:08+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "0f23b16fa6c6",
       "titulo": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
       "fuente": "OilPrice.com",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4f960f7497c9",
-      "titulo": "Record Fuel Prices Send European EV Sales Soaring",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Record-Fuel-Prices-Send-European-EV-Sales-Soaring.html",
-      "fecha": "2026-09-24T14:15+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1981b12c903a",
-      "titulo": "Russia starts exports from Arctic Vostok Oil project in boost to long-term production",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXA0X3pNQTJnQUo0Ti1PQnlsbW9tNy1BY19Qek1XS0JmQ2tjT0hpYXE0UmlKYy1sN1FXdm5VTGYwQzh5WF8yOFY5OE1fMUlBT1llVlRGc1pEOThuT3pLRFhTNmVYa3IzLV9oMDcwYm42UjZWVXpOZGFsN3pUNGVTeGZwb2c1ZHktNG9tNXA2aExoazFLXy1wZl9fZnVsSTVtWXVwU2U0dWl3TjNEbC1iT0ZlSTF0YzRWa205ZnBTX2g0UU5P?oc=5",
-      "fecha": "2026-09-24T14:06+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "185159e55ff1",
-      "titulo": "¿Qué falta para que se aplique la exención del IDP e IVA a la gasolina y el diésel en Guatemala?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/que-falta-para-que-se-aplique-la-exencion-del-idp-e-iva-a-la-gasolina-y-el-diesel-en-guatemala/",
-      "fecha": "2026-09-24T14:00+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]

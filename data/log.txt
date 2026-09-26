@@ -1501,3 +1501,32 @@ Noticias: 17 apuntan a que sube y 6 a que baja
 2026-09-25 15:15 [INFO] --- telegram ---
 2026-09-25 15:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-25 15:15 [INFO] Fin corrida
+2026-09-26 07:19 [INFO] Inicio corrida 2026-09-26 07:19 GT
+2026-09-26 07:19 [INFO] --- mem ---
+2026-09-26 07:19 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-26 07:20 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-26 07:20 [INFO] --- hoy ---
+2026-09-26 07:20 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-26 07:20 [INFO] Precio hoy: 0 observaciones nuevas de 14 artículos · regular 43.29 (2026-09-23)
+2026-09-26 07:20 [INFO] --- mercado ---
+2026-09-26 07:20 [INFO] Mercado: RBOB 3.1968 (-1.8% 7d), WTI 92.44, USD/GTQ 7.6365 · 3/3 símbolos
+2026-09-26 07:20 [INFO] --- noticias ---
+2026-09-26 07:20 [INFO] RSS: 233 notas relevantes en 8 fuentes
+2026-09-26 07:20 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 17, 'BAJA': 5, 'NEUTRAL': 28}
+2026-09-26 07:20 [INFO] --- senal ---
+2026-09-26 07:20 [INFO] Señal: 🟡 Sin apuro (puntaje +4) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-09-26 07:20 [INFO] --- proyeccion ---
+2026-09-26 07:20 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.2, 42.2, 42.2, 42.2]
+2026-09-26 07:20 [INFO] --- reporte ---
+2026-09-26 07:20 [INFO] Reporte diario generado:
+🟡 Sin apuro. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q45.29 · Normal Q43.29 · Diésel Q49.39
+Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q43.29
+Noticias: Licitación PET 4: El MEM adiciona 13 obras al Plan de… · Economía de Guatemala mantiene crecimiento, pero El Niño…
+2026-09-26 07:20 [INFO] --- grafica ---
+2026-09-26 07:20 [INFO] Gráfica lista: grafica_precios.png (11 días, 4 combustibles)
+2026-09-26 07:20 [INFO] --- telegram ---
+2026-09-26 07:20 [INFO] Telegram: reporte 2026-09-26 publicado en -1003973167814
+2026-09-26 07:20 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-26 07:20 [INFO] Fin corrida
