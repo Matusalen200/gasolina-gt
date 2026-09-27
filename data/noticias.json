@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-26T13:20+00:00",
+  "actualizado": "2026-09-27T13:21+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
-    "BAJA": 5,
-    "NEUTRAL": 28
+    "BAJA": 3,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "ceeb7be28480",
+      "titulo": "MEM descarta interrupciones en suministro de gasolina y diésel en Guatemala",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/mem-descarta-interrupciones-en-suministro-de-gasolina-y-diesel-en-guatemala/",
+      "fecha": "2026-09-26T21:00+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c39ac206e3ce",
+      "titulo": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
+      "fecha": "2026-09-26T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "ee57c31fe522",
       "titulo": "Licitación PET 4: El MEM adiciona 13 obras al Plan de Expansión de Transmisión de electricidad",
@@ -492,6 +514,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ffedb073f88a",
+      "titulo": "US energy secretary seeks refiners' help amid narrow options to curb diesel price",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWNfWndZT3hSNXAxaV9JOUdJV05sQXZYd1JUbEVCd250ZDk0S214a3BZM1pNY0drT0hBaWZoek9leEhNOHNyNVhHRDZUbDAxVFFIakZVUmplb25IbzFtWTFyaEVHRmx1bHNHOGZBbFdJVjV6NzBzRFZ4eVI1OWdqU05UcFJYTHFSN00wcGVYUFhiV3lUYzF5VlExWEZxYXozeGMxSkg3S3A5SFZFbTRUR1g2b1BVUXRTYTdmYzRNS0R4cGotUEozSmtR?oc=5",
+      "fecha": "2026-09-24T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "5a142b8e727a",
       "titulo": "Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude",
       "fuente": "OilPrice.com",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7990ae10ae99",
-      "titulo": "UK stocks fall as lack of progress in US-Iran talks lifts oil prices",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHdHT0VLakV1eGx5V2lEejBTV2hZdC02WXdYM3ctdVNtNXA1SURvX25YZjFQeUJfUFVocEFQZ1dUc3RjVnJnX1pTaUxPcEpHdUFkYVYxU01zTGp3bG5yRlRZNmxmcnI3V3JwSUE1VFBWTThOQzVqZHlhWE54bXhhZU85R1FaTkhJNEdTV3ExN1I1YjJqVzZlN0Y3V3dSczVWdE42a1hPVQ?oc=5",
-      "fecha": "2026-09-24T16:08+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0f23b16fa6c6",
-      "titulo": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Begins-Oil-Exports-From-Its-Giant-Vostok-Arctic-Project.html",
-      "fecha": "2026-09-24T15:35+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c796e4030bdd",
-      "titulo": "China Could Cut Fuel Exports in October as Inventories Plunge",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/China-Could-Cut-Fuel-Exports-in-October-as-Inventories-Plunge.html",
-      "fecha": "2026-09-24T15:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
