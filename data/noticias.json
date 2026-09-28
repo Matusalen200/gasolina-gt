@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-09-28T19:16+00:00",
-  "nuevas": 11,
+  "actualizado": "2026-09-28T20:16+00:00",
+  "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
-    "BAJA": 12,
+    "ALZA": 10,
+    "BAJA": 13,
     "NEUTRAL": 27
   },
   "noticias": [
@@ -16,6 +16,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4c8e6ee1c582",
+      "titulo": "US Supreme Court's Alito won't participate in climate case involving oil companies",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmhUZzJOQUJ2ZDJ0ZldZRnlrQTM5UU51RHY0Q2pHenIyVFBKRi1vMzlZYUhzdXZrLWFWUlo2NGNweE42cHZSOUsxU2Zsdzkxel9hRGQxY2hMMmhzXzVTZGxUdXAwWkFTSlNKNlhfWlVGUklyR2EwcDJMWHJ6UXBRM1hOYTBkOGRrUHJhMTFUNTYxVWNSSzNIQjA0OU5QYzBZM016eXR3T3ZQTlhiWjdYaHcwYzV1dHM5bDJSdXk5ZU4xdE5PQ3o2Zg?oc=5",
+      "fecha": "2026-09-28T18:17+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -57,6 +68,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGVaUEhyZkFiZjllQjF6QzRaV2ZmVXk4TVdaUnJQNzg0VEhUZFFleC1WVHByOE16QV8wb3lucjNybVdCM2sxU1NWMTJTamV0MENoMVktQ0h0d0Y1VlpDRmhfbVBybng4dFhDTHN5WWQxZDV2V2lsWUtRUllsci1FQzk0S0cteTQxNlo1WU90UGg5dG4ydmpid3BPSjNGMlNQYl9xYWhMMFJjeFFRMUh6OHhncHhybmM?oc=5",
       "fecha": "2026-09-28T16:57+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "dd230c7d7091",
+      "titulo": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2s5RDJySFM4eWxSRG5ZMWctT0RBWHFIQTNGMU1EbjhtWmJOc21QM09XV29jc1NxVG94emhfby1FVVBiczhtWlQ4NGlRUW8tTGJDVEQ1dEFrTVBuYlhtV2pVNWdVYkphYnNldHNMeGQ3a1JBN3U3cWJGREhRRWg0WFBzaUZEbmlGVHlyQjBVamNEUFB0MDlmMXFwdVFVcncwTC12UXBNSnA1aXR5cmFWYWEwUUw1Y3BJbW9wLVlSQQ?oc=5",
+      "fecha": "2026-09-28T15:42+00:00",
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
@@ -393,6 +415,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "39661d4d6d1c",
+      "titulo": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakktX2lMSTlPSnViWHdvbUxHTm14WGIwOGR5dzk2LThBRGJoMklPZXFIRlc2YlUzYWRLaGJMd21hREl5QnVsQXFnYVFhSDFsdnJhcy1wWGtaemRiS3RveDNxWHd0QUNnS1lmcjhEcFhXMTNSUjZySkhMZmxzU3ZVT2l6UnduUnUzT0JlQVdPUFN2cmhjNDdUT2JqU21zXy0tN1BFM2NNMUJmQTdVSFJjQnduaXA4dWl6MlMycm90U3UyUXQ3WVBj?oc=5",
+      "fecha": "2026-09-25T22:49+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "653b76d0c9c6",
       "titulo": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
       "fuente": "OilPrice.com",
@@ -519,39 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
       "fecha": "2026-09-25T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b2a1c9e470d9",
-      "titulo": "SNAPSHOT Wall St opens steady as AI enthusiasm eases worries over higher oil prices, yields",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
-      "fecha": "2026-09-25T13:34+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cdf9c4b3c4eb",
-      "titulo": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
-      "fecha": "2026-09-25T13:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e0650f9a8dea",
-      "titulo": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Aramco-Restores-East-West-Pipeline-as-War-Risk-Closes-In-on-Yanbu.html",
-      "fecha": "2026-09-25T13:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
