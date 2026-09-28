@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-28T14:18+00:00",
+  "actualizado": "2026-09-28T15:19+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
+    "ALZA": 14,
     "BAJA": 8,
-    "NEUTRAL": 27
+    "NEUTRAL": 28
   },
   "noticias": [
     {
@@ -71,6 +71,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2ad6eba8cf9e",
+      "titulo": "Kazakh court rejects Kashagan oil operator's bid to block enforcement of $5 bln fine",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkU5ZHp3ZzNfeGQwYUJKNzFlVzFwei1rZm5TWTJHeXlsR3lVZTI2VUNPaUJfbGJpOGlXRFRpUUJsNFdUTG5TaGpibmMzS3hrMVUzMUc5bm85cUl1RzdLUDJaYWgzWWNVcWtRUGZNb3ZtWnVjWmxNMlpsWElhOGxlYW85UzB1OHBPTFNzQmJWZkE4RzhqM3I3di1MQndOZTBDRFM3NzdIZkMzUDJHenExVWZsZHVUblEybFJNY2VCVHN0T2dBSEpR?oc=5",
+      "fecha": "2026-09-28T07:42+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmJrZWtQT3Z3cktEN05uUGFFOVRmQkdQaTFSMk1TQ1c5Z2h6MkJHb3JzZVMycUx4aEU2RzhMTlJMTmRORW9nVXJrdmJzX1dyaEVrdDg1VDdEdVd4d3lSRFk5OHRKS2pLRkRfaEVTSlNyc2cxaW1GaGNOUkR6OWFEOHFxWEE0Wk0wd05CRFN5Wm1GNFVEa3RvQkpQNzJ3alIyakN3RVZCRWMtZTloSElMYkQ3WTNxNEtrRi1oZmhXbmE?oc=5",
       "fecha": "2026-09-25T08:37+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "da6f6ac4770a",
-      "titulo": "India Says It Will Keep Exporting Diesel",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Says-It-Will-Keep-Exporting-Diesel.html",
-      "fecha": "2026-09-25T08:30+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
