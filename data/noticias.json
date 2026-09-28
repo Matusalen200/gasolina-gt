@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-28T18:18+00:00",
-  "nuevas": 40,
+  "actualizado": "2026-09-28T19:16+00:00",
+  "nuevas": 11,
   "balance_7d": {
     "ALZA": 11,
-    "BAJA": 10,
-    "NEUTRAL": 29
+    "BAJA": 12,
+    "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "89d891d3908e",
+      "titulo": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
+      "fecha": "2026-09-28T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c8d078fcecab",
       "titulo": "Record Diesel Costs Add Fresh Pressure on UK Economy",
@@ -327,6 +338,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "76081f90c1fa",
+      "titulo": "Arévalo debe decidir sobre subsidio y exoneración de impuestos a combustibles",
+      "fuente": "República",
+      "url": "https://republica.com/politica/arevalo-debe-decidir-sobre-subsidio-y-exoneracion-de-impuestos-a-combustibles-202692617210",
+      "fecha": "2026-09-26T23:21+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "ceeb7be28480",
       "titulo": "MEM descarta interrupciones en suministro de gasolina y diésel en Guatemala",
       "fuente": "Prensa Libre",
@@ -530,28 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/Aramco-Restores-East-West-Pipeline-as-War-Risk-Closes-In-on-Yanbu.html",
       "fecha": "2026-09-25T13:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c844f5d98784",
-      "titulo": "India shares log longest weekly losing run since 2020 as oil prices bite",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
-      "fecha": "2026-09-25T12:52+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "39661d4d6d1c",
-      "titulo": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakktX2lMSTlPSnViWHdvbUxHTm14WGIwOGR5dzk2LThBRGJoMklPZXFIRlc2YlUzYWRLaGJMd21hREl5QnVsQXFnYVFhSDFsdnJhcy1wWGtaemRiS3RveDNxWHd0QUNnS1lmcjhEcFhXMTNSUjZySkhMZmxzU3ZVT2l6UnduUnUzT0JlQVdPUFN2cmhjNDdUT2JqU21zXy0tN1BFM2NNMUJmQTdVSFJjQnduaXA4dWl6MlMycm90U3UyUXQ3WVBj?oc=5",
-      "fecha": "2026-09-25T12:43+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
