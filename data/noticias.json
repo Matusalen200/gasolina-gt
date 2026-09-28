@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-28T16:19+00:00",
+  "actualizado": "2026-09-28T17:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
-    "BAJA": 8,
+    "ALZA": 12,
+    "BAJA": 10,
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "d986b6ca8366",
+      "titulo": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Can-Fracking-Reverse-Colombias-Oil-and-Gas-Decline.html",
+      "fecha": "2026-09-28T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "74b79388b367",
+      "titulo": "Saudi Aramco considering discounts for Oman STS crude to counter high freight rates, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXp6ZHpWZDhSTHRFM0JsM2ktZXdHQTRucFRQVFVCZFlIdjdpR1VpNVRObXhkQkxsRUpHYkgxTDFxOVNkWUJubE9VQk1OSnhhTFJ4TjRvUG8tNWtoVEpKTlFFcDhwT0Nlb2JVbmpHN0ExaUdrWEF5NFBsYnZLcnJxaGc4NVp2SUUtQ0hhMW5pbEFndEdqM3dXWDNXcTJ4bVRlTmlqTkpMNGlVSUNyT01OLWhPbVNfNExTNVhsS214Sjc0Q3FpQ0o4?oc=5",
+      "fecha": "2026-09-28T13:45+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "fc8e4d27bad1",
       "titulo": "Wall St to open lower as oil spikes after Trump rejects Iran peace proposal",
@@ -107,6 +129,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "0a527b7d5da4",
+      "titulo": "TotalEnergies raises share buyback targets as fuel prices drive profits",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRS1RUlNSTDh1Q2NFc09GWl8ycXlPLTdoaVBiSTJIeUdzUUFxVWhzMUJaSFpINEtyakxFMHA4amZOZkdrZE9TNkVuMDNoeE1QU3NPbEVOakNJNDhmNmNFVFNFUDdScTdjN3BNd1ZqaUJOUFp3bHpDNkU0dzBldWkya1RJbHZJSDdUMDM4NHdBNGlicVFVWmVqdUdhVUZ5SnpaSnFOLS1iSQ?oc=5",
+      "fecha": "2026-09-28T06:40+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "b44fe3f5750f",
       "titulo": "Exención del IDP e IVA en combustibles: así se reflejará en las facturas de los consumidores",
       "fuente": "Prensa Libre",
@@ -203,6 +236,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c8e06eb89ce2",
+      "titulo": "Stocks fall, squeezed by rising oil prices and Treasury yields",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
+      "fecha": "2026-09-28T00:50+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -508,50 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHg0YXlZd3ZEbUpteXQ4VGduSDZCdnBBWmphQThxS1otOGxtRVJnWWl5RmdiTG16c0VsT2ZDTjZtMmtsMGFqb21xalAxZmxSc3NyczNFU3FDbHRqNDd4a243ZTlfdVEwdGZhYTdvd3hkTFBHdDBCcWQyV2lRTTFzOVlNY3BHNEZSV1ZvYkkwdkdJUkNMTWt4RTNJNnRuUmhqY09tVTBB?oc=5",
       "fecha": "2026-09-25T11:26+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9734485f4f54",
-      "titulo": "Ukraine Drone Strike Knocks Out Russia's Novoshakhtinsk Refinery",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Drone-Strike-Knocks-Out-Russias-Novoshakhtinsk-Refinery.html",
-      "fecha": "2026-09-25T11:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ed57cfbe6cc1",
-      "titulo": "Economía de Guatemala mantiene crecimiento, pero El Niño y el petróleo generan riesgos",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/economia-de-guatemala-mantiene-crecimiento-pero-el-nino-y-el-petroleo-generan-riesgos/",
-      "fecha": "2026-09-25T11:00+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c844f5d98784",
-      "titulo": "India shares log longest weekly losing run since 2020 as oil prices bite",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
-      "fecha": "2026-09-25T10:22+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "41fbff0979ec",
-      "titulo": "Russia's Novoshakhtinsk oil refinery suspends operations after drone attack, governor says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmJrZWtQT3Z3cktEN05uUGFFOVRmQkdQaTFSMk1TQ1c5Z2h6MkJHb3JzZVMycUx4aEU2RzhMTlJMTmRORW9nVXJrdmJzX1dyaEVrdDg1VDdEdVd4d3lSRFk5OHRKS2pLRkRfaEVTSlNyc2cxaW1GaGNOUkR6OWFEOHFxWEE0Wk0wd05CRFN5Wm1GNFVEa3RvQkpQNzJ3alIyakN3RVZCRWMtZTloSElMYkQ3WTNxNEtrRi1oZmhXbmE?oc=5",
-      "fecha": "2026-09-25T08:37+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",

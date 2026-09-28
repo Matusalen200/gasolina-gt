@@ -99,9 +99,9 @@
   },
   {
     "fecha": "2026-09-28",
-    "puntaje": 21,
-    "tendencia": "alza",
-    "veredicto": "Llena HOY",
-    "cambio_estimado_q": 0.0
+    "puntaje": 7,
+    "tendencia": "estable",
+    "veredicto": "Sin apuro",
+    "cambio_estimado_q": -0.1
   }
 ]
