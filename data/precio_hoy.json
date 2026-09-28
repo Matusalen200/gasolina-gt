@@ -1,49 +1,49 @@
 {
-  "actualizado": "2026-09-28T07:17-06:00",
-  "revisados": 14,
-  "nuevos": 0,
+  "actualizado": "2026-09-28T08:18-06:00",
+  "revisados": 7,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
       "valor": 45.29,
-      "t": "2026-09-23T12:27+00:00",
+      "t": "2026-09-28T13:52+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
       "n": 1,
-      "fecha": "2026-09-23"
+      "fecha": "2026-09-28"
     },
     "regular": {
       "tipo": "promedio",
       "valor": 43.29,
-      "t": "2026-09-23T12:27+00:00",
+      "t": "2026-09-28T13:52+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
       "n": 1,
-      "fecha": "2026-09-23"
+      "fecha": "2026-09-28"
     },
     "diesel": {
       "tipo": "promedio",
       "valor": 49.39,
-      "t": "2026-09-23T12:27+00:00",
+      "t": "2026-09-28T13:52+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/23/aumentaron-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
       "n": 1,
-      "fecha": "2026-09-23"
+      "fecha": "2026-09-28"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-09-21",
-      "q": 0.7,
-      "pct": 1.6
+      "vs_fecha": "2026-09-23",
+      "q": 0.0,
+      "pct": 0.0
     },
     "regular": {
-      "vs_fecha": "2026-09-21",
-      "q": 0.7,
-      "pct": 1.6
+      "vs_fecha": "2026-09-23",
+      "q": 0.0,
+      "pct": 0.0
     },
     "diesel": {
-      "vs_fecha": "2026-09-21",
+      "vs_fecha": "2026-09-23",
       "q": 0.0,
       "pct": 0.0
     }
@@ -104,6 +104,12 @@
       "fecha": "2026-09-23",
       "regular": 43.29,
       "superior": 45.29,
+      "diesel": 49.39
+    },
+    {
+      "fecha": "2026-09-28",
+      "superior": 45.29,
+      "regular": 43.29,
       "diesel": 49.39
     }
   ],
@@ -276,15 +282,21 @@
       "url": "https://www.prensalibre.com/economia/precio-de-los-combustibles-en-guatemala-estos-son-los-precios-de-galon-de-regular-y-super-en-autoservicio/",
       "titulo": "Precio de los combustibles en Guatemala: estos son los precios de galón de regular y super en autoservicio",
       "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-28T13:52+00:00",
+      "fecha_dato": "2026-09-28",
+      "tipo": "promedio",
+      "superior": 45.29,
+      "regular": 43.29,
+      "diesel": 49.39,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
+      "titulo": "Así están los precios de los combustibles este lunes",
+      "extraido_por": "reglas"
     }
   ],
   "sin_precio": [
-    "https://tvaztecaguate.com/departamentales/2026/09/14/sin-paso-vuelca-pipa-con-combustible-y-queda-inhabilitada-la-ruta-hacia-salama/",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRTh0Z0hKc1N2cE96UTdKcU9DUHEwWEhtYTFsVXpGQTEzdVREREhHdURYWWxFcldIWkpVazhjaDFyU1NyMzBiMWRzbktaWEktYllrLS1WUHRrYVE2VV9DR1F0cENDRDRTd0VYY3dTb1RSVjJFcGJzejhjZ1R3T3Z5eGZIQmM5NFluNmxoWHM3RlhMZ2FuZnk5XzlQdi01Z3lCczB3cktiRmNJQXB1WlU5TDZMcTYxby02REJMR2ZkdE1hVUstSTd0R2praEVTNlBJRk4tUDdxS0ZnOC0xejlqV1E4Yw?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGhTZEtNb2I3NzlCR3N1WE9NeXlCRDZLakc3M08tOXlxMnZDbmJSOHdtM1FqRVpQQmF0dXlBaDgxV2pvWlhCQnlzNnRoUzZ0LUtrS3FpZGFEM05LR0RsRWE0QnF6eTlyZmFIaEpHRjlfbF81RFIwSDNLSW9KcWlqQzFXZG50ckZPQXBhWnFxWDlhM3Y1aHMtQTg0a1k2enRjRGdkUXNEbF9rTUU4aVZxMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZG0xQkk5Szc2ZEpDQndWb0FUTFJqanA1bDljd1Q4VkhVeFhVNDBOdENQRHFnZmt2dnV0MmZmekppY2VJQWhVUWxQQkJBTHBjeV9HaHE3SDFqYTZlVWNST3dOZU5WNFJaZFRFOVJ6M0JTa19ZMHVkeXg2N0RZSS01SWNpSDh3NGl4a0l6a1VINVhuUUhEZzJNVk5nakRmQmlUV3pOTTFVU3NrSk10SENHaHBwdHdPSklESGZ4NDJYUjhGa0pISzl0TDB5cFg2WVVrMlJR?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUEs1WUUtUVJqZFFFYnZCX3FDcTFJUlRnbWRLZ1YwczBtZ1dtQlFPWjB3RS0tbWNjcnFIRTZlVkc0YU5TbkZ6QTRVR011aFJGOVFKckY1M0RDcGo1N2tYZG5LekhqU3hJRmJkTlhEczNFT1hOdzBDVm9FVGloMzNvajltOGJ5RnFJVFZMUjlDd2VBbjNzalFYS2lYeWhGZVVvNWxIN0dCVlFkaFRzV1FjNGw3TS1uZC1sbWs3ZlBqa19iYm83TVpDRjZwWTJYVUEzN3RCSGkxMHdqVmd2V0E?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkNjVXdmMzVQenA5aE9kQ2VtMV8tLVVHRllZMUFMVHZWNTZNaXUtLXB6V2l0UnUxc0p5ZzdXdXFEb0s2bUR4amhZMjR1a0ZDSGVOR0FaUjFlVGZ6blMtc1I0NXVqVHJOZWRuc3pURVc3aEltRjNzUy1xZnJOWFhteGp6OGhmY1RqYS1NVTYyNkNtY1djSkZFNGo3bEhBZFVFbmYzdmViWUJrTEx4SnlhSEhaR1A5LXJRemJ5elVaYXE4ZkNzbU55N0dWalIzcWFXMW5WUHJ3?oc=5",
     "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdnVnZW8zcUFnX245eXZhZXY5aXE5dDFxY05VMDcyM3VEWm5QWDZOYzZuNjBJTWpTUlMtV2t5NVVQR3l6ZU1HN1l3b2pfVXJMMDM5VEJIUk5TempXVEV0Q200b1NFWWUyeW1vMkZrUHp2a180WXZGblBVVlZQVEgyZXBxdDFJUlhiWUgwbVc5QThxVktHSEw4cXM4UG5sd0RSX2JGb2pJNVFTSDBoNC1TdGFkWEE0RUp6aVlKbWJ2UEgzQWVlbllDbmRkdXhrbjhKSUg3c3kxcjllTkZCVm85UnBRbkFoLTFZcmhvamJYa05Rc05ydW5GcXZEZnJSRFYzalNRS3ZJVDZzalVpYmZlRGdNZUlLM1ZFUW5IOWluMnBkMTdNZFN3SnUyN3fSAccCQVVfeXFMT09wb1I4NzBnYTByYmh0eDdfZUZKOUM1b0dSbmZlX1hTOEtnejk5cjNwaFZnYTdOUEFJOWlRYVljam9YUGNfSENSU3RZVGpCQ3EySS1KZm9ORTFMbWI2NnRZZk0wR0dRbmFudzZORnBwenJKZnV0Q1dzYU9UNEtJWFRmMU5aeEV0WEZwMUFkMkxPdlAwaDJWdmlFZEFtMGlQY3dvckRTaWt6NXdFNGZRS2Z4MXhTRVZTLUE3eFJ5LXZzR295RkluZkFRTWV5ZURqM2c1bGtqYXVDSDR1QkExZGZ4SnlEOGtENEt4TVlkanAyU1JZM3ByV1Q3S3ZLMlVtLWM5Rm15SmNZVkczaUhqdlhXMHdYZ1hzbWNKTXlVUm1EazNtR3JWQjZWSjFZT0tRMnlmakk3SmcxTDBCUDdzeW9lcUtvUEYw?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ25KYkpkT0RpVVZjaHJXck1zYlJaeldfWE42OTJfZjZIUHoyZGxhWXBJbFBDbkFubnFOV3gtQWlYeHNhZnJ6NGNqV1FRZWtKcmdVSWdycDZKSjhTRXRCVmN3TkRGSlhkbElaR2QwMzZpeHFuQWVoUXp5N0F5Zzl3QUVyQURMaXN3UWtpQnB5YXRDSWtYM1lvQnJzelpvZ2ZLSUNmTGY4czlOTGJVQlZJNTdzUElhT1ZFRE9DaXRn?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWV9aRXlGaVI3S0ptaFUxX0xSN3ExMTFIcGhaeWlqNGhLVjFmWlNqSXluVmRkLS1XeGVvRlk1Q0hZallPQjVmakhpek1Da1Q3M1NJZ0ZkZGZKSlhBN3IzZ0FaNktHeFJQS3Y3QWI5eG1YX1owa1pfSDd1dS1MUG1mU0JjMWJMLXh2WDdGWWwwSmJpQVJFVUlWR0NOVmlZVko5YmJWVlVMeV9paDlwMHpORkd0TkgtWEhWNE1zcWhGTXREWUJxa1dldklDRmE4eE5pazF4MnRyb2ZfemJQWmVtUlBR?oc=5",
@@ -578,6 +590,12 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODBENGNsSXduaXViSE1ReEpQZklHc2FUVnFhWlJISm4yaGxXNmVIbDVqQzRjZ0EtWGQ5YVFvT09pYjRrdDFiWnBNdGgtcll2TC1YRk13QzJIUGladG9XUHdvRHdSZXBhdEdRNGhOcXczWWNjMjR1dHh2WFlsUDVJYlJWSGxjenBrQ2Zyb2c4UWNzSmVqRmZoV1Q1eGhxaEZ1VU9NMThyd1JkbWhhckgwRVRYU0JlVVN0VWVFTDBUN0lyRnpySWFPSw?oc=5",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEgtSmVjNVdhTDUxeVp6djhURzJIazR5MmhaUG9ERzAxMlFMTjlIQ0lkcER6U0x4a2RUNS1nY2RKWm1DQjRfSGZrandEQzVaT2lFa1VSSXd6SlZrSU00TkRfMWpQNjZCMEFVcHJSQnMtSHRfVkVBR0swZXAtOU9qc3ZuRWdpZlRETXowYnpsbTFvbnl3QUxTWFFNaGkwdEtQOUNSNXBWWGFjd2NINUtoVDFEdms4TEhKaG0zUUFSWmFnLXZxMWJiVnN6UllZYWtvdlNvcHVtNA?oc=5",
     "https://tvaztecaguate.com/departamentales/2026/09/27/pipa-de-combustible-cae-a-hondonada-de-70-metros-en-ruta-a-tecpan/",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjRaTEc5d3ZSZU40UHEyQTlIYTFsb0lfWWNHUUJGTTdVUWUtdVktSmN1SWdET29nMTJ0UkhXVUROY01yV1J6QjRWNmtGQW4zcUNHVWRsemNaakJPei0xdGp5YXhPSGdrWGZZYWtfb01Rd1hYeDUxUFg4eThTTW9kSGJ4M3NBOUY5WFFyYWpXWlAxSUU4TlE?oc=5"
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjRaTEc5d3ZSZU40UHEyQTlIYTFsb0lfWWNHUUJGTTdVUWUtdVktSmN1SWdET29nMTJ0UkhXVUROY01yV1J6QjRWNmtGQW4zcUNHVWRsemNaakJPei0xdGp5YXhPSGdrWGZZYWtfb01Rd1hYeDUxUFg4eThTTW9kSGJ4M3NBOUY5WFFyYWpXWlAxSUU4TlE?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNWppN2ZIWmc2a2cxVEYtX01ad3FoWi1VbmNiaERzcFdLbTJ3ZlV6TTlTRFFkUzVaSlVSM1dfY21wNkV2M0NMRHgyb2ozWGlHdFFnWUNGOVJTcjFjbkRRU29tMTl5UnRHclhnUHlXWVdnaDdEek80RVIwY002U25Sa0J6NG0tOU9VU3ZpUVhfNlcyWkMyUGNCU0xmNEZjSVB6blFibXZ0ai1nTWhFdXRsMWVBV3ZZUEN3MUZ4SW1ucnJwWnFpbl9XNTAzQ2pNU0Q2cDRTaktVdjZhM3NaeEQ4TU5HUdIB_gFBVV95cUxPRmVmbXhnWTU2d3VCNHJETFo4dTlsYXJIY1ZCQ3B2c3U4TktYeE5uZkhobUxQakxienFaLXM5eTZaX0lEUklINll6NFBrNlNJWlZnVXhGVkw2VmpwclhsMU1BeXk4eFBIa080UzhIQ3ZZZTNlZkNlcWdOSnREdTIyc3lRWFprZU1XWGpKNmpDcWhWRWlPYUFDYnNRbTZSaE52YUE0UnFWYWZGZWNwa3RLSm15OW9FR2QySDdtREdrT0VQZEg4YzlvX1lLWnJJMU1qRkNDUnN4T3lNUVRMVnhiUHd3X1FvTDRSSU9NdjZZSVFoZnhDZzA4WEQ5TmN1QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmR5UTk1akJWSEhjbUVCZEhFeXU5RVI4ODB1a2RmMzhvSVJGOVp5VzFycVhndUdha19VTlh6S21RUzdOVzhuMk52YlBicnZyLWFfUmFWdjJlOVBWaDNDSGxXaHlzY1NYeUtGYnV4QUVOWVVDQVpFV0RXWjRrZ3IxM3E1VHJ1Z2Z4aXliUXJpNGNQMjhTYl9VYzBFcmZJbXd2R19sdjNBRi04RUs4MW1WaWFkVEhOa194?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXBaSE40NHpMS2xPNDI2bGd0MWxMZjhuQ1gzWjJXakVJMGhtMHlWQkYtdDhQQ3BvcDcweGdxNlhqYmVNbFdBS2wyQklIRW1RSzlOTWlMdmt4eW4wVHhON0pLNTBKWEhRQmU4Z0cyMWp4eExIOWZMSTJJbEZPblcxQl96LWo5WUtabFFmck9EZUhWRXFTamI3Ul9wdXV2V3lKS3VOTlpocUNsa1RyMVZ1YXNn?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODJMUTFpdmZEbUJmRzE3SkRFSDN2eUtSNmRjVjFBSjVuS1hfeTQ3cXc0N01EamRST09QNEZqZ2gyVnY2TWZBOXAxa0RaZEI1NWQ4Y3FUb3pmbVhONVpsZUZFY18wMHVVMWNnTEdpMVEwOGRjX0JSQTEwRzJkUUswMC1WSmduNTA1b3Mwb1ZiZk9pblhLaXNQOUFMZUtNUHA2WmdPRnRkQWFTUGpVRllqNjlB0gHMAUFVX3lxTE5YdEc5UEd0Uk84Sm5MSXB0U00zNmlDVlNndDhQdGJ5NkRZaUp1OFJlN2JOZ3E2MFF2Zkltak5JYVRFSjlYcHg0VUZONjlZNVk0SzdqX0dRRC1qYW1oamV2eGNDYjFHaHFZb1lyT1A1eWVVRUJsaTJRaUhMLUZKU1B1TUZucjZhaXFiaUR0bFFsdzc2RWh1NERpOVRqRGRkdkFSZ3dob0Q0bTZlaGpMOXVIN1NoRDVuekJiM295TmZjd0p6RG5Oc2NER0JWXw?oc=5",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQenZWZ1E3WU1mVDMyRW50aE5JQlpTdHFDMVp2Q1l6Q0lYd3VYb1JpNWZjRk9aNk1LQUhTR1pKWUtwSlV5T3hkT08yZDFYOHY4SnNwOWVZeV9lbGFhX0YtNENYZkkxbmVpTEtXX3VuYWpMOG0zQ0RObUNKYm5QUEVrQVhSd2M4dDlhNnhuRFlaXzI0eGVxcHlqRkl2ZzQyZTRheERYa1p3Z3BiYkxlM01INTNpY21VR0RkdW85UnNoTm9SSUxUN2hBY3lqVlp2aEFxaHQyUkNPdnczYTMwV2s4aGc0cmJCOWtKZWpnVHU0dFUyaDZGZmfSAfYBQVVfeXFMUHp2VmdRN1lNZlQzMkVudGhOSUJaU3RxQzFadkNZekNJWHd1WG9SaTVmY0ZPWjZNS0FIU0daSllLcEpVeU94ZE9PMmQxWDh2OEpzcDllWXlfZWxhYV9GLTRDWGZJMW5laUxLV191bmFqTDhtM0NETm1DSmJuUFBFa0FYUndjOHQ5YTZ4bkRZWl8yNHhlcXB5akZJdmc0MmU0YXhEWGtad2dwYmJMZTNNSDUzaWNtVUdEZHVvOVJzaE5vUklMVDdoQWN5alZadmhBcWh0MlJDT3Z3M2EzMFdrOGhnNHJiQjlrSmVqZ1R1NHRVMmg2RmZn?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEh4OXh5QkZGbVVHVkh2RXhSMDRNOGxQakdwX28xY0RDOFpxajRmdk93Vm9NdmN5MFZDWVZfMFNWTXBQbUNBWWlGaEJjX3pScTFoTW5Bc2RkeEJIb3p4QUlqZzB0a09mc1Z1U1ZnSHRlVmxyaTloa0dJQnJMT2VtbGNJQ1RGZ1ljUmE5WHprT2ZlZ0c3Sjk1aWs4WjR3U0E3eHZxaQ?oc=5"
   ]
 }

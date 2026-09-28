@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-28T13:17+00:00",
+  "actualizado": "2026-09-28T14:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
-    "BAJA": 6,
-    "NEUTRAL": 30
+    "ALZA": 15,
+    "BAJA": 8,
+    "NEUTRAL": 27
   },
   "noticias": [
     {
@@ -41,6 +41,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "8c75733ea345",
+      "titulo": "European shares rise as UK homebuilder rally offsets oil, bond pressures",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnJjQ0NlWFRaRUdoeDhfTHh5T3k0ejVfaDBvbFYtZFJmS1ExLUpKNWdOVGtfTktKS2U1Ykdob0pLUWFGLUtEZ2pDMU5nZkwzaXJwVU9ZQnFwdlhDMEx4LWJ6cG1INE90OUhhRVdCT1h6YVJtZktwOF9Td0x6MFZxNENFZUxfQi01eUFPS3kyMFNvRHBUWHE3U2J6MUxVckREc2NzVlhXbUxnWG1vbHJOTkNHNA?oc=5",
+      "fecha": "2026-09-28T09:17+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "71ef32b93f4b",
       "titulo": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
       "fuente": "OilPrice.com",
@@ -49,6 +60,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "12fa69d8c56a",
+      "titulo": "South African rand slips as US-Iran stalemate pushes oil prices higher",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXVjeHhnVS1HLV9mVnYtVHVhQ3NjcEFqREZJYUpRU3RhSElhQlJ4NERfQWhjdm44RGNQMFdBZlNfcU5PN1JuOU1DWW04RjFBSDZETlE5Z0h2VUkyRFJVTHdiTzBfM0lGVUw0akY5a01yM0J6WElBbERxREpBQkk3OGFjTDkyVElrUTRTckpFRHZ3aURTVkduYS0zdnMtZkVUenZrSk1kdEVoRnNpbkVlanlmdnQ0a2s?oc=5",
+      "fecha": "2026-09-28T07:54+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -250,6 +272,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "b4b961c58943",
+      "titulo": "Battered bonds draw support from falling oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
+      "fecha": "2026-09-26T01:09+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "653b76d0c9c6",
       "titulo": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
       "fuente": "OilPrice.com",
@@ -258,6 +291,28 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "75dd874252ab",
+      "titulo": "Oil prices slide about 2% as US, Iran explore path out of war",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+      "fecha": "2026-09-25T20:13+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "472937f4a3cb",
+      "titulo": "Dollar dips as oil eases, yen jumps on Japan remarks",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEliX2ZMV1UwSDZPa3liWjlRUk4tT192UjJmelY5OEpFcmVSWHlBRHVuUXNHSW5jTEI1TGlxT1kxS2gyZ2RtVGRJampmMndMMjVERnl0WVZ1ZDdhZndLd0htM1BpZlJmM1o0dU1sSDRqRWp0NkVTUTJkVU9fNGw0QndUYlJqV2plRXpySGpOeXBHdTRtcUYxOXlmVDE4MU9Eanc?oc=5",
+      "fecha": "2026-09-25T20:13+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -415,6 +470,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "952002ff8924",
+      "titulo": "Ukraine kills two in drone attacks on Russia, hits oil refinery and train, officials say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUpUQThveHlveExoUlc5NFJiRU5tZUlqSTMwYXZDZVNMNmhzcHltbnlBSWlmdlA2S2hVaFNXUjZPT0lvM3o5SDNEZ2hicFNBdm95OHNpNGdpeml2NXlkWkhuWWp2ZGxmZHMtQVlVcUxnLXo4VlZITmk4bmNEeUQtNUs1OVpwUURvNmlQZzFkekNXN283N3RUQTEtc0NSY29VelpUd3NYMzlfUWtJMW5qQllMal91dF9adzVyNA?oc=5",
+      "fecha": "2026-09-25T12:13+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "e290b1cc0633",
       "titulo": "Germany's lower house of parliament approves fuel tax discount",
       "fuente": "Reuters (vía Google News)",
@@ -486,72 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Says-It-Will-Keep-Exporting-Diesel.html",
       "fecha": "2026-09-25T08:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "47939280ba78",
-      "titulo": "VLCC Rates Hit Record $1.27 Million a Day",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/VLCC-Rates-Hit-Record-127-Million-a-Day-as-Oman-Transfer-Capacity-Maxes-Out.html",
-      "fecha": "2026-09-25T06:17+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e7ec6b82890c",
-      "titulo": "Análisis: Arévalo cede ante la exoneración de impuestos en medio del desgaste y la negociación del presupuesto",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/politica/analisis-arevalo-cede-ante-la-exoneracion-de-impuestos-en-medio-del-desgaste-y-la-negociacion-del-presupuesto/",
-      "fecha": "2026-09-25T06:12+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6e9b90f0d075",
-      "titulo": "¿Quién ganó más en la crisis de los combustibles?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/opinion/columnasdiarias/quien-gano-mas-en-la-crisis-de-los-combustibles/",
-      "fecha": "2026-09-25T06:01+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "943b871c5c86",
-      "titulo": "Oportunistas medran en la ignorancia",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/opinion/columnasdiarias/oportunistas-medran-en-la-ignorancia/",
-      "fecha": "2026-09-25T06:00+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d371cedcbba8",
-      "titulo": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Set-for-Weekly-Gain-as-Houthi-Attacks-Rattle-Saudi-Oil-Supply.html",
-      "fecha": "2026-09-25T05:04+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f1ce8e353361",
-      "titulo": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1ZsVjdXUnd0YTMwaFNYdmNKNUlGMXM0akkyMFpHN2N1MHdlOVR6RU1vVDVxaFAxSnBseFJha3dSVVF1U0d4RmpwSWozQlBVXy04Um1RekxfMHhDbEc1cF9kOWNTeXNWVkwxOXRjVGxLT2dMM3lTUzdmUmhraXh0a2V6c3RVVXNFdGlsY1hpamxXTEJvMmVDQldBeVlWOVl4QW9Wd3ZLZlMxQ1FjTnlFazRzYTEwUWkyRENtRA?oc=5",
-      "fecha": "2026-09-25T04:51+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
