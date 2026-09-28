@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T20:16+00:00",
+  "actualizado": "2026-09-28T21:16+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 10,
@@ -7,6 +7,17 @@
     "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "be40c5f589c0",
+      "titulo": "How AI Could Upend the Secretive World of Fuel Trading",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/How-AI-Could-Upend-the-Secretive-World-of-Fuel-Trading.html",
+      "fecha": "2026-09-28T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "89d891d3908e",
       "titulo": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
@@ -541,17 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Italy-Pushes-Refineries-to-Raise-Fuel-Output-Amid-Price-Surge.html",
       "fecha": "2026-09-25T14:15+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "157d521f5c95",
-      "titulo": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
-      "fecha": "2026-09-25T14:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
