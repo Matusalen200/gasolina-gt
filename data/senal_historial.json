@@ -99,9 +99,9 @@
   },
   {
     "fecha": "2026-09-28",
-    "puntaje": 7,
+    "puntaje": -7,
     "tendencia": "estable",
     "veredicto": "Sin apuro",
-    "cambio_estimado_q": -0.1
+    "cambio_estimado_q": -0.3
   }
 ]

@@ -1,18 +1,51 @@
 {
-  "actualizado": "2026-09-28T17:15+00:00",
+  "actualizado": "2026-09-28T18:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
+    "ALZA": 11,
     "BAJA": 10,
-    "NEUTRAL": 28
+    "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "c8d078fcecab",
+      "titulo": "Record Diesel Costs Add Fresh Pressure on UK Economy",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Record-Diesel-Costs-Add-Fresh-Pressure-on-UK-Economy.html",
+      "fecha": "2026-09-28T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "773bb99ad23a",
+      "titulo": "Russia Tightens Secrecy On Energy Exports",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Tightens-Secrecy-On-Energy-Exports.html",
+      "fecha": "2026-09-28T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d986b6ca8366",
       "titulo": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/Can-Fracking-Reverse-Colombias-Oil-and-Gas-Decline.html",
       "fecha": "2026-09-28T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5faae0fc07ab",
+      "titulo": "White House weighs red-dyed diesel tax relief to lower fuel prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGVaUEhyZkFiZjllQjF6QzRaV2ZmVXk4TVdaUnJQNzg0VEhUZFFleC1WVHByOE16QV8wb3lucjNybVdCM2sxU1NWMTJTamV0MENoMVktQ0h0d0Y1VlpDRmhfbVBybng4dFhDTHN5WWQxZDV2V2lsWUtRUllsci1FQzk0S0cteTQxNlo1WU90UGg5dG4ydmpid3BPSjNGMlNQYl9xYWhMMFJjeFFRMUh6OHhncHhybmM?oc=5",
+      "fecha": "2026-09-28T16:57+00:00",
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
@@ -503,6 +536,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "c844f5d98784",
+      "titulo": "India shares log longest weekly losing run since 2020 as oil prices bite",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
+      "fecha": "2026-09-25T12:52+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "39661d4d6d1c",
       "titulo": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark",
       "fuente": "Reuters (vía Google News)",
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "243cfc6d8556",
-      "titulo": "Gasoline shipped to Syria begins moving by road to Iraq, Syrian official says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW40M01CY0lrZkVhWjFrSmpaTTZVYy14TEVwLVk4VVZOSDVjM01ocHNyRkdmV0NaczNIMktSekxoSE9RVEQweWVoUXB0MTNMckZaYm1mSGZyQW5NT1NPU0NvanFJdnJHN0tIZWZrSWRhU1lZUWVfYXRVcEhWekc5OFh3bzlodFVJTW9feVBUWWpwU0FpWTU5YXFJcVVkZld1dE5DNjlKLXk2NWlFcnVBdDhhSlhSbkJpRXZaZVhqdw?oc=5",
-      "fecha": "2026-09-25T12:22+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "952002ff8924",
-      "titulo": "Ukraine kills two in drone attacks on Russia, hits oil refinery and train, officials say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUpUQThveHlveExoUlc5NFJiRU5tZUlqSTMwYXZDZVNMNmhzcHltbnlBSWlmdlA2S2hVaFNXUjZPT0lvM3o5SDNEZ2hicFNBdm95OHNpNGdpeml2NXlkWkhuWWp2ZGxmZHMtQVlVcUxnLXo4VlZITmk4bmNEeUQtNUs1OVpwUURvNmlQZzFkekNXN283N3RUQTEtc0NSY29VelpUd3NYMzlfUWtJMW5qQllMal91dF9adzVyNA?oc=5",
-      "fecha": "2026-09-25T12:13+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e290b1cc0633",
-      "titulo": "Germany's lower house of parliament approves fuel tax discount",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUFPVVRlLV9JNVNDOWFDNVVyYTBFcm1pUVR1OXA5bnFXTlZ0eE5BM3FlMk5EbWtHRHpEckF2ME5naDFmemQ5YXFONVlBaHYxei1pLVNSQklkSVZmSFU1YkhQNzBvZzVJaUt5WVlqQm5oZnNRYlc3ZFR0VkR4eWpYRnNYTEp6ZFViXy0zVVpJa3ZzVEpmdnF4d2Y1aWNoMWxHc3FVRjlxaGJxaHdUd1dz?oc=5",
-      "fecha": "2026-09-25T11:57+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c4ca0e2db46d",
-      "titulo": "US-sanctioned oil tanker Sibu 1 rescued from Somali pirates",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHg0YXlZd3ZEbUpteXQ4VGduSDZCdnBBWmphQThxS1otOGxtRVJnWWl5RmdiTG16c0VsT2ZDTjZtMmtsMGFqb21xalAxZmxSc3NyczNFU3FDbHRqNDd4a243ZTlfdVEwdGZhYTdvd3hkTFBHdDBCcWQyV2lRTTFzOVlNY3BHNEZSV1ZvYkkwdkdJUkNMTWt4RTNJNnRuUmhqY09tVTBB?oc=5",
-      "fecha": "2026-09-25T11:26+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
