@@ -1732,3 +1732,35 @@ Noticias: Exención del IDP e IVA en combustibles: así se reflejará… · Tom 
 2026-09-28 15:16 [INFO] --- telegram ---
 2026-09-28 15:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-28 15:16 [INFO] Fin corrida
+2026-09-29 07:18 [INFO] Inicio corrida 2026-09-29 07:18 GT
+2026-09-29 07:18 [INFO] --- mem ---
+2026-09-29 07:18 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-29 07:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-29 07:18 [INFO] --- hoy ---
+2026-09-29 07:18 [WARN] Feed Diaco: HTTP sin respuesta
+2026-09-29 07:18 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-29 promedio S=45.27 R=43.27 D=49.37 · Cambios: así amanecieron los precios de los combustibles est
+2026-09-29 07:19 [INFO] Precio hoy: Prensa Libre 2026-09-29 otro S=43.26 R=None D=45.29 · Combustibles en Guatemala: precios actuales y perspectivas p
+2026-09-29 07:19 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-29 07:19 [INFO] Precio hoy: 2 observaciones nuevas de 14 artículos · regular 43.27 (2026-09-29)
+2026-09-29 07:19 [INFO] --- mercado ---
+2026-09-29 07:19 [INFO] Mercado: RBOB 3.1255 (-2.51% 7d), WTI 90.29, USD/GTQ 7.637 · 3/3 símbolos
+2026-09-29 07:19 [INFO] --- noticias ---
+2026-09-29 07:19 [INFO] RSS: 239 notas relevantes en 8 fuentes
+2026-09-29 07:19 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 14, 'BAJA': 14, 'NEUTRAL': 22}
+2026-09-29 07:19 [INFO] --- senal ---
+2026-09-29 07:19 [INFO] Señal: 🟢 Espera, va a bajar (puntaje -23) · Porque la gasolina en Estados Unidos bajó un poco esta semana.
+2026-09-29 07:19 [INFO] --- proyeccion ---
+2026-09-29 07:19 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.18, 42.18, 42.18, 42.18]
+2026-09-29 07:19 [INFO] --- reporte ---
+2026-09-29 07:19 [INFO] Reporte diario generado:
+🟢 Espera, va a bajar. El martes baja como Q0.50 el galón.
+Hoy el galón cuesta: Súper Q45.27 · Normal Q43.27 · Diésel Q49.37
+Porque la gasolina en Estados Unidos bajó un poco esta semana.
+Lo más barato: Guatemala, normal a Q43.27
+Noticias: Agro prevé caídas de hasta 30% en la producción para 2027… · Combustibles en Guatemala: precios actuales y…
+2026-09-29 07:19 [INFO] --- grafica ---
+2026-09-29 07:19 [INFO] Gráfica lista: grafica_precios.png (13 días, 4 combustibles)
+2026-09-29 07:19 [INFO] --- telegram ---
+2026-09-29 07:19 [INFO] Telegram: reporte 2026-09-29 publicado en -1003973167814
+2026-09-29 07:19 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-09-29 07:19 [INFO] Fin corrida

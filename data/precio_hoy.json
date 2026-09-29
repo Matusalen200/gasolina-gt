@@ -1,51 +1,51 @@
 {
-  "actualizado": "2026-09-28T15:15-06:00",
-  "revisados": 0,
-  "nuevos": 0,
+  "actualizado": "2026-09-29T07:19-06:00",
+  "revisados": 14,
+  "nuevos": 2,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 45.29,
-      "t": "2026-09-28T13:52+00:00",
+      "valor": 45.27,
+      "t": "2026-09-29T12:41+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
       "n": 1,
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 43.29,
-      "t": "2026-09-28T13:52+00:00",
+      "valor": 43.27,
+      "t": "2026-09-29T12:41+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
       "n": 1,
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     },
     "diesel": {
       "tipo": "promedio",
-      "valor": 49.39,
-      "t": "2026-09-28T13:52+00:00",
+      "valor": 49.37,
+      "t": "2026-09-29T12:41+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
       "n": 1,
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-09-23",
-      "q": 0.0,
-      "pct": 0.0
+      "vs_fecha": "2026-09-28",
+      "q": -0.02,
+      "pct": -0.0
     },
     "regular": {
-      "vs_fecha": "2026-09-23",
-      "q": 0.0,
-      "pct": 0.0
+      "vs_fecha": "2026-09-28",
+      "q": -0.02,
+      "pct": -0.0
     },
     "diesel": {
-      "vs_fecha": "2026-09-23",
-      "q": 0.0,
-      "pct": 0.0
+      "vs_fecha": "2026-09-28",
+      "q": -0.02,
+      "pct": -0.0
     }
   },
   "diario": [
@@ -111,6 +111,12 @@
       "superior": 45.29,
       "regular": 43.29,
       "diesel": 49.39
+    },
+    {
+      "fecha": "2026-09-29",
+      "superior": 45.27,
+      "diesel": 49.37,
+      "regular": 43.27
     }
   ],
   "tope": null,
@@ -294,21 +300,33 @@
       "url": "https://tvaztecaguate.com/nacionales/2026/09/28/asi-estan-los-precios-de-los-combustibles-este-lunes/",
       "titulo": "Así están los precios de los combustibles este lunes",
       "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-29T06:10+00:00",
+      "fecha_dato": "2026-09-29",
+      "tipo": "otro",
+      "superior": 43.26,
+      "regular": null,
+      "diesel": 45.29,
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/combustibles-en-guatemala-precios-actuales-y-perspectivas-para-el-2027/",
+      "titulo": "Combustibles en Guatemala: precios actuales y perspectivas para el 2027",
+      "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-29T12:41+00:00",
+      "fecha_dato": "2026-09-29",
+      "tipo": "promedio",
+      "superior": 45.27,
+      "regular": 43.27,
+      "diesel": 49.37,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
+      "titulo": "Cambios: así amanecieron los precios de los combustibles este martes",
+      "extraido_por": "reglas"
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTldoTXYxWUtnMlM2bHN2ZUNjODhkRE5mMzYtUDh5LXdOQy11SFRkSnRiN2Vjb0Q0dmFIczE5YTc3N3BtZFZ1MExyZWVxdjV4ZGd5QUt5TGd4T2tTZEVYUUR4Wm5Yb2lRX1JFMjZ0RVZtMDc2MHF4U1JNN1ppQl9lWXNiTlh6cXBmTXl1dUhTX0lCZ0N6ZXR3Y212RVhkWjFDa19vbWF0Q01Dc0xWWW9TdkN3QXp6R25EVHRRVHF0dER4N0E1YlBuNjV3YU1iSnZ0RE96V2EzdmpmVmRPM0tPSWNMYm5QTzZNTVZfemxaWV9YZDFhZ2lNT0d6REoyMGhEQ3BBSmc1T0pnUdIBpAJBVV95cUxQN3BpVlBEMlQzdHFSakE3anA2NFNRd1VZWk9Cd0dNcjFzUVB6NWI5eXAwVXZ4U3ZZMFMteXVGcGZKQWk3Z0hKV1NIQ3d5QmhoMmFabFVJU0xqYk9IVHZxaU83U0dYTDY3cXhHdmNFZGx0ZjNSaTRqbldKSHBpNnM1bDZNWHVTelJvSnVwMWF5NzBDSUhtU2poWTJBSTZrLTQ1QlhKeWFrSld5UWF1WFEzdEZrWWExUkVPdVhTOGlfLXdGN0JRUXZTRzJmNlRfWVhpZlVucDZVTlZsTE1wY0xIZjNVZUU2NFlOZ0NnTnBFUTVXMmlMU2NyS3VMWGxOcmstLVJrTWlfUm5HekxvN0JveFdNT2ozTkFFZzl2UFFrOGJUYWd1?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpYd19OcHBVVnlRWXp2VndHZ1o3eEN1QnhKWTFVUHVEYmtwYUNOM29uRWpOeE9VT2w3aEE3dnNpUmpPWmRaSjAxWGxaemNvQ29GTVRtU1cwOWROU2V5bVdDUkE4OV9XLXBoQ0cwdkFldHVvVlBURFNXeHVTT0RQSmctbnc5S0pXMGdoOEc4VjBsbUNLMFM5X3ZURGtqSXI3XzlKRjloa002bXdKdlp3eXlpZHd6ZHIzZW5zeHFtc1JwNmZLWmJr?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWdhMW1DWjh4b3plbXdLX2I4SS1nLUZJYXZ1WmFxTVN1c0RKdEtZajdqTjBFRnlENDlIYXhnUlBESFc4NE01RDhhSjdpNTVVOTZ3NnJGaGptZTB1b0VJbDF4dFZYXzVzSGdNSTdHQllZMW9YWlg2cjJjNXd2UV9uUXUydy1rYkE?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeXRiWEo5YWszb3hkVHNGeHZmVlFic3BCejJHNjRfM2RQcTNwYndtcGlYQnBNeEdWdXVYQzlqWktPNWFvc3ZOX0lTajlYMWg2OXFYcnJEWkZvdm1mdkh3VFlDWTA1R0QtNkdxYVEzeWd5MWhHVFNZSWlGR2RQLVQ0Z3YxRHBNRzhBYlp1QkdENGROZEE?oc=5",
-    "https://tvaztecaguate.com/nacionales/2026/09/11/alza-del-diesel-eleva-costos-de-transporte-en-la-industria-del-acero/",
-    "https://tvaztecaguate.com/nacionales/2026/09/11/esta-es-la-propuesta-de-mercados-unidos-para-reducir-el-costo-de-los-combustibles/",
-    "https://tvaztecaguate.com/nacionales/2026/09/11/video-guatemaltecos-afectados-por-falta-de-transporte-debido-a-bloqueos/",
-    "https://tvaztecaguate.com/departamentales/2026/09/10/enfrentamiento-entre-manifestantes-y-antimotines-tras-bloqueo-reportan-varias-capturas/",
-    "https://www.prensalibre.com/economia/subsidio-a-combustibles-genera-criticas-por-su-estructura-y-cuanto-podrian-durar-los-recursos/",
-    "https://www.prensalibre.com/economia/subsidio-de-q2-mil-500-millones-para-combustibles-podria-agotarse-antes-de-finalizar-el-ano/",
-    "https://tvaztecaguate.com/nacionales/2026/09/16/dictamen-favorable-a-iniciativa-de-aprobarse-la-propuesta-asi-quedarian-los-precios-de-los-combustibles/",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWJ1ZV91bFdHVEdMaW9ONVE1Vm1lTkxkU2UxeXVfc0ZrTzhtR0J4NUQ1dE1zVDZJZlh5Y3FaeE81UExNd1Z0Z1p1ajNkbnl0UFRZN3MwcnY0MV90UEJaYXp0c1dIaWVJbEpMRzBqZE5BVGZMSEliUE5VZDlkdmtNYVQ4QzFlaXhlOEFSdHMwNkRUNmloLWUtazRVNUhOYWRfb3hTeVRieE5SbVVvVVowTWJFNFg2WGMtcDMxVmNHTXJmV2xIWHFzXw?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUlQVFljcy0yZGI2NW1mWUYtUTgyVnV5dXBLN1BlbkZLZHlQeGZtWUtQa1cxMktuMmF0dzU3TEVTQ1lvRXhzdmV5SmlCOGdWSkZuRWI2dm5zYXAtTVlGbG5vdHpDcjA1OURHa3lGclVaVzNlNjZRd0FYRVlyaTNUX3dZY2RzSHlPX1dhaThsc2RhT2ZlWkpTR2JWT29xSEFfbHpVTlNxS0J6NTJXQWVackRnd0k5ZWc2ZENXc3Q4MDlRd0s3VkJJYzYwU3ItdGhFSWtPa1ZOMVJUM3FUODZ1YUR6N1IxMDZkMmo2bmFwS2xoTnlu?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWdhemQzczRZRlFsMmRmeW9sVTQzb0NzUGVQbTFpck9UZ0pYZGk4RTY4T1Z5ZmZXUDhEMzh2NUE3cy1ubF9JYjNjS2x6QUU0VjVJYjBrMkR1dWxJQkduM3NtZFZua0ZtLTI3UUdaVDA4OW96UDJLQXh4cUlzMWdBZGNZX3BMZ2pvTFFrdzBtdnFxYnE5SjRlVXFScGp6SEYyYlBkZUFXNW5nS2RDWG9DSG8wdnNva3o4LVBYSUdzQTZ0aW9iaUFv0gHiAUFVX3lxTE41eHAzRU55ZjhpWjdSM1hXV3k5b3VIVUlReXJZZzZteEJwaGh1c1p4OEU3dHB4djNJNVotOHlyanNHd3JTWVBpQnFoUXlTcUhWTDc5YTdUbFJRSU9pRHVuSV9KZjZhLVl3WWJsaFd1clZMdHFxa2NZS3RuRm5qd0lEbkRGVjc5aU44ZnM0NmxydjhfQUZYS2hsMkVzRGhVVjRMN2dTM2o0Q2lOS21uLVN3WG1JeEJmNmlqcUhhNGJZdFhyMk84YklKSEQ1VVRrbjRNSTVzUENHRjlrVDQ0cHJVeHc?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT1Q4SDNUd3ZKWU11TmdQdE16dkVtVzJZS3FfRzlrU2Fzd3g5Z0lPZFZ3T1ZwU1ZpSEFxTVVSVVJUWnExUi1uLTVjQzEtQ0FuXy1CRTU3UE9nNmRsQm9FcVU0QkgzWXBPdFpHSXpnSm42dm9PaU1mSE0yTkJtUVM2ZHNGdDNXaU1XVXFKQXhhUmtnekVYVWIxdFoyd3B2Yk1uY1RPLVNqaVl0YXdSS0tNYzZacndycnR6aUhxdlV5VmpfbzlBZ2JIQ194VzctME5yN2tMS2pueVFLQWtvVUlGUUlxaWNSMTVyOVdVVTZB?oc=5",
@@ -596,6 +614,18 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9ReWFwS3pObS1FRHhxVnVVN2ptejFtcmhQU2FPUXpQTG9YZFNyaWdWODcxSW55MUNHZmowZzNicXQ4NGllRU9WcDlUbE54MjNEQkVjMHZFZ2hERDlXcUZ6RW5tWUhwejgwRnFabDBEU0xGYzZLQUV3dlZzMjRHeXVJcXo5cG56ZFZFYWJXN1ZJOV9TaVFPOUd1M2lmTWQ5?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzlrUjUzTHRtTm9HcWlxSHI3dmNQZEYyTENTb3lESHh5QndWeTFZSDNjb0g0b0V3Qjd6cnNSckc5c1hFMVdpd01SZW9MZzlWaG1FRWFCQmZkUWU0S2N0Vy1lazBURUZoWklaLW56Y2RRaENzV29hc2JtUkpSTklZcDhrS0hpY0dwNFN0aFdScWNjQkh4c0hoMkgtNGdKbGYtVVow?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVRGbmJaX0UyRkFGbkhFVjl5VWpaU2pRV1BaaTZiekVIeXhSR2NaeEtaT3ZXMzJMUTFCUnhheDlteFVrS0RWYWNiY0ZDNW1OeW0xQVZEajZsWndVYnNJSWJKUXQzcS1YcHVEX05Db1J6dF8zYWJOSGJkN0g0SDI3VWxnUXpzUk8tWWVMTWFtLWVXNmFpYjVsRG5MdzlVT3FwUTZ4anRHM1ZGczA5ZHJpTm5HUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONENtQTVzTjVhd055S201RE5rNXZLZGNaR09iLURZX3ExUm92SlR6c3hmUVc2QS0yalp5NHIyYWZ6RnJ4V1hMSmFuQXVlYksxTlN6VE1ucTRMdDVHVmZTMkVtYkRHSjNJS1NTdzZ2ZUptWWZNR2REMEg3RG9nTzNWMFhqMmxOaVZ2MGptRnRHUjlRci1hUllJdDEwWQ?oc=5"
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONENtQTVzTjVhd055S201RE5rNXZLZGNaR09iLURZX3ExUm92SlR6c3hmUVc2QS0yalp5NHIyYWZ6RnJ4V1hMSmFuQXVlYksxTlN6VE1ucTRMdDVHVmZTMkVtYkRHSjNJS1NTdzZ2ZUptWWZNR2REMEg3RG9nTzNWMFhqMmxOaVZ2MGptRnRHUjlRci1hUllJdDEwWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWm1EU1dpVEo3Q0JDUnpsajNoWWlkZTdmQTBsRU1rTm94S1RDbVc5TWVyNjk5bjZCRUE0dEQwRkhMYUthcFN3NmtobHZZZVFDYmVCS1psLU1jclU2emRlOWFyRWluWVlFd0hMNU9NQzdJVjFOQk9rVkp0UzVEOTNWVS1ZTzJodEU0RDg1bWVnWlpiaWdQZHgxbUlEZG9Sa0FLMW5OR2pUT1NBOHBQZmpsMlpjRmR4Ty1YRFRqRHJYam5hTWFCMllfSFpTTVVLZkM3ZVBEaklpeTJRcXRyUFM1d01yT1VQbTBlcDFucjNpV1ozbHdJQ0JodE1uR0VOTl9oQlRaatIBmAJBVV95cUxPX3BNOE9OMXlzdUZSZWpEWW5FLVZKc2V2OTFFV3R2Qjg0alBfem1IdFBNaDhMMzNuZGY0M0RBOU03SUhYbnlFRnBhNHpCMlItaEFuRkRENHBIUm1Qd0RDekVtNXJiZ2Vkc0VYcWFlTGx4Z3BicXpGQjNkMktSNzlSZm9HOU52TEUtYWdCaGNPZzhMNm5QSkpvN0djOVo4aW5Cd3Z6bTJZY2xwLU9MZVU4Vjd4Nm55RnVmb2pZYWF0eWFmVHhHSnRvc2g4NUg2b2VxcGR4cmQ3cTFEYUxlT284aHB6NFNBNWFrcHpFQXJHdUhESmx6aUhkd3JySUhYdDJPOS04cGY0ZzNFQ0ZMRGM1eFVvOTBGWGcw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2F1REJtMnRyV3U2dWlUeFpJYWk2YUp0Wng5dVd2T0ZlS3FYQnRCNzRBNmdkbDJ6aEVRcUY3bDdic181azdad3NmbEFLSzF3ZnFDNHlybnFHYlpNbi1MdWVIam9iMjV4cUNuTDA4SEZjRnhvN1RFWmpiNE1LakF0Tl9JbzYtYmNDZmRIZU4wNXFkdlk2RnFmMzlZbEwyM1p5Qm81dWR4Nm1XNC0x?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3l4U3dtRFpWcUdqekd4NkNPN3hzWDNYNnNDeTZNcHcyUmJ0NlUwbEo3am5qY0tHbm5MUVpTZkhNNWc1Qnl0SGxXbTFoMVZHNEhSSnJza2d0b3I4ZllqNHBOSGpoQW9qQTBNblFxLTAtYi1vN1Z5SkVVbDlVbE10ek14OU5CelFibjhQdHBNc1FNNm1pT1JFRU9SbmlxQWo3NGdFaHVtTXZ4emhXTXhEanA2bE45Z3dLbjVsSENHYlZRMXV0ZnJDR0dtcnpuX0pPeERDUGtoTXBVaHdFWlhz?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVNUczl2MGJKSFhPNnYzS2htZnFrb0RaSlZyZGRCUkRLREhURnhIbXFxbF9SZXdzTGZVSlVGSjZucXh0a0tkR0pnWjgzd0NJTGN2WF9OUXBxU3BRWGRIa21vNTNVM3BSRE40Tkt4LWtrcGNWQ3BRNGZyVWVUd09iUU5IYmtxU1JnZVFZbkpRcjZOWTVrc2F6TnpnUkNXUk1aQzFYRXlHdHhQUUN2T3M5N2EyWlZSZEJFUlRBMmVWN2VULW1OXzFxSG1n0gHKAUFVX3lxTE5tU1RzOXYwYkpIWE82djNLaG1mcWtvRFpKVnJkZEJSREtESFRGeEhtcXFsX1Jld3NMZlVKVUZKNm5xeHRrS2RHSmdaODN3Q0lMY3ZYX05RcHFTcFFYZEhrbW81M1UzcFJETjROS3gta2twY1ZDcFE0ZnJVZVR3T2JRTkhia3FTUmdlUVluSlFyNk5ZNWtzYXpOemdSQ1dSTVpDMVhFeUd0eFBRQ3ZPczk3YTJaVlJkQkVSVEEyZVY3ZVQtbU5fMXFIbWc?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXFmdzZEWXB2RV9mMXExbVVoWTBEWVNRQ0o5b3pELVM0Q25mM0t3S2xTWXc1M25xZlpjTFBHMkZfZ0I5SEVBTHZzM1pRM3NoUXZKaXJoNnpwc0wtbVVrRGNQWkRlSWJVblJwVEtOTWFXakZFSE9iT3FoSWhudWJYdUgzWnBEX1paVkhqaE1BNU9ZS25MX0paZVhhNjhjMzlqRkhoN0RFUVNBb2VmN2JnZk1yZlpYdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzF3eEZ3UTlJeGN5NHY0WGRRQUVwWWRyWkJ4TVI1VldxUW53elk2Rk12ZkkwWmpTREdObzE0NTQ4YXItVHFfSjJlT3ktSjdrZmVieUpKa0lJaUx0cEI1RUZWaUY4MFI5ZzdmYkxPWGdpeHVqemdsV3cwY2tIU3daVXZVQkFIMnFHYlQxcEtwQVJoenhmb0I5WGxwRlM5NXFwWVktS05uRVV4UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPclJrbmtQZFQtb29JQVhVS25hWFQ5Wkp5SzluYVBxSGRpN01pR1g3TU4yQ0VMb0EyVU1FVEhMNVktZjVhdDdmR1FPLXZyd3BBMTRqVGRQSGpBR3dnN0J6N3BoUno1T3NOQVIyMC0yTVpBQlhQamdab3RIRFJIU1NJZVVZbF9JYTJKTjIyeGdscEJEX3JMOFlBWm9qbnBsTHp1aFdZMWZfYk5qZFh2RjlPV2VaVjZCb1YtelpFSWtzMmJMYlhhSC1MQ0Z6MHVybUJ3YzZ6Zk9RdnQwTHZMWTlpLXl2NklTMVpwQURmYW04QWN2NjRuS0NV0gGLAkFVX3lxTE9PclRJeFlfVlFzTnd5TkJ5ek5FTXdsbU9xZ0lzeGxlOUFEWXpraW1HV2x3MHJXR0t0M3lFUUtQUVNOOFJNTllqbmY3aWc4aDZ5aXN2OXFCT1IxOEltSk9XbGJheDdCN25jaW1Lb3JHMGZtM21VdW16anFRZ3Y4a1Q2dEI3elYxRk9KTnBlV19BX3p6ZnctZ3ZOTDY4OVJQc2xRSXp6a2ZnbFFOdF9kUm9hdjlkbVRlb0pGYWdDZml0N25Ed0NiLXNGMXJfN2NMSnA1cUVFQmhoWVc2R0NCTFlfUVlicWpxM0tpQ3VVcXJMeVJfeS15a1V5YkhjWjRtXzI0S0tQeTE2M0FPaw?oc=5",
+    "https://tvaztecaguate.com/nacionales/2026/09/28/se-quedo-sin-gasolina-estos-son-los-motivos-por-los-que-emetra-impondra-multas-por-bloquear-la-via-publica/",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlVHNmFYcjNkMFFod2Jtbnd3TFJTR3dodVZkZzVrSzE0QjRDTHlkV2JmRUxzcmE3N1I4NXozWExBamhyZFBuM0N5eVFPd2xpdVNwUDFlVEI4aDd3YlRuRFZFVWZlTEpCdkZrZlA3bzk0eTN1MUFneWNZZ29pRTZpa1JaaWZzaTZoeHlzNUZtY2ZZLWFIakNKVXhrQTVMVDFPU1N5MQ?oc=5",
+    "https://www.prensalibre.com/economia/agro-preve-caidas-de-hasta-30-en-la-produccion-para-2027-y-plantea-al-gobierno-diez-medidas/",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDFzbXFHRk9YbUJqRXROSWxBMDdrV2x3U0kzZVJSZ2xMVXVjVEwyVVZKdUNjUFVISjBLRS1mUnFqM0puRHhCOXFqdmszazE2V3dlOUtIZkhidlYtNmFGRk1Lel9OYVkwNUJUZ1Z4M1hrX2ZNa3c1aXZHcC11R1g3RmVYeG5zcVBHdU5ITGhCcEFQXzhWeWRj?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkJMZUtWeXhrbVVpc3ZZUnd0WW1iLTNZWHR5aEJkUGc3OTFIQ2FsSDFLZWlXNmtkVTZLTUJtTTEtNXhOOFpqbDFCdjBXV0lYdncxbU05WVFmZXVzZHJDS3pNVlRUWDFQd1V6a1BxMG13YWFGTXdJN2tyYXpSQTR3Nk5WVklhZ3Rpa2NXUHlpcUhtNG00RHBUYl9md0EtNFBoZk5LdTllVHFncUVSZnBWMlFFM28?oc=5"
   ]
 }

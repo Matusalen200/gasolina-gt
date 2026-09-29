@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T07:16-06:00",
+  "actualizado": "2026-09-29T07:19-06:00",
   "semanas": [
     {
       "fecha_martes": "2026-09-15",
@@ -18,6 +18,15 @@
       "cambio_real_q": 1.65,
       "real": "alza",
       "acierto": false
+    },
+    {
+      "fecha_martes": "2026-09-29",
+      "predicho": "baja",
+      "cambio_predicho_q": -0.05,
+      "fecha_mem": null,
+      "cambio_real_q": null,
+      "real": null,
+      "acierto": null
     }
   ],
   "total": 1,
