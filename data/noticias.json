@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T19:16+00:00",
+  "actualizado": "2026-09-29T20:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
@@ -7,6 +7,17 @@
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "c892fb7214da",
+      "titulo": "Nigeria's Dangote says refinery IPO demand 'enormous' as Kenya project advances",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjJSWDBxT0xfS1B2cGVZU0tOMnM2ZnI4T21ZbExxZkp5U0JhSFlNMXBDTkdLZkhXajNVZnQ4cm1zWXVuNW5qTi1nUjQ3TEdjYm9xalF3RmNXVWprQ3hOYzJYN3ZGWTUxR2p2SU5GdVNjcUl6dUxKS1A2Q1hob1hnZ1Q3MEZYS2gwdW1CMmpJVTZmdmNpa08zbjZhdk1zZDJQLUFpbWVSdUF1Z183ck5NTnJMc3RCNWFqYXdBenFSUDVEWm5E?oc=5",
+      "fecha": "2026-09-29T19:03+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "e9fde4b579e4",
       "titulo": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
@@ -415,6 +426,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1eccdee6a50b",
+      "titulo": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ21VRGFRWnc1czVkOUdJbGJ3ZmMwNGUtVTFmbkxJcFBWZWNXdnVUcUFFajJGNFJJSGkwYldyWi1PNFhzQlQtUjhaNzg4OE9QRTF1bXd5dkVGR3BzZUJCaVFweUxuSlJhRjZfank4Tl9Ec2ZveGJKdlFFWjZXbEFud0FOVVR6bmhzVmNqMm5fN2xQcnI5TEdtU25NX3p6QkxRbE5wM0RGa2pIVDZMWjhrMHV6UEZZMlNielBwLWVHWmtYWU5LTnZJ?oc=5",
+      "fecha": "2026-09-28T15:35+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "1e6c23791b00",
       "titulo": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
       "fuente": "Reuters (vía Google News)",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0a527b7d5da4",
-      "titulo": "TotalEnergies raises share buyback targets as fuel prices drive profits",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRS1RUlNSTDh1Q2NFc09GWl8ycXlPLTdoaVBiSTJIeUdzUUFxVWhzMUJaSFpINEtyakxFMHA4amZOZkdrZE9TNkVuMDNoeE1QU3NPbEVOakNJNDhmNmNFVFNFUDdScTdjN3BNd1ZqaUJOUFp3bHpDNkU0dzBldWkya1RJbHZJSDdUMDM4NHdBNGlicVFVWmVqdUdhVUZ5SnpaSnFOLS1iSQ?oc=5",
-      "fecha": "2026-09-28T06:40+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b44fe3f5750f",
-      "titulo": "Exención del IDP e IVA en combustibles: así se reflejará en las facturas de los consumidores",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/exencion-del-idp-e-iva-en-combustibles-asi-se-reflejara-en-las-facturas-de-los-consumidores/",
-      "fecha": "2026-09-28T06:01+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]

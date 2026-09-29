@@ -1867,3 +1867,20 @@ Noticias: Agro prevé caídas de hasta 30% en la producción para 2027… · Com
 2026-09-29 13:16 [INFO] --- telegram ---
 2026-09-29 13:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-29 13:16 [INFO] Fin corrida
+2026-09-29 14:16 [INFO] Inicio corrida 2026-09-29 14:16 GT
+2026-09-29 14:16 [INFO] --- mem ---
+2026-09-29 14:16 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-29 14:17 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-29 14:17 [INFO] --- hoy ---
+2026-09-29 14:17 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-29 14:17 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 43.27 (2026-09-29)
+2026-09-29 14:17 [INFO] --- mercado ---
+2026-09-29 14:17 [INFO] Mercado: RBOB 3.1178 (-2.57% 7d), WTI 89.05, USD/GTQ 7.637 · 3/3 símbolos
+2026-09-29 14:17 [INFO] --- noticias ---
+2026-09-29 14:17 [INFO] RSS: 233 notas relevantes en 8 fuentes
+2026-09-29 14:17 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 16, 'BAJA': 11, 'NEUTRAL': 23}
+2026-09-29 14:17 [INFO] --- senal ---
+2026-09-29 14:17 [INFO] Señal: 🟡 Sin apuro (puntaje -4) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-09-29 14:17 [INFO] --- telegram ---
+2026-09-29 14:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-29 14:17 [INFO] Fin corrida
