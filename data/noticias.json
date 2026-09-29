@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-29T16:17+00:00",
+  "actualizado": "2026-09-29T17:14+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
-    "BAJA": 13,
+    "ALZA": 17,
+    "BAJA": 11,
     "NEUTRAL": 22
   },
   "noticias": [
+    {
+      "id": "6988a0003677",
+      "titulo": "EU Weighs One-Year Delay to Methane Rules as Winter Energy Risks Rise",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Weighs-One-Year-Delay-to-Methane-Rules-as-Winter-Energy-Risks-Rise.html",
+      "fecha": "2026-09-29T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d925dca501e1",
       "titulo": "Iran Talks Take the Heat Out of the Oil Rally",
@@ -148,6 +159,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ebad0c5792ad",
+      "titulo": "European shares edge higher as tech stocks offset oil pressure",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXNYaG1VZ0h5eDFQYUdnWDFYUHRSZjVMRTBQTGhERzRnRFVDSlBpZWdwRjNtZ1ZTSGc5MFMwdmtOd204bzJYMHVkd3RWX1FNaDVaeTI0Q18teDNUVzdFejdjSjFBSFRqbkV2VmZJNllTYTBXM1N6RFFlTTh1MDBhU2FzU0c1WFM2OG54anJxWU1pNEpabDI5cENRV2xmc3ZPb0JXTS1NR3pac3R4amJF?oc=5",
+      "fecha": "2026-09-29T07:32+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -530,28 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHVPS0JzZDAyU2Z6dGxwVFM3dkZ3b2w3Ry16YUZidnktUVUxZnI0Qk9nd2o5SjlYNGdUdTJ5a2MtWFdRSTlTbWs1akdES1FUUVU3NE9DLWtHNHUtRkZfWXNGUHdkWW9KN085UkR5Sk41M2xBRFpRWjRvZFBXTjVnVVJ5YlNiTGNhOUNDS0RxVzFkbjIzLXdiTTZlaURuOUhJbVJZUk41N2xCSUcwdHROamhGT2hqU0RrV2c?oc=5",
       "fecha": "2026-09-28T03:22+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1e6c23791b00",
-      "titulo": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVl1TmI5dWRwRlVoQ3RIWUlrVFg1d1FGV3F1dC15UDFHUWpGN1NYaGNRT2YxQmlnQXdqbmpVaUozc1p3d2pzX3d6T2ZLTE9tYmV0Y1JlcGxlcVZYSjI1dDRYQkdhZ0tyZ09FT3JqTUNwQl9Edk9MaGxYdlJHbUtwaWZXMjJpQXVpcTZHNlFtRktOMC0wLWR1aDI3dWxkWE9uelVmMUpDRmJJV3dOaDB3YmdqSDIwdHlGbEE?oc=5",
-      "fecha": "2026-09-28T02:50+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4590f177d5ef",
-      "titulo": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmUtcnhXbVNOQ0lacFk2Z1JXa0JON1VtZTRsYnZVMDlKdjh0dXhobk9tajVtRVdUbE5RV2MxUy1MbUpkNkc4UXNvalZoZXltbUNScGEyanBReERmbTRuQnB2d2M2dkU3NkJ0anMybXdHWV9QWElRVG9WcDhNSzE4eTV4VWs4WWluaGpYR1NZZTNuYVFPNWZwUk1YcXNOR0NrN0REb2V5eENFRjFaTVNpeWtJdw?oc=5",
-      "fecha": "2026-09-28T02:19+00:00",
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
