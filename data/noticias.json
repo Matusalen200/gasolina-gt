@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T18:18+00:00",
+  "actualizado": "2026-09-29T19:16+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
@@ -7,6 +7,17 @@
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "e9fde4b579e4",
+      "titulo": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
+      "fecha": "2026-09-29T18:20+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "cd4bc30a9e51",
       "titulo": "US to loan up to 40 million barrels of oil from SPR, last batch from global deal",
@@ -542,17 +553,6 @@
       "url": "https://www.prensalibre.com/economia/exencion-del-idp-e-iva-en-combustibles-asi-se-reflejara-en-las-facturas-de-los-consumidores/",
       "fecha": "2026-09-28T06:01+00:00",
       "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1eccdee6a50b",
-      "titulo": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ21VRGFRWnc1czVkOUdJbGJ3ZmMwNGUtVTFmbkxJcFBWZWNXdnVUcUFFajJGNFJJSGkwYldyWi1PNFhzQlQtUjhaNzg4OE9QRTF1bXd5dkVGR3BzZUJCaVFweUxuSlJhRjZfank4Tl9Ec2ZveGJKdlFFWjZXbEFud0FOVVR6bmhzVmNqMm5fN2xQcnI5TEdtU25NX3p6QkxRbE5wM0RGa2pIVDZMWjhrMHV6UEZZMlNielBwLWVHWmtYWU5LTnZJ?oc=5",
-      "fecha": "2026-09-28T06:00+00:00",
-      "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
