@@ -106,9 +106,9 @@
   },
   {
     "fecha": "2026-09-29",
-    "puntaje": -21,
+    "puntaje": -29,
     "tendencia": "baja",
     "veredicto": "Espera, va a bajar",
-    "cambio_estimado_q": -0.6
+    "cambio_estimado_q": -0.75
   }
 ]
