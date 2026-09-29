@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-29T20:17+00:00",
+  "actualizado": "2026-09-29T21:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
-    "BAJA": 11,
-    "NEUTRAL": 23
+    "ALZA": 14,
+    "BAJA": 12,
+    "NEUTRAL": 24
   },
   "noticias": [
+    {
+      "id": "8ae882b94c3f",
+      "titulo": "US Distillate Stocks Continue to Fall As Crude Inventories Build",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Distillate-Stocks-Continue-to-Fall-As-Crude-Inventories-Build.html",
+      "fecha": "2026-09-29T21:02+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "794a0491a6e3",
+      "titulo": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/White-House-Weighs-Red-Dyed-Diesel-Relief-as-Fuel-Prices-Soar.html",
+      "fecha": "2026-09-29T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c892fb7214da",
       "titulo": "Nigeria's Dangote says refinery IPO demand 'enormous' as Kenya project advances",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1193c0234d46",
-      "titulo": "Middle East Oil Exports Rebound to 12.8 Million Bpd",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Exports-Rebound-to-128-Million-Bpd.html",
-      "fecha": "2026-09-28T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0f98fc3d6a6f",
-      "titulo": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhQbFJWa3BzeDliUGZGQ1ZVY19mbmY1bmNleGw0ODF6RjV2a0ljSkp3a29lLTBpd1A5M2hxWTg0UmZoSWUzRHFPTEhMQ0t0bUVWWmdIbXJJVW5qVHpfSnZxTzlWdTczY0RZamlVVldsZVZKS185Q21LcG82bkYwZEV0UkdET1AzVUozeWgwekpYSXhJZHo5NVZxV0k2aTBpT2pwUjRreS10dlRNMDBxM2NzYWRkcmFqZkdDMDFNWm1BTkpQcFdGdzN3?oc=5",
-      "fecha": "2026-09-28T06:44+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
