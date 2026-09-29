@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-09-29T13:19+00:00",
+  "actualizado": "2026-09-29T14:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
-    "BAJA": 14,
-    "NEUTRAL": 22
+    "BAJA": 13,
+    "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "79855d1baca6",
+      "titulo": "The Hidden Tradeoffs of a U.S. Diesel Export Ban",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-Tradeoffs-of-a-US-Diesel-Export-Ban.html",
+      "fecha": "2026-09-29T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "bd85334827d2",
+      "titulo": "Oil giants rush to help Italy's Meloni curb energy costs with fuel price caps",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRUZwMmRHcVVaSHB3SU9Edk4yZXdXenRfZUlEcmhsbjQ0dTFNWGZQbGpsV0ROZF8ybnFkVEVjcGowakN2dElwdjk5QnRwSkg3Y3pSTkdnNzdfUkItdXJVdkNNM01vSGNVSTJUUmxvY3lBNDMwTk9WODB2RXJ5YmhRZ3oweXZOLUlfRi12OFU1UUtiT1hRRFhXdDJ4QWM0RnpSb0VhcTR0dUZ3ZFJJM2JLQ3JzbGloQ1U4amF0NngzRnFqMGc?oc=5",
+      "fecha": "2026-09-29T13:17+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "98def12b7c91",
       "titulo": "US stock futures tick higher as tech steadies though oil, yields stay high",
@@ -530,28 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWtCazQtV0cybUx3VUktREJ0Y202T2loTzhCNEUxMnZqZ24tWGdYZHVsamNJN0wtMEdXcllFazZhaTNkbThPelVQdVZLTkItT2NyR19vbnVIYUgydHJCeWZjM2w4UGxPQWNISHdVWUlUMzhJTkQ3WktSWlhpV1g3YTRYM3lkMG9sQ3dqbGpZaURtNURrRkNrRWVyLUlOV056cFpTOFd6N2RVc2puVjNZUlp6UmxSUQ?oc=5",
       "fecha": "2026-09-28T01:31+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c8e06eb89ce2",
-      "titulo": "Stocks fall, squeezed by rising oil prices and Treasury yields",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
-      "fecha": "2026-09-28T00:50+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bc320a912c48",
-      "titulo": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
-      "fecha": "2026-09-28T00:17+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
