@@ -73,3 +73,44 @@ def test_una_estacion_que_no_esta_en_el_mapa_se_agrega_igual():
     assert mapa.marcar_con_precio(del_mapa, monitoreada) == 1
     agregada = del_mapa[-1]
     assert agregada["n"] == "Gasolinera Nueva Nunca Vista" and agregada["aprox"] is True
+
+
+def test_avisa_cuando_el_precio_por_gasolinera_esta_viejo(monkeypatch):
+    """Lo más importante: nunca presentar un precio de hace semanas como el de hoy."""
+    from bot import telegram
+    from datetime import date
+    datos = {
+        "estaciones.json": {"fecha_monitoreo": "2026-09-07",
+                            "autoservicio": [{"nombre": "Texaco Pesa Tivoli", "zona": "zona 9",
+                                              "superior": 42.05, "regular": 40.05, "diesel": 46.35}]},
+        "departamentos_hoy.json": {"departamentos": [{"cabecera": "Ciudad de Guatemala", "departamento": "Guatemala",
+                                                      "superior": 45.27, "regular": 43.27, "diesel": 49.37}],
+                                   "mas_barato": {"departamento": "Guatemala", "regular": 43.27}},
+    }
+    monkeypatch.setattr(telegram, "leer_json", lambda ruta, defecto=None: datos.get(getattr(ruta, "name", ""), defecto))
+    monkeypatch.setattr(telegram, "ahora_gt", lambda: __import__("datetime").datetime(2026, 9, 29, 12, 0))
+    r = telegram.respuesta_gasolineras()
+    assert "Q40.05" in r                      # el precio viejo se muestra
+    assert "hace 22 días" in r                # pero se dice cuántos días tiene
+    assert "Q43.27" in r                      # y cuál es la referencia de hoy
+
+
+def test_precio_reciente_no_lleva_advertencia(monkeypatch):
+    from bot import telegram
+    datos = {
+        "estaciones.json": {"fecha_monitoreo": "2026-09-28",
+                            "autoservicio": [{"nombre": "Shell Prueba", "zona": "zona 4",
+                                              "superior": 45.0, "regular": 43.0, "diesel": 49.0}]},
+        "departamentos_hoy.json": {"departamentos": [], "mas_barato": {}},
+    }
+    monkeypatch.setattr(telegram, "leer_json", lambda ruta, defecto=None: datos.get(getattr(ruta, "name", ""), defecto))
+    monkeypatch.setattr(telegram, "ahora_gt", lambda: __import__("datetime").datetime(2026, 9, 29, 12, 0))
+    r = telegram.respuesta_gasolineras()
+    assert "Ojo" not in r and "28 de septiembre" in r
+
+
+def test_dias_desde():
+    from bot import telegram
+    assert telegram._dias_desde(None) is None
+    assert telegram._dias_desde("no es fecha") is None
+    assert telegram._dias_desde(telegram.ahora_gt().date().isoformat()) == 0

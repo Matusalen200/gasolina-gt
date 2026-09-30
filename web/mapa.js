@@ -1,16 +1,22 @@
 /* Mapa de gasolineras: todas las del país (OpenStreetMap) con el precio que les toca.
-   Verde = precio verificado por el MEM esta semana. Azul = precio de referencia de su departamento. */
+   Verde = precio que el MEM verificó hace poco. Amarillo = verificado pero ya viejo.
+   Azul = sin verificar, se muestra el precio de referencia de su departamento. */
 (function () {
   "use strict";
   const CENTRO_GT = [14.6349, -90.5069];
-  const NOMBRE = { s: "Súper", r: "Normal", d: "Diésel" };
+  const DIAS_FRESCO = 10;   // pasado eso, un precio por gasolinera ya no sirve como "precio de hoy"
   let mapa = null, capa = null, marcadorYo = null, datos = null, deptos = null;
+  let fechaVerificado = null, diasVerificado = null;
 
   function $(id) { return document.getElementById(id); }
-  function css(v) { return getComputedStyle(document.documentElement).getPropertyValue(v).trim(); }
   function q(n) { return n == null ? "–" : "Q" + Number(n).toFixed(2); }
   function guardar(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* nada */ } }
   function recordar(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function fechaLarga(iso) {
+    if (!iso) return "";
+    return new Date(iso + "T12:00:00").toLocaleDateString("es-GT", { day: "numeric", month: "long" });
+  }
+  const viejo = () => diasVerificado != null && diasVerificado > DIAS_FRESCO;
 
   /** Distancia en línea recta, para ordenar por cercanía. */
   function distancia(a, b) {
@@ -20,25 +26,29 @@
     return 2 * R * Math.asin(Math.sqrt(x));
   }
 
-  /** Precio de una gasolinera: el verificado si lo tiene, si no el de referencia de su departamento. */
-  function precios(g) {
-    if (g.p) return { valores: { superior: g.p.s, regular: g.p.r, diesel: g.p.d }, verificado: true };
-    const fila = (deptos || []).find(d => d.departamento === g.d);
-    if (!fila) return { valores: null, verificado: false };
-    return { valores: { superior: fila.superior, regular: fila.regular, diesel: fila.diesel }, verificado: false };
+  function referencia(depto) {
+    return (deptos || []).find(d => d.departamento === depto);
   }
 
   function globo(g, desdeYo) {
-    const p = precios(g);
-    const v = p.valores;
     const lineas = [`<b>${g.n}</b>`];
-    if (v) {
-      lineas.push(`Súper ${q(v.superior)} · Normal ${q(v.regular)} · Diésel ${q(v.diesel)}`);
-      lineas.push(p.verificado
-        ? '<span class="verificado">✓ Precio verificado por el MEM esta semana</span>'
-        : `<span class="referencia">Precio de referencia de ${g.d}. El de esta gasolinera puede variar.</span>`);
+    if (g.p) {
+      lineas.push(`Súper ${q(g.p.s)} · Normal ${q(g.p.r)} · Diésel ${q(g.p.d)}`);
+      if (viejo()) {
+        lineas.push(`<span class="viejo">⚠ Ese precio es del ${fechaLarga(fechaVerificado)}, hace ${diasVerificado} días.</span>`);
+        const ref = referencia(g.d);
+        if (ref) lineas.push(`<span class="referencia">Hoy la referencia de ${g.d} es ${q(ref.regular)} la normal.</span>`);
+      } else {
+        lineas.push(`<span class="verificado">✓ Precio que el MEM verificó el ${fechaLarga(fechaVerificado)}</span>`);
+      }
     } else {
-      lineas.push("Sin precio todavía.");
+      const ref = referencia(g.d);
+      if (ref) {
+        lineas.push(`Súper ${q(ref.superior)} · Normal ${q(ref.regular)} · Diésel ${q(ref.diesel)}`);
+        lineas.push(`<span class="referencia">Precio de referencia de ${g.d}. El de esta bomba puede variar.</span>`);
+      } else {
+        lineas.push("Sin precio todavía.");
+      }
     }
     if (desdeYo != null) lineas.push(`A ${desdeYo.toFixed(1)} km de ti`);
     if (g.aprox) lineas.push('<span class="referencia">Ubicación aproximada de la zona.</span>');
@@ -56,29 +66,32 @@
       .slice(0, 400);
 
     for (const { g, km } of cerca) {
-      const verificado = !!g.p;
+      const tono = !g.p ? "#1f5fbf" : viejo() ? "#e0a800" : "#2e9e5b";
       L.circleMarker([g.lat, g.lon], {
-        radius: verificado ? 9 : 6,
-        color: verificado ? "#2e9e5b" : "#1f5fbf",
-        fillColor: verificado ? "#2e9e5b" : "#1f5fbf",
-        fillOpacity: verificado ? 0.95 : 0.55, weight: verificado ? 3 : 1,
+        radius: g.p ? 9 : 6, color: tono, fillColor: tono,
+        fillOpacity: g.p ? 0.95 : 0.55, weight: g.p ? 3 : 1,
       }).addTo(capa).bindPopup(globo(g, centro ? km : null));
     }
 
     const conPrecio = cerca.filter(x => x.g.p).sort((a, b) => a.g.p.r - b.g.p.r);
     const lista = $("listaMapa");
     lista.innerHTML = "";
-    if (conPrecio.length) {
-      for (const { g, km } of conPrecio.slice(0, 5)) {
-        const li = document.createElement("li");
-        li.innerHTML = `<span><b>${g.n}</b><br><span class="meta">Normal ${q(g.p.r)}${centro ? " · a " + km.toFixed(1) + " km" : ""}</span></span>` +
-          `<a class="ir" href="https://www.google.com/maps/dir/?api=1&destination=${g.lat},${g.lon}" target="_blank" rel="noopener">Ir</a>`;
-        li.addEventListener("click", () => { mapa.setView([g.lat, g.lon], 16); });
-        lista.appendChild(li);
-      }
-      $("mapaResumen").textContent = "Las verdes tienen precio verificado por el MEM esta semana. Toca cualquier punto para ver sus precios.";
-    } else {
+    for (const { g, km } of conPrecio.slice(0, 5)) {
+      const cuando = viejo() ? "precio del " + fechaLarga(fechaVerificado) : "verificado";
+      const li = document.createElement("li");
+      li.innerHTML = `<span><b>${g.n}</b><br><span class="meta">Normal ${q(g.p.r)} · ${cuando}` +
+        `${centro ? " · a " + km.toFixed(1) + " km" : ""}</span></span>` +
+        `<a class="ir" href="https://www.google.com/maps/dir/?api=1&destination=${g.lat},${g.lon}" target="_blank" rel="noopener">Ir</a>`;
+      li.addEventListener("click", () => { mapa.setView([g.lat, g.lon], 16); });
+      lista.appendChild(li);
+    }
+
+    if (!conPrecio.length) {
       $("mapaResumen").textContent = `${cerca.length} gasolineras por aquí. El MEM solo verifica precios en la capital, así que estas muestran el precio de referencia de su departamento.`;
+    } else if (viejo()) {
+      $("mapaResumen").textContent = `Ojo: los puntos amarillos traen el precio que el MEM verificó el ${fechaLarga(fechaVerificado)}, hace ${diasVerificado} días. Desde entonces el precio general cambió, así que tómalos como referencia vieja, no como el precio de hoy.`;
+    } else {
+      $("mapaResumen").textContent = `Los puntos verdes traen el precio que el MEM verificó el ${fechaLarga(fechaVerificado)}. Toca cualquier punto para ver sus precios.`;
     }
   }
 
@@ -106,6 +119,10 @@
     if (typeof L === "undefined") return;   // si el mapa no cargó, la sección no aparece
     datos = gasolineras;
     deptos = (departamentosHoy && departamentosHoy.departamentos) || [];
+    fechaVerificado = gasolineras.fecha_verificado || null;
+    if (fechaVerificado) {
+      diasVerificado = Math.round((Date.now() - new Date(fechaVerificado + "T12:00:00")) / 864e5);
+    }
     $("mapa").hidden = false;
 
     mapa = L.map("lienzoMapa", { scrollWheelZoom: false }).setView(CENTRO_GT, 12);

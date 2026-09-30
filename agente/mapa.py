@@ -179,7 +179,8 @@ def actualizar(forzar: bool = False) -> dict:
             return {}
         gasolineras = limpiar(elementos)
 
-    monitoreadas = (leer_json(DATA / "estaciones.json", {}) or {}).get("autoservicio", [])
+    est = leer_json(DATA / "estaciones.json", {}) or {}
+    monitoreadas = est.get("autoservicio", [])
     con_precio = marcar_con_precio(gasolineras, monitoreadas)
 
     from collections import Counter
@@ -188,6 +189,7 @@ def actualizar(forzar: bool = False) -> dict:
         "actualizado": ahora_gt().isoformat(timespec="minutes"),
         "total": len(gasolineras),
         "con_precio_real": con_precio,
+        "fecha_verificado": est.get("fecha_monitoreo"),
         "por_departamento": dict(sorted(por_depto.items(), key=lambda x: -x[1])),
         "fuente": "OpenStreetMap (ubicaciones) y MEM (precios monitoreados)",
         "gasolineras": gasolineras,

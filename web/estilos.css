@@ -178,6 +178,7 @@ footer a { color: inherit; }
 .leaflet-popup-content { font-size: 0.95rem; line-height: 1.45; }
 .leaflet-popup-content .verificado { color: #2e9e5b; font-weight: 700; }
 .leaflet-popup-content .referencia { color: #6b7280; }
+.leaflet-popup-content .viejo { color: #a16207; font-weight: 700; }
 .leaflet-popup-content a { color: #1f5fbf; font-weight: 700; }
 #listaMapa li { cursor: pointer; }
 #listaMapa .meta { color: var(--texto-suave); font-size: 0.85rem; font-weight: 400; }

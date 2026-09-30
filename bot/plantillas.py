@@ -59,6 +59,10 @@ MENSAJE_GASOLINERAS = (
 )
 FILA_GASOLINERA = "{puesto}. {nombre} ({zona}) — normal {precio}"
 NOTA_GASOLINERAS = "Precios que el MEM revisó el {fecha}. Mándame tu ubicación 📍 y te digo las más cercanas."
+NOTA_GASOLINERAS_VIEJA = (
+    "⚠ Ojo: esos precios son del {fecha}, hace {dias} días, y desde entonces el precio general cambió.\n"
+    "Hoy la referencia es {referencia} la normal. Mándame tu 📍 para ver las más cercanas."
+)
 
 MENSAJE_CERCANAS = (
     "📍 Las gasolineras más cerca de ti:\n"

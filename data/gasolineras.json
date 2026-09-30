@@ -1,7 +1,8 @@
 {
-  "actualizado": "2026-09-29T18:31-06:00",
+  "actualizado": "2026-09-29T18:45-06:00",
   "total": 1130,
   "con_precio_real": 14,
+  "fecha_verificado": "2026-09-07",
   "por_departamento": {
     "Guatemala": 320,
     "Huehuetenango": 78,
@@ -2150,19 +2151,6 @@
       "d": "Guatemala"
     },
     {
-      "n": "Gasolinera Shell Diagonal 8",
-      "m": null,
-      "lat": 14.64512,
-      "lon": -90.49606,
-      "d": "Guatemala",
-      "p": {
-        "s": 43.07,
-        "r": 41.07,
-        "d": 46.37
-      },
-      "mem": true
-    },
-    {
       "n": "Gasolinera Sol",
       "m": null,
       "lat": 14.63651,
@@ -2175,19 +2163,6 @@
       "lat": 14.69868,
       "lon": -90.39564,
       "d": "Guatemala"
-    },
-    {
-      "n": "Gasolinera Texaco Atlantico",
-      "m": "Texaco",
-      "lat": 14.65644,
-      "lon": -90.46657,
-      "d": "Guatemala",
-      "p": {
-        "s": 43.07,
-        "r": 41.07,
-        "d": 46.37
-      },
-      "mem": true
     },
     {
       "n": "Gasolinera UNO",
@@ -8007,6 +7982,20 @@
       "aprox": false
     },
     {
+      "n": "Puma Estación Atlántico",
+      "m": null,
+      "lat": 14.645335,
+      "lon": -90.465398,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
       "n": "Uno Estación de Servicio Cruz del Sur",
       "m": null,
       "lat": 14.636892,
@@ -8025,6 +8014,20 @@
       "m": null,
       "lat": 14.62552,
       "lon": -90.499264,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Uno Diagonal Seis",
+      "m": null,
+      "lat": 14.602933,
+      "lon": -90.510754,
       "d": "Guatemala",
       "p": {
         "s": 43.07,

@@ -325,6 +325,15 @@ def _km(a, b) -> float:
     return 2 * r * math.asin(math.sqrt(x))
 
 
+def _dias_desde(fecha_iso) -> int | None:
+    """Cuántos días han pasado desde esa fecha. None si no hay fecha válida."""
+    from datetime import date
+    try:
+        return (ahora_gt().date() - date.fromisoformat(str(fecha_iso))).days
+    except Exception:
+        return None
+
+
 def respuesta_gasolineras() -> str:
     est = leer_json(DATA / "estaciones.json", {}) or {}
     baratas = est.get("autoservicio") or []
@@ -333,8 +342,16 @@ def respuesta_gasolineras() -> str:
     lista = "\n".join(P.FILA_GASOLINERA.format(puesto=i + 1, nombre=e["nombre"], zona=e["zona"],
                                                precio=q(e["regular"]))
                       for i, e in enumerate(baratas[:5]))
-    return P.MENSAJE_GASOLINERAS.format(lista=lista,
-                                        nota=P.NOTA_GASOLINERAS.format(fecha=fecha_bonita(est.get("fecha_monitoreo"))))
+    fecha = est.get("fecha_monitoreo")
+    dias = _dias_desde(fecha)
+    if dias is not None and dias > 10:
+        barato = _deptos().get("mas_barato") or {}
+        nota = P.NOTA_GASOLINERAS_VIEJA.format(
+            fecha=fecha_bonita(fecha), dias=dias,
+            referencia=q(barato.get("regular")) if barato.get("regular") else "la del MEM")
+    else:
+        nota = P.NOTA_GASOLINERAS.format(fecha=fecha_bonita(fecha))
+    return P.MENSAJE_GASOLINERAS.format(lista=lista, nota=nota)
 
 
 def respuesta_cercanas(lat: float, lon: float) -> str:
@@ -348,7 +365,9 @@ def respuesta_cercanas(lat: float, lon: float) -> str:
     filas = []
     for i, g in enumerate(cerca):
         if g.get("p"):
-            precio = f"normal {q(g['p']['r'])} (verificado)"
+            dias = _dias_desde(mapa.get("fecha_verificado"))
+            marca = "verificado" if dias is None or dias <= 10 else f"precio de hace {dias} días"
+            precio = f"normal {q(g['p']['r'])} ({marca})"
         elif g["d"] in deptos:
             precio = f"normal {q(deptos[g['d']]['regular'])} (referencia de {g['d']})"
         else:

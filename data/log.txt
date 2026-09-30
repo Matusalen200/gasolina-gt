@@ -1901,3 +1901,40 @@ Noticias: Agro prevé caídas de hasta 30% en la producción para 2027… · Com
 2026-09-29 15:15 [INFO] --- telegram ---
 2026-09-29 15:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-29 15:15 [INFO] Fin corrida
+2026-09-29 18:42 [INFO] Inicio corrida 2026-09-29 18:42 GT
+2026-09-29 18:42 [INFO] --- hoy ---
+2026-09-29 18:42 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-29 18:42 [INFO] Precio hoy: 0 observaciones nuevas de 3 artículos · regular 43.27 (2026-09-29)
+2026-09-29 18:43 [INFO] Inicio corrida 2026-09-29 18:43 GT
+2026-09-29 18:43 [INFO] --- estaciones ---
+2026-09-29 18:43 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-09-29 18:43 [INFO] Inicio corrida 2026-09-29 18:43 GT
+2026-09-29 18:43 [INFO] --- mapa ---
+2026-09-29 18:43 [INFO] Mapa: reuso las 1116 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-09-29 18:43 [INFO] Mapa: 1130 gasolineras en 22 departamentos, 14 con precio real del MEM
+2026-09-29 18:43 [INFO] Inicio corrida 2026-09-29 18:43 GT
+2026-09-29 18:43 [INFO] --- senal ---
+2026-09-29 18:43 [INFO] Señal: 🟢 Espera, va a bajar (puntaje -19) · Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.
+2026-09-29 18:43 [INFO] Inicio corrida 2026-09-29 18:43 GT
+2026-09-29 18:43 [INFO] --- reporte ---
+2026-09-29 18:43 [INFO] Reporte diario generado:
+🟢 Espera, va a bajar. El martes baja como Q0.65 el galón.
+Hoy el galón cuesta: Súper Q45.27 · Normal Q43.27 · Diésel Q49.37
+Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q43.27
+Noticias: Combustibles en Guatemala: precios actuales y…
+2026-09-29 18:43 [INFO] Inicio corrida 2026-09-29 18:43 GT
+2026-09-29 18:43 [INFO] --- grafica ---
+2026-09-29 18:43 [INFO] Gráfica lista: grafica_precios.png (13 días, 4 combustibles)
+2026-09-29 18:43 [INFO] Inicio corrida 2026-09-29 18:43 GT
+2026-09-29 18:43 [INFO] --- reporte ---
+2026-09-29 18:43 [INFO] Reporte diario generado:
+🟢 Espera, va a bajar. El martes baja como Q0.65 el galón.
+Hoy el galón cuesta: Súper Q45.27 · Normal Q43.27 · Diésel Q49.37
+Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q43.27
+Noticias: Combustibles en Guatemala: precios actuales y…
+2026-09-29 18:45 [INFO] Inicio corrida 2026-09-29 18:45 GT
+2026-09-29 18:45 [INFO] --- mapa ---
+2026-09-29 18:45 [INFO] Mapa: reuso las 1116 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-09-29 18:45 [INFO] Mapa: 1130 gasolineras en 22 departamentos, 14 con precio real del MEM
