@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T14:17-06:00",
-  "revisados": 4,
+  "actualizado": "2026-09-30T15:15-06:00",
+  "revisados": 2,
   "nuevos": 0,
   "ultimo": {
     "superior": {
@@ -345,8 +345,6 @@
     }
   ],
   "sin_precio": [
-    "https://lahora.gt/nacionales/jmaldonado/2026/09/17/ante-criticas-une-desiste-de-interpelar-a-la-mayoria-del-gabinete-de-ministros-de-semilla-now/",
-    "https://lahora.gt/nacionales/kjordan/2026/09/17/arevalo-justifica-apoyo-a-combustibles-y-dice-cambio-postura-por-subsidios-por-la-transparencia-de-su-gobierno/",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3EzZUJwd2V4S0pKNU1WOVRjaFNmSWVXaHh3d0k1OERWYllpelFubU5oSFpTNWx0Tk4ydENfTzNGUjMtdzdRbmRhNWN4d2dScEZBeC1fb2oxYlk4ZXBBVHVybE4wSHIzQTBQVmxtYXJmRXJ3S3lZXzZXWG1heXlzZTF5REFWMGFxX0Fmcms2ZFMtNzdGUUQ3RTlFakp2bXU4bVVZbTlEWkFxZ1hqY0hNRjlTOU80Z1dvNG94bGZidklPWk5GQU1zUktIcmIyZw?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmZHTlBWMnh4aFNWdi1Sd29fUmduWWRlNklxNU9VcERGN0pQamdPZjd2RjFOdFVSRFc0MjZ3aHVqNVgtTVZSRFhnVHF5T3BEMnBmUnltdXN0M09pOXNKeDB6cnRlOWFueWxiYm1SMDcxVXlIQ0NFRXVxS3JYbHNxYmpfZTM2VjNyTEw3NkhsajFzRkVvVTgtb3NaUFBZOHBNZmJUTTBLQQ?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeTlBUGdpeVNSQWRTZmRBRnl2ZG5KMjVEVGwxWGFiZXlFRFRDSjI4R2JtaWEycGdLV1NvaFcxTGtWMWRxZGR6TFYwRkZrSWxyYVVtbWQ2QkM1Y3g2dEtqVVpVakhIR0JxM2tSZ19XeEl5UzkyTlVzazFTWlU1ZVRPcW04T2hPOVBrU1VuVHdGVzNpbXV5VDAwTWJ3ZjNJRTJmZ0t4Q3lLU1hLQm9nRldYLUNCdUNZOVZEWDd3T1NtWUpYSWFFZ21IQXZjR3JLbXlRZGhkd1RxeFJLSE9LNDBldHRUWlBEMW1abEJ5N1A5VW91NWc0?oc=5",
@@ -644,6 +642,8 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXMtWWQ3M1NTWGhjT2FXNGVrbFNlZzFGUFBjVVUxUTNWbmJyMnpkOVJLWUpIQ1pjQWIzbVR1MEZ3Rk82TDFQY01FNnJ6VjQ4akN4TGctVk9DVEdCUGRmd2dlbmU2azJ5QmR3b0Q5NlUtZ3dWbzJ0UXpkbkpxRkxTMm9Nc0o4eHJtcFViOHdZMFpfMkxTQnMwUzZXUVFEV1NHOGpFa2ZJYXU?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVUVPMTBmRDFGRGtxVTR1bTBSMnZreUFYRjltWWhvYXMtV1BsSzltQlY3YkpIUDJ2OUZnRlNsN05HVTc4VkFiTW9sZ2stOFZrVDlySjJ0a3pDRTk4QVdSTGNfc2lHNkxnMGdsVmtDVnlja0taQ3RycnZMNGduZ2t5SnpycHJRUmdENW9MTG01dXVOZEpVYWIyNHB4QlRZTzJCdVV5SlBCc05keW5ibVI1Wi1Ha2E2X0VYX2hnbEoyeDRuNzQzT1UwUFFyRVBWVDZPakY0UUphdDR1aHVnMEl6b3o1M0N3bXp3WE9zYnM3djhXN0V3?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjdSSVIxRFpMcjU4VlBucmd3S2pnQmd2eWFiTGRPRV85SXNzUl9TVjhuemJFektIVlE1bkRqWG8tTE9NMEhnSjRaVEZaX2p6dkdTVWxvaTRYVmktbnRTd3NXRnBIMkdXN3h3VTVXdlM5ZDVBNnZQT2luVnYyU2V4VDNJX1R0TDNqZk5IWkFIckhqaEctZ3BLbUlZU18wZmlp?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcV96Vi0yQVVOUzQtTTR5U0djLS1lRUFYQWl5RjZsMXVrZ0VkbkJrLU9xMWl5czBKWjRaMk1jSHdWVXJzQm4tR0ZQVGhlVXNuXzAxRHlxTzFNTFczU2VIdU96WlU1aEZVTUd3QjYyeWZKUHNIcmNTemt5dGxNS2hmYmFyc01zRXA5bEtvNGVfdXZhcGc0T0RpeWUxN2k0OHJ5V1RDTDByNkJvUmtPZDAzVlBpdDdaSWI30gG4AUFVX3lxTFBxX3pWLTJBVU5TNC1NNHlTR2MtLWVFQVhBaXlGNmwxdWtnRWRuQmstT3ExaXlzMEpaNFoyTWNId1ZVcnNCbi1HRlBUaGVVc25fMDFEeXFPMU1MVzNTZUh1T3paVTVoRlVNR3dCNjJ5ZkpQc0hyY1N6a3l0bE1LaGZiYXJzTXNFcDlsS280ZV91dmFwZzRPRGl5ZTE3aTQ4cnlXVENMMHI2Qm9Sa09kMDNWUGl0N1pJYjc?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcV96Vi0yQVVOUzQtTTR5U0djLS1lRUFYQWl5RjZsMXVrZ0VkbkJrLU9xMWl5czBKWjRaMk1jSHdWVXJzQm4tR0ZQVGhlVXNuXzAxRHlxTzFNTFczU2VIdU96WlU1aEZVTUd3QjYyeWZKUHNIcmNTemt5dGxNS2hmYmFyc01zRXA5bEtvNGVfdXZhcGc0T0RpeWUxN2k0OHJ5V1RDTDByNkJvUmtPZDAzVlBpdDdaSWI30gG4AUFVX3lxTFBxX3pWLTJBVU5TNC1NNHlTR2MtLWVFQVhBaXlGNmwxdWtnRWRuQmstT3ExaXlzMEpaNFoyTWNId1ZVcnNCbi1HRlBUaGVVc25fMDFEeXFPMU1MVzNTZUh1T3paVTVoRlVNR3dCNjJ5ZkpQc0hyY1N6a3l0bE1LaGZiYXJzTXNFcDlsS280ZV91dmFwZzRPRGl5ZTE3aTQ4cnlXVENMMHI2Qm9Sa09kMDNWUGl0N1pJYjc?oc=5",
+    "https://www.prensalibre.com/economia/decreto-22-2026-cuanto-costara-el-galon-de-diesel-y-gasolina-superior-o-regular-desde-el-1-de-octubre/",
+    "https://tvaztecaguate.com/nacionales/2026/09/17/bono-de-q500-por-tres-meses-presentan-propuesta-por-alza-en-precios-de-combustibles/"
   ]
 }

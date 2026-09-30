@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-30T20:17+00:00",
-  "nuevas": 40,
+  "actualizado": "2026-09-30T21:17+00:00",
+  "nuevas": 10,
   "balance_7d": {
-    "ALZA": 14,
+    "ALZA": 13,
     "BAJA": 8,
-    "NEUTRAL": 28
+    "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "361858299936",
+      "titulo": "Decreto 22-2026: cuánto costará el galón de diésel y gasolina superior o regular desde el 1 de octubre",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/decreto-22-2026-cuanto-costara-el-galon-de-diesel-y-gasolina-superior-o-regular-desde-el-1-de-octubre/",
+      "fecha": "2026-09-30T19:37+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "83435e88e675",
       "titulo": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
       "fecha": "2026-09-29T11:49+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b026a1862dc2",
-      "titulo": "India Looks to Boost Exploration as Hormuz Crisis Threatens Supply",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Looks-to-Boost-Exploration-as-Hormuz-Crisis-Threatens-Supply.html",
-      "fecha": "2026-09-29T11:30+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
