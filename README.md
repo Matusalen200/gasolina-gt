@@ -5,7 +5,8 @@ entienden en el celular. Todo corre gratis en GitHub Actions + GitHub Pages: el 
 publica, nadie toca nada.
 
 - Tablero: `https://<usuario>.github.io/gasolina-gt/web/`
-- Canal de Telegram: el bot publica cada día a las 7:00 am y contesta todo lo del tablero por chat
+- Publica cada día a las 7:00 am en Telegram y, si las conectas, en Facebook, Instagram y X
+  (ver [docs/redes.md](docs/redes.md)). El bot de Telegram además contesta todo lo del tablero por chat
   (`/hoy`, `/senal`, `/precio`, `/baratos`, `/tanque`, `/noticias`, `/futuro`, `/aciertos`, `/mercado`,
   `/tope`, `/historial`, `/midepto`). Guía completa en [docs/telegram.md](docs/telegram.md).
 
@@ -77,6 +78,12 @@ cambio estimado del martes (Q/gal) = cambio_7d_abs_RBOB (US$/gal) x tipo de camb
 
 El 0.85 es el traslado típico del precio internacional al surtidor en Guatemala. Los umbrales están en
 `agente/senal.py`; los tests en `tests/test_senal.py` fijan el comportamiento.
+
+**De dónde sale cada precio y qué tan confiable es**: cada observación guarda su fuente, su fecha y
+el enlace a la nota. Se descarta lo imposible (la súper nunca cuesta igual o menos que la normal, y
+siempre hay entre Q1 y Q3.50 de diferencia). Si **dos medios distintos** dan el mismo precio, queda
+marcado como confirmado; si solo lo dice uno, el tablero lo advierte con todas sus letras. El informe
+oficial del MEM siempre gana cuando es el dato más reciente.
 
 **Qué precio manda**: gana el dato más reciente entre el informe oficial del MEM y el promedio que
 publican los medios ese día (`agente/reporte.py` → `precios_vigentes`). En empate manda el oficial, y el
@@ -163,12 +170,12 @@ tablero lo avisa. Los parsers están probados con PDFs y una tabla HTML reales e
 ```
 agente/       agente.py (orquestador), comun.py, mem.py, mem_navegador.py, hoy.py, estaciones.py,
               mapa.py, grafica.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
-bot/          plantillas.py (edita los textos aquí), telegram.py
+bot/          plantillas.py (edita los textos aquí), telegram.py, redes.py
 web/          index.html, app.js, estilos.css  (JS vanilla + Chart.js desde CDN)
 data/         JSON que produce el agente (precios, departamentos, mercado, noticias, señal, aciertos, proyección, reportes/)
 config/       plan.json (Plus)
 reportes/     mensual.py y los Excel generados
-docs/         whatsapp.md (evaluación de opciones)
+docs/         redes.md (conectar Facebook, Instagram y X), telegram.md, whatsapp.md
 tests/        pytest con fixtures reales
 scripts/      publicar.ps1 (crear repo, secrets, Pages y primera corrida)
 .github/workflows/agente.yml

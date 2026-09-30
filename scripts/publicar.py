@@ -29,7 +29,9 @@ sys.path.insert(0, str(RAIZ))
 from agente.comun import ARCHIVO_LLAVES, cargar_llaves  # noqa: E402
 
 RUTAS_GH = [r"C:\Program Files\GitHub CLI\gh.exe", r"C:\Program Files (x86)\GitHub CLI\gh.exe"]
-SECRETS = ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHANNEL_ID", "ANTHROPIC_API_KEY")
+SECRETS = ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHANNEL_ID", "ANTHROPIC_API_KEY",
+           "FACEBOOK_PAGE_ID", "FACEBOOK_TOKEN", "INSTAGRAM_USER_ID",
+           "X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
 
 
 def titulo(texto: str) -> None:

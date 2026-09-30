@@ -146,3 +146,40 @@ def test_la_imagen_del_mensaje_trae_la_tabla_completa():
     assert [f[0] for f in filas] == ["Súper", "Normal", "Diésel", "Kerosene"]
     assert filas[0][1] == 43.06 and filas[0][2] == 44.66 and filas[0][3] == 1.6   # antes, hoy, cambio
     assert filas[3][3] == 0.0
+
+
+def test_redes_solo_publica_las_que_estan_conectadas(monkeypatch):
+    from bot import redes
+    for n in ("FACEBOOK_PAGE_ID", "FACEBOOK_TOKEN", "INSTAGRAM_USER_ID",
+              "X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET"):
+        monkeypatch.delenv(n, raising=False)
+    assert redes.configuradas() == []
+    monkeypatch.setenv("FACEBOOK_PAGE_ID", "123")
+    monkeypatch.setenv("FACEBOOK_TOKEN", "abc")
+    assert redes.configuradas() == ["facebook"]
+    monkeypatch.setenv("INSTAGRAM_USER_ID", "456")
+    assert redes.configuradas() == ["facebook", "instagram"]
+
+
+def test_la_imagen_sale_del_tablero_publicado(monkeypatch):
+    from bot import redes
+    monkeypatch.setenv("TABLERO_URL", "https://alguien.github.io/gasolina-gt/web/")
+    assert redes.url_de_la_imagen() == "https://alguien.github.io/gasolina-gt/data/grafica_precios.png"
+    monkeypatch.setenv("TABLERO_URL", "")
+    assert redes.url_de_la_imagen() is None      # sin tablero público, Instagram no puede publicar
+
+
+def test_no_repite_la_publicacion_del_mismo_dia(monkeypatch, tmp_path):
+    from bot import redes
+    monkeypatch.setattr(redes, "RUTA_ESTADO", tmp_path / "estado.json")
+    monkeypatch.setenv("FACEBOOK_PAGE_ID", "123")
+    monkeypatch.setenv("FACEBOOK_TOKEN", "abc")
+    monkeypatch.delenv("INSTAGRAM_USER_ID", raising=False)
+    for n in ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET"):
+        monkeypatch.delenv(n, raising=False)
+    monkeypatch.setattr(redes, "leer_json", lambda ruta, defecto=None:
+                        {"mensaje": "hola", "fecha": "2026-09-30"} if "ultimo" in str(ruta) else (defecto or {}))
+    llamadas = []
+    monkeypatch.setitem(redes.PUBLICADORES, "facebook", lambda m, i: llamadas.append(m) or True)
+    assert redes.publicar()["facebook"] == "publicado"
+    assert len(llamadas) == 1

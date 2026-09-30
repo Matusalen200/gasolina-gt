@@ -83,6 +83,11 @@ def etapa_telegram():
     return telegram.corrida()
 
 
+def etapa_redes():
+    from bot import redes
+    return redes.publicar()
+
+
 def etapa_mensual():
     from reportes import mensual
     return mensual.generar()
@@ -100,6 +105,7 @@ ETAPAS = {
     "grafica": etapa_grafica,
     "proyeccion": etapa_proyeccion,
     "telegram": etapa_telegram,
+    "redes": etapa_redes,
     "mensual": etapa_mensual,
 }
 
@@ -129,7 +135,7 @@ def main(argv=None) -> int:
     for nombre in ("mem", "hoy", "estaciones", "mapa", "mercado", "noticias", "senal"):
         _etapa(nombre, ETAPAS[nombre])
     if args.diario:
-        for nombre in ("proyeccion", "reporte", "grafica", "telegram"):
+        for nombre in ("proyeccion", "reporte", "grafica", "telegram", "redes"):
             _etapa(nombre, ETAPAS[nombre])
         if ahora_gt().day == 1:
             _etapa("mensual", ETAPAS["mensual"])

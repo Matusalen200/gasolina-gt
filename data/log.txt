@@ -1,4 +1,3 @@
-2026-09-15 16:37 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-10 promedio S=42.05 R=40.05 D=46.35 · Estas son las gasolineras con los precios más bajos, según e
 2026-09-15 16:37 [INFO] Precio hoy: Prensa Libre 2026-09-04 otro S=42.09 R=40.09 D=46.39 · Los precios de la gasolina en Guatemala vuelven a subir: así
 2026-09-15 16:37 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
 2026-09-15 16:37 [INFO] Precio hoy: 5 observaciones nuevas de 25 artículos · regular 42.59 (2026-09-15)
@@ -1998,3 +1997,4 @@ Noticias: 15 apuntan a que sube y 6 a que baja
 2026-09-30 15:17 [INFO] --- telegram ---
 2026-09-30 15:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-30 15:17 [INFO] Fin corrida
+2026-09-30 17:16 [INFO] Redes: facebook=publicado
