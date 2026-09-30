@@ -1,26 +1,3 @@
-2026-09-11 15:52 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-10 tope S=44.69 R=42.69 D=48.49 · Registran cambios: así amanecieron los precios de los combus
-2026-09-11 15:52 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-09 tope S=41.0 R=39.0 D=39.0 · Gasolinas y diésel: estos serán los nuevos precios tope para
-2026-09-11 15:53 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-09 tope S=43.59 R=41.59 D=47.39 · Reportan aumento: así están los precios de los combustibles 
-2026-09-11 15:53 [INFO] Precio hoy: 5 observaciones nuevas de 25 artículos · regular 40.93 (2026-09-11)
-2026-09-11 15:53 [INFO] Inicio corrida 2026-09-11 15:53 GT
-2026-09-11 15:53 [INFO] --- hoy ---
-2026-09-11 15:54 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-11 promedio S=43.06 R=40.93 D=47.39 · Así están los precios de los combustibles este viernes
-2026-09-11 15:54 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-10 promedio S=42.05 R=40.05 D=46.35 · Estas son las gasolineras con los precios más bajos, según e
-2026-09-11 15:54 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-10 promedio S=44.69 R=42.69 D=48.49 · Registran cambios: así amanecieron los precios de los combus
-2026-09-11 15:54 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-09 tope S=41.0 R=39.0 D=39.0 · Gasolinas y diésel: estos serán los nuevos precios tope para
-2026-09-11 15:54 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-09 promedio S=43.59 R=41.59 D=47.39 · Reportan aumento: así están los precios de los combustibles 
-2026-09-11 15:54 [INFO] Precio hoy: 5 observaciones nuevas de 25 artículos · regular 40.93 (2026-09-11)
-2026-09-11 15:54 [INFO] Inicio corrida 2026-09-11 15:54 GT
-2026-09-11 15:54 [INFO] --- senal ---
-2026-09-11 15:54 [INFO] Señal: 🟡 Llena esta semana (puntaje -7) · La gasolina en EE.UU. bajó 3% esta semana y las noticias empujan hacia arriba.
-2026-09-11 15:54 [INFO] Inicio corrida 2026-09-11 15:54 GT
-2026-09-11 15:54 [INFO] --- reporte ---
-2026-09-11 15:54 [INFO] Reporte diario generado:
-🟡 Llena esta semana. Cambio pequeño el martes, de unos centavos.
-Súper Q43.06 · Regular Q40.93 · Diésel Q47.39
-La gasolina en EE.UU. bajó 3% esta semana y las noticias empujan hacia arriba.
-Más barato: Guatemala (regular Q26.59)
-Noticias: White House Weighs Defense Production Act as U.S. Refineries · PNC y Ejército implementarán operación conjunta para liberar · U.S. Oil Rig Count Rises as Oil Tops $100
 2026-09-11 16:05 [INFO] Inicio corrida 2026-09-11 16:05 GT
 2026-09-11 16:05 [INFO] --- hoy ---
 2026-09-11 16:06 [INFO] Precio hoy: Prensa Libre 2026-09-04 otro S=42.09 R=40.09 D=46.39 · Los precios de la gasolina en Guatemala vuelven a subir: así
@@ -1998,3 +1975,26 @@ Noticias: 15 apuntan a que sube y 6 a que baja
 2026-09-30 11:17 [INFO] --- telegram ---
 2026-09-30 11:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-30 11:17 [INFO] Fin corrida
+2026-09-30 12:17 [INFO] Inicio corrida 2026-09-30 12:17 GT
+2026-09-30 12:17 [INFO] --- mem ---
+2026-09-30 12:17 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-09-30 12:17 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-09-30 12:17 [INFO] --- hoy ---
+2026-09-30 12:18 [INFO] Precio hoy: La Hora 2026-09-30 promedio S=45.29 R=43.26 D=49.37 · ¿Cuánto bajarán los combustibles con la exención de IVA e ID
+2026-09-30 12:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-09-30 12:18 [INFO] Precio hoy: 1 observaciones nuevas de 4 artículos · regular 43.26 (2026-09-30)
+2026-09-30 12:18 [INFO] --- estaciones ---
+2026-09-30 12:18 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-09-30 12:18 [INFO] --- mapa ---
+2026-09-30 12:18 [INFO] Mapa: reuso las 1116 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-09-30 12:18 [INFO] Mapa: 1130 gasolineras en 22 departamentos, 14 con precio real del MEM
+2026-09-30 12:18 [INFO] --- mercado ---
+2026-09-30 12:18 [INFO] Mercado: RBOB 3.2801 (-1.9% 7d), WTI 90.7, USD/GTQ 7.6385 · 3/3 símbolos
+2026-09-30 12:18 [INFO] --- noticias ---
+2026-09-30 12:18 [INFO] RSS: 245 notas relevantes en 8 fuentes
+2026-09-30 12:18 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 15, 'BAJA': 8, 'NEUTRAL': 27}
+2026-09-30 12:18 [INFO] --- senal ---
+2026-09-30 12:18 [INFO] Señal: 🟡 Sin apuro (puntaje +2) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-09-30 12:18 [INFO] --- telegram ---
+2026-09-30 12:18 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-09-30 12:18 [INFO] Fin corrida

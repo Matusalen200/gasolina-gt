@@ -1,51 +1,51 @@
 {
-  "actualizado": "2026-09-30T11:16-06:00",
-  "revisados": 0,
-  "nuevos": 0,
+  "actualizado": "2026-09-30T12:18-06:00",
+  "revisados": 4,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 45.27,
-      "t": "2026-09-29T12:41+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
+      "valor": 45.29,
+      "t": "2026-09-30T17:57+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/09/30/cuanto-bajaran-los-combustibles-con-la-exencion-de-iva-e-idp-asi-quedarian-los-precios-desde-este-jueves/",
       "n": 1,
-      "fecha": "2026-09-29"
+      "fecha": "2026-09-30"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 43.27,
-      "t": "2026-09-29T12:41+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
+      "valor": 43.26,
+      "t": "2026-09-30T17:57+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/09/30/cuanto-bajaran-los-combustibles-con-la-exencion-de-iva-e-idp-asi-quedarian-los-precios-desde-este-jueves/",
       "n": 1,
-      "fecha": "2026-09-29"
+      "fecha": "2026-09-30"
     },
     "diesel": {
       "tipo": "promedio",
       "valor": 49.37,
-      "t": "2026-09-29T12:41+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
+      "t": "2026-09-30T17:57+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/09/30/cuanto-bajaran-los-combustibles-con-la-exencion-de-iva-e-idp-asi-quedarian-los-precios-desde-este-jueves/",
       "n": 1,
-      "fecha": "2026-09-29"
+      "fecha": "2026-09-30"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-09-28",
-      "q": -0.02,
-      "pct": -0.0
+      "vs_fecha": "2026-09-29",
+      "q": 0.02,
+      "pct": 0.0
     },
     "regular": {
-      "vs_fecha": "2026-09-28",
-      "q": -0.02,
+      "vs_fecha": "2026-09-29",
+      "q": -0.01,
       "pct": -0.0
     },
     "diesel": {
-      "vs_fecha": "2026-09-28",
-      "q": -0.02,
-      "pct": -0.0
+      "vs_fecha": "2026-09-29",
+      "q": 0.0,
+      "pct": 0.0
     }
   },
   "diario": [
@@ -117,6 +117,12 @@
       "superior": 45.27,
       "diesel": 49.37,
       "regular": 43.27
+    },
+    {
+      "fecha": "2026-09-30",
+      "superior": 45.29,
+      "regular": 43.26,
+      "diesel": 49.37
     }
   ],
   "tope": null,
@@ -324,12 +330,21 @@
       "url": "https://tvaztecaguate.com/nacionales/2026/09/29/cambios-asi-amanecieron-los-precios-de-los-combustibles-este-martes/",
       "titulo": "Cambios: así amanecieron los precios de los combustibles este martes",
       "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-09-30T17:57+00:00",
+      "fecha_dato": "2026-09-30",
+      "tipo": "promedio",
+      "superior": 45.29,
+      "regular": 43.26,
+      "diesel": 49.37,
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/09/30/cuanto-bajaran-los-combustibles-con-la-exencion-de-iva-e-idp-asi-quedarian-los-precios-desde-este-jueves/",
+      "titulo": "¿Cuánto bajarán los combustibles con la exención de IVA e IDP? Así quedarían los precios desde este jueves",
+      "extraido_por": "reglas"
     }
   ],
   "sin_precio": [
-    "https://tvaztecaguate.com/nacionales/2026/09/17/anuncian-manifestacion-por-alza-en-precios-de-los-combustibles-estos-son-los-detalles/",
-    "https://lahora.gt/nacionales/hloarca/2026/09/17/siguen-las-protestas-en-rechazo-al-alza-de-los-precios-del-combustible-anuncian-manifestacion/",
-    "https://lahora.gt/opinion/flaminio-bonilla/2026/09/17/arevalo-un-presidente-naguilon-un-tipo-sin-caracter-1a-parte/",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPckpxRmpKS2EzR2U2ZTlSaUdob01oR3ZtSVlPVDdEWUtNNk5kOUhBOS1hNzhEaUp5OVNzNkdTa2FPcjV4QkNOVFBvell3b2dkazg2OFhBT3RyTG9oMkdQYW5nQ3RVbzhqTXNES3lRbzJCRG1rWElGSEZQai13WGJxcWFVWm5zY3VxZzRUcDl0M2ZTR2VSSmg1OUhBaU9LXzhWdTlVRVN3Qzh4aVVXUVhVSWpFaHcyTWMwNjE4SVc4NFF4ZjBDcXFIOUlESVFPeER5MUJ6WkMxMl9kdkR5YVRySTFRSQ?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeEpCOGl0a09Dc0F5eHRySHZ6UGZHNTZEek1FYlQxVU9vV3U2NXB4Z3REUjIyUzc2MHBtZ3lDY2dnTE92QmNlSnZHU1dQS0VVVkE2MEFPdmhrNkFMVEhBam44UVcwM1ktWVNvVkw1eUpfQ29QdmFMZDVSM0RRZk0wTHdzWERDUEFNMzFTRFRtUHduTUtCWFhuTlVwWE1lNmJnelNUZ2ZlaUZ6YXcxek1xbHQ0NmhjWENzZWkyWFQyMjR1Yk9pc05aZlNkcmVOUDFiTnJZRFFB?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE04Z3N1alVvWjZVVG4yVHdlVlpzdW12bmR6YkowdFd5MkVFM0tISWw4ZHYxaXpGeVZ1anlSSVp6OEVrcWZUMG92UGlYOE43T0lMU3IzVnZLeURCbU56eWc3QjRqSFItamotN0Jtd3g0bnhIQVBOc1R1Y3hRNUg?oc=5",
@@ -626,6 +641,9 @@
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSE1VVVRZQ2stajEyaWtROTZZa3dDYXJCZ2JFNnBucmRtTzRIRFpTanZ4aHU1YjY0eS14Qjl2eG12c3dLd2IyRDNPeWtHV3hQb2xWelF1RkZNWFpXOGJXX0xaSlFfNDBBaTdrTndDTjJySEIwVnB1aWdydjMxT2dweWhwN3Npc1pLbWdFSTVEX1AwcVlnQkRNUHJEQzc0WXQwUVdPZjRPTFN0RDZ6eDhEWHRtaFpGYWg3LWdJTFd1ZVRiRGNhMkNkWm1SX1VRUXBrX0lpVXNNNkFGUGFJ0gH3AUFVX3lxTE96N0VYZnNZNXpaMkpKcDVLM01LUHdvS1luSzNpNDQ4aDhBUjlzaGJfaXJ2TWJFMlBaZmhGalVOMzROeGlheE9tRGZseXBEdmtQM0hfemF2aHhyRjBmY2Jwb29PS2U3ajJuYUNLMW1jOEdFRFFWQmlvOVpBY015dWpVbGYxWlVDdkwtWjk4VmRMUmpyLUlUR1hiZmF6UGVjOUpoS25JMXlrTHE4bmgwVUNILXQtRlp5N0g3TGYzaVY4MlNhbzAtRkk0T013ZEEyeUtScmNaVnUyVTl0ZE5oeS1Bd3BDXzQzSnpoWUxrT09YLXlyVXZ1QVk?oc=5",
     "https://lahora.gt/lh-economia/jveliz/2026/09/30/como-ha-sido-la-experiencia-con-la-gasolina-e10-esto-dicen-95-lectores-de-la-hora-now/",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbXB2OGxuX05Mb2hZTzV5dDcxR0xrTlNjdEgtR1hHM042Q0ZPNVZqc054U3FzbV9tMnV2T2oydkxNMVZ0YVViLW1pNE1PVm1RNWprOFdsY1FfZHA3YnRMUjlXNW5tWFpYeUJnYkQwWXl1QTZIZ1R1aHRleVQ5eXRINjFjaG45ZERIb1FPOW0xT1VubDdKdVJWZUNlbW1SQ1N6dHVIYXVyT3dRY3dLczZ6RVUxWUkxU3ZBdWxuTUZfeHJMb0FfY2xrOWU4Wjdqb2c?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPejdFWGZzWTV6WjJKSnA1SzNNS1B3b0tZbkszaTQ0OGg4QVI5c2hiX2lydk1iRTJQWmZoRmpVTjM0TnhpYXhPbURmbHlwRHZrUDNIX3phdmh4ckYwZmNicG9vT0tlN2oybmFDSzFtYzhHRURRVkJpbzlaQWNNeXVqVWxmMVpVQ3ZMLVo5OFZkTFJqci1JVEdYYmZhelBlYzlKaEtuSTF5a0xxOG5oMFVDSC10LUZaeTdIN0xmM2lWODJTYW8wLUZJNE9Nd2RBMnlLUnJjWlZ1MlU5dGROaHktQXdwQ180M0p6aFlMa09PWC15clV2dUFZ0gH3AUFVX3lxTE96N0VYZnNZNXpaMkpKcDVLM01LUHdvS1luSzNpNDQ4aDhBUjlzaGJfaXJ2TWJFMlBaZmhGalVOMzROeGlheE9tRGZseXBEdmtQM0hfemF2aHhyRjBmY2Jwb29PS2U3ajJuYUNLMW1jOEdFRFFWQmlvOVpBY015dWpVbGYxWlVDdkwtWjk4VmRMUmpyLUlUR1hiZmF6UGVjOUpoS25JMXlrTHE4bmgwVUNILXQtRlp5N0g3TGYzaVY4MlNhbzAtRkk0T013ZEEyeUtScmNaVnUyVTl0ZE5oeS1Bd3BDXzQzSnpoWUxrT09YLXlyVXZ1QVk?oc=5"
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPejdFWGZzWTV6WjJKSnA1SzNNS1B3b0tZbkszaTQ0OGg4QVI5c2hiX2lydk1iRTJQWmZoRmpVTjM0TnhpYXhPbURmbHlwRHZrUDNIX3phdmh4ckYwZmNicG9vT0tlN2oybmFDSzFtYzhHRURRVkJpbzlaQWNNeXVqVWxmMVpVQ3ZMLVo5OFZkTFJqci1JVEdYYmZhelBlYzlKaEtuSTF5a0xxOG5oMFVDSC10LUZaeTdIN0xmM2lWODJTYW8wLUZJNE9Nd2RBMnlLUnJjWlZ1MlU5dGROaHktQXdwQ180M0p6aFlMa09PWC15clV2dUFZ0gH3AUFVX3lxTE96N0VYZnNZNXpaMkpKcDVLM01LUHdvS1luSzNpNDQ4aDhBUjlzaGJfaXJ2TWJFMlBaZmhGalVOMzROeGlheE9tRGZseXBEdmtQM0hfemF2aHhyRjBmY2Jwb29PS2U3ajJuYUNLMW1jOEdFRFFWQmlvOVpBY015dWpVbGYxWlVDdkwtWjk4VmRMUmpyLUlUR1hiZmF6UGVjOUpoS25JMXlrTHE4bmgwVUNILXQtRlp5N0g3TGYzaVY4MlNhbzAtRkk0T013ZEEyeUtScmNaVnUyVTl0ZE5oeS1Bd3BDXzQzSnpoWUxrT09YLXlyVXZ1QVk?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNallTMERPQzlRZ2FSRkV2eUg1NUR3ekt3VXAzdElIS0JILWlTZmlpNGdBTTBRb3NEcy1BekUtSWQ4MDN6b3F2TWxLMko2cjZvN3JWcGFkb0QtSWRHcmdvQ3JmYkxqY0RKbHdrQjhsaENPZlZYLWtWR2V4MGFwM1hkeF9PVVdJYmoxeXo5ZTFORUZjYVBmS0RTSXg2LUd3X1NUMER4aFdNS29qQV9sTTdmSUhXRWZMRElfRG1WWA?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSm5VZ1R0VGNDb3dhODRTSGdyUEtodGYwSlFEdGxxUGh5YTY1dS1xcDhEbUo2ZENXR3ZDZE5hYjR1RXljWUY2T0NiVkVLR3hYc3ZOVU5YYzcxYmxuek10RVJQdjJZTk1ZUFVrY0FNeGFqeWtTVU5EcFZLQWRGR2lEOXI4T1BZY3hqQWdtUkZld0QyclJzRURPTXhHYk1JNXRLY1VoajByTTVpOVF0UXNobWhZZl9FX2VINzViXzU5NlhnY1l5OUVUakNlQVU2T21NMVZYN9IB7wFBVV95cUxPc1BZeDhiTTlNcVg3NnYxVEdDd3ZfVlFFdmhSV1FqU0lkNWFILVFEa2liUjJBQmJ0TVpzWjZYS0hfSnp4RDFFQW9hM0Qtd1N5SnB6V3dKaGJCaWxTUERkVUZDQU4wZGtWT3VhVzBENW9vcjJDc0tZWHFnTlYwdENSWEFFd2VaMVQ3MDAxNGJiWGVhSU51SUpadE5POHRmNTlqRWZSTEU1UmhNakd3X3NiMWk1ZEhmNzlocktvNlprcDROTnpweGtXWXQ4X2hsTjdtQTZNMm13eFpOcWFQbktJVVpIdURYakZXNVJCU2xaTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTZ0TTVxa1hBS2F1LTdlWEUwVFpXX0ctSEptOWtEcEo4WFFpX3VXTXdsZFExYzRjLWs3bEpkb3I2eVhYeUhkSlFNOHdRTVhkRkxLUjE3eUMwNVBzMkcyZlFzZXVKa0hoYl81cmswYV9aRU5RWXk3cUFtbEEwcy1jUGJCM2prbjFOLVkzbm5OaXN5VVlPWWpOdVhIT25OelNSeW9kMlo0MUpncFQyZ21SSnh3RFR0LTFtZXfSAb8BQVVfeXFMUHpxMERmZFpDUnlyNzFzSE1BVkxXaTZOdUNma2FkWWpjZk5KSVRHbXpzcjhQeU5QRmQtTHpKOFNadWZJbm1tdVNaLWdZWEFFblNSZk9tWG1fQk1pMS01d2xuNW9GNG1JTkxDRV9qaTQybENNWlA3SG41ZlVfemdjcnpjc1dzakxzYTdQLU80R3ZlWThyamdHWTd0dHotMmo4TzUtUmNHNU0ycExQR2RTQUFEZUQ3SU1JSDJjaE8wLUU?oc=5"
   ]
 }
