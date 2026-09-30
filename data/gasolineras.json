@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "actualizado": "2026-09-30T15:16-06:00",
   "total": 1130,
@@ -8038,4 +8039,8046 @@
       "aprox": true
     }
   ]
+=======
+{
+  "actualizado": "2026-09-30T17:13-06:00",
+  "total": 1130,
+  "con_precio_real": 14,
+  "fecha_verificado": "2026-09-07",
+  "por_departamento": {
+    "Guatemala": 320,
+    "Huehuetenango": 78,
+    "Petén": 73,
+    "Escuintla": 57,
+    "Chimaltenango": 54,
+    "Alta Verapaz": 53,
+    "Sacatepéquez": 52,
+    "Santa Rosa": 41,
+    "Quetzaltenango": 40,
+    "Suchitepéquez": 40,
+    "Izabal": 39,
+    "Retalhuleu": 39,
+    "El Progreso": 38,
+    "Zacapa": 35,
+    "San Marcos": 34,
+    "Sololá": 34,
+    "Chiquimula": 21,
+    "Jutiapa": 21,
+    "Quiché": 21,
+    "Baja Verapaz": 14,
+    "Totonicapán": 14,
+    "Jalapa": 12
+  },
+  "fuente": "OpenStreetMap (ubicaciones) y MEM (precios monitoreados)",
+  "gasolineras": [
+    {
+      "n": "Aro",
+      "m": null,
+      "lat": 15.38169,
+      "lon": -90.41485,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "DON ARTURO",
+      "m": null,
+      "lat": 15.50702,
+      "lon": -90.35356,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.44153,
+      "lon": -90.40377,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.31787,
+      "lon": -90.33064,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.44177,
+      "lon": -90.40354,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.79672,
+      "lon": -90.3121,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Don Ronaldo",
+      "m": null,
+      "lat": 16.14663,
+      "lon": -90.18042,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "El Gran Chefe",
+      "m": null,
+      "lat": 15.89015,
+      "lon": -90.25841,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Esca",
+      "m": "Esca",
+      "lat": 15.80314,
+      "lon": -89.86057,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Esca",
+      "m": "Esca",
+      "lat": 15.80665,
+      "lon": -89.87717,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Estación Canlech",
+      "m": null,
+      "lat": 15.99201,
+      "lon": -90.14791,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Exon",
+      "m": null,
+      "lat": 15.57668,
+      "lon": -89.98575,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Garcon Baleu",
+      "m": null,
+      "lat": 15.37248,
+      "lon": -90.57304,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.87302,
+      "lon": -90.09839,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.58225,
+      "lon": -89.97254,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.62942,
+      "lon": -90.04542,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.32341,
+      "lon": -90.36426,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera 4 Caminos",
+      "m": null,
+      "lat": 15.47115,
+      "lon": -90.30629,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera Cantabal",
+      "m": null,
+      "lat": 15.98496,
+      "lon": -90.78375,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera El Amigo",
+      "m": null,
+      "lat": 15.99234,
+      "lon": -90.78241,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera Estrella",
+      "m": null,
+      "lat": 15.47049,
+      "lon": -90.37795,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera Estrella del Norte",
+      "m": null,
+      "lat": 15.45296,
+      "lon": -90.39275,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera Geminis",
+      "m": null,
+      "lat": 15.86609,
+      "lon": -90.04035,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera Shell Carcha",
+      "m": null,
+      "lat": 15.47957,
+      "lon": -90.3239,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Gasolinera Sol Naciente",
+      "m": null,
+      "lat": 15.98648,
+      "lon": -90.78537,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "La Hulera",
+      "m": "La Hulera",
+      "lat": 15.80098,
+      "lon": -89.83349,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 15.40643,
+      "lon": -90.40609,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.47117,
+      "lon": -90.38867,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.35683,
+      "lon": -90.42323,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.57386,
+      "lon": -90.36477,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.6061,
+      "lon": -90.41589,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.46658,
+      "lon": -90.36873,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "San Cristóbal",
+      "m": null,
+      "lat": 15.36993,
+      "lon": -90.46607,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "San Rafael",
+      "m": null,
+      "lat": 15.34643,
+      "lon": -90.80936,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.47993,
+      "lon": -90.3236,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.49012,
+      "lon": -90.30035,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.46063,
+      "lon": -90.38297,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.3696,
+      "lon": -90.46718,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.66805,
+      "lon": -90.42913,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.38226,
+      "lon": -90.41462,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.31858,
+      "lon": -90.34328,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Shell&Food Mart",
+      "m": null,
+      "lat": 15.48427,
+      "lon": -90.37813,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.31658,
+      "lon": -90.32571,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.8194,
+      "lon": -90.28982,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.36965,
+      "lon": -90.47079,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.33148,
+      "lon": -90.41173,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.37241,
+      "lon": -90.42334,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.45036,
+      "lon": -90.39303,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.76522,
+      "lon": -90.41601,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.47105,
+      "lon": -90.38495,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.04076,
+      "lon": -90.18086,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "UNO",
+      "m": "Uno",
+      "lat": 15.47017,
+      "lon": -90.37811,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "gasolinera el cruce",
+      "m": null,
+      "lat": 15.37955,
+      "lon": -90.42367,
+      "d": "Alta Verapaz"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.25842,
+      "lon": -90.28344,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 15.12637,
+      "lon": -90.18119,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 15.1644,
+      "lon": -90.19299,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Ebenezer",
+      "m": null,
+      "lat": 14.97352,
+      "lon": -90.24804,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.03615,
+      "lon": -90.21586,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.23688,
+      "lon": -90.24997,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.06572,
+      "lon": -90.18187,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "La Moliendo",
+      "m": null,
+      "lat": 15.27995,
+      "lon": -90.29177,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.06493,
+      "lon": -90.18168,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.14252,
+      "lon": -90.17901,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.23371,
+      "lon": -90.23621,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.06375,
+      "lon": -90.18087,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.23257,
+      "lon": -90.23109,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 15.24151,
+      "lon": -90.26095,
+      "d": "Baja Verapaz"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.64695,
+      "lon": -90.79543,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.63618,
+      "lon": -90.82184,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.65439,
+      "lon": -90.73722,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.64107,
+      "lon": -90.92847,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.636,
+      "lon": -90.89994,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.64518,
+      "lon": -90.87569,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.63809,
+      "lon": -90.76243,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.67151,
+      "lon": -90.80691,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Arturo Fuel",
+      "m": null,
+      "lat": 14.72544,
+      "lon": -90.96248,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Estación Bethesda",
+      "m": null,
+      "lat": 14.6488,
+      "lon": -90.79842,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Estación Texaco Parramos",
+      "m": null,
+      "lat": 14.61029,
+      "lon": -90.79632,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.62214,
+      "lon": -90.83765,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.78784,
+      "lon": -90.89842,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.67602,
+      "lon": -90.80217,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.65912,
+      "lon": -90.80942,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.64315,
+      "lon": -90.78386,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera Comalapa",
+      "m": null,
+      "lat": 14.7307,
+      "lon": -90.88716,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera La Cabaña",
+      "m": "Gasolinera La Cabaña",
+      "lat": 14.50279,
+      "lon": -90.95163,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.64413,
+      "lon": -90.88819,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.65873,
+      "lon": -90.82622,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera TEXACO",
+      "m": null,
+      "lat": 14.74757,
+      "lon": -90.97749,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera UNO",
+      "m": null,
+      "lat": 14.75497,
+      "lon": -90.97615,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera el Águila",
+      "m": "EL AGUILA",
+      "lat": 14.81891,
+      "lon": -90.9113,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Gasolinera la Bendicion",
+      "m": "Puma",
+      "lat": 14.7714,
+      "lon": -90.79638,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 14.65443,
+      "lon": -90.73581,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 14.66589,
+      "lon": -90.84332,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.65102,
+      "lon": -90.80091,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Pegaso",
+      "m": null,
+      "lat": 14.64294,
+      "lon": -90.74258,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Power Oil",
+      "m": null,
+      "lat": 14.65692,
+      "lon": -90.72016,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.72514,
+      "lon": -90.88835,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.65799,
+      "lon": -90.80757,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.69563,
+      "lon": -90.95055,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.64086,
+      "lon": -90.92901,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.64029,
+      "lon": -90.88328,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.66112,
+      "lon": -90.83358,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.64111,
+      "lon": -90.77404,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.75852,
+      "lon": -90.97836,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.63399,
+      "lon": -90.8186,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Puma Autoservicio",
+      "m": null,
+      "lat": 14.6392,
+      "lon": -90.76565,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "San Bernardino",
+      "m": null,
+      "lat": 14.68073,
+      "lon": -91.01234,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.65054,
+      "lon": -90.73237,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.62942,
+      "lon": -90.91739,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64098,
+      "lon": -90.77518,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.65347,
+      "lon": -90.80307,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.62234,
+      "lon": -90.83682,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.64007,
+      "lon": -90.77194,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.6666,
+      "lon": -90.84468,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.65644,
+      "lon": -90.81041,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.68396,
+      "lon": -90.95113,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.67706,
+      "lon": -90.95101,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.77296,
+      "lon": -90.7955,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Texaco Itzapa",
+      "m": null,
+      "lat": 14.62239,
+      "lon": -90.83651,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.64768,
+      "lon": -90.87167,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Villa Linda",
+      "m": null,
+      "lat": 14.67001,
+      "lon": -91.00357,
+      "d": "Chimaltenango"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 14.61442,
+      "lon": -89.62677,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Estacion Puma",
+      "m": "Puma",
+      "lat": 14.56161,
+      "lon": -89.3583,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Estación La Bendición",
+      "m": null,
+      "lat": 14.6259,
+      "lon": -89.70526,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "GASOLINERA SAN SEBASTIAN",
+      "m": null,
+      "lat": 14.81531,
+      "lon": -89.38811,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.64209,
+      "lon": -89.72153,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera 4 Caminos",
+      "m": "Shell",
+      "lat": 14.62397,
+      "lon": -89.6284,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera Guayacán",
+      "m": null,
+      "lat": 14.80079,
+      "lon": -89.54428,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera Los Planes",
+      "m": null,
+      "lat": 14.7567,
+      "lon": -89.44054,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.61981,
+      "lon": -89.44697,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.79067,
+      "lon": -89.53583,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.77272,
+      "lon": -89.52687,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera SHELL",
+      "m": "Shell",
+      "lat": 14.79995,
+      "lon": -89.53681,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera San Juan",
+      "m": "Shell",
+      "lat": 14.61932,
+      "lon": -89.6199,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.80175,
+      "lon": -89.54438,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "SHELL LOS OLIVOS",
+      "m": null,
+      "lat": 14.75857,
+      "lon": -89.51941,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.81017,
+      "lon": -89.53043,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.55947,
+      "lon": -89.33944,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.63441,
+      "lon": -89.44458,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.67023,
+      "lon": -89.50175,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "TEXACO",
+      "m": null,
+      "lat": 14.78633,
+      "lon": -89.53692,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.55979,
+      "lon": -89.35245,
+      "d": "Chiquimula"
+    },
+    {
+      "n": "Axxion",
+      "m": null,
+      "lat": 14.80844,
+      "lon": -90.19962,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.92207,
+      "lon": -89.89888,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.78867,
+      "lon": -90.20787,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.92395,
+      "lon": -90.0375,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Don Arturo",
+      "m": "Sol",
+      "lat": 14.8544,
+      "lon": -90.09859,
+      "d": "El Progreso"
+    },
+    {
+      "n": "El Manatial Estación de Servicio",
+      "m": null,
+      "lat": 14.78295,
+      "lon": -90.3004,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.92645,
+      "lon": -90.01289,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.78676,
+      "lon": -90.22608,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.81266,
+      "lon": -90.15766,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.85164,
+      "lon": -90.10276,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.90955,
+      "lon": -90.02024,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.92656,
+      "lon": -90.01307,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.91954,
+      "lon": -89.96263,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.91901,
+      "lon": -89.95608,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.92672,
+      "lon": -90.01125,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.89712,
+      "lon": -90.02763,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.83035,
+      "lon": -90.1386,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.89703,
+      "lon": -90.02693,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.80696,
+      "lon": -90.18419,
+      "d": "El Progreso"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 14.80095,
+      "lon": -90.21322,
+      "d": "El Progreso"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 14.86358,
+      "lon": -90.07878,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.92128,
+      "lon": -90.01704,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.79648,
+      "lon": -90.21425,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.91544,
+      "lon": -90.09887,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.80778,
+      "lon": -90.19658,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.92796,
+      "lon": -90.0046,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.92607,
+      "lon": -89.88763,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.78328,
+      "lon": -90.20531,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.80722,
+      "lon": -90.18232,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.95343,
+      "lon": -90.21967,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.92583,
+      "lon": -90.05877,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.92373,
+      "lon": -90.03667,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.78356,
+      "lon": -90.29822,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.7843,
+      "lon": -90.29797,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.88769,
+      "lon": -90.03948,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.78939,
+      "lon": -90.20905,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.8023,
+      "lon": -90.21248,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.9102,
+      "lon": -90.02022,
+      "d": "El Progreso"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 13.93044,
+      "lon": -90.71186,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.2783,
+      "lon": -90.92001,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Concaral, L00019, santa Lucia Cotz",
+      "m": null,
+      "lat": 14.32854,
+      "lon": -91.021,
+      "d": "Escuintla"
+    },
+    {
+      "n": "DON ARTURO",
+      "m": null,
+      "lat": 14.28943,
+      "lon": -90.93987,
+      "d": "Escuintla"
+    },
+    {
+      "n": "DON ARTURO ESTACIÓN",
+      "m": null,
+      "lat": 14.231,
+      "lon": -90.73685,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.23465,
+      "lon": -90.74007,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.33432,
+      "lon": -91.01931,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.30753,
+      "lon": -90.78713,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.14736,
+      "lon": -90.78253,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.26566,
+      "lon": -90.83749,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.32984,
+      "lon": -91.01829,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.36236,
+      "lon": -90.78578,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 13.93161,
+      "lon": -91.14862,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.36256,
+      "lon": -90.78579,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.19322,
+      "lon": -91.12481,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera Depetsa",
+      "m": null,
+      "lat": 14.30379,
+      "lon": -90.95947,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera Don Arturo",
+      "m": "Don Arturo",
+      "lat": 14.40577,
+      "lon": -90.69053,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera El Carrizo",
+      "m": null,
+      "lat": 13.93469,
+      "lon": -90.752,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera Pacific Oil",
+      "m": "Palín",
+      "lat": 14.40519,
+      "lon": -90.69171,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": "Puma",
+      "lat": 14.29542,
+      "lon": -90.79648,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera Santa Barbara",
+      "m": null,
+      "lat": 13.93312,
+      "lon": -90.77028,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Gasolinera Xotil Palmeras",
+      "m": null,
+      "lat": 14.29714,
+      "lon": -90.95555,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Jav Gas",
+      "m": null,
+      "lat": 14.30165,
+      "lon": -90.78079,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Juan Gaviota",
+      "m": null,
+      "lat": 13.91878,
+      "lon": -90.95587,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 13.92864,
+      "lon": -90.81823,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Petrol Sation",
+      "m": "Petrol Sation",
+      "lat": 14.332,
+      "lon": -91.01485,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Petrol Station",
+      "m": "Petrol Station",
+      "lat": 14.32768,
+      "lon": -91.02264,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.3926,
+      "lon": -90.82824,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.31018,
+      "lon": -90.79276,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.23981,
+      "lon": -90.74225,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 13.93164,
+      "lon": -90.71479,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.32769,
+      "lon": -91.02338,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.30758,
+      "lon": -90.78341,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.28119,
+      "lon": -90.76882,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.36119,
+      "lon": -90.78614,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.29278,
+      "lon": -90.79869,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.28721,
+      "lon": -90.93886,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Scott",
+      "m": null,
+      "lat": 14.2955,
+      "lon": -90.78516,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.29106,
+      "lon": -90.79765,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.31257,
+      "lon": -90.778,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.26789,
+      "lon": -90.83064,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 13.92893,
+      "lon": -90.8204,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 13.93927,
+      "lon": -90.72171,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.2856,
+      "lon": -90.79209,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.29189,
+      "lon": -90.78356,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.30728,
+      "lon": -90.78419,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.28784,
+      "lon": -90.77404,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.28792,
+      "lon": -90.77417,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Shell Las Brisas",
+      "m": null,
+      "lat": 13.94493,
+      "lon": -90.78805,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.28527,
+      "lon": -90.79292,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 13.93165,
+      "lon": -91.14864,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.32799,
+      "lon": -91.02839,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.29339,
+      "lon": -90.78362,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.26953,
+      "lon": -90.79218,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.27825,
+      "lon": -90.78047,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.28087,
+      "lon": -90.78238,
+      "d": "Escuintla"
+    },
+    {
+      "n": "Uno Marina Pez Vela",
+      "m": "Uno",
+      "lat": 13.93141,
+      "lon": -90.79752,
+      "d": "Escuintla"
+    },
+    {
+      "n": "777",
+      "m": "Shell",
+      "lat": 14.74889,
+      "lon": -90.32163,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.50374,
+      "lon": -90.56548,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.64107,
+      "lon": -90.59681,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.54807,
+      "lon": -90.57905,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.58575,
+      "lon": -90.5805,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Blue Star",
+      "m": null,
+      "lat": 14.66511,
+      "lon": -90.3634,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Coinpesa",
+      "m": null,
+      "lat": 14.63692,
+      "lon": -90.58468,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Cuatro Caminos",
+      "m": null,
+      "lat": 14.76253,
+      "lon": -90.62882,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Delta Energy",
+      "m": null,
+      "lat": 14.60238,
+      "lon": -90.54081,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.72592,
+      "lon": -90.36365,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.6645,
+      "lon": -90.58601,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.5505,
+      "lon": -90.40763,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.61278,
+      "lon": -90.59886,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.57879,
+      "lon": -90.56839,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.58755,
+      "lon": -90.58447,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.50309,
+      "lon": -90.48013,
+      "d": "Guatemala"
+    },
+    {
+      "n": "El Paraíso",
+      "m": null,
+      "lat": 14.6141,
+      "lon": -90.37931,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Estacion de Servicio YAYA",
+      "m": null,
+      "lat": 14.511,
+      "lon": -90.57237,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Estacion de Servicio YAYA",
+      "m": null,
+      "lat": 14.51115,
+      "lon": -90.57249,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Farigas",
+      "m": null,
+      "lat": 14.45682,
+      "lon": -90.44064,
+      "d": "Guatemala"
+    },
+    {
+      "n": "GASOLINERA",
+      "m": "Gasolinera Palencia",
+      "lat": 14.67737,
+      "lon": -90.36084,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gas Auto",
+      "m": null,
+      "lat": 14.62962,
+      "lon": -90.55649,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gas Vehicular",
+      "m": null,
+      "lat": 14.66628,
+      "lon": -90.56005,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.59203,
+      "lon": -90.57939,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.46862,
+      "lon": -90.53192,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.65513,
+      "lon": -90.59761,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.61828,
+      "lon": -90.60647,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.68766,
+      "lon": -90.4007,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.65431,
+      "lon": -90.4614,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.64765,
+      "lon": -90.44681,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.66798,
+      "lon": -90.4182,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.4397,
+      "lon": -90.50025,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.74419,
+      "lon": -90.32104,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.65511,
+      "lon": -90.59768,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.50324,
+      "lon": -90.56474,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.50542,
+      "lon": -90.56717,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.47976,
+      "lon": -90.53347,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.48662,
+      "lon": -90.5339,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.63811,
+      "lon": -90.52245,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.64523,
+      "lon": -90.52121,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.60521,
+      "lon": -90.54419,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.63081,
+      "lon": -90.52524,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.62403,
+      "lon": -90.54117,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.62419,
+      "lon": -90.54095,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.50331,
+      "lon": -90.54386,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.50303,
+      "lon": -90.47999,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.66514,
+      "lon": -90.36333,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.67003,
+      "lon": -90.35488,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.66898,
+      "lon": -90.35459,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.67733,
+      "lon": -90.36068,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.67739,
+      "lon": -90.36074,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera 23 de Enero",
+      "m": null,
+      "lat": 14.76489,
+      "lon": -90.59312,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Chicamán",
+      "m": "PDV",
+      "lat": 14.55582,
+      "lon": -90.5472,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Don Arturo",
+      "m": null,
+      "lat": 14.62426,
+      "lon": -90.60496,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera La Selva",
+      "m": null,
+      "lat": 14.5731,
+      "lon": -90.60862,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.52635,
+      "lon": -90.55279,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.6499,
+      "lon": -90.43288,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.66319,
+      "lon": -90.57232,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.57617,
+      "lon": -90.54683,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": "Puma",
+      "lat": 14.6375,
+      "lon": -90.56351,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.52427,
+      "lon": -90.55196,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Quetzal",
+      "m": "Gasolinera Quetzal",
+      "lat": 14.47635,
+      "lon": -90.53833,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Quetzal Lo de Reyes",
+      "m": "Gasolinera Quetzal",
+      "lat": 14.73021,
+      "lon": -90.44466,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.52241,
+      "lon": -90.56325,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.64885,
+      "lon": -90.47844,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Shell Cortijo",
+      "m": null,
+      "lat": 14.59457,
+      "lon": -90.54483,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Sol",
+      "m": null,
+      "lat": 14.63651,
+      "lon": -90.57552,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 14.69868,
+      "lon": -90.39564,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Gasolinera UNO",
+      "m": null,
+      "lat": 14.54663,
+      "lon": -90.52661,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Grifus",
+      "m": "Grifus",
+      "lat": 14.40308,
+      "lon": -90.5445,
+      "d": "Guatemala"
+    },
+    {
+      "n": "IPI Roosevelt",
+      "m": null,
+      "lat": 14.63417,
+      "lon": -90.57446,
+      "d": "Guatemala"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 14.72648,
+      "lon": -90.36416,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Nuestra señora de Guadalupe",
+      "m": null,
+      "lat": 14.7558,
+      "lon": -90.63334,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.59614,
+      "lon": -90.57823,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.55951,
+      "lon": -90.47384,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.50503,
+      "lon": -90.5666,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.63192,
+      "lon": -90.51089,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.62334,
+      "lon": -90.55303,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.65118,
+      "lon": -90.58564,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.5744,
+      "lon": -90.54261,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.60764,
+      "lon": -90.58755,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": "Pacific Oil",
+      "lat": 14.57969,
+      "lon": -90.56802,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Pacific Oil San Cristobal",
+      "m": "Pacific Oil",
+      "lat": 14.59623,
+      "lon": -90.57823,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.52003,
+      "lon": -90.53476,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.52436,
+      "lon": -90.55188,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64504,
+      "lon": -90.46531,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.54445,
+      "lon": -90.52755,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.59434,
+      "lon": -90.55729,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.59432,
+      "lon": -90.55813,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.70878,
+      "lon": -90.37805,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.62062,
+      "lon": -90.47404,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.65822,
+      "lon": -90.58945,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64871,
+      "lon": -90.48378,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.47035,
+      "lon": -90.48469,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64775,
+      "lon": -90.47951,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.53492,
+      "lon": -90.59452,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.61992,
+      "lon": -90.54663,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.58818,
+      "lon": -90.50267,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.63474,
+      "lon": -90.58498,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.59419,
+      "lon": -90.49487,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.54374,
+      "lon": -90.43438,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.55944,
+      "lon": -90.47431,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.56452,
+      "lon": -90.46495,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.53537,
+      "lon": -90.58662,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.61359,
+      "lon": -90.51846,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.60305,
+      "lon": -90.51871,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.59613,
+      "lon": -90.50708,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.59359,
+      "lon": -90.5153,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.6128,
+      "lon": -90.52566,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.61084,
+      "lon": -90.52236,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.59435,
+      "lon": -90.55815,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.60558,
+      "lon": -90.50118,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.55504,
+      "lon": -90.45491,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.58677,
+      "lon": -90.50036,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.52188,
+      "lon": -90.46971,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.51691,
+      "lon": -90.46613,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.61652,
+      "lon": -90.5306,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.61836,
+      "lon": -90.54241,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.65856,
+      "lon": -90.55947,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.62783,
+      "lon": -90.6012,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.63138,
+      "lon": -90.60041,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.66544,
+      "lon": -90.5607,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.62949,
+      "lon": -90.51819,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.59654,
+      "lon": -90.54067,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.65876,
+      "lon": -90.56608,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64243,
+      "lon": -90.50533,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64936,
+      "lon": -90.48962,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64096,
+      "lon": -90.48784,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.60477,
+      "lon": -90.56043,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.54226,
+      "lon": -90.58405,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.60069,
+      "lon": -90.49602,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.66212,
+      "lon": -90.57165,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.60381,
+      "lon": -90.54655,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.61328,
+      "lon": -90.60235,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.55813,
+      "lon": -90.54751,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.62912,
+      "lon": -90.54522,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.58072,
+      "lon": -90.47721,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.53301,
+      "lon": -90.59454,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.57073,
+      "lon": -90.47135,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.5204,
+      "lon": -90.47152,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma El Frutal",
+      "m": "Puma",
+      "lat": 14.51435,
+      "lon": -90.56451,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma El Tecolote",
+      "m": "Puma",
+      "lat": 14.64095,
+      "lon": -90.56763,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma La Montaña",
+      "m": "Puma",
+      "lat": 14.59297,
+      "lon": -90.47178,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Lo de Bran",
+      "m": "Puma",
+      "lat": 14.6453,
+      "lon": -90.52431,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Los Pinos",
+      "m": "Puma",
+      "lat": 14.65491,
+      "lon": -90.60141,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Miraflores",
+      "m": "Puma",
+      "lat": 14.62174,
+      "lon": -90.55731,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Molino de Las Flores",
+      "m": "Puma",
+      "lat": 14.63522,
+      "lon": -90.59308,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Naranjo Mall",
+      "m": "Puma",
+      "lat": 14.65071,
+      "lon": -90.54061,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Roosevelt Km. 12",
+      "m": "Puma",
+      "lat": 14.63079,
+      "lon": -90.56541,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma San José Villa Nueva",
+      "m": null,
+      "lat": 14.54302,
+      "lon": -90.5955,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Tulam Tzu",
+      "m": "Puma",
+      "lat": 14.64497,
+      "lon": -90.55817,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Puma Valle del Sol",
+      "m": "Puma",
+      "lat": 14.64257,
+      "lon": -90.56509,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64071,
+      "lon": -90.51728,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.63382,
+      "lon": -90.5091,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.62666,
+      "lon": -90.49638,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.5252,
+      "lon": -90.55235,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.59364,
+      "lon": -90.56677,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64537,
+      "lon": -90.46588,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.65109,
+      "lon": -90.58468,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.62657,
+      "lon": -90.49559,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.61286,
+      "lon": -90.52304,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64258,
+      "lon": -90.48631,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.58937,
+      "lon": -90.56869,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.6124,
+      "lon": -90.62156,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.65791,
+      "lon": -90.58958,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.51721,
+      "lon": -90.56402,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.59327,
+      "lon": -90.50508,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.53151,
+      "lon": -90.46219,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64743,
+      "lon": -90.50697,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.55328,
+      "lon": -90.40432,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.57797,
+      "lon": -90.48499,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.59389,
+      "lon": -90.50518,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.58922,
+      "lon": -90.50318,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.58383,
+      "lon": -90.48612,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.59571,
+      "lon": -90.51957,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.62222,
+      "lon": -90.54952,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.53714,
+      "lon": -90.45753,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.61782,
+      "lon": -90.51596,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.61287,
+      "lon": -90.51686,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.57826,
+      "lon": -90.52234,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.61978,
+      "lon": -90.51282,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.56475,
+      "lon": -90.58236,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.61513,
+      "lon": -90.51062,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.5874,
+      "lon": -90.54507,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.56053,
+      "lon": -90.55109,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.60561,
+      "lon": -90.52795,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.60286,
+      "lon": -90.52672,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.56009,
+      "lon": -90.46266,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.53886,
+      "lon": -90.45246,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.48038,
+      "lon": -90.48613,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.51541,
+      "lon": -90.47475,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.54414,
+      "lon": -90.4087,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.54647,
+      "lon": -90.41562,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.54665,
+      "lon": -90.42523,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.5421,
+      "lon": -90.45039,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.58868,
+      "lon": -90.50731,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.62293,
+      "lon": -90.54734,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.64459,
+      "lon": -90.5941,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.50919,
+      "lon": -90.58115,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.62151,
+      "lon": -90.50985,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.66251,
+      "lon": -90.56249,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.65319,
+      "lon": -90.57464,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64967,
+      "lon": -90.58273,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.5895,
+      "lon": -90.54197,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.63409,
+      "lon": -90.48912,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64432,
+      "lon": -90.50361,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.57715,
+      "lon": -90.57034,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.54112,
+      "lon": -90.58448,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.60725,
+      "lon": -90.58702,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.58346,
+      "lon": -90.54259,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64398,
+      "lon": -90.57498,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.58546,
+      "lon": -90.58845,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.62114,
+      "lon": -90.53957,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.6041,
+      "lon": -90.53958,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.64665,
+      "lon": -90.53228,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.6293,
+      "lon": -90.48399,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.6341,
+      "lon": -90.58371,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.51272,
+      "lon": -90.57314,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.65592,
+      "lon": -90.46945,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.65482,
+      "lon": -90.45298,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Puma",
+      "lat": 14.54448,
+      "lon": -90.52759,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.5857,
+      "lon": -90.52022,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.66231,
+      "lon": -90.49381,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.52516,
+      "lon": -90.53352,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.66973,
+      "lon": -90.35798,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell 20a Calle",
+      "m": "Shell",
+      "lat": 14.58841,
+      "lon": -90.50669,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Aldana",
+      "m": "Shell",
+      "lat": 14.63258,
+      "lon": -90.57019,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Aurora",
+      "m": "Shell",
+      "lat": 14.59886,
+      "lon": -90.52405,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Avenida Elena",
+      "m": "Shell",
+      "lat": 14.65015,
+      "lon": -90.51905,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Bosques",
+      "m": null,
+      "lat": 14.67302,
+      "lon": -90.55455,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Bosques de San Nicolás",
+      "m": "Shell",
+      "lat": 14.65263,
+      "lon": -90.56858,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Estación 21",
+      "m": "Shell",
+      "lat": 14.6543,
+      "lon": -90.45321,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Express",
+      "m": null,
+      "lat": 14.60063,
+      "lon": -90.55051,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Express",
+      "m": "Shell Express",
+      "lat": 14.58882,
+      "lon": -90.50733,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Express",
+      "m": "Shell Express",
+      "lat": 14.56612,
+      "lon": -90.47049,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Express - Condado Concepción",
+      "m": null,
+      "lat": 14.54941,
+      "lon": -90.45429,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Express;Shell",
+      "m": "Shell",
+      "lat": 14.59963,
+      "lon": -90.57905,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Km 25.5",
+      "m": "Shell",
+      "lat": 14.46941,
+      "lon": -90.4851,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell La Sexta",
+      "m": "Shell",
+      "lat": 14.62075,
+      "lon": -90.51707,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Landívar",
+      "m": "Shell",
+      "lat": 14.60179,
+      "lon": -90.48349,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Majadas",
+      "m": "Shell",
+      "lat": 14.62225,
+      "lon": -90.55833,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Molino de Las Flores",
+      "m": "Shell",
+      "lat": 14.63506,
+      "lon": -90.5899,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Naranjo Mall",
+      "m": "Shell",
+      "lat": 14.65205,
+      "lon": -90.54427,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Roosevelt",
+      "m": "Shell",
+      "lat": 14.63375,
+      "lon": -90.57132,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Select",
+      "m": "Shell",
+      "lat": 14.53215,
+      "lon": -90.58624,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Tinco",
+      "m": "Shell",
+      "lat": 14.63545,
+      "lon": -90.59862,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Universidad",
+      "m": null,
+      "lat": 14.59255,
+      "lon": -90.55064,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Shell Villa Deportiva",
+      "m": "Shell",
+      "lat": 14.59157,
+      "lon": -90.58297,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Solugas",
+      "m": null,
+      "lat": 14.74353,
+      "lon": -90.32172,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Super Gas",
+      "m": null,
+      "lat": 14.6248,
+      "lon": -90.55762,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Super Gas",
+      "m": null,
+      "lat": 14.65692,
+      "lon": -90.56877,
+      "d": "Guatemala"
+    },
+    {
+      "n": "TEXACO",
+      "m": null,
+      "lat": 14.6219,
+      "lon": -90.52525,
+      "d": "Guatemala"
+    },
+    {
+      "n": "TEXACO",
+      "m": null,
+      "lat": 14.6247,
+      "lon": -90.52203,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.60186,
+      "lon": -90.52074,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.62056,
+      "lon": -90.49552,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.55207,
+      "lon": -90.52567,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.53334,
+      "lon": -90.46041,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.41852,
+      "lon": -90.47879,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.55356,
+      "lon": -90.40336,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.63387,
+      "lon": -90.58096,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.61791,
+      "lon": -90.54175,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.56135,
+      "lon": -90.46317,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.57185,
+      "lon": -90.52754,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.61059,
+      "lon": -90.51906,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.62081,
+      "lon": -90.5125,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.56353,
+      "lon": -90.55034,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.56976,
+      "lon": -90.54824,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.60289,
+      "lon": -90.51048,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.59179,
+      "lon": -90.54458,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.59353,
+      "lon": -90.5444,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.61158,
+      "lon": -90.50803,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.50939,
+      "lon": -90.57088,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.54416,
+      "lon": -90.44414,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.54404,
+      "lon": -90.44253,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.47219,
+      "lon": -90.44765,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.6484,
+      "lon": -90.5114,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.58914,
+      "lon": -90.54217,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.63159,
+      "lon": -90.52644,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.60647,
+      "lon": -90.5435,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.64651,
+      "lon": -90.5798,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.44696,
+      "lon": -90.47594,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.65133,
+      "lon": -90.50698,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.57257,
+      "lon": -90.44453,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.48826,
+      "lon": -90.54191,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.62844,
+      "lon": -90.60051,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco Atanasio",
+      "m": null,
+      "lat": 14.59289,
+      "lon": -90.54154,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco Catalina",
+      "m": null,
+      "lat": 14.54008,
+      "lon": -90.58419,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco Las Luces",
+      "m": "Texaco",
+      "lat": 14.56515,
+      "lon": -90.46664,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco Millenium",
+      "m": "Texaco",
+      "lat": 14.59949,
+      "lon": -90.58015,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Texaco Álamos",
+      "m": "Texaco",
+      "lat": 14.50602,
+      "lon": -90.53785,
+      "d": "Guatemala"
+    },
+    {
+      "n": "TropiGas",
+      "m": null,
+      "lat": 14.59548,
+      "lon": -90.54392,
+      "d": "Guatemala"
+    },
+    {
+      "n": "UNO",
+      "m": "Uno",
+      "lat": 14.61722,
+      "lon": -90.47307,
+      "d": "Guatemala"
+    },
+    {
+      "n": "UNO Tulam Tzu",
+      "m": "UNO",
+      "lat": 14.644,
+      "lon": -90.55675,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.64837,
+      "lon": -90.44774,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.65169,
+      "lon": -90.42932,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.56391,
+      "lon": -90.5288,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.537,
+      "lon": -90.45136,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.54248,
+      "lon": -90.4467,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.60871,
+      "lon": -90.48953,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.59352,
+      "lon": -90.51352,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.52377,
+      "lon": -90.46919,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.61686,
+      "lon": -90.53982,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.63272,
+      "lon": -90.57081,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.58823,
+      "lon": -90.50225,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.65556,
+      "lon": -90.46278,
+      "d": "Guatemala"
+    },
+    {
+      "n": "texaco el trebol",
+      "m": null,
+      "lat": 14.61072,
+      "lon": -90.54039,
+      "d": "Guatemala"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 15.30778,
+      "lon": -91.49255,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.29273,
+      "lon": -91.48764,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.62791,
+      "lon": -91.95602,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.28688,
+      "lon": -91.47143,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.34301,
+      "lon": -91.4299,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": "Don Arturo",
+      "lat": 15.6205,
+      "lon": -91.88223,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": "Don Arturo",
+      "lat": 15.34645,
+      "lon": -91.45778,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.30944,
+      "lon": -91.49296,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Don Rumaldo",
+      "m": null,
+      "lat": 15.60415,
+      "lon": -91.44277,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Dynamax",
+      "m": null,
+      "lat": 15.41246,
+      "lon": -91.43354,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "El Reposos Gas Station",
+      "m": null,
+      "lat": 15.62043,
+      "lon": -91.94131,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "El Triangulo",
+      "m": null,
+      "lat": 15.40874,
+      "lon": -91.14745,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Entre ríos",
+      "m": null,
+      "lat": 15.90351,
+      "lon": -91.19155,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Estacion Santa Ines",
+      "m": null,
+      "lat": 15.12356,
+      "lon": -91.5334,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Estación La Laguna",
+      "m": null,
+      "lat": 15.76302,
+      "lon": -91.84923,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Estación La Laguna",
+      "m": null,
+      "lat": 15.76352,
+      "lon": -91.8494,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "F&G Gas Station",
+      "m": null,
+      "lat": 15.65591,
+      "lon": -91.43542,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Formula 1",
+      "m": null,
+      "lat": 15.31185,
+      "lon": -91.4861,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Formula 1",
+      "m": null,
+      "lat": 15.28857,
+      "lon": -91.47803,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.39862,
+      "lon": -91.14281,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.63118,
+      "lon": -91.90023,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.70817,
+      "lon": -91.88267,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.43576,
+      "lon": -91.46007,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.65793,
+      "lon": -91.42806,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.3423,
+      "lon": -91.32366,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.61223,
+      "lon": -91.43786,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.64375,
+      "lon": -91.43556,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.65647,
+      "lon": -91.44292,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.65856,
+      "lon": -91.43212,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.33445,
+      "lon": -91.46012,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.34334,
+      "lon": -91.45395,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.33942,
+      "lon": -91.45638,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.30376,
+      "lon": -91.49309,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.31947,
+      "lon": -91.47755,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.34243,
+      "lon": -91.43028,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera \"El Mamut\"",
+      "m": null,
+      "lat": 15.31219,
+      "lon": -91.5344,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera El Bosque",
+      "m": "Shell",
+      "lat": 15.31215,
+      "lon": -91.4798,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera El Tanque",
+      "m": "Shell",
+      "lat": 15.31994,
+      "lon": -91.47461,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Eulalence",
+      "m": null,
+      "lat": 15.73322,
+      "lon": -91.46429,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Formaula 1",
+      "m": null,
+      "lat": 15.31179,
+      "lon": -91.48616,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Gracias a Dios",
+      "m": null,
+      "lat": 15.83938,
+      "lon": -91.74321,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Gracias a Dios",
+      "m": null,
+      "lat": 16.03941,
+      "lon": -91.74703,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Gracias a Dios",
+      "m": null,
+      "lat": 16.03727,
+      "lon": -91.74154,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Guadalupe",
+      "m": null,
+      "lat": 15.215,
+      "lon": -91.51393,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera La Bendición de Dios",
+      "m": null,
+      "lat": 16.02783,
+      "lon": -91.72279,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera La Libertad",
+      "m": null,
+      "lat": 15.59342,
+      "lon": -91.7282,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Los Dos Socios",
+      "m": null,
+      "lat": 15.1516,
+      "lon": -91.54775,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera María Auxiliadora",
+      "m": null,
+      "lat": 15.66683,
+      "lon": -91.71788,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Metro Zaculeu",
+      "m": null,
+      "lat": 15.32171,
+      "lon": -91.49519,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 15.32179,
+      "lon": -91.47131,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera San Rafael",
+      "m": "Shell",
+      "lat": 15.31772,
+      "lon": -91.47389,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 15.31975,
+      "lon": -91.47857,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera VÍCTORIA CENTER",
+      "m": null,
+      "lat": 15.70529,
+      "lon": -91.88025,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolinera el Mamut",
+      "m": null,
+      "lat": 15.31211,
+      "lon": -91.53452,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Gasolineria San Pedro",
+      "m": null,
+      "lat": 15.66049,
+      "lon": -91.43189,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Maranatha",
+      "m": null,
+      "lat": 15.48081,
+      "lon": -91.04166,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "PUMA",
+      "m": null,
+      "lat": 15.29387,
+      "lon": -91.49019,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Pegaso",
+      "m": null,
+      "lat": 15.35826,
+      "lon": -91.4512,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Pegaso",
+      "m": null,
+      "lat": 15.35716,
+      "lon": -91.45386,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Pegaso",
+      "m": null,
+      "lat": 15.67122,
+      "lon": -91.43106,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Pegaso Gas",
+      "m": null,
+      "lat": 15.32333,
+      "lon": -91.55198,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Pueblo Nuevo",
+      "m": null,
+      "lat": 15.67423,
+      "lon": -91.43041,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Pueblo Nuevo",
+      "m": null,
+      "lat": 15.67405,
+      "lon": -91.43027,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 15.3218,
+      "lon": -91.47125,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 15.31114,
+      "lon": -91.49276,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Scott77",
+      "m": null,
+      "lat": 15.17613,
+      "lon": -91.5542,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.40711,
+      "lon": -91.14809,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.4142,
+      "lon": -91.14704,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.40759,
+      "lon": -91.70551,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.29936,
+      "lon": -91.5026,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.30219,
+      "lon": -91.49286,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.29538,
+      "lon": -91.49097,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.32398,
+      "lon": -91.46814,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.34271,
+      "lon": -91.45418,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.3077,
+      "lon": -91.46823,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.32927,
+      "lon": -91.46552,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.34229,
+      "lon": -91.45431,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.29656,
+      "lon": -91.49082,
+      "d": "Huehuetenango"
+    },
+    {
+      "n": "Brío",
+      "m": null,
+      "lat": 15.63806,
+      "lon": -88.54552,
+      "d": "Izabal"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 15.69163,
+      "lon": -88.57622,
+      "d": "Izabal"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 15.47715,
+      "lon": -88.88816,
+      "d": "Izabal"
+    },
+    {
+      "n": "EPT",
+      "m": null,
+      "lat": 15.6177,
+      "lon": -88.56737,
+      "d": "Izabal"
+    },
+    {
+      "n": "Estacion El Pilar Combustibles y lubricantes",
+      "m": null,
+      "lat": 15.54341,
+      "lon": -88.86262,
+      "d": "Izabal"
+    },
+    {
+      "n": "Estación Primavera",
+      "m": null,
+      "lat": 15.61662,
+      "lon": -88.56738,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.66301,
+      "lon": -89.01173,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.49141,
+      "lon": -88.85948,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.52359,
+      "lon": -88.78084,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.67722,
+      "lon": -88.56982,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.68974,
+      "lon": -88.57596,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera Passon",
+      "m": null,
+      "lat": 15.69123,
+      "lon": -88.57565,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera Shell Las Americas",
+      "m": null,
+      "lat": 15.69038,
+      "lon": -88.57544,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera Texaco la 13",
+      "m": null,
+      "lat": 15.72829,
+      "lon": -88.60016,
+      "d": "Izabal"
+    },
+    {
+      "n": "Gasolinera de Morales",
+      "m": "Puma",
+      "lat": 15.46737,
+      "lon": -88.84034,
+      "d": "Izabal"
+    },
+    {
+      "n": "La Bendición",
+      "m": null,
+      "lat": 15.5966,
+      "lon": -88.37379,
+      "d": "Izabal"
+    },
+    {
+      "n": "La Bendición",
+      "m": null,
+      "lat": 15.72019,
+      "lon": -88.59407,
+      "d": "Izabal"
+    },
+    {
+      "n": "La Estrella",
+      "m": null,
+      "lat": 15.73353,
+      "lon": -88.59818,
+      "d": "Izabal"
+    },
+    {
+      "n": "Oasis 243",
+      "m": null,
+      "lat": 15.50146,
+      "lon": -88.83784,
+      "d": "Izabal"
+    },
+    {
+      "n": "Primavera Gas Station",
+      "m": null,
+      "lat": 15.56558,
+      "lon": -88.91625,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.75885,
+      "lon": -89.10056,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 15.50076,
+      "lon": -88.83765,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.34972,
+      "lon": -89.04093,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.6996,
+      "lon": -88.58647,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.46882,
+      "lon": -88.9055,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.71077,
+      "lon": -88.59161,
+      "d": "Izabal"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.69703,
+      "lon": -88.58609,
+      "d": "Izabal"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.65275,
+      "lon": -88.99317,
+      "d": "Izabal"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.57656,
+      "lon": -88.63546,
+      "d": "Izabal"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.69861,
+      "lon": -88.58541,
+      "d": "Izabal"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.50036,
+      "lon": -88.82788,
+      "d": "Izabal"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 15.50088,
+      "lon": -88.82421,
+      "d": "Izabal"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.575,
+      "lon": -88.62829,
+      "d": "Izabal"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.58268,
+      "lon": -88.60038,
+      "d": "Izabal"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.06442,
+      "lon": -89.34604,
+      "d": "Izabal"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.66727,
+      "lon": -89.0211,
+      "d": "Izabal"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.38656,
+      "lon": -89.01747,
+      "d": "Izabal"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 15.70834,
+      "lon": -88.59008,
+      "d": "Izabal"
+    },
+    {
+      "n": "Vargas",
+      "m": null,
+      "lat": 15.64472,
+      "lon": -88.54875,
+      "d": "Izabal"
+    },
+    {
+      "n": "?uno",
+      "m": "?uno",
+      "lat": 14.63847,
+      "lon": -89.98765,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Di-Gas Jalapa",
+      "m": null,
+      "lat": 14.63721,
+      "lon": -89.98993,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Di-Gas La Laguna",
+      "m": null,
+      "lat": 14.66059,
+      "lon": -90.00063,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinara Puma",
+      "m": null,
+      "lat": 14.63204,
+      "lon": -89.98876,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.61386,
+      "lon": -89.97217,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.66642,
+      "lon": -89.85573,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.65141,
+      "lon": -89.99943,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinera Shell San Miguel",
+      "m": null,
+      "lat": 14.63002,
+      "lon": -89.97885,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 14.63112,
+      "lon": -89.99121,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Gasolinera el Terrero",
+      "m": null,
+      "lat": 14.65208,
+      "lon": -89.99964,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.63208,
+      "lon": -89.98517,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.50589,
+      "lon": -89.87449,
+      "d": "Jalapa"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.15795,
+      "lon": -90.05281,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "El Coco",
+      "m": null,
+      "lat": 14.05454,
+      "lon": -89.93702,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "GASOLINERA GASO MARKET",
+      "m": null,
+      "lat": 14.04044,
+      "lon": -90.07709,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.04071,
+      "lon": -90.07658,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.15141,
+      "lon": -90.04039,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.16023,
+      "lon": -90.05751,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "La Ceiba",
+      "m": null,
+      "lat": 14.34793,
+      "lon": -89.84,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Oasis",
+      "m": null,
+      "lat": 14.13137,
+      "lon": -90.00288,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.29431,
+      "lon": -89.90124,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Scott77",
+      "m": null,
+      "lat": 14.04536,
+      "lon": -90.06307,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.15847,
+      "lon": -90.05516,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.29371,
+      "lon": -89.9029,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.30015,
+      "lon": -89.8939,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.34724,
+      "lon": -89.84317,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.11909,
+      "lon": -89.97862,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.29982,
+      "lon": -89.89497,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.35665,
+      "lon": -89.84777,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.13533,
+      "lon": -90.00932,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.07028,
+      "lon": -90.04295,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Texaco Gas Station",
+      "m": null,
+      "lat": 14.13966,
+      "lon": -90.0189,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.2966,
+      "lon": -89.89903,
+      "d": "Jutiapa"
+    },
+    {
+      "n": "Combustibles Jaguar",
+      "m": null,
+      "lat": 17.05835,
+      "lon": -89.15365,
+      "d": "Petén"
+    },
+    {
+      "n": "Don Oscar",
+      "m": null,
+      "lat": 16.95955,
+      "lon": -89.63274,
+      "d": "Petén"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 16.33109,
+      "lon": -90.17136,
+      "d": "Petén"
+    },
+    {
+      "n": "El Ceibo",
+      "m": null,
+      "lat": 17.25779,
+      "lon": -90.98202,
+      "d": "Petén"
+    },
+    {
+      "n": "El Jaguar",
+      "m": "el Jaguar",
+      "lat": 16.79824,
+      "lon": -89.81387,
+      "d": "Petén"
+    },
+    {
+      "n": "Estación El Zapote",
+      "m": null,
+      "lat": 16.94754,
+      "lon": -89.52138,
+      "d": "Petén"
+    },
+    {
+      "n": "Estación San Benito",
+      "m": null,
+      "lat": 16.92664,
+      "lon": -89.8999,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.71664,
+      "lon": -89.38919,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.64199,
+      "lon": -89.64634,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.64137,
+      "lon": -89.63545,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.59408,
+      "lon": -89.51116,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.50895,
+      "lon": -89.42826,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.91245,
+      "lon": -89.91508,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.58734,
+      "lon": -89.50419,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.96844,
+      "lon": -90.67101,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.80136,
+      "lon": -90.09715,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.91601,
+      "lon": -90.41913,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.91432,
+      "lon": -90.23617,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.91548,
+      "lon": -90.41508,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.91739,
+      "lon": -90.42357,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.97122,
+      "lon": -90.6655,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 17.25815,
+      "lon": -90.98249,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.92935,
+      "lon": -90.56925,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.79164,
+      "lon": -90.10692,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.79047,
+      "lon": -90.10697,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.36239,
+      "lon": -89.43148,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 16.97092,
+      "lon": -89.92553,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Itza 1",
+      "m": null,
+      "lat": 16.92454,
+      "lon": -89.89648,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Itza 2",
+      "m": null,
+      "lat": 16.91472,
+      "lon": -89.87968,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera PUMA",
+      "m": null,
+      "lat": 16.80214,
+      "lon": -89.92942,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 16.9139,
+      "lon": -89.87761,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera SHELL",
+      "m": null,
+      "lat": 16.79514,
+      "lon": -89.9469,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 16.91209,
+      "lon": -89.91442,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 16.79393,
+      "lon": -89.93443,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 16.50651,
+      "lon": -89.42993,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 16.53016,
+      "lon": -90.18843,
+      "d": "Petén"
+    },
+    {
+      "n": "Gasolinera shel super 24",
+      "m": null,
+      "lat": 16.5244,
+      "lon": -90.18246,
+      "d": "Petén"
+    },
+    {
+      "n": "Isa Gas",
+      "m": null,
+      "lat": 17.1671,
+      "lon": -90.8469,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 16.64872,
+      "lon": -89.66016,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 16.91423,
+      "lon": -89.91132,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 16.78825,
+      "lon": -90.11003,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 16.9127,
+      "lon": -89.89986,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 16.91647,
+      "lon": -89.90851,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 16.9706,
+      "lon": -89.92925,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 16.78685,
+      "lon": -90.11106,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 16.52042,
+      "lon": -90.17582,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 17.05754,
+      "lon": -89.17236,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma Gas Station",
+      "m": "Puma",
+      "lat": 16.64209,
+      "lon": -89.65166,
+      "d": "Petén"
+    },
+    {
+      "n": "Puma Gas Station",
+      "m": "Puma",
+      "lat": 16.64204,
+      "lon": -89.65162,
+      "d": "Petén"
+    },
+    {
+      "n": "Quick Gas",
+      "m": null,
+      "lat": 17.0576,
+      "lon": -89.1691,
+      "d": "Petén"
+    },
+    {
+      "n": "Shaddai Gas Station",
+      "m": null,
+      "lat": 16.98059,
+      "lon": -89.42262,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 16.34555,
+      "lon": -89.41962,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 16.90331,
+      "lon": -89.83942,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 16.75405,
+      "lon": -89.79067,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 17.07382,
+      "lon": -90.85217,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 16.91213,
+      "lon": -89.89864,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 16.91415,
+      "lon": -89.91046,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 16.91649,
+      "lon": -89.88314,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 16.92235,
+      "lon": -89.90394,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 16.49053,
+      "lon": -89.42831,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 16.91283,
+      "lon": -89.91454,
+      "d": "Petén"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 17.0569,
+      "lon": -89.15702,
+      "d": "Petén"
+    },
+    {
+      "n": "Station",
+      "m": null,
+      "lat": 16.97024,
+      "lon": -89.68984,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.64193,
+      "lon": -89.64711,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 16.18646,
+      "lon": -89.42557,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.32279,
+      "lon": -89.41128,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.92073,
+      "lon": -89.88863,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.91567,
+      "lon": -89.88203,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.91817,
+      "lon": -89.90793,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 17.05746,
+      "lon": -89.15648,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.9733,
+      "lon": -89.68674,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 16.34972,
+      "lon": -89.42327,
+      "d": "Petén"
+    },
+    {
+      "n": "Texaco Estación de Servicio",
+      "m": null,
+      "lat": 16.83664,
+      "lon": -89.81869,
+      "d": "Petén"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.8599,
+      "lon": -91.47231,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Formula",
+      "m": null,
+      "lat": 14.83392,
+      "lon": -91.51321,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Formula 1",
+      "m": null,
+      "lat": 14.89312,
+      "lon": -91.45564,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "GASOLINERA SANTA CRUZ",
+      "m": null,
+      "lat": 14.9198,
+      "lon": -91.61254,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gaso Zumo",
+      "m": null,
+      "lat": 14.78226,
+      "lon": -91.49345,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.86934,
+      "lon": -91.46766,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.88895,
+      "lon": -91.46735,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.89119,
+      "lon": -91.46467,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.84412,
+      "lon": -91.52192,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.86216,
+      "lon": -91.52807,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.91979,
+      "lon": -91.6126,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": "Shell",
+      "lat": 14.83868,
+      "lon": -91.50788,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.8322,
+      "lon": -91.51922,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.83997,
+      "lon": -91.50118,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.8508,
+      "lon": -91.52983,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.83339,
+      "lon": -91.51483,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.83612,
+      "lon": -91.5108,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "San Martin",
+      "m": null,
+      "lat": 14.74647,
+      "lon": -91.51277,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Servicentro Altense",
+      "m": null,
+      "lat": 14.83347,
+      "lon": -91.51451,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.84831,
+      "lon": -91.52791,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.87005,
+      "lon": -91.46652,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.87038,
+      "lon": -91.46548,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.87041,
+      "lon": -91.46808,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.86529,
+      "lon": -91.49975,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.85901,
+      "lon": -91.51951,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.89617,
+      "lon": -91.45973,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.85548,
+      "lon": -91.53703,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.85482,
+      "lon": -91.53641,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.83133,
+      "lon": -91.51804,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Shell-La Esperanza Zona 2",
+      "m": "shell",
+      "lat": 14.86682,
+      "lon": -91.56819,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.86523,
+      "lon": -91.56204,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.84665,
+      "lon": -91.53695,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.88979,
+      "lon": -91.45733,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.89361,
+      "lon": -91.45587,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.84515,
+      "lon": -91.48775,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.87797,
+      "lon": -91.47028,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.84407,
+      "lon": -91.52494,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.83976,
+      "lon": -91.47032,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "UNO",
+      "m": "Uno",
+      "lat": 14.82457,
+      "lon": -91.5168,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Xalalu",
+      "m": null,
+      "lat": 14.84765,
+      "lon": -91.51357,
+      "d": "Quetzaltenango"
+    },
+    {
+      "n": "Aro",
+      "m": null,
+      "lat": 15.00741,
+      "lon": -91.13502,
+      "d": "Quiché"
+    },
+    {
+      "n": "El Maná",
+      "m": null,
+      "lat": 15.05273,
+      "lon": -91.15499,
+      "d": "Quiché"
+    },
+    {
+      "n": "El Sol",
+      "m": null,
+      "lat": 15.34813,
+      "lon": -90.86358,
+      "d": "Quiché"
+    },
+    {
+      "n": "Estacion San Antonio",
+      "m": null,
+      "lat": 15.34175,
+      "lon": -91.07195,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gas San Jose",
+      "m": null,
+      "lat": 15.02733,
+      "lon": -91.10029,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.03986,
+      "lon": -91.14917,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.29014,
+      "lon": -91.09102,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.03426,
+      "lon": -91.13182,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.43987,
+      "lon": -91.02475,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera Linda Vista",
+      "m": null,
+      "lat": 15.18879,
+      "lon": -91.22743,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera Maranata",
+      "m": null,
+      "lat": 15.02073,
+      "lon": -91.14924,
+      "d": "Quiché"
+    },
+    {
+      "n": "Gasolinera en el acceso este de Quiché",
+      "m": "Texaco",
+      "lat": 15.03061,
+      "lon": -91.14428,
+      "d": "Quiché"
+    },
+    {
+      "n": "Linda Vista III",
+      "m": null,
+      "lat": 15.33555,
+      "lon": -91.01673,
+      "d": "Quiché"
+    },
+    {
+      "n": "PDV",
+      "m": null,
+      "lat": 14.94264,
+      "lon": -91.10987,
+      "d": "Quiché"
+    },
+    {
+      "n": "PDV",
+      "m": null,
+      "lat": 14.93779,
+      "lon": -91.11087,
+      "d": "Quiché"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 15.00691,
+      "lon": -91.14362,
+      "d": "Quiché"
+    },
+    {
+      "n": "Quetzal Gasolinera",
+      "m": null,
+      "lat": 15.335,
+      "lon": -91.03584,
+      "d": "Quiché"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.02209,
+      "lon": -91.14947,
+      "d": "Quiché"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.34846,
+      "lon": -90.86709,
+      "d": "Quiché"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.95442,
+      "lon": -91.10646,
+      "d": "Quiché"
+    },
+    {
+      "n": "Turkaj",
+      "m": null,
+      "lat": 14.94273,
+      "lon": -91.10979,
+      "d": "Quiché"
+    },
+    {
+      "n": "222",
+      "m": null,
+      "lat": 14.3062,
+      "lon": -91.90242,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "7-Eleven",
+      "m": "7-Eleven",
+      "lat": 14.53875,
+      "lon": -91.67398,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Agropecuaria la Finca",
+      "m": "Gasolinera Las Chacaras",
+      "lat": 14.5323,
+      "lon": -91.6752,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "D-421 PETRO GAS",
+      "m": "Petro-Canada",
+      "lat": 14.16585,
+      "lon": -91.71172,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.57393,
+      "lon": -91.64776,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.57209,
+      "lon": -91.65382,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.53523,
+      "lon": -91.67242,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.56523,
+      "lon": -91.65183,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Estacion Carolinas",
+      "m": null,
+      "lat": 14.53236,
+      "lon": -91.67599,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Estacion de servicio Don Rolando",
+      "m": null,
+      "lat": 14.29219,
+      "lon": -91.91206,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Fernandez",
+      "m": null,
+      "lat": 14.5323,
+      "lon": -91.6753,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.57125,
+      "lon": -91.6575,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.56514,
+      "lon": -91.68612,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.56491,
+      "lon": -91.6863,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.61857,
+      "lon": -91.59834,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.56529,
+      "lon": -91.72695,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.56523,
+      "lon": -91.727,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.52828,
+      "lon": -91.68807,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera Puma Las Victorias",
+      "m": null,
+      "lat": 14.6956,
+      "lon": -91.80462,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera San Francisco",
+      "m": null,
+      "lat": 14.69831,
+      "lon": -91.86435,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera Shell Las Palmas",
+      "m": null,
+      "lat": 14.54344,
+      "lon": -91.66932,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Gasolinera Texaco Ralda",
+      "m": "Gasolinera Texaco Ralda",
+      "lat": 14.53011,
+      "lon": -91.6852,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "La Chacara",
+      "m": null,
+      "lat": 14.53234,
+      "lon": -91.67601,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.69279,
+      "lon": -91.86778,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.57352,
+      "lon": -91.64757,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.53814,
+      "lon": -91.67424,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "San Sebastian Servicio Completo",
+      "m": null,
+      "lat": 14.55907,
+      "lon": -91.65246,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Santa Lucia",
+      "m": null,
+      "lat": 14.70347,
+      "lon": -91.8562,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Santander",
+      "m": "Santander",
+      "lat": 14.53324,
+      "lon": -91.68245,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Servicentro Esso América",
+      "m": "Puma",
+      "lat": 14.53881,
+      "lon": -91.67288,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Shaday",
+      "m": null,
+      "lat": 14.69897,
+      "lon": -91.91458,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Shaday",
+      "m": null,
+      "lat": 14.61028,
+      "lon": -91.60514,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.70185,
+      "lon": -91.84711,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.5751,
+      "lon": -91.63982,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.57514,
+      "lon": -91.64246,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Shell Express",
+      "m": "Shell Express",
+      "lat": 14.58625,
+      "lon": -91.69057,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Speed lube",
+      "m": null,
+      "lat": 14.70101,
+      "lon": -91.86353,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Tecrhon",
+      "m": "Texaco",
+      "lat": 14.47456,
+      "lon": -91.75314,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.70388,
+      "lon": -91.85929,
+      "d": "Retalhuleu"
+    },
+    {
+      "n": "BV",
+      "m": null,
+      "lat": 14.52385,
+      "lon": -90.59155,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": "Don Arturo",
+      "lat": 14.52454,
+      "lon": -90.79744,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.65669,
+      "lon": -90.71593,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.61357,
+      "lon": -90.68114,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.5131,
+      "lon": -90.78403,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Don Arturo Gasolinera",
+      "m": "Don Arturo",
+      "lat": 14.59932,
+      "lon": -90.63965,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Estacion Morjan",
+      "m": null,
+      "lat": 14.55751,
+      "lon": -90.72949,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Estación de Servicio Santiago",
+      "m": null,
+      "lat": 14.63302,
+      "lon": -90.6663,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Don Arturo",
+      "m": "Don Arturo",
+      "lat": 14.48805,
+      "lon": -90.62195,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.43351,
+      "lon": -90.65593,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": "PUMA",
+      "lat": 14.53135,
+      "lon": -90.59685,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Puma",
+      "m": null,
+      "lat": 14.57869,
+      "lon": -90.74266,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Santa María",
+      "m": null,
+      "lat": 14.50236,
+      "lon": -90.71137,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Santa María",
+      "m": null,
+      "lat": 14.50238,
+      "lon": -90.7112,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.51613,
+      "lon": -90.60367,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Gasolinera uno",
+      "m": null,
+      "lat": 14.45174,
+      "lon": -90.64344,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Panorama",
+      "m": null,
+      "lat": 14.54321,
+      "lon": -90.74643,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.48677,
+      "lon": -90.62616,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.6309,
+      "lon": -90.66422,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.64328,
+      "lon": -90.70237,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.65718,
+      "lon": -90.71669,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.54793,
+      "lon": -90.74357,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.57765,
+      "lon": -90.66546,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.51952,
+      "lon": -90.78072,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.60802,
+      "lon": -90.6644,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.48191,
+      "lon": -90.62984,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.59755,
+      "lon": -90.66777,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.49478,
+      "lon": -90.80074,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Puma Alux",
+      "m": "Puma",
+      "lat": 14.60581,
+      "lon": -90.65048,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.59788,
+      "lon": -90.66721,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.55875,
+      "lon": -90.72359,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.56558,
+      "lon": -90.63944,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.582,
+      "lon": -90.66422,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.60852,
+      "lon": -90.66561,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.60867,
+      "lon": -90.6627,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.60815,
+      "lon": -90.66241,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.43839,
+      "lon": -90.65161,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.59081,
+      "lon": -90.75023,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell Asiole",
+      "m": "Shell",
+      "lat": 14.48902,
+      "lon": -90.62477,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Shell Santa Clara",
+      "m": "Shell",
+      "lat": 14.53031,
+      "lon": -90.59647,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.6108,
+      "lon": -90.65213,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.57669,
+      "lon": -90.66652,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.55172,
+      "lon": -90.74063,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.57695,
+      "lon": -90.64613,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.65088,
+      "lon": -90.70505,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.45789,
+      "lon": -90.64292,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.60861,
+      "lon": -90.67825,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.47044,
+      "lon": -90.63721,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.51504,
+      "lon": -90.60512,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.51674,
+      "lon": -90.77802,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.4629,
+      "lon": -90.64187,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "VP Racing",
+      "m": null,
+      "lat": 14.60848,
+      "lon": -90.67827,
+      "d": "Sacatepéquez"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 14.70622,
+      "lon": -92.00378,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasilinera Gómez",
+      "m": null,
+      "lat": 15.10353,
+      "lon": -91.81244,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.66856,
+      "lon": -92.14247,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.93347,
+      "lon": -91.69429,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.12246,
+      "lon": -91.80662,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.12985,
+      "lon": -91.80603,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.13079,
+      "lon": -91.80418,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.17277,
+      "lon": -91.79043,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.07974,
+      "lon": -91.75467,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.06329,
+      "lon": -91.83313,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.93016,
+      "lon": -91.91854,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Gasolinera Servicentro Nueva Pajapita",
+      "m": null,
+      "lat": 14.72445,
+      "lon": -92.03837,
+      "d": "San Marcos"
+    },
+    {
+      "n": "La Maranata",
+      "m": null,
+      "lat": 14.69803,
+      "lon": -92.11741,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Liberty Pajapita",
+      "m": null,
+      "lat": 14.71774,
+      "lon": -92.06316,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Maranatha Jireh Central",
+      "m": null,
+      "lat": 14.68949,
+      "lon": -92.12939,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Maranatha Pajapita",
+      "m": null,
+      "lat": 14.72173,
+      "lon": -92.01996,
+      "d": "San Marcos"
+    },
+    {
+      "n": "PUMA",
+      "m": null,
+      "lat": 14.96193,
+      "lon": -91.79668,
+      "d": "San Marcos"
+    },
+    {
+      "n": "PUMA",
+      "m": null,
+      "lat": 14.96525,
+      "lon": -91.80324,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.96489,
+      "lon": -91.7888,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.96812,
+      "lon": -91.75448,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.70946,
+      "lon": -92.09402,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.96412,
+      "lon": -92.14054,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Scott",
+      "m": "SCOTT",
+      "lat": 14.72471,
+      "lon": -92.03787,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.72493,
+      "lon": -92.03218,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.71057,
+      "lon": -92.08998,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.93162,
+      "lon": -91.88123,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.94446,
+      "lon": -91.83419,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Shell la Cuchilla",
+      "m": "Shell",
+      "lat": 14.68208,
+      "lon": -92.13864,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.70108,
+      "lon": -91.98787,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.71994,
+      "lon": -92.05495,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.96464,
+      "lon": -91.78946,
+      "d": "San Marcos"
+    },
+    {
+      "n": "Transcel",
+      "m": "Esso",
+      "lat": 14.86402,
+      "lon": -91.9336,
+      "d": "San Marcos"
+    },
+    {
+      "n": "UNO",
+      "m": "Dinamax",
+      "lat": 14.96752,
+      "lon": -91.75736,
+      "d": "San Marcos"
+    },
+    {
+      "n": "UNO",
+      "m": "Uno",
+      "lat": 14.69464,
+      "lon": -91.96346,
+      "d": "San Marcos"
+    },
+    {
+      "n": "ARO",
+      "m": null,
+      "lat": 13.88878,
+      "lon": -90.14351,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "El Garrobo",
+      "m": null,
+      "lat": 13.9447,
+      "lon": -90.2188,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Estación Tres Marías",
+      "m": null,
+      "lat": 14.38601,
+      "lon": -90.29623,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Estación Tres Marías",
+      "m": null,
+      "lat": 14.38599,
+      "lon": -90.29609,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Estación de Servicio Texaco",
+      "m": null,
+      "lat": 14.30156,
+      "lon": -90.37261,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gaolinera Shell",
+      "m": null,
+      "lat": 14.25507,
+      "lon": -90.22711,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.0647,
+      "lon": -90.46889,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.08544,
+      "lon": -90.37849,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 13.87929,
+      "lon": -90.09709,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.06917,
+      "lon": -90.45781,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.07402,
+      "lon": -90.46942,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 13.85191,
+      "lon": -90.37884,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.06806,
+      "lon": -90.38239,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.06838,
+      "lon": -90.38337,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.06879,
+      "lon": -90.38251,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera Don Arturo Roselia",
+      "m": "Gasolineras Don Arturo",
+      "lat": 14.38645,
+      "lon": -90.29952,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera Gaby",
+      "m": null,
+      "lat": 13.8715,
+      "lon": -90.10015,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Gasolinera Omar",
+      "m": null,
+      "lat": 14.39403,
+      "lon": -90.32983,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.39418,
+      "lon": -90.46941,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 13.88106,
+      "lon": -90.09937,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.20899,
+      "lon": -90.14923,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.23184,
+      "lon": -90.18182,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.29484,
+      "lon": -90.32828,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.30385,
+      "lon": -90.37823,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.3026,
+      "lon": -90.37758,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Scott77",
+      "m": null,
+      "lat": 14.30461,
+      "lon": -90.36024,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Scott77",
+      "m": null,
+      "lat": 14.25212,
+      "lon": -90.26631,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.25178,
+      "lon": -90.27872,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.29618,
+      "lon": -90.33983,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.05622,
+      "lon": -90.35599,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Shell Express",
+      "m": "Shell Express",
+      "lat": 14.19404,
+      "lon": -90.11567,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Sol De Monterico",
+      "m": null,
+      "lat": 13.89554,
+      "lon": -90.48379,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Tamarisco",
+      "m": null,
+      "lat": 14.27281,
+      "lon": -90.29939,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.05247,
+      "lon": -90.34515,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.2756,
+      "lon": -90.30976,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.34695,
+      "lon": -90.454,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.34641,
+      "lon": -90.45481,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.25514,
+      "lon": -90.28122,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 13.91604,
+      "lon": -90.55001,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "To The South",
+      "m": null,
+      "lat": 14.20157,
+      "lon": -90.12929,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Uno",
+      "m": null,
+      "lat": 14.33102,
+      "lon": -90.416,
+      "d": "Santa Rosa"
+    },
+    {
+      "n": "Blue Oil",
+      "m": null,
+      "lat": 14.61948,
+      "lon": -91.14904,
+      "d": "Sololá"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.77554,
+      "lon": -90.98744,
+      "d": "Sololá"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.77288,
+      "lon": -90.98811,
+      "d": "Sololá"
+    },
+    {
+      "n": "Eben Ezer",
+      "m": null,
+      "lat": 14.65145,
+      "lon": -91.22441,
+      "d": "Sololá"
+    },
+    {
+      "n": "El Rancho",
+      "m": null,
+      "lat": 14.86234,
+      "lon": -91.1504,
+      "d": "Sololá"
+    },
+    {
+      "n": "Estación Elohim",
+      "m": "Texaco",
+      "lat": 14.76185,
+      "lon": -90.9884,
+      "d": "Sololá"
+    },
+    {
+      "n": "Estación Maranatha",
+      "m": null,
+      "lat": 14.7948,
+      "lon": -91.27176,
+      "d": "Sololá"
+    },
+    {
+      "n": "Estación San Juan Bautista",
+      "m": null,
+      "lat": 14.69855,
+      "lon": -91.28897,
+      "d": "Sololá"
+    },
+    {
+      "n": "Estación el Descanso",
+      "m": null,
+      "lat": 14.79035,
+      "lon": -91.2924,
+      "d": "Sololá"
+    },
+    {
+      "n": "GASOLINERA DON RUDY",
+      "m": "SANTA ANITA",
+      "lat": 14.54057,
+      "lon": -91.09286,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.63945,
+      "lon": -91.14795,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.69259,
+      "lon": -91.28273,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.71997,
+      "lon": -91.30415,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.69024,
+      "lon": -91.26939,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.66313,
+      "lon": -91.10971,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.85412,
+      "lon": -91.15423,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.85412,
+      "lon": -91.14792,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.68619,
+      "lon": -91.26405,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera Arko",
+      "m": null,
+      "lat": 14.83724,
+      "lon": -91.11879,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera Don Arturo",
+      "m": "Don Arturo",
+      "lat": 14.82706,
+      "lon": -91.19361,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera Don Arturo",
+      "m": null,
+      "lat": 14.81197,
+      "lon": -91.17975,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera La Asunción",
+      "m": null,
+      "lat": 14.77876,
+      "lon": -91.18293,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.80426,
+      "lon": -91.17974,
+      "d": "Sololá"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.79358,
+      "lon": -91.18312,
+      "d": "Sololá"
+    },
+    {
+      "n": "PHG",
+      "m": null,
+      "lat": 14.77035,
+      "lon": -91.18049,
+      "d": "Sololá"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.76972,
+      "lon": -90.98859,
+      "d": "Sololá"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.85439,
+      "lon": -91.15147,
+      "d": "Sololá"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.4335,
+      "lon": -91.15145,
+      "d": "Sololá"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.42602,
+      "lon": -91.15827,
+      "d": "Sololá"
+    },
+    {
+      "n": "Super 24",
+      "m": null,
+      "lat": 14.80125,
+      "lon": -91.24433,
+      "d": "Sololá"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.73184,
+      "lon": -91.10926,
+      "d": "Sololá"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.74316,
+      "lon": -91.16115,
+      "d": "Sololá"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.74355,
+      "lon": -91.15863,
+      "d": "Sololá"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.53229,
+      "lon": -91.13227,
+      "d": "Sololá"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.54702,
+      "lon": -91.4324,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.53402,
+      "lon": -91.47561,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.38016,
+      "lon": -91.16494,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.18191,
+      "lon": -91.30165,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.41174,
+      "lon": -91.30642,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Arturo",
+      "m": null,
+      "lat": 14.53447,
+      "lon": -91.50628,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Fernando",
+      "m": null,
+      "lat": 14.52433,
+      "lon": -91.41589,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Fernando",
+      "m": null,
+      "lat": 14.54045,
+      "lon": -91.4199,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Don Rolando",
+      "m": null,
+      "lat": 14.54337,
+      "lon": -91.45273,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.53765,
+      "lon": -91.41639,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.53531,
+      "lon": -91.49732,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.62341,
+      "lon": -91.42044,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Gasolinera Don Rolando",
+      "m": null,
+      "lat": 14.18326,
+      "lon": -91.31019,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Gasolinera Don Rolando",
+      "m": null,
+      "lat": 14.18286,
+      "lon": -91.30337,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Gasolinera UNO",
+      "m": "UNO",
+      "lat": 14.38004,
+      "lon": -91.16774,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "North West",
+      "m": null,
+      "lat": 14.4118,
+      "lon": -91.30781,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Pacific Oil",
+      "m": null,
+      "lat": 14.53293,
+      "lon": -91.48024,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Petro Gas",
+      "m": null,
+      "lat": 14.54138,
+      "lon": -91.57913,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 14.18109,
+      "lon": -91.29603,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.53424,
+      "lon": -91.51773,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Puma",
+      "m": null,
+      "lat": 14.53596,
+      "lon": -91.49828,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "San Fernando",
+      "m": null,
+      "lat": 14.5333,
+      "lon": -91.50961,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Scott 77",
+      "m": null,
+      "lat": 14.49765,
+      "lon": -91.41234,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Scott 77",
+      "m": null,
+      "lat": 14.54542,
+      "lon": -91.44818,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.44269,
+      "lon": -91.37753,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.54326,
+      "lon": -91.42476,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.18159,
+      "lon": -91.29977,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.39216,
+      "lon": -91.19358,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.4112,
+      "lon": -91.29913,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 14.53377,
+      "lon": -91.49249,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.53467,
+      "lon": -91.4965,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Shell Triángulo",
+      "m": "Shell",
+      "lat": 14.53549,
+      "lon": -91.52335,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.17861,
+      "lon": -91.27439,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.41126,
+      "lon": -91.30678,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.5427,
+      "lon": -91.56833,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.53469,
+      "lon": -91.50594,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": null,
+      "lat": 14.53477,
+      "lon": -91.50591,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.41995,
+      "lon": -91.16363,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Truck Stop San Luis",
+      "m": null,
+      "lat": 14.53945,
+      "lon": -91.53793,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 14.537,
+      "lon": -91.53241,
+      "d": "Suchitepéquez"
+    },
+    {
+      "n": "ARO",
+      "m": null,
+      "lat": 14.94536,
+      "lon": -91.45048,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Estacion Primavera",
+      "m": null,
+      "lat": 15.04333,
+      "lon": -91.50584,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Formula 1",
+      "m": null,
+      "lat": 14.95756,
+      "lon": -91.46291,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.9097,
+      "lon": -91.45019,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.83825,
+      "lon": -91.32731,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Gasolinera El Rey Del Camino",
+      "m": null,
+      "lat": 14.83672,
+      "lon": -91.32854,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Gasolinera Texaco",
+      "m": null,
+      "lat": 15.03763,
+      "lon": -91.40807,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Gasolineras Don Rolando",
+      "m": null,
+      "lat": 14.82097,
+      "lon": -91.33435,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Quetzal",
+      "m": null,
+      "lat": 15.04342,
+      "lon": -91.50637,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.91812,
+      "lon": -91.4381,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.90903,
+      "lon": -91.44206,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.88614,
+      "lon": -91.41191,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.99945,
+      "lon": -91.49876,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 14.92297,
+      "lon": -91.43907,
+      "d": "Totonicapán"
+    },
+    {
+      "n": "Barrio Nuevo",
+      "m": null,
+      "lat": 14.98291,
+      "lon": -89.53343,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Esso",
+      "m": null,
+      "lat": 15.00334,
+      "lon": -89.67364,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Estacion de Servicio y Gasolinera Shell",
+      "m": null,
+      "lat": 14.96357,
+      "lon": -89.52989,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.11242,
+      "lon": -89.35721,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.98597,
+      "lon": -89.72913,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.00534,
+      "lon": -89.66644,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.96189,
+      "lon": -89.8,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.996,
+      "lon": -89.7004,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.0046,
+      "lon": -89.6696,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.99368,
+      "lon": -89.71348,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.25267,
+      "lon": -89.10624,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.97721,
+      "lon": -89.75695,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 14.99259,
+      "lon": -89.718,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera",
+      "m": null,
+      "lat": 15.33912,
+      "lon": -89.73318,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera Puente Blanco",
+      "m": null,
+      "lat": 14.95392,
+      "lon": -89.53726,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera San Marcos",
+      "m": null,
+      "lat": 14.97265,
+      "lon": -89.53494,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera Shell",
+      "m": null,
+      "lat": 14.97099,
+      "lon": -89.52816,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Gasolinera Trans Atlantico",
+      "m": null,
+      "lat": 15.04285,
+      "lon": -89.58061,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Puma",
+      "m": "Puma",
+      "lat": 15.03703,
+      "lon": -89.60074,
+      "d": "Zacapa"
+    },
+    {
+      "n": "R",
+      "m": null,
+      "lat": 15.06793,
+      "lon": -89.51963,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.33469,
+      "lon": -89.75097,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 15.13046,
+      "lon": -89.35117,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Shell",
+      "m": null,
+      "lat": 14.93399,
+      "lon": -89.52447,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Shell",
+      "m": "Shell",
+      "lat": 15.09045,
+      "lon": -89.44518,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.27827,
+      "lon": -89.07123,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.11484,
+      "lon": -89.35569,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.08278,
+      "lon": -89.48286,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.00163,
+      "lon": -89.56969,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.03748,
+      "lon": -89.5954,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.04386,
+      "lon": -89.57568,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.04393,
+      "lon": -89.57556,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco",
+      "m": "Texaco",
+      "lat": 15.20257,
+      "lon": -89.25647,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco Rio Hondo",
+      "m": null,
+      "lat": 15.03924,
+      "lon": -89.59244,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Uno",
+      "m": "Uno",
+      "lat": 15.25413,
+      "lon": -89.10254,
+      "d": "Zacapa"
+    },
+    {
+      "n": "puma",
+      "m": "puma",
+      "lat": 14.99271,
+      "lon": -89.72141,
+      "d": "Zacapa"
+    },
+    {
+      "n": "Texaco Pesa Tivoli",
+      "m": null,
+      "lat": 14.607117,
+      "lon": -90.520867,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.05,
+        "r": 40.05,
+        "d": 46.35
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Texaco Estación Roma",
+      "m": null,
+      "lat": 14.636892,
+      "lon": -90.510237,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.99,
+        "r": 40.09,
+        "d": 46.39
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Puma Servigas",
+      "m": null,
+      "lat": 14.631275,
+      "lon": -90.526468,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.99,
+        "r": 40.49,
+        "d": 46.29
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Gasolinera North West",
+      "m": null,
+      "lat": 14.650377,
+      "lon": -90.431597,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 40.57,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": false
+    },
+    {
+      "n": "Uno José Milla",
+      "m": null,
+      "lat": 14.662277,
+      "lon": -90.489987,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.87,
+        "r": 40.87,
+        "d": 46.17
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Texaco Aeropetrol Fátima",
+      "m": null,
+      "lat": 14.661034,
+      "lon": -90.508991,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.89,
+        "r": 40.89,
+        "d": 46.39
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Shell Cursa II",
+      "m": null,
+      "lat": 14.661034,
+      "lon": -90.508991,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.89,
+        "r": 40.89,
+        "d": 46.39
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Uno La Providencia",
+      "m": null,
+      "lat": 14.663312,
+      "lon": -90.449022,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Texaco San Rafael",
+      "m": null,
+      "lat": 14.663312,
+      "lon": -90.449022,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Shell Los Pinos",
+      "m": null,
+      "lat": 14.653173,
+      "lon": -90.459215,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": false
+    },
+    {
+      "n": "Puma Estación Atlántico",
+      "m": null,
+      "lat": 14.645335,
+      "lon": -90.465398,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Uno Estación de Servicio Cruz del Sur",
+      "m": null,
+      "lat": 14.636892,
+      "lon": -90.510237,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Estación Delta San Pedrito",
+      "m": null,
+      "lat": 14.62552,
+      "lon": -90.499264,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Uno Diagonal Seis",
+      "m": null,
+      "lat": 14.602933,
+      "lon": -90.510754,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    }
+  ]
+>>>>>>> 8377a7b (Datos más confiables: reglas más duras y confirmación por dos fuentes)
 }

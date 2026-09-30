@@ -23,6 +23,9 @@ MAX_ARTICULOS = 25        # por corrida
 MAX_SERIE = 600
 RANGO = (15.0, 80.0)      # Q/galón plausibles
 BANDA = 7.0               # un precio no puede alejarse más de Q7 del precio oficial del MEM
+BRECHA = (1.0, 3.5)       # la súper siempre cuesta entre Q1 y Q3.50 más que la normal
+IGUAL = 0.15              # dos fuentes "coinciden" si no se separan más de Q0.15
+MIN_FUENTES = 2           # con dos fuentes distintas el precio queda confirmado
 
 
 def _referencia() -> dict:
@@ -35,8 +38,12 @@ def _coherente(fila: dict, ref: dict) -> bool:
     """Rechaza observaciones imposibles: súper por debajo de regular, o cifras muy lejos del precio oficial.
     El precio tope del Congreso es un límite legal, no un precio de mercado: solo se le exige el orden."""
     s, r, d = fila.get("superior"), fila.get("regular"), fila.get("diesel")
-    if s is not None and r is not None and s < r:       # la súper siempre cuesta más que la regular
-        return False
+    if s is not None and r is not None:
+        brecha = s - r
+        # La súper SIEMPRE cuesta más que la normal, y por un margen conocido (unos Q2).
+        # Si salen iguales o la diferencia es rarísima, el texto se leyó mal.
+        if not (BRECHA[0] <= brecha <= BRECHA[1]):
+            return False
     if fila.get("tipo") == "tope":
         return True
     for prod in ("superior", "regular", "diesel"):
@@ -242,7 +249,10 @@ def _mediana(vals: list[float]) -> float:
 
 def consolidar(serie: list[dict]) -> dict:
     """Por día y producto: mediana de las observaciones del mejor tipo disponible (promedio > estación > otro).
-    Devuelve el último valor por producto, el cambio contra el día anterior, la serie diaria y el tope legal."""
+
+    Además cuenta cuántas FUENTES DISTINTAS dan el mismo precio. Si coinciden dos o más, el precio
+    queda 'confirmado'; si solo lo dice una, se marca como sin confirmar y así se muestra.
+    """
     utiles = [o for o in serie if o["tipo"] != "tope"]
     por_dia: dict[str, dict] = {}
     for o in utiles:
@@ -257,8 +267,13 @@ def consolidar(serie: list[dict]) -> dict:
     dias = sorted(por_dia)
     for d in dias:
         for p, celda in por_dia[d].items():
-            ult = max(celda["obs"], key=lambda o: o["t"])
-            celda.update({"valor": _mediana([o[p] for o in celda["obs"]]), "t": ult["t"], "fuente": ult["fuente"], "url": ult["url"], "n": len(celda["obs"])})
+            obs = celda["obs"]
+            valor = _mediana([o[p] for o in obs])
+            de_acuerdo = sorted({o["fuente"] for o in obs if abs(o[p] - valor) <= IGUAL})
+            ult = max(obs, key=lambda o: o["t"])
+            celda.update({"valor": valor, "t": ult["t"], "fuente": ult["fuente"], "url": ult["url"],
+                          "n": len(obs), "fuentes": de_acuerdo,
+                          "confirmado": len(de_acuerdo) >= MIN_FUENTES})
             celda.pop("obs")
     ultimo, cambio = {}, {}
     for p in ("superior", "regular", "diesel"):
@@ -269,13 +284,15 @@ def consolidar(serie: list[dict]) -> dict:
         ultimo[p] = dict(por_dia[d][p], fecha=d)
         if len(con) >= 2:
             prev = por_dia[con[-2]][p]["valor"]
-            cambio[p] = {"vs_fecha": con[-2], "q": round(por_dia[d][p]["valor"] - prev, 2), "pct": round((por_dia[d][p]["valor"] / prev - 1) * 100, 1)}
+            cambio[p] = {"vs_fecha": con[-2], "q": round(por_dia[d][p]["valor"] - prev, 2),
+                         "pct": round((por_dia[d][p]["valor"] / prev - 1) * 100, 1)}
     diario = [{"fecha": d, **{p: por_dia[d][p]["valor"] for p in por_dia[d]}} for d in dias]
     topes = [o for o in serie if o["tipo"] == "tope"]
     tope = None
     if topes:
         t = max(topes, key=lambda o: o["t"])
-        tope = {"superior": t.get("superior"), "regular": t.get("regular"), "diesel": t.get("diesel"), "fecha": t["fecha_dato"], "fuente": t["fuente"], "url": t["url"], "titulo": t["titulo"]}
+        tope = {"superior": t.get("superior"), "regular": t.get("regular"), "diesel": t.get("diesel"),
+                "fecha": t["fecha_dato"], "fuente": t["fuente"], "url": t["url"], "titulo": t["titulo"]}
     return {"ultimo": ultimo, "cambio_dia": cambio, "diario": diario, "tope": tope}
 
 
@@ -342,6 +359,12 @@ def estimar_departamentos(hoy_datos: dict) -> dict | None:
 def actualizar() -> dict:
     actual = leer_json(RUTA, {}) or {}
     serie = actual.get("serie", [])
+    # Las reglas pueden haberse endurecido: revisamos otra vez lo ya guardado y tiramos lo que no cuadra.
+    ref = _referencia()
+    antes = len(serie)
+    serie = [o for o in serie if _coherente(o, ref)]
+    if len(serie) < antes:
+        log(f"Precio hoy: descarté {antes - len(serie)} observaciones viejas que ya no pasan la revisión", "WARN")
     vistos = {o["url"] for o in serie} | set(actual.get("sin_precio", []))
     nuevos, sin_precio, revisados = 0, list(actual.get("sin_precio", []))[-300:], 0
     for c in candidatos():

@@ -43,7 +43,8 @@
     const u = ((hoyDatos && hoyDatos.ultimo) || {})[prod];
     const usaOficial = auto[prod] != null && (!u || u.tipo !== "promedio" || (precios.fecha_monitoreo || "") >= u.fecha);
     if (usaOficial) return { valor: auto[prod], fecha: precios.fecha_monitoreo, oficial: true };
-    if (u) return { valor: u.valor, fecha: u.fecha, oficial: false, fuente: u.fuente, url: u.url };
+    if (u) return { valor: u.valor, fecha: u.fecha, oficial: false, fuente: u.fuente, url: u.url,
+                    confirmado: !!u.confirmado, fuentes: u.fuentes || [] };
     return { valor: null };
   }
 
@@ -79,11 +80,19 @@
       }
 
       const MEM_URL = "https://mem.gob.gt/que-hacemos/hidrocarburos/comercializacion-downstream/precios-combustible-nacionales/";
-      $("precioFuente").innerHTML = vr.oficial
-        ? 'Precios de referencia oficiales del MEM, modalidad autoservicio. <a href="' + MEM_URL + '" target="_blank" rel="noopener">Ver en mem.gob.gt</a>'
-        : "Precios del " + fechaCorta(vr.fecha) + " según " + (vr.fuente || "los medios") +
-          ". El MEM aún no publica el informe de esta semana." +
-          (vr.url ? ' <a href="' + vr.url + '" target="_blank" rel="noopener">Ver nota</a>' : "");
+      if (vr.oficial) {
+        $("precioFuente").innerHTML = '✅ Precios de referencia oficiales del MEM, modalidad autoservicio. ' +
+          '<a href="' + MEM_URL + '" target="_blank" rel="noopener">Ver en mem.gob.gt</a>';
+        $("precioFuente").className = "nota confiable";
+      } else {
+        const respaldo = vr.confirmado
+          ? "✅ Confirmado por " + vr.fuentes.length + " medios que citan al MEM: " + vr.fuentes.join(", ")
+          : "⚠ Lo dice un solo medio (" + (vr.fuente || "sin fuente") + "). Tómalo con reserva hasta que otro lo confirme";
+        $("precioFuente").innerHTML = respaldo + ". Dato del " + fechaCorta(vr.fecha) +
+          "; el MEM aún no publica el informe de esta semana." +
+          (vr.url ? ' <a href="' + vr.url + '" target="_blank" rel="noopener">Ver la nota</a>' : "");
+        $("precioFuente").className = vr.confirmado ? "nota confiable" : "nota dudoso";
+      }
 
       const tope = hoyDatos && hoyDatos.tope;
       const topeEl = $("precioTope");

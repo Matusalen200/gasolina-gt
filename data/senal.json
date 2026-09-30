@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "puntaje": -3,
   "tendencia": "estable",
@@ -24,4 +25,32 @@
   "actualizado": "2026-09-30T15:17-06:00",
   "proximo_martes": "2026-10-06",
   "fecha": "2026-09-30"
+=======
+{
+  "puntaje": -19,
+  "tendencia": "baja",
+  "veredicto": "Espera, va a bajar",
+  "emoji": "🟢",
+  "cambio_estimado_q": -0.65,
+  "cambio_estimado_texto": "El martes baja como Q0.65 el galón.",
+  "componentes": {
+    "gasolina_eeuu": -30.9,
+    "dolar": 2.2,
+    "noticias": 10
+  },
+  "detalle": {
+    "rbob_cambio_7d_pct": -3.09,
+    "usdgtq_cambio_7d_pct": 0.11,
+    "noticias_alza_7d": 14,
+    "noticias_baja_7d": 12,
+    "rbob_precio": 3.1071,
+    "usdgtq": 7.637,
+    "tipo_cambio_usado": 7.637
+  },
+  "razon": "Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.",
+  "redactado_por": "plantilla",
+  "actualizado": "2026-09-30T17:13-06:00",
+  "proximo_martes": "2026-10-06",
+  "fecha": "2026-09-30"
+>>>>>>> 8377a7b (Datos más confiables: reglas más duras y confirmación por dos fuentes)
 }

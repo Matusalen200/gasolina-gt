@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "fecha": "2026-09-30",
   "mensaje": "🟡 Sin apuro. El martes casi no cambia.\nHoy el galón cuesta: Súper Q45.27 · Normal Q43.27 · Diésel Q49.37\nPorque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.\nLo más barato: Guatemala, normal a Q43.27\nNoticias: 15 apuntan a que sube y 6 a que baja",
@@ -5,4 +6,13 @@
   "puntaje": 8,
   "emoji": "🟡",
   "generado": "2026-09-30T07:19-06:00"
+=======
+{
+  "fecha": "2026-09-30",
+  "mensaje": "🟢 Espera, va a bajar. El martes baja como Q0.65 el galón.\nHoy el galón cuesta: Súper Q45.27 · Normal Q43.27 · Diésel Q49.37\nPorque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.\nLo más barato: Guatemala, normal a Q43.27\nNoticias: Combustibles en Guatemala: precios actuales y…",
+  "veredicto": "Espera, va a bajar",
+  "puntaje": -19,
+  "emoji": "🟢",
+  "generado": "2026-09-30T17:13-06:00"
+>>>>>>> 8377a7b (Datos más confiables: reglas más duras y confirmación por dos fuentes)
 }

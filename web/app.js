@@ -46,9 +46,22 @@
     if (ultimoReporte && ultimoReporte.mensaje) {
       const btn = $("btnCompartir");
       btn.hidden = false;
-      btn.addEventListener("click", () => {
+      btn.addEventListener("click", async () => {
         const texto = ultimoReporte.mensaje + "\n\nMás en " + location.href.split("?")[0];
-        window.open("https://wa.me/?text=" + encodeURIComponent(texto), "_blank", "noopener");
+        // En el celular wa.me abre WhatsApp. En computadora muchas veces no, así que ahí
+        // copiamos el mensaje al portapapeles y avisamos, en vez de dejar al usuario sin nada.
+        const enCelular = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+        if (enCelular) {
+          window.open("https://wa.me/?text=" + encodeURIComponent(texto), "_blank", "noopener");
+          return;
+        }
+        try {
+          await navigator.clipboard.writeText(texto);
+          btn.textContent = "✅ Copiado, pégalo en WhatsApp";
+        } catch (e) {
+          window.open("https://web.whatsapp.com/send?text=" + encodeURIComponent(texto), "_blank", "noopener");
+        }
+        setTimeout(() => { btn.textContent = "📲 Compartir por WhatsApp"; }, 4000);
       });
     }
     if (ultimoReporte && ultimoReporte.fecha) $("subtitulo").textContent = "Actualizado el " + fechaCorta(ultimoReporte.fecha) + ".";
