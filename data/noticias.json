@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-09-30T18:18+00:00",
+  "actualizado": "2026-09-30T19:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
+    "ALZA": 14,
     "BAJA": 8,
-    "NEUTRAL": 27
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "83435e88e675",
+      "titulo": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Riches-Are-Transforming-Its-Economy-at-Breakneck-Speed.html",
+      "fecha": "2026-09-30T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "9ab296b0cbb0",
       "titulo": "The World’s Diesel Problem Runs Deeper Than the Iran War",
@@ -27,6 +38,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "174e2776f455",
+      "titulo": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJmckhvcEF2eGlycEZxakpEWU9PdGhueEptR25MUXlsbkJMN0tiS2piSUlkeGtlNkxyaldDNUFNWjFlVGFIU1QzbnU1R1pXSWJnWTh2dDFhS1drZ0JRSHBLaTNJY0hwTXZ2c09hYXI4VlI0ZEhDdFpHRERnMWRTSDQxMHBXVWo1cVRVekpSSVkzQ0ZWMkhyWVRKNTRYc3U0X0pfY2VYNjFHZ0QwdGZQYWZjVENzUmt6MnI3ZlAyNzJpLWdQbDQ1NGd3?oc=5",
+      "fecha": "2026-09-30T16:34+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -338,6 +360,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "80e6c80e8303",
+      "titulo": "Indian shares extend losing run on elevated oil, bond yields",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5lWllfVDNRcEhXRTZMSTB4QnRraHlSN2NUaUJxMWN3dVlIeDJRbEx2aWVSa3JibXB6MVE1NVZPbGJTdkpBcnpzUHN2bjhMVTRPWFE1WGNuT25ESUNhYTNZRVpFZzhSQ2xnbUt5ZktKZWFSNWpjNG51NXNRWHNlM1dRNTZkUmZ2cC1hdDJYQjdIQ25keWstWGJ5T0VyUVpNNzBvQQ?oc=5",
+      "fecha": "2026-09-29T21:51+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "f5aa88caeca2",
       "titulo": "Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
       "fuente": "Reuters (vía Google News)",
@@ -519,39 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Looks-to-Boost-Exploration-as-Hormuz-Crisis-Threatens-Supply.html",
       "fecha": "2026-09-29T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7d694692aef8",
-      "titulo": "Dangote says Kenya court ruling won't halt refinery launch but may affect site activities",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2tXbElSZ0o1NEJfOU9USnJrMVJpZDRBT0g2SmVoRU9SY2ZPV0JtSEJrT3drR2FGNzBtek9Vakk1SVZsbEdQSWRxa183ZWNsd3doNHVnb3BTLVpxMGtTUW82aEhPcUdUd091U3B6WlJjUWRKN3NVTGlVWnMxNXFiOTVoWG4yQ1FZUjZlNXh0SEdLcVFFenVtUWVtYjNBalprUVdweTdQdktpbUxNeHNZeEhIcEJGa0JHMkY4dlZQb3dwcUU?oc=5",
-      "fecha": "2026-09-29T10:48+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ccd969f51509",
-      "titulo": "EU eyes methane law delay, IEA to discuss oil stock releases if needed",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWJHMlpqTU03cjVmdEp0ZTRscGs4YUNNSDNuMmhINkhpWnFjS0dYZE9VX21uYTlnTHF5YVF2ejlESkZmY1BYcmdVNTAzb043Q0lmcXdvRV94aVJUS0x2S3N1d0NiVm1leXJldjJGUjN6ZDR5bDBvZ3cyZTUzNGZLUm9NVk9weHVzMFlONVBfaDM1Zi1DeEpqUzNrSFhieXF0WXVxRm53ak5sUTVkTzZWcldOWmRTT081a2FnQl9QTGpFVnRvZXhSag?oc=5",
-      "fecha": "2026-09-29T10:40+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "21fbe38e7575",
-      "titulo": "Saudi Arabia Restarts Red Sea Crude Oil Loadings",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Restarts-Red-Sea-Crude-Oil-Loadings.html",
-      "fecha": "2026-09-29T10:30+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",

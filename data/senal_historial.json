@@ -113,9 +113,9 @@
   },
   {
     "fecha": "2026-09-30",
-    "puntaje": 2,
+    "puntaje": -2,
     "tendencia": "estable",
     "veredicto": "Sin apuro",
-    "cambio_estimado_q": -0.4
+    "cambio_estimado_q": -0.5
   }
 ]
