@@ -1,0 +1,336 @@
+{
+  "con_ubicacion": 27,
+  "actualizado": "2026-09-29T18:27-06:00",
+  "fecha_monitoreo": "2026-09-07",
+  "fuente": "TV Azteca Guatemala",
+  "url": "https://tvaztecaguate.com/nacionales/2026/09/10/donde-esta-mas-barato-el-combustible-en-guatemala-estas-son-las-gasolineras/",
+  "titulo": "Estas son las gasolineras con los precios más bajos, según el MEM",
+  "mas_barata": {
+    "nombre": "Texaco Pesa Tivoli",
+    "zona": "zona 9",
+    "superior": 42.05,
+    "regular": 40.05,
+    "diesel": 46.35,
+    "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+Pesa+Tivoli+zona+9+Guatemala",
+    "lat": 14.607117,
+    "lon": -90.520867,
+    "ubicacion_exacta": false
+  },
+  "autoservicio": [
+    {
+      "nombre": "Texaco Pesa Tivoli",
+      "zona": "zona 9",
+      "superior": 42.05,
+      "regular": 40.05,
+      "diesel": 46.35,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+Pesa+Tivoli+zona+9+Guatemala",
+      "lat": 14.607117,
+      "lon": -90.520867,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Texaco Estación Roma",
+      "zona": "zona 1",
+      "superior": 42.99,
+      "regular": 40.09,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+Estaci%C3%B3n+Roma+zona+1+Guatemala",
+      "lat": 14.636892,
+      "lon": -90.510237,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma Servigas",
+      "zona": "zona 3",
+      "superior": 42.99,
+      "regular": 40.49,
+      "diesel": 46.29,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Servigas+zona+3+Guatemala",
+      "lat": 14.631275,
+      "lon": -90.526468,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Gasolinera North West",
+      "zona": "zona 18",
+      "superior": 43.07,
+      "regular": 40.57,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Gasolinera+North+West+zona+18+Guatemala",
+      "lat": 14.650377,
+      "lon": -90.431597,
+      "ubicacion_exacta": true
+    },
+    {
+      "nombre": "Uno José Milla",
+      "zona": "zona 6",
+      "superior": 42.87,
+      "regular": 40.87,
+      "diesel": 46.17,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Uno+Jos%C3%A9+Milla+zona+6+Guatemala",
+      "lat": 14.662277,
+      "lon": -90.489987,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Texaco Aeropetrol Fátima",
+      "zona": "zona 2",
+      "superior": 42.89,
+      "regular": 40.89,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+Aeropetrol+F%C3%A1tima+zona+2+Guatemala",
+      "lat": 14.661034,
+      "lon": -90.508991,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Shell Cursa II",
+      "zona": "zona 2",
+      "superior": 42.89,
+      "regular": 40.89,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+Cursa+II+zona+2+Guatemala",
+      "lat": 14.661034,
+      "lon": -90.508991,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Uno Estación de Servicio Casal",
+      "zona": "Fraijanes",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Uno+Estaci%C3%B3n+de+Servicio+Casal+Fraijanes+Guatemala"
+    },
+    {
+      "nombre": "Uno La Providencia",
+      "zona": "zona 18",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Uno+La+Providencia+zona+18+Guatemala",
+      "lat": 14.663312,
+      "lon": -90.449022,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Texaco San Rafael",
+      "zona": "zona 18",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+San+Rafael+zona+18+Guatemala",
+      "lat": 14.663312,
+      "lon": -90.449022,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Shell Los Pinos",
+      "zona": "zona 17",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+Los+Pinos+zona+17+Guatemala",
+      "lat": 14.653173,
+      "lon": -90.459215,
+      "ubicacion_exacta": true
+    },
+    {
+      "nombre": "Puma Estación Atlántico",
+      "zona": "zona 17",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Estaci%C3%B3n+Atl%C3%A1ntico+zona+17+Guatemala",
+      "lat": 14.645335,
+      "lon": -90.465398,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Uno Estación de Servicio Cruz del Sur",
+      "zona": "zona 1",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Uno+Estaci%C3%B3n+de+Servicio+Cruz+del+Sur+zona+1+Guatemala",
+      "lat": 14.636892,
+      "lon": -90.510237,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Estación Delta San Pedrito",
+      "zona": "zona 5",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n+Delta+San+Pedrito+zona+5+Guatemala",
+      "lat": 14.62552,
+      "lon": -90.499264,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Uno Diagonal Seis",
+      "zona": "zona 10",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Uno+Diagonal+Seis+zona+10+Guatemala",
+      "lat": 14.602933,
+      "lon": -90.510754,
+      "ubicacion_exacta": false
+    }
+  ],
+  "servicio_completo": [
+    {
+      "nombre": "Texaco Gasolinera Santa Clara",
+      "zona": "zona 10",
+      "superior": 43.2,
+      "regular": 39.71,
+      "diesel": 47.51,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+Gasolinera+Santa+Clara+zona+10+Guatemala",
+      "lat": 14.602933,
+      "lon": -90.510754,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma María José",
+      "zona": "zona 5",
+      "superior": 43.09,
+      "regular": 40.59,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Mar%C3%ADa+Jos%C3%A9+zona+5+Guatemala",
+      "lat": 14.62552,
+      "lon": -90.499264,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma Primavera",
+      "zona": "zona 9",
+      "superior": 43.09,
+      "regular": 40.59,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Primavera+zona+9+Guatemala",
+      "lat": 14.607117,
+      "lon": -90.520867,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma Lagas de Puerta Parada",
+      "zona": "Santa Catarina Pinula",
+      "superior": 43.09,
+      "regular": 40.59,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Lagas+de+Puerta+Parada+Santa+Catarina+Pinula+Guatemala",
+      "lat": 14.576335,
+      "lon": -90.493444,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma Capitano",
+      "zona": "zona 3",
+      "superior": 43.09,
+      "regular": 40.59,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Capitano+zona+3+Guatemala",
+      "lat": 14.631275,
+      "lon": -90.526468,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma Ingesoros",
+      "zona": "zona 9",
+      "superior": 43.09,
+      "regular": 40.59,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Ingesoros+zona+9+Guatemala",
+      "lat": 14.607117,
+      "lon": -90.520867,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Texaco Pesa Tivoli",
+      "zona": "zona 9",
+      "superior": 43.05,
+      "regular": 41.05,
+      "diesel": 47.35,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Texaco+Pesa+Tivoli+zona+9+Guatemala",
+      "lat": 14.607117,
+      "lon": -90.520867,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "City Gas",
+      "zona": "Fraijanes",
+      "superior": 43.07,
+      "regular": 41.07,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=City+Gas+Fraijanes+Guatemala"
+    },
+    {
+      "nombre": "Shell San José",
+      "zona": "zona 4",
+      "superior": 43.09,
+      "regular": 41.09,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+San+Jos%C3%A9+zona+4+Guatemala",
+      "lat": 14.619415,
+      "lon": -90.516727,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Shell Estadio",
+      "zona": "zona 4",
+      "superior": 43.09,
+      "regular": 41.09,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+Estadio+zona+4+Guatemala",
+      "lat": 14.619415,
+      "lon": -90.516727,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Shell Estación Bolívar",
+      "zona": "zona 3",
+      "superior": 43.09,
+      "regular": 41.09,
+      "diesel": 46.39,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+Estaci%C3%B3n+Bol%C3%ADvar+zona+3+Guatemala",
+      "lat": 14.631275,
+      "lon": -90.526468,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Puma Estación Atlántico",
+      "zona": "zona 17",
+      "superior": 43.57,
+      "regular": 41.57,
+      "diesel": 46.37,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Puma+Estaci%C3%B3n+Atl%C3%A1ntico+zona+17+Guatemala",
+      "lat": 14.645335,
+      "lon": -90.465398,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Shell Estación de Servicio Altamira",
+      "zona": "Santa Catarina Pinula",
+      "superior": 43.59,
+      "regular": 41.59,
+      "diesel": 47.89,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+Estaci%C3%B3n+de+Servicio+Altamira+Santa+Catarina+Pinula+Guatemala",
+      "lat": 14.576335,
+      "lon": -90.493444,
+      "ubicacion_exacta": false
+    },
+    {
+      "nombre": "Shell Aeropuerto II",
+      "zona": "zona 9",
+      "superior": 43.89,
+      "regular": 41.89,
+      "diesel": 47.19,
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Shell+Aeropuerto+II+zona+9+Guatemala",
+      "lat": 14.607117,
+      "lon": -90.520867,
+      "ubicacion_exacta": false
+    }
+  ]
+}

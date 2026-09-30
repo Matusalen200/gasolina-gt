@@ -1,0 +1,129 @@
+{
+  "Texaco Pesa Tivoli|zona 9": {
+    "lat": 14.607117,
+    "lon": -90.520867,
+    "exacta": false
+  },
+  "Texaco Estación Roma|zona 1": {
+    "lat": 14.636892,
+    "lon": -90.510237,
+    "exacta": false
+  },
+  "Puma Servigas|zona 3": {
+    "lat": 14.631275,
+    "lon": -90.526468,
+    "exacta": false
+  },
+  "Gasolinera North West|zona 18": {
+    "lat": 14.650377,
+    "lon": -90.431597,
+    "exacta": true
+  },
+  "Uno José Milla|zona 6": {
+    "lat": 14.662277,
+    "lon": -90.489987,
+    "exacta": false
+  },
+  "Texaco Aeropetrol Fátima|zona 2": {
+    "lat": 14.661034,
+    "lon": -90.508991,
+    "exacta": false
+  },
+  "Shell Cursa II|zona 2": {
+    "lat": 14.661034,
+    "lon": -90.508991,
+    "exacta": false
+  },
+  "Uno Estación de Servicio Casal|Fraijanes": null,
+  "Uno La Providencia|zona 18": {
+    "lat": 14.663312,
+    "lon": -90.449022,
+    "exacta": false
+  },
+  "Texaco San Rafael|zona 18": {
+    "lat": 14.663312,
+    "lon": -90.449022,
+    "exacta": false
+  },
+  "Shell Los Pinos|zona 17": {
+    "lat": 14.653173,
+    "lon": -90.459215,
+    "exacta": true
+  },
+  "Puma Estación Atlántico|zona 17": {
+    "lat": 14.645335,
+    "lon": -90.465398,
+    "exacta": false
+  },
+  "Uno Estación de Servicio Cruz del Sur|zona 1": {
+    "lat": 14.636892,
+    "lon": -90.510237,
+    "exacta": false
+  },
+  "Estación Delta San Pedrito|zona 5": {
+    "lat": 14.62552,
+    "lon": -90.499264,
+    "exacta": false
+  },
+  "Uno Diagonal Seis|zona 10": {
+    "lat": 14.602933,
+    "lon": -90.510754,
+    "exacta": false
+  },
+  "Texaco Gasolinera Santa Clara|zona 10": {
+    "lat": 14.602933,
+    "lon": -90.510754,
+    "exacta": false
+  },
+  "Puma María José|zona 5": {
+    "lat": 14.62552,
+    "lon": -90.499264,
+    "exacta": false
+  },
+  "Puma Primavera|zona 9": {
+    "lat": 14.607117,
+    "lon": -90.520867,
+    "exacta": false
+  },
+  "Puma Lagas de Puerta Parada|Santa Catarina Pinula": {
+    "lat": 14.576335,
+    "lon": -90.493444,
+    "exacta": false
+  },
+  "Puma Capitano|zona 3": {
+    "lat": 14.631275,
+    "lon": -90.526468,
+    "exacta": false
+  },
+  "Puma Ingesoros|zona 9": {
+    "lat": 14.607117,
+    "lon": -90.520867,
+    "exacta": false
+  },
+  "City Gas|Fraijanes": null,
+  "Shell San José|zona 4": {
+    "lat": 14.619415,
+    "lon": -90.516727,
+    "exacta": false
+  },
+  "Shell Estadio|zona 4": {
+    "lat": 14.619415,
+    "lon": -90.516727,
+    "exacta": false
+  },
+  "Shell Estación Bolívar|zona 3": {
+    "lat": 14.631275,
+    "lon": -90.526468,
+    "exacta": false
+  },
+  "Shell Estación de Servicio Altamira|Santa Catarina Pinula": {
+    "lat": 14.576335,
+    "lon": -90.493444,
+    "exacta": false
+  },
+  "Shell Aeropuerto II|zona 9": {
+    "lat": 14.607117,
+    "lon": -90.520867,
+    "exacta": false
+  }
+}

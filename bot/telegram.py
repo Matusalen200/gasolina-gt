@@ -10,8 +10,7 @@ Secrets: TELEGRAM_BOT_TOKEN y TELEGRAM_CHANNEL_ID (p. ej. @gasolinagt o -1001234
 Uso:
   python bot/telegram.py                 # una pasada: publica el reporte y responde lo pendiente
   python bot/telegram.py --escuchar      # respuestas al instante (deja la ventana abierta)
-  python bot/telegram.py "/precio Petén" # probar una respuesta sin token ni internet
-"""
+  python bot/telegram.py "/precio Petén" # probar una respuesta sin token ni internet\n"""
 from __future__ import annotations
 
 import os
@@ -317,6 +316,51 @@ def respuesta_midepto(arg: str, uid) -> str:
     return P.MENSAJE_DEPTO_GUARDADO.format(departamento=d["departamento"])
 
 
+def _km(a, b) -> float:
+    """Distancia en línea recta entre dos puntos, para ordenar por cercanía."""
+    import math
+    r, rad = 6371.0, math.radians
+    dlat, dlon = rad(b[0] - a[0]), rad(b[1] - a[1])
+    x = math.sin(dlat / 2) ** 2 + math.cos(rad(a[0])) * math.cos(rad(b[0])) * math.sin(dlon / 2) ** 2
+    return 2 * r * math.asin(math.sqrt(x))
+
+
+def respuesta_gasolineras() -> str:
+    est = leer_json(DATA / "estaciones.json", {}) or {}
+    baratas = est.get("autoservicio") or []
+    if not baratas:
+        return P.MENSAJE_SIN_GASOLINERAS
+    lista = "\n".join(P.FILA_GASOLINERA.format(puesto=i + 1, nombre=e["nombre"], zona=e["zona"],
+                                               precio=q(e["regular"]))
+                      for i, e in enumerate(baratas[:5]))
+    return P.MENSAJE_GASOLINERAS.format(lista=lista,
+                                        nota=P.NOTA_GASOLINERAS.format(fecha=fecha_bonita(est.get("fecha_monitoreo"))))
+
+
+def respuesta_cercanas(lat: float, lon: float) -> str:
+    """Las gasolineras más cercanas a donde está la persona, con su precio."""
+    mapa = leer_json(DATA / "gasolineras.json", {}) or {}
+    todas = mapa.get("gasolineras") or []
+    if not todas:
+        return P.MENSAJE_SIN_GASOLINERAS
+    deptos = {d["departamento"]: d for d in (_deptos().get("departamentos") or [])}
+    cerca = sorted(todas, key=lambda g: _km((lat, lon), (g["lat"], g["lon"])))[:5]
+    filas = []
+    for i, g in enumerate(cerca):
+        if g.get("p"):
+            precio = f"normal {q(g['p']['r'])} (verificado)"
+        elif g["d"] in deptos:
+            precio = f"normal {q(deptos[g['d']]['regular'])} (referencia de {g['d']})"
+        else:
+            precio = "sin precio"
+        filas.append(P.FILA_CERCANA.format(puesto=i + 1, nombre=g["n"],
+                                           km=f"{_km((lat, lon), (g['lat'], g['lon'])):.1f}", precio=precio))
+    g = cerca[0]
+    return P.MENSAJE_CERCANAS.format(
+        lista="\n".join(filas),
+        nota=P.NOTA_CERCANAS.format(mapa=f"https://www.google.com/maps/dir/?api=1&destination={g['lat']},{g['lon']}"))
+
+
 def respuesta_plus() -> str:
     plan = cargar_plan()
     if not plan.get("plus_activo") or not plan.get("precio_mensual_q"):
@@ -379,6 +423,7 @@ def respuesta_claude(pregunta: str) -> str | None:
 RX_SENAL = re.compile(r"\b(sube|subir|subira|baja|bajar|bajara|lleno|llenar|espero|esperar|conviene)\b")
 RX_BARATO = re.compile(r"\b(barat|donde)\b")
 RX_TANQUE = re.compile(r"\b(tanque|llenar|galon|galones)\b")
+RX_GASOLINERA = re.compile(r"\b(gasolinera|gasolineras|estacion|estaciones|bomba|cerca|cercana|cercanas)\b")
 
 
 def _texto_libre(texto: str, uid=None) -> str:
@@ -389,6 +434,8 @@ def _texto_libre(texto: str, uid=None) -> str:
         return respuesta_precio(d["departamento"], uid)
     if RX_TANQUE.search(t) and re.search(r"\d", t):
         return respuesta_tanque(texto, uid)
+    if RX_GASOLINERA.search(t):
+        return respuesta_gasolineras()
     if RX_BARATO.search(t):
         return _ranking(texto, caros=False)
     if RX_SENAL.search(t):
@@ -419,6 +466,8 @@ def responder(texto: str, uid=None) -> str | None:
         return _ranking(arg, caros=False)
     if comando == "caros":
         return _ranking(arg, caros=True)
+    if comando in ("gasolineras", "gasolinera"):
+        return respuesta_gasolineras()
     if comando == "tanque":
         return respuesta_tanque(arg, uid)
     if comando == "noticias":
@@ -452,6 +501,10 @@ def _procesar(u: dict, estado: dict) -> bool:
     msg = u.get("message") or u.get("channel_post") or {}
     texto = msg.get("text") or ""
     chat = msg.get("chat") or {}
+    ubicacion = msg.get("location") or {}
+    if ubicacion.get("latitude") is not None and chat.get("id"):
+        enviar(chat["id"], respuesta_cercanas(ubicacion["latitude"], ubicacion["longitude"]))
+        return True
     if not texto or not chat.get("id"):
         return False
     if chat.get("type") == "channel" and not texto.startswith("/"):

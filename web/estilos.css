@@ -169,3 +169,17 @@ select {
 .curiosos .burbuja { margin-top: 10px; }
 footer { max-width: 640px; margin: 0 auto; padding: 0 18px 30px; color: var(--texto-suave); font-size: 0.8rem; }
 footer a { color: inherit; }
+
+/* 3b. Mapa de gasolineras */
+.controles-mapa { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+.controles-mapa select { flex: 1 1 55%; }
+.controles-mapa .boton-suave { flex: 1 1 40%; margin-top: 0; width: auto; }
+#lienzoMapa { height: 340px; border-radius: 14px; border: 1px solid var(--borde); z-index: 0; }
+.leaflet-popup-content { font-size: 0.95rem; line-height: 1.45; }
+.leaflet-popup-content .verificado { color: #2e9e5b; font-weight: 700; }
+.leaflet-popup-content .referencia { color: #6b7280; }
+.leaflet-popup-content a { color: #1f5fbf; font-weight: 700; }
+#listaMapa li { cursor: pointer; }
+#listaMapa .meta { color: var(--texto-suave); font-size: 0.85rem; font-weight: 400; }
+#listaMapa .ir { background: var(--acento); color: #fff; padding: 6px 14px; border-radius: 10px;
+                 text-decoration: none; font-size: 0.9rem; font-weight: 700; }

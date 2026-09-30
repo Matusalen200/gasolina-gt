@@ -100,6 +100,23 @@ sacadas del informe archivado) y el modelo exige 10. Hasta entonces la proyecci�
 del cambio de la gasolina en EE.UU. sobre el último precio MEM conocido, con rango ±Q0.75×√semanas.
 No hay error medio que reportar todavía; cuando lo haya se escribe aquí y en el tablero, sea bueno o malo.
 
+## El mapa de gasolineras
+
+`agente/mapa.py` baja de **OpenStreetMap** la ubicación de las más de 1,100 gasolineras del país. Es un
+mapa libre hecho por voluntarios: gratis, sin cuenta ni tarjeta. Lo que no tiene son precios.
+
+`agente/estaciones.py` saca los precios por gasolinera del monitoreo semanal del MEM, que los medios
+republican con nombre, zona y los tres combustibles. Son unas quince estaciones de la capital.
+
+Las dos cosas se juntan así:
+
+- Gasolinera que el MEM sí visitó → se muestra su **precio verificado** (punto verde en el mapa).
+- Cualquier otra → se muestra el **precio de referencia de su departamento**, y se dice que es
+  referencia, no el precio exacto de esa bomba.
+
+El departamento de cada gasolinera se deduce por la cabecera departamental más cercana. En el bot,
+quien manda su ubicación recibe las cinco más cercanas con su precio y el enlace para llegar.
+
 ## El precio de hoy (`agente/hoy.py`)
 
 Cada hora lee los feeds de Prensa Libre, La Hora, TV Azteca Guatemala, Emisoras Unidas, República, la Diaco
@@ -144,7 +161,8 @@ tablero lo avisa. Los parsers están probados con PDFs y una tabla HTML reales e
 ## Estructura
 
 ```
-agente/       agente.py (orquestador), comun.py, mem.py, mem_navegador.py, hoy.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
+agente/       agente.py (orquestador), comun.py, mem.py, mem_navegador.py, hoy.py, estaciones.py,
+              mapa.py, grafica.py, mercado.py, noticias.py, senal.py, reporte.py, proyeccion.py
 bot/          plantillas.py (edita los textos aquí), telegram.py
 web/          index.html, app.js, estilos.css  (JS vanilla + Chart.js desde CDN)
 data/         JSON que produce el agente (precios, departamentos, mercado, noticias, señal, aciertos, proyección, reportes/)

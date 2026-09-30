@@ -257,9 +257,11 @@
     ]);
     const precioHoy = await cargar("precio_hoy.json");
     const deptosHoy = await cargar("departamentos_hoy.json");
+    const gasolineras = await cargar("gasolineras.json");
     seccion(() => pintarVeredicto(senal, ultimoReporte));
     seccion(() => window.pintarPanelPrecio(precioHoy, precios, precioHist));
     seccion(() => pintarDeptos(deptos, deptosHoy));
+    seccion(() => window.pintarMapa(gasolineras, deptosHoy));
     seccion(() => pintarTira(historialSenal));
     seccion(() => pintarNoticias(noticias, senal));
     seccion(() => pintarAciertos(aciertos));

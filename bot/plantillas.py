@@ -50,6 +50,28 @@ MENSAJE_BARATOS = "💚 Donde más barata está la {producto} hoy:\n{lista}\n{no
 MENSAJE_CAROS = "💸 Donde más cara está la {producto} hoy:\n{lista}\n{nota}"
 FILA_LISTA = "{puesto}. {departamento} — {precio}"
 
+# ---------------------------------------------------------------- gasolineras
+
+MENSAJE_GASOLINERAS = (
+    "⛽ Gasolineras más baratas de la capital:\n"
+    "{lista}\n"
+    "{nota}"
+)
+FILA_GASOLINERA = "{puesto}. {nombre} ({zona}) — normal {precio}"
+NOTA_GASOLINERAS = "Precios que el MEM revisó el {fecha}. Mándame tu ubicación 📍 y te digo las más cercanas."
+
+MENSAJE_CERCANAS = (
+    "📍 Las gasolineras más cerca de ti:\n"
+    "{lista}\n"
+    "{nota}"
+)
+FILA_CERCANA = "{puesto}. {nombre} — a {km} km · {precio}"
+NOTA_CERCANAS = "Toca el enlace para llegar: {mapa}"
+MENSAJE_SIN_GASOLINERAS = (
+    "Todavía no tengo el mapa de gasolineras listo.\n"
+    "Prueba /baratos para ver los departamentos más baratos."
+)
+
 # ---------------------------------------------------------------- calculadora
 
 MENSAJE_TANQUE = (
@@ -156,6 +178,7 @@ COMANDOS_MENU = [
     ("baratos", "Dónde está más barata"),
     ("caros", "Dónde está más cara"),
     ("tanque", "Cuánto cuesta llenar, ej. /tanque 10"),
+    ("gasolineras", "Las más baratas y las más cercanas"),
     ("noticias", "Qué está moviendo el precio"),
     ("futuro", "Qué esperamos en 4 semanas"),
     ("aciertos", "¿Le atinamos?"),

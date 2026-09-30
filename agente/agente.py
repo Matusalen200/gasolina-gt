@@ -38,6 +38,16 @@ def etapa_hoy():
     return hoy.actualizar()
 
 
+def etapa_estaciones():
+    from agente import estaciones
+    return estaciones.actualizar()
+
+
+def etapa_mapa():
+    from agente import mapa
+    return mapa.actualizar()
+
+
 def etapa_mercado():
     from agente import mercado
     return mercado.actualizar()
@@ -81,6 +91,8 @@ def etapa_mensual():
 ETAPAS = {
     "mem": etapa_mem,
     "hoy": etapa_hoy,
+    "estaciones": etapa_estaciones,
+    "mapa": etapa_mapa,
     "mercado": etapa_mercado,
     "noticias": etapa_noticias,
     "senal": etapa_senal,
@@ -114,7 +126,7 @@ def main(argv=None) -> int:
         _etapa(args.solo, ETAPAS[args.solo])
         return 0
 
-    for nombre in ("mem", "hoy", "mercado", "noticias", "senal"):
+    for nombre in ("mem", "hoy", "estaciones", "mapa", "mercado", "noticias", "senal"):
         _etapa(nombre, ETAPAS[nombre])
     if args.diario:
         for nombre in ("proyeccion", "reporte", "grafica", "telegram"):

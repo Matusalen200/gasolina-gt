@@ -5,8 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Gasolina GT · ¿Lleno hoy o espero?</title>
   <meta name="description" content="Te decimos si conviene llenar el tanque hoy o esperar, y dónde está más barata la gasolina en Guatemala. Gratis.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
   <link rel="stylesheet" href="estilos.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 </head>
 <body>
 <header>
@@ -63,6 +65,19 @@
     <p class="nota" id="dondeFecha"></p>
   </section>
 
+  <!-- 3b. El mapa -->
+  <section class="burbuja" id="mapa" hidden>
+    <p class="pregunta">¿Qué gasolinera me queda cerca?</p>
+    <div class="controles-mapa">
+      <select id="selDeptoMapa" aria-label="Departamento"></select>
+      <button class="boton-suave" id="btnUbicarme">📍 Ver las más cercanas</button>
+    </div>
+    <div id="lienzoMapa"></div>
+    <p class="nota" id="mapaResumen"></p>
+    <ol class="lista-deptos" id="listaMapa"></ol>
+    <p class="nota"><span id="mapaTotal"></span>. Ubicaciones de OpenStreetMap, precios del MEM.</p>
+  </section>
+
   <!-- 4. Últimos días -->
   <section class="burbuja" id="cuando" hidden>
     <p class="pregunta">¿Cómo ha estado la semana?</p>
@@ -117,7 +132,8 @@
   <p id="pie"></p>
 </footer>
 <!-- El ?v= obliga al navegador a bajar el código nuevo. Súbele el número al cambiar los .js -->
-<script src="panel_precio.js?v=3"></script>
-<script src="app.js?v=3"></script>
+<script src="panel_precio.js?v=4"></script>
+<script src="mapa.js?v=4"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>
