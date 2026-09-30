@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T14:19+00:00",
+  "actualizado": "2026-09-30T15:21+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
@@ -7,6 +7,17 @@
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "b0c9f5cda12a",
+      "titulo": "EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Reports-Crude-Build-as-Diesel-Stocks-Fall-14-Below-Average.html",
+      "fecha": "2026-09-30T14:43+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "95753854cb5e",
       "titulo": "Iran Warns No Energy Infrastructure Will Be Safe If It Can't Sell Oil",
@@ -159,6 +170,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d22f3ec0bb20",
+      "titulo": "Europa teme una crisis energética si Trump prohíbe las exportaciones de diésel de EE. UU.",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/europa-teme-una-crisis-energetica-si-donald-trump-prohibe-las-exportaciones-de-diesel-de-ee-uu/",
+      "fecha": "2026-09-30T06:05+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f482bc11f059",
-      "titulo": "Indian rupee drops to two-month low past key 96/USD barrier as oil worries deepen",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHNTZW52Uy1FNUw2R1RIaEFLa2RMZ25fLUNZMHluYUVBbW9WbTFIV1oxUE82WmtKSnNBN2pDSEI5cnF5Q0d5bWgyeHViT0VaV1dXNzBKbVhDLUhWMmRmQURUdEZua2E5eEZiNDJEVkUyamphM1pfRHVOa1NFSFpTazMzNWlQeVBKazNwWTFCNkpOMFBDYTZSaFhOb29LY1F5VmhGYUNxR19VV1VGVHhBdUc1UXUyLVh2LXp6bzNQWQ?oc=5",
-      "fecha": "2026-09-29T03:45+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f5aa88caeca2",
-      "titulo": "Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUtsNnBXN3BFb1pqRHQ0ZkpIVGNickIzQXk0UWNDdV9DSlBsbEc5QTlZZ05sQkYwOUlJbGZLNmJNS3cxWmNqXzN6ZkdQblFkUDAyY0E0UG5ZYTBrRnd5blJwdEJyMTdQTTFGUTJpY1hOZDhkSGxJa2F0LUotZ1J2LXEzZmNaMEcwMlZFaHZwZkpKR1RHNF96d2EzSUlLek5kcGtpNQ?oc=5",
-      "fecha": "2026-09-29T02:57+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
