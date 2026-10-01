@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-01T20:17+00:00",
+  "actualizado": "2026-10-01T21:15+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 9,
-    "BAJA": 6,
-    "NEUTRAL": 35
+    "BAJA": 7,
+    "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "1f4e6b7b81dc",
+      "titulo": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
+      "fecha": "2026-10-01T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "92c95b6f4d69",
+      "titulo": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
+      "fecha": "2026-10-01T20:40+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "ac57b224454d",
       "titulo": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "273c7cf87505",
-      "titulo": "Arévalo sanciona decreto que exonera temporalmente de impuestos a los combustibles y veta propuesta de precios máximos",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/arevalo-sanciona-decreto-que-exonera-temporalmente-de-impuestos-a-los-combustibles-y-veta-propuesta-de-precios-maximos-breaking/",
-      "fecha": "2026-09-30T13:19+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f0c58a6fe397",
-      "titulo": "Global stocks weather third-quarter AI, bond and crude maelstrom",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZjWFpDMnhINXNrdUFFQm50Rjhwc1dLMTRFMTJnU0VSNzgtbDdkS18wTWNGUklqNHAtWnNEM0R0VzYySlR1a3RqZGFMd0pRSnVUd0NzeWREUDFhQVFsVTY4ZVRSNWVuNklsUjJzYTRObHl0NUo0WkRwNFBvUGNNdTBZUlo?oc=5",
-      "fecha": "2026-09-30T12:56+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
