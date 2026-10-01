@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-01T17:16+00:00",
+  "actualizado": "2026-10-01T18:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
+    "ALZA": 10,
     "BAJA": 6,
-    "NEUTRAL": 33
+    "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "4d4f352f9095",
+      "titulo": "Amazon Secures 20 Years of Nuclear Power From Constellation",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Amazon-Secures-20-Years-of-Nuclear-Power-From-Constellation.html",
+      "fecha": "2026-10-01T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "008b6fe012f3",
+      "titulo": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Opens-35000-California-Acres-to-December-Oil-and-Gas-Lease-Sale.html",
+      "fecha": "2026-10-01T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "4d98dcb83089",
       "titulo": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia",
@@ -71,6 +93,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "454ce5b137ca",
+      "titulo": "Así amanecieron los precios de los combustibles este 1 de octubre",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1JoQWIweThvMkZINE1lblJDOVAwQlBSMWdtWDJ4V0VueGpmaGtmTkd3UU9ZNjhuLXNPRjJfaFZIc0d1d1kwWUJSUUFrZmJ3dlFERFJUbDdhNVpXRlRXM1NZXzBkaDRxSWNJLXpOdzBHQTVmTmpEdW5CTE1ZNHBtTktxb29ucFRpTURDWjRtTWZSSG9v?oc=5",
+      "fecha": "2026-10-01T13:23+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -519,39 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFfZ2NOWFh6ZFZrQXJlOHEzMHZLS1RFSW1OUHk1cjgtUTJYejRQZDh6YzNWaDJkOElNWXBlT3lGRE51YmdfTkZhWUFrMXhHc2RCNm1NcWtoTnhjV05QTmZ3WDZVekVSOHVVbFY0VWlqak5mdUlNR3Qtdk9nUVcxbHlGemtXLWNJXzZFMUdhVjVyWDlDOFBJcU9uMlFOSmhSc0RBVWlMaW1aODY1emxkb29BTQ?oc=5",
       "fecha": "2026-09-30T10:38+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "00aeecf741a5",
-      "titulo": "Foreign Investors Pull $3.2 Billion From Indian Markets as Oil Rally Returns",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Foreign-Investors-Pull-32-Billion-From-Indian-Markets-as-Oil-Rally-Returns.html",
-      "fecha": "2026-09-30T09:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b1c6e687c513",
-      "titulo": "Tullow Oil loses $196.5 million Ghana tax dispute; shares tank",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnlESXpfazZGaUU1REY4OGRZQWhnR3IteFVNSFhSUU9vaE41RzhvRnpLcFd6dl9QY0Y0QWtEd0RRVEtLcG5ERVNpc2V3ZUlpcG9kX3VoOFdsQWFPZGtDN2pHaURZbFpSeXpSUnNHcHlobVo0ckFzTG9wTnFoTmJja2ZNbHN5cnlVMm04cWZfOEQ0UnNPd1lVUlNublVKWXBRNmlyQktOcnB4b0ZT?oc=5",
-      "fecha": "2026-09-30T09:20+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ca88611ac226",
-      "titulo": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE14NjRXSUlvdDN4Q3cwYlBXYkd4dWhaN0hqNlVObWNKXy1Nd2gzUEgyUlNoS3hiSkxBN0JiLXIxX0xaMVJlRUd2MzBRaHVSSzJuNXBMLXRCSzBjUFI3b2FnVV82VDVnZ1ZPZ0c1UGNDY2xTYktBUkhfXy1VbGxJbldiU0Job0lmN1hQX2JONUFMMTZ4TVg2VS1rbldPNFpSQWdmOEdMMTlQQ2lWaDljQ2lnYzBLS1lOb21nTElYLUh3ZngyTjVz?oc=5",
-      "fecha": "2026-09-30T08:55+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
