@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T18:21+00:00",
+  "actualizado": "2026-10-01T19:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 10,
@@ -7,6 +7,17 @@
     "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "c664606dbb13",
+      "titulo": "Middle East Oil Exports Stage a Remarkable Comeback",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Exports-Stage-a-Remarkable-Comeback.html",
+      "fecha": "2026-10-01T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "4d4f352f9095",
       "titulo": "Amazon Secures 20 Years of Nuclear Power From Constellation",
@@ -459,6 +470,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ca88611ac226",
+      "titulo": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE14NjRXSUlvdDN4Q3cwYlBXYkd4dWhaN0hqNlVObWNKXy1Nd2gzUEgyUlNoS3hiSkxBN0JiLXIxX0xaMVJlRUd2MzBRaHVSSzJuNXBMLXRCSzBjUFI3b2FnVV82VDVnZ1ZPZ0c1UGNDY2xTYktBUkhfXy1VbGxJbldiU0Job0lmN1hQX2JONUFMMTZ4TVg2VS1rbldPNFpSQWdmOEdMMTlQQ2lWaDljQ2lnYzBLS1lOb21nTElYLUh3ZngyTjVz?oc=5",
+      "fecha": "2026-09-30T13:36+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "86182b192d9f",
       "titulo": "OPEC+ Expected to Keep Oil Production Quotas Unchanged",
       "fuente": "OilPrice.com",
@@ -530,28 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
       "fecha": "2026-09-30T11:09+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "dca6c3afed39",
-      "titulo": "¿Por qué sube el diésel en Guatemala? Banguat identifica tres factores que presionan la inflación",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/por-que-sube-el-diesel-en-guatemala-banguat-identifica-tres-factores-que-presionan-la-inflacion/",
-      "fecha": "2026-09-30T11:00+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fcab64d2a82b",
-      "titulo": "Facing climate lawsuits, Big Oil again turns to US Supreme Court",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFfZ2NOWFh6ZFZrQXJlOHEzMHZLS1RFSW1OUHk1cjgtUTJYejRQZDh6YzNWaDJkOElNWXBlT3lGRE51YmdfTkZhWUFrMXhHc2RCNm1NcWtoTnhjV05QTmZ3WDZVekVSOHVVbFY0VWlqak5mdUlNR3Qtdk9nUVcxbHlGemtXLWNJXzZFMUdhVjVyWDlDOFBJcU9uMlFOSmhSc0RBVWlMaW1aODY1emxkb29BTQ?oc=5",
-      "fecha": "2026-09-30T10:38+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
