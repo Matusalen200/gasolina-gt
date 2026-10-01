@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-01T16:16+00:00",
+  "actualizado": "2026-10-01T17:16+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 11,
-    "BAJA": 7,
-    "NEUTRAL": 32
+    "BAJA": 6,
+    "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "4d98dcb83089",
+      "titulo": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Canada-Fast-Tracks-1-Million-Bpd-Pacific-Link-Oil-Pipeline-to-Asia.html",
+      "fecha": "2026-10-01T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "002b15f1ade2",
       "titulo": "Burnham Promises “Pragmatic” North Sea Approach",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "07ba11df8d0d",
-      "titulo": "India Boosts Middle East Oil Imports, Cuts Russian Flows",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Middle-East-Oil-Imports-Cuts-Russian-Flows.html",
-      "fecha": "2026-09-30T08:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
