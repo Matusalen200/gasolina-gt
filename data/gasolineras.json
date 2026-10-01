@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T07:20-06:00",
+  "actualizado": "2026-10-01T08:18-06:00",
   "total": 1149,
   "con_precio_real": 14,
   "fecha_verificado": "2026-09-07",
@@ -2193,19 +2193,6 @@
       "d": "Guatemala"
     },
     {
-      "n": "Gasolinera Shell Diagonal 8",
-      "m": null,
-      "lat": 14.64512,
-      "lon": -90.49606,
-      "d": "Guatemala",
-      "p": {
-        "s": 43.07,
-        "r": 41.07,
-        "d": 46.37
-      },
-      "mem": true
-    },
-    {
       "n": "Gasolinera Sol",
       "m": null,
       "lat": 14.63651,
@@ -2225,19 +2212,6 @@
       "lat": 14.69868,
       "lon": -90.39564,
       "d": "Guatemala"
-    },
-    {
-      "n": "Gasolinera Texaco Atlantico",
-      "m": "Texaco",
-      "lat": 14.65644,
-      "lon": -90.46657,
-      "d": "Guatemala",
-      "p": {
-        "s": 43.07,
-        "r": 41.07,
-        "d": 46.37
-      },
-      "mem": true
     },
     {
       "n": "Gasolinera UNO",
@@ -3430,19 +3404,6 @@
       "d": "Guatemala"
     },
     {
-      "n": "Shell Cursa",
-      "m": "Shell",
-      "lat": 14.65265,
-      "lon": -90.5163,
-      "d": "Guatemala",
-      "p": {
-        "s": 42.89,
-        "r": 40.89,
-        "d": 46.39
-      },
-      "mem": true
-    },
-    {
       "n": "Shell Estación 21",
       "m": "Shell",
       "lat": 14.6543,
@@ -3504,19 +3465,6 @@
       "lat": 14.60179,
       "lon": -90.48349,
       "d": "Guatemala"
-    },
-    {
-      "n": "Shell Los Pinos",
-      "m": "Shell",
-      "lat": 14.6531,
-      "lon": -90.45925,
-      "d": "Guatemala",
-      "p": {
-        "s": 43.07,
-        "r": 41.07,
-        "d": 46.37
-      },
-      "mem": true
     },
     {
       "n": "Shell Majadas",
@@ -8111,6 +8059,20 @@
       "aprox": true
     },
     {
+      "n": "Shell Cursa II",
+      "m": null,
+      "lat": 14.661034,
+      "lon": -90.508991,
+      "d": "Guatemala",
+      "p": {
+        "s": 42.89,
+        "r": 40.89,
+        "d": 46.39
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
       "n": "Uno La Providencia",
       "m": null,
       "lat": 14.663312,
@@ -8139,6 +8101,34 @@
       "aprox": true
     },
     {
+      "n": "Shell Los Pinos",
+      "m": null,
+      "lat": 14.653173,
+      "lon": -90.459215,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": false
+    },
+    {
+      "n": "Puma Estación Atlántico",
+      "m": null,
+      "lat": 14.645335,
+      "lon": -90.465398,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
       "n": "Uno Estación de Servicio Cruz del Sur",
       "m": null,
       "lat": 14.636892,
@@ -8157,6 +8147,20 @@
       "m": null,
       "lat": 14.62552,
       "lon": -90.499264,
+      "d": "Guatemala",
+      "p": {
+        "s": 43.07,
+        "r": 41.07,
+        "d": 46.37
+      },
+      "mem": true,
+      "aprox": true
+    },
+    {
+      "n": "Uno Diagonal Seis",
+      "m": null,
+      "lat": 14.602933,
+      "lon": -90.510754,
       "d": "Guatemala",
       "p": {
         "s": 43.07,

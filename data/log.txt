@@ -1,30 +1,3 @@
-2026-09-16 22:09 [INFO] --- telegram ---
-2026-09-16 22:09 [INFO] Telegram: reporte 2026-09-16 publicado en -1003973167814
-2026-09-16 22:09 [INFO] Telegram: 0 mensajes respondidos, publicado=True
-2026-09-16 22:09 [INFO] Fin corrida
-2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
-2026-09-16 22:22 [INFO] --- hoy ---
-2026-09-16 22:22 [INFO] Precio hoy: Prensa Libre 2026-09-06 promedio S=43.09 R=41.09 D=None · Gasolinas registran otro aumento y el MEM lo atribuye al con
-2026-09-16 22:22 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-16 22:22 [INFO] Precio hoy: 1 observaciones nuevas de 8 artículos · regular 42.59 (2026-09-16)
-2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
-2026-09-16 22:22 [INFO] --- senal ---
-2026-09-16 22:22 [INFO] Señal: 🔴 Llena HOY (puntaje +79) · Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
-2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
-2026-09-16 22:22 [INFO] --- proyeccion ---
-2026-09-16 22:22 [INFO] Proyección (calibrando, n=9, MAE=None): regular [43.36, 43.36, 43.36, 43.36]
-2026-09-16 22:22 [INFO] Inicio corrida 2026-09-16 22:22 GT
-2026-09-16 22:22 [INFO] --- reporte ---
-2026-09-16 22:22 [INFO] Reporte diario generado:
-🔴 Llena HOY. El martes sube como Q1.35 el galón.
-Hoy el galón cuesta: Súper Q44.66 · Normal Q42.58 · Diésel Q49.36
-Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
-Lo más barato: Guatemala, normal a Q42.58
-Noticias: Gold rises over 1% as investors digest Fed hike, oil rally s · Oil prices extend losses as fears of Middle East supply disr · Poland's Orlen buys 16 extra crude cargoes to cover Saudi di
-2026-09-16 22:29 [INFO] Gráfica lista: grafica_precios.png (7 días)
-2026-09-16 22:30 [INFO] Inicio corrida 2026-09-16 22:30 GT
-2026-09-16 22:30 [INFO] --- reporte ---
-2026-09-16 22:30 [INFO] Reporte diario generado:
 🔴 Llena HOY. El martes sube como Q1.35 el galón.
 Hoy el galón cuesta: Súper Q44.66 · Normal Q42.58 · Diésel Q49.36
 Porque la gasolina en Estados Unidos subió bastante esta semana y las noticias hablan de subidas.
@@ -1998,3 +1971,30 @@ Noticias: Decreto 22-2026: cuánto costará el galón de diésel y…
 2026-10-01 07:21 [INFO] --- mensual ---
 2026-10-01 07:21 [INFO] Excel mensual generado: mensual-2026-10.xlsx (9 semanas, 3 martes, ahorro Q0.00/gal)
 2026-10-01 07:21 [INFO] Fin corrida
+2026-10-01 08:18 [INFO] Redes: facebook=publicado
+2026-10-01 08:18 [INFO] Inicio corrida 2026-10-01 08:18 GT
+2026-10-01 08:18 [INFO] --- mem ---
+2026-10-01 08:18 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-10-01 08:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
+2026-10-01 08:18 [INFO] --- hoy ---
+2026-10-01 08:18 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-28 promedio S=45.29 R=43.29 D=49.39 · Así están los precios de los combustibles este lunes
+2026-10-01 08:18 [WARN] Precio hoy: descarto cifras incoherentes de Prensa Libre (Precio de los combustibles en Guatemala: estos son): S=45.29 R=45.29 D=49.4
+2026-10-01 08:18 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-23 promedio S=45.29 R=43.29 D=49.39 · ¿Aumentaron? Así amanecieron los precios de los combustibles
+2026-10-01 08:18 [INFO] Precio hoy: TV Azteca Guatemala 2026-09-21 promedio S=44.59 R=42.59 D=49.39 · Así se encuentran los precios de los combustibles este lunes
+2026-10-01 08:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-10-01 08:18 [INFO] Precio hoy: 3 observaciones nuevas de 25 artículos · regular 43.27 (2026-09-29)
+2026-10-01 08:18 [INFO] --- estaciones ---
+2026-10-01 08:18 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-10-01 08:18 [INFO] --- mapa ---
+2026-10-01 08:18 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-10-01 08:18 [INFO] Mapa: 1149 gasolineras en 22 departamentos, 14 con precio real del MEM
+2026-10-01 08:18 [INFO] --- mercado ---
+2026-10-01 08:18 [INFO] Mercado: RBOB 3.3098 (-1.34% 7d), WTI 91.23, USD/GTQ 7.64 · 3/3 símbolos
+2026-10-01 08:18 [INFO] --- noticias ---
+2026-10-01 08:19 [INFO] RSS: 239 notas relevantes en 8 fuentes
+2026-10-01 08:19 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 11, 'BAJA': 8, 'NEUTRAL': 31}
+2026-10-01 08:19 [INFO] --- senal ---
+2026-10-01 08:19 [INFO] Señal: 🟡 Sin apuro (puntaje +3) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-10-01 08:19 [INFO] --- telegram ---
+2026-10-01 08:19 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-10-01 08:19 [INFO] Fin corrida
