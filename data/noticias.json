@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-02T18:20+00:00",
+  "actualizado": "2026-10-02T19:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 8,
+    "ALZA": 9,
     "BAJA": 10,
-    "NEUTRAL": 32
+    "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "f5f8c955f659",
+      "titulo": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+      "fecha": "2026-10-02T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "48f05646ecaf",
       "titulo": "IEA's Birol says oil prices starting to fall after reserve release decision",
@@ -541,17 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
       "fecha": "2026-10-01T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0c997451ec1c",
-      "titulo": "Three oil tankers hit by projectiles in Hormuz strait on Tuesday, Marisks says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGxqUHRGWUpFZWo3eVZkQ1NnR2NZM05rLWhoWHNOOE5IaGhwSjk4QlNXRi16Q1BGYVlMc2VPWUh6dm55bHluMjg5WGxvY0dfcmdNcDJIaGc5UjFwaXVpZlFTd21VZDU5dkdpZUtteEtQVll0M09hVHRPMG4wZU56UlNMMjIxREx3dmJZOVNFZjE3R0ZrQ3Q0R0VaazBjWk9LcS1UOWR2S1BfRmc2M1FIeU1Qa3liNHZRcFJINWtYQ1c?oc=5",
-      "fecha": "2026-10-01T06:17+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
