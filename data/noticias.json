@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-02T13:18+00:00",
+  "actualizado": "2026-10-02T14:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 9,
+    "ALZA": 8,
     "BAJA": 9,
-    "NEUTRAL": 32
+    "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "a57eedbf02b0",
+      "titulo": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-JERA-Creates-Oil-Storage-Firm-to-Manage-National-Reserve-Sites.html",
+      "fecha": "2026-10-02T13:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "55219d06d8d1",
+      "titulo": "Trump says US deal with South Korea includes $8.4 billion for oil recovery",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpSdDRDc2MzeVQ0R28ycC03cXdDVTBvUGN0WTh3eGJSQ0I4UEN1Sk1PSzQ4NjF2QjVRTVhXbnMtN2JFSWxrUGtlTDhoNTRMVUZpTS1KT2xVcGh3czdZN0loQnNDb1d4UXVJMllkTk00cXhrUHNRbHpnakhJSGJ3OVRCRjA2QloydDZILUQyTl9UaFc5aHlmVjVYZWRBbUE4dXp4Q0ZfWEdGdEp1cTRLeXkxNVdvNFBObDVWd3hmWUtfZw?oc=5",
+      "fecha": "2026-10-02T13:01+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "9d2f7620c13a",
       "titulo": "EXCLUSIVE: Europe weighs new diesel stocks release after US pressure, sources say",
@@ -316,6 +338,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "91a43261ece4",
+      "titulo": "EU's emergency diesel stocks are mainly in Germany and France",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXEwbVZ0dGxwSkt5YlM4eE9uWGV0MTZScDhaV01PU2h6UG8wOF9XOEtYODdJZFM3U2NVdUhCQ09OUlB2YmJjZ2M0Y2Y0YmVPTzhYcTd1UGxPMEtSbVZlMnhiVHExUkZvOFpWcXc2dGNEYTlmS2R2Q0FwVUYxTnNEd1ZWbzY1OXQybktURkVQUE81dnRXQWtxR3VrM3pCZW5QSVRSWFprbzI?oc=5",
+      "fecha": "2026-10-01T11:33+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "e153b487dfec",
       "titulo": "Three Tankers Struck by Unknown Projectiles in Strait of Hormuz",
       "fuente": "OilPrice.com",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "361858299936",
-      "titulo": "Decreto 22-2026: cuánto costará el galón de diésel y gasolina superior o regular desde el 1 de octubre",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/decreto-22-2026-cuanto-costara-el-galon-de-diesel-y-gasolina-superior-o-regular-desde-el-1-de-octubre/",
-      "fecha": "2026-09-30T19:37+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "be3e06540879",
-      "titulo": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-      "fecha": "2026-09-30T19:19+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "83435e88e675",
-      "titulo": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Riches-Are-Transforming-Its-Economy-at-Breakneck-Speed.html",
-      "fecha": "2026-09-30T19:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
