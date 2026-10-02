@@ -142,6 +142,19 @@ MENSAJE_SIN_DEPTO = (
     "O escribe /precio y el nombre, por ejemplo /precio Petén."
 )
 
+# ---------------------------------------------------------------- cambios radicales
+
+MENSAJE_CAMBIO_RADICAL = (
+    "🚨 Ojo, cambio grande de precio. Necesito que me confirmes.\n"
+    "{lista}\n"
+    "Lo dice una sola fuente, por eso no lo publico todavía.\n"
+    "Responde /confirmar si es verdad, o /rechazar si parece error."
+)
+FILA_CAMBIO = "{producto}: de {antes} a {valor} ({salto}) · {fuente}"
+MENSAJE_CONFIRMADO = "✅ Listo, lo tomo por bueno y lo publico."
+MENSAJE_RECHAZADO = "✅ Entendido, lo descarto y sigo con el precio anterior."
+MENSAJE_NADA_PENDIENTE = "No hay ningún cambio esperando tu respuesta. 👍"
+
 # ---------------------------------------------------------------- ayuda y varios
 
 MENSAJE_AYUDA = (
@@ -196,6 +209,7 @@ COMANDOS_MENU = [
     ("historial", "Precios de las últimas semanas"),
     ("midepto", "Guarda tu departamento"),
     ("tablero", "Ver todo con gráficas"),
+    ("pendientes", "Cambios de precio por confirmar"),
     ("ayuda", "Qué sé hacer"),
 ]
 

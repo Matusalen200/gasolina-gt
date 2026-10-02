@@ -79,6 +79,26 @@ cambio estimado del martes (Q/gal) = cambio_7d_abs_RBOB (US$/gal) x tipo de camb
 El 0.85 es el traslado típico del precio internacional al surtidor en Guatemala. Los umbrales están en
 `agente/senal.py`; los tests en `tests/test_senal.py` fijan el comportamiento.
 
+**El consenso de fuentes**: el agente lee 13 fuentes (el Diario de Centro América, la Diaco, siete
+medios guatemaltecos y dos buscadores) más las internacionales de mercado. Para cada día y cada
+combustible agrupa lo que dice cada una: el precio que más fuentes distintas respaldan es el que se
+publica, diciendo cuántas lo apoyan y cuáles dicen otra cosa (`agente/consenso.py`).
+
+| Nivel | Qué significa |
+|---|---|
+| consenso | Tres o más fuentes distintas coinciden |
+| confirmado | Dos coinciden |
+| sin confirmar | Lo dice una sola; se publica avisando |
+| en disputa | Dos grupos parejos dicen cosas distintas; se avisa |
+
+El informe oficial del MEM, cuando se tiene, vale por sí solo y manda sobre todo lo demás.
+Para revisar qué fuentes siguen sirviendo: `python scripts/revisar_fuentes.py`.
+
+**Cambios radicales: se consultan antes de publicar.** Si el precio da un salto de más de Q3 el galón
+y lo dice una sola fuente, el agente NO lo publica: lo guarda, te avisa por Telegram y espera tu
+`/confirmar` o `/rechazar` (`agente/alerta.py`). Si mientras tanto otra fuente dice lo mismo, se
+aprueba solo. Hace falta el secreto `TELEGRAM_ADMIN_ID` con tu identificador de Telegram.
+
 **De dónde sale cada precio y qué tan confiable es**: cada observación guarda su fuente, su fecha y
 el enlace a la nota. Se descarta lo imposible (la súper nunca cuesta igual o menos que la normal, y
 siempre hay entre Q1 y Q3.50 de diferencia). Si **dos medios distintos** dan el mismo precio, queda

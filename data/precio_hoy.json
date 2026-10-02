@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T15:15-06:00",
-  "revisados": 1,
+  "actualizado": "2026-10-01T20:11-06:00",
+  "revisados": 0,
   "nuevos": 0,
   "ultimo": {
     "superior": {
@@ -13,7 +13,11 @@
       "fuentes": [
         "La Hora"
       ],
+      "apoyos": 1,
+      "nivel": "sin confirmar",
+      "discrepan": [],
       "confirmado": false,
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
       "fecha": "2026-10-01"
     },
     "regular": {
@@ -26,7 +30,11 @@
       "fuentes": [
         "La Hora"
       ],
+      "apoyos": 1,
+      "nivel": "sin confirmar",
+      "discrepan": [],
       "confirmado": false,
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
       "fecha": "2026-10-01"
     },
     "diesel": {
@@ -39,7 +47,11 @@
       "fuentes": [
         "La Hora"
       ],
+      "apoyos": 1,
+      "nivel": "sin confirmar",
+      "discrepan": [],
       "confirmado": false,
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
       "fecha": "2026-10-01"
     }
   },
@@ -254,6 +266,14 @@
     "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBzVGRsVDY5MTFWdmtYaXB3MFpPWEdhWnNBVnhPdTBmMzVFeUU5UmNUSHVrWHFFU0huODZR?oc=5",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPejdFWGZzWTV6WjJKSnA1SzNNS1B3b0tZbkszaTQ0OGg4QVI5c2hiX2lydk1iRTJQWmZoRmpVTjM0TnhpYXhPbURmbHlwRHZrUDNIX3phdmh4ckYwZmNicG9vT0tlN2oybmFDSzFtYzhHRURRVkJpbzlaQWNNeXVqVWxmMVpVQ3ZMLVo5OFZkTFJqci1JVEdYYmZhelBlYzlKaEtuSTF5a0xxOG5oMFVDSC10LUZaeTdIN0xmM2lWODJTYW8wLUZJNE9Nd2RBMnlLUnJjWlZ1MlU5dGROaHktQXdwQ180M0p6aFlMa09PWC15clV2dUFZ0gH3AUFVX3lxTE96N0VYZnNZNXpaMkpKcDVLM01LUHdvS1luSzNpNDQ4aDhBUjlzaGJfaXJ2TWJFMlBaZmhGalVOMzROeGlheE9tRGZseXBEdmtQM0hfemF2aHhyRjBmY2Jwb29PS2U3ajJuYUNLMW1jOEdFRFFWQmlvOVpBY015dWpVbGYxWlVDdkwtWjk4VmRMUmpyLUlUR1hiZmF6UGVjOUpoS25JMXlrTHE4bmgwVUNILXQtRlp5N0g3TGYzaVY4MlNhbzAtRkk0T013ZEEyeUtScmNaVnUyVTl0ZE5oeS1Bd3BDXzQzSnpoWUxrT09YLXlyVXZ1QVk?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDlNOEZPTEE2NVRLNG1scjhrelZkUVI0YXN0TldrZGRIWTJ2MHZMbGlZblpfQVlhLTAxRXNQZnRFMXV2bU4wa1YzRVRaNU1QN1ZhQW13amhoaTZ4cDhHQXJwcmtQeC1WRGl6TGJPU2JlMThaUmxobXFVSThESWxCd0N1MzBlX3pSX3FxbUtRYlhkWHM3SnBDM3N0WkdhbDJ2U0gxT0MxNnVGTnA3ajRPTmZzNENMaHR5TjNlZjhTMmrSAcABQVVfeXFMT3g5TThGT0xBNjVUSzRtbHI4a3pWZFFSNGFzdE5Xa2RkSFkydjB2TGxpWW5aX0FZYS0wMUVzUGZ0RTF1dm1OMGtWM0VUWjVNUDdWYUFtd2poaGk2eHA4R0FycHJrUHgtVkRpekxiT1NiZTE4WlJsaG1xVUk4RElsQndDdTMwZV96Ul9xcW1LUWJYZFhzN0pwQzNzdFpHYWwydlNIMU9DMTZ1Rk5wN2o0T05mczRDTGh0eU4zZWY4UzJq?oc=5",
-    "https://tvaztecaguate.com/nacionales/2026/10/01/video-asi-lucen-las-gasolineras-por-reduccion-en-precios-de-los-combustibles/"
+    "https://tvaztecaguate.com/nacionales/2026/10/01/video-asi-lucen-las-gasolineras-por-reduccion-en-precios-de-los-combustibles/",
+    "https://www.prensalibre.com/economia/gasolinas-bajan-mas-de-lo-anunciado-por-el-gobierno-estos-son-los-precios-observados-tras-la-exencion-de-iva-e-idp/",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1RKbmhKbk5rQ1h4YWlpNVNUel8xWEZDNlJfNE54NWNFUm9PdE1DYlJMd1RqZDVvU2lCX1RuLVc0YTB1eFRWa2dGUERfeTU0UVF5bDh3YXBQWHl6aWwwd2t0U2RKZjhvZ3ZTdnBsZ3cxVVZIMFBNbWkyTVN0WkxXRDhLeXMyZmgyM0YwUFhhc3hzbG5lN1BfNW5WRVJBVFVNN3lNN3pPU0QtaGwySWNra2hBRkxyRFFURE01aWRPZklHSFgxYm1GeGdKYXl3TFE0bkJ1Q0duNVNpbF9xazZkTXE5MG92NkU?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5ac2RnRW1DcVpqSmp2bG80Q3VKc3lwMTdPb3c2NE16NEFqdl9tdndGZU9LY0FuQzZLa2dn?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE02aG9yU1Z0b18yTVRPcDFHV3ltQkJmQVFKY1Nlb2hnTjYtUV8wVWFtV1c2Q05VTUJsN3VR?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CTkhXM3YwNl9ZVk9UWlpod2REb3hURFBHekVyLTh5cHRQOGJzT1V5RVVQdUlYYTk5bUM4ZlhfQUlqdWdRUjkzS1FEdHVBR0hBQndwbHpUVzRBUmF3ejlGcUZ2WDVjTlRSU0ExRFBidWhWS01JemY0Qi1oanZHQQ?oc=5",
+    "https://lahora.gt/lh-economia/jveliz/2026/10/01/exencion-de-impuestos-comienza-entre-mayor-demanda-de-gasolina-superior-y-ajustes-en-gasolineras/",
+    "https://perspectiva.gt/noticias/perspectivahoy/publican-ley-exencion-tributaria-temporal-combustibles-guatemala-2026/",
+    "https://www.guatemala.com/noticias/comunidad/autorizan-exoneracion-temporal-impuestos-iva-e-idp-gasolina-diesel-guatemala.html"
   ]
 }

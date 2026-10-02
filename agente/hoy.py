@@ -15,6 +15,7 @@ from time import mktime
 
 import feedparser
 
+from agente import alerta, consenso
 from agente.comun import DATA, MODELO_CLAUDE, TZ_GT, ahora_gt, cliente_claude, guardar_json, http_get, leer_json, log
 
 RUTA = DATA / "precio_hoy.json"
@@ -78,15 +79,26 @@ def _fuera_de_banda(fila: dict, ref: dict) -> bool:
 
 
 # Feeds que sí funcionan (probados el 11/09/2026). Google News sirve para titulares, no para el texto.
+# Todas las fuentes que de verdad responden, probadas con scripts/revisar_fuentes.py.
+# Mientras más fuentes, mejor el consenso: un precio que repiten cinco medios es casi seguro.
+# El orden importa poco; se leen todas en cada corrida.
 FUENTES = [
+    # Oficiales del Estado
+    ("Diario de Centro América", "https://dca.gob.gt/feed/"),          # diario oficial
+    ("Diaco", "https://diaco.gob.gt/feed/"),                           # protección al consumidor
+    # Medios guatemaltecos
     ("Prensa Libre", "https://www.prensalibre.com/economia/feed/"),
     ("La Hora", "https://lahora.gt/feed/"),
     ("TV Azteca Guatemala", "https://tvaztecaguate.com/feed/"),
     ("TV Azteca Guatemala", "https://tvaztecaguate.com/?s=precios+combustibles&feed=rss2"),
     ("Emisoras Unidas", "https://emisorasunidas.com/feed/"),
-    ("Diaco", "https://diaco.gob.gt/feed/"),
     ("República", "https://republica.gt/feed"),
+    ("Guatemala.com", "https://www.guatemala.com/noticias/feed/"),
+    ("La Red 106.1", "https://www.lared1061.com/feed"),
+    ("Perspectiva", "https://perspectiva.gt/feed/"),
+    # Buscadores, por si algún medio publica y no lo tenemos en la lista
     ("Google News GT", "https://news.google.com/rss/search?q=Guatemala+(gasolina+OR+di%C3%A9sel+OR+combustibles)+precio+when:3d&hl=es-419&gl=GT&ceid=GT:es-419"),
+    ("Google News GT", "https://news.google.com/rss/search?q=Guatemala+precios+combustibles+MEM+galón+when:3d&hl=es-419&gl=GT&ceid=GT:es-419"),
 ]
 RX_TEMA = re.compile(r"gasolina|di[eé]?sel|combustible", re.I)
 RX_PRODUCTO = {
@@ -299,12 +311,15 @@ def consolidar(serie: list[dict]) -> dict:
     for d in dias:
         for p, celda in por_dia[d].items():
             obs = celda["obs"]
-            valor = _mediana([o[p] for o in obs])
-            de_acuerdo = sorted({o["fuente"] for o in obs if abs(o[p] - valor) <= IGUAL})
+            # El precio que gana es el que más fuentes distintas respaldan, no simplemente la mediana.
+            acuerdo = consenso.calcular(obs, p)
             ult = max(obs, key=lambda o: o["t"])
-            celda.update({"valor": valor, "t": ult["t"], "fuente": ult["fuente"], "url": ult["url"],
-                          "n": len(obs), "fuentes": de_acuerdo,
-                          "confirmado": len(de_acuerdo) >= MIN_FUENTES})
+            celda.update({"valor": acuerdo["valor"], "t": ult["t"], "fuente": ult["fuente"],
+                          "url": ult["url"], "n": len(obs),
+                          "fuentes": acuerdo["fuentes"], "apoyos": acuerdo["apoyos"],
+                          "nivel": acuerdo["nivel"], "discrepan": acuerdo["discrepan"],
+                          "confirmado": acuerdo["nivel"] in ("consenso", "confirmado"),
+                          "respaldo": consenso.frase(acuerdo, p)})
             celda.pop("obs")
     ultimo, cambio = {}, {}
     for p in ("superior", "regular", "diesel"):
@@ -421,6 +436,10 @@ def actualizar() -> dict:
     salida = {"actualizado": ahora_gt().isoformat(timespec="minutes"), "revisados": revisados, "nuevos": nuevos,
               **consolidar(serie), "serie": serie, "sin_precio": sin_precio[-300:]}
     guardar_json(RUTA, salida)
+    try:   # ¿hubo un salto grande que haya que consultarle al dueño antes de publicar?
+        alerta.revisar(salida.get("ultimo", {}), ref)
+    except Exception as e:
+        log(f"No pude revisar los cambios radicales: {e}", "WARN")
     try:
         est = estimar_departamentos(salida)
         if est:

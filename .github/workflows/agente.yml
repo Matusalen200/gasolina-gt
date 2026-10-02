@@ -5,6 +5,9 @@ on:
     # Guatemala es UTC-6 sin horario de verano.
     # Cada hora, lunes a viernes, 7:00-15:00 GT = 13:00-21:00 UTC.
     - cron: "5 13-21 * * 1-5"
+    # Martes y miércoles el MEM cambia el precio: revisamos desde las 5 de la mañana
+    # (11:00 UTC) para ser de los primeros en tenerlo, no de los últimos.
+    - cron: "10 11,12 * * 2,3"
     # Reporte diario 7:00 GT también sábado y domingo (13:00 UTC).
     - cron: "5 13 * * 0,6"
   workflow_dispatch:
@@ -56,6 +59,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_ADMIN_ID: ${{ secrets.TELEGRAM_ADMIN_ID }}
           FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
           INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}

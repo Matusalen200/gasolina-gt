@@ -383,6 +383,49 @@ def respuesta_cercanas(lat: float, lon: float) -> str:
         nota=P.NOTA_CERCANAS.format(mapa=f"https://www.google.com/maps/dir/?api=1&destination={g['lat']},{g['lon']}"))
 
 
+def respuesta_pendientes(aprobar: bool | None = None) -> str:
+    """Muestra o resuelve los cambios radicales que esperan tu visto bueno."""
+    from agente import alerta
+    if aprobar is None:
+        esperando = alerta.pendientes()
+        if not esperando:
+            return P.MENSAJE_NADA_PENDIENTE
+        return _texto_alerta(esperando)
+    resueltos = alerta.resolver(aprobar)
+    if not resueltos:
+        return P.MENSAJE_NADA_PENDIENTE
+    return P.MENSAJE_CONFIRMADO if aprobar else P.MENSAJE_RECHAZADO
+
+
+def _texto_alerta(cambios: list[dict]) -> str:
+    nombres = {"superior": "Súper", "regular": "Normal", "diesel": "Diésel"}
+    lista = "\n".join(
+        P.FILA_CAMBIO.format(producto=nombres.get(c["producto"], c["producto"]),
+                             antes=q(c["antes"]), valor=q(c["valor"]),
+                             salto=("+" if c["salto"] > 0 else "") + f"Q{c['salto']:.2f}",
+                             fuente=c.get("fuente") or "sin fuente")
+        for c in cambios)
+    return P.MENSAJE_CAMBIO_RADICAL.format(lista=lista)
+
+
+def avisar_cambios_radicales() -> bool:
+    """Le manda al dueño los saltos de precio que hay que confirmar. Solo a él, no al canal."""
+    from agente import alerta
+    jefe = os.environ.get("TELEGRAM_ADMIN_ID", "").strip()
+    nuevos = alerta.sin_avisar()
+    if not nuevos:
+        return False
+    if not jefe:
+        log(f"Hay {len(nuevos)} cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID "
+            f"para avisarte. Míralos con /pendientes.", "WARN")
+        return False
+    if enviar(jefe, _texto_alerta(nuevos)) is not None:
+        alerta.marcar_avisados()
+        log(f"Te avisé de {len(nuevos)} cambios de precio por confirmar")
+        return True
+    return False
+
+
 def respuesta_plus() -> str:
     plan = cargar_plan()
     if not plan.get("plus_activo") or not plan.get("precio_mensual_q"):
@@ -508,6 +551,12 @@ def responder(texto: str, uid=None) -> str | None:
         return respuesta_midepto(arg, uid)
     if comando == "tablero":
         return P.MENSAJE_TABLERO.format(url=TABLERO_URL)
+    if comando == "pendientes":
+        return respuesta_pendientes()
+    if comando == "confirmar":
+        return respuesta_pendientes(aprobar=True)
+    if comando == "rechazar":
+        return respuesta_pendientes(aprobar=False)
     if comando == "plus":
         return respuesta_plus()
     return P.MENSAJE_NO_ENTIENDO
@@ -572,6 +621,7 @@ def corrida() -> dict:
         registrar_menu()
         estado["menu_registrado"] = True
     publicado = publicar_diario(estado)
+    avisar_cambios_radicales()
     n = atender_comandos(estado)
     estado["ultima_corrida"] = ahora_gt().isoformat(timespec="minutes")
     guardar_json(RUTA_ESTADO, estado)

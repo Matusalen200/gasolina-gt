@@ -66,3 +66,56 @@ def test_la_referencia_usa_el_dato_mas_reciente(monkeypatch, tmp_path):
     }
     monkeypatch.setattr(hoy, "leer_json", lambda ruta, defecto=None: archivos.get(getattr(ruta, "name", ""), defecto))
     assert hoy._referencia() == {"regular": 34.89}
+
+
+def test_consenso_gana_el_que_mas_fuentes_respaldan():
+    from agente import consenso
+    obs = [
+        {"regular": 34.85, "fuente": "TV Azteca", "t": "2026-10-01T06:00"},
+        {"regular": 34.89, "fuente": "Prensa Libre", "t": "2026-10-01T07:00"},
+        {"regular": 34.85, "fuente": "La Hora", "t": "2026-10-01T08:00"},
+        {"regular": 42.58, "fuente": "Nota vieja", "t": "2026-10-01T05:00"},
+    ]
+    r = consenso.calcular(obs, "regular")
+    assert r["valor"] == 34.85 and r["nivel"] == "consenso" and r["apoyos"] == 3
+    assert r["discrepan"][0]["valor"] == 42.58
+    assert "3 fuentes" in consenso.frase(r)
+
+
+def test_consenso_en_empate_gana_el_mas_reciente():
+    from agente import consenso
+    obs = [
+        {"regular": 42.58, "fuente": "La Hora", "t": "2026-10-01T05:00"},
+        {"regular": 34.85, "fuente": "TV Azteca", "t": "2026-10-01T09:00"},
+    ]
+    r = consenso.calcular(obs, "regular")
+    assert r["valor"] == 34.85          # una nota vieja no pesa igual que la de esta mañana
+    assert r["nivel"] == "en disputa"   # y se avisa que no hay acuerdo
+
+
+def test_un_cambio_radical_queda_esperando_tu_respuesta(monkeypatch, tmp_path):
+    from agente import alerta
+    monkeypatch.setattr(alerta, "RUTA", tmp_path / "pendientes.json")
+    ultimo = {"regular": {"valor": 34.89, "fecha": "2026-10-01", "fuente": "TV Azteca",
+                          "nivel": "sin confirmar", "apoyos": 1}}
+    assert len(alerta.revisar(ultimo, {"regular": 42.58})) == 1
+    assert len(alerta.pendientes()) == 1
+    assert len(alerta.revisar(ultimo, {"regular": 42.58})) == 0   # no se pregunta dos veces
+    alerta.resolver(aprobar=True)
+    assert alerta.pendientes() == []
+
+
+def test_si_varias_fuentes_coinciden_no_hace_falta_preguntar(monkeypatch, tmp_path):
+    from agente import alerta
+    monkeypatch.setattr(alerta, "RUTA", tmp_path / "pendientes.json")
+    ultimo = {"regular": {"valor": 34.85, "fecha": "2026-10-01", "fuente": "TV Azteca",
+                          "nivel": "consenso", "apoyos": 3, "fuentes": ["A", "B", "C"]}}
+    assert alerta.revisar(ultimo, {"regular": 42.58}) == []   # el consenso ya resolvió la duda
+    assert alerta.pendientes() == []
+
+
+def test_un_cambio_pequeno_no_molesta(monkeypatch, tmp_path):
+    from agente import alerta
+    monkeypatch.setattr(alerta, "RUTA", tmp_path / "pendientes.json")
+    ultimo = {"regular": {"valor": 43.00, "fecha": "2026-10-01", "nivel": "sin confirmar"}}
+    assert alerta.revisar(ultimo, {"regular": 42.58}) == []
