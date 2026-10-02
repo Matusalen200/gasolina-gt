@@ -344,6 +344,9 @@ def respuesta_gasolineras() -> str:
                       for i, e in enumerate(baratas[:5]))
     fecha = est.get("fecha_monitoreo")
     dias = _dias_desde(fecha)
+    if dias is not None and dias > 14:
+        # Con el precio general movido varios quetzales, enseñar precios de hace semanas engaña.
+        return P.MENSAJE_LISTA_VIEJA.format(fecha=fecha_bonita(fecha), dias=dias)
     if dias is not None and dias > 10:
         barato = _deptos().get("mas_barato") or {}
         nota = P.NOTA_GASOLINERAS_VIEJA.format(

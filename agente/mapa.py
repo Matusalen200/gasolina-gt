@@ -111,6 +111,7 @@ def limpiar(elementos: list[dict]) -> list[dict]:
 GENERICAS = {"estacion", "estacion", "servicio", "gasolinera", "gasolinera", "combustibles", "auto",
              "centro", "parada", "shell", "puma", "texaco", "uno", "delta", "petro"}
 CERCA_KM = 5.0
+DIAS_UTIL = 14      # pasado eso, un precio por gasolinera ya no se muestra
 
 
 def _distintivas(nombre: str) -> set[str]:
@@ -153,6 +154,13 @@ def marcar_con_precio(gasolineras: list[dict], monitoreadas: list[dict]) -> int:
     return pegadas
 
 
+def _dias_desde(fecha_iso) -> int | None:
+    try:
+        return (ahora_gt().date() - date.fromisoformat(str(fecha_iso))).days
+    except Exception:
+        return None
+
+
 def actualizar(forzar: bool = False) -> dict:
     actual = leer_json(RUTA, {}) or {}
     fresco = False
@@ -181,6 +189,11 @@ def actualizar(forzar: bool = False) -> dict:
 
     est = leer_json(DATA / "estaciones.json", {}) or {}
     monitoreadas = est.get("autoservicio", [])
+    dias = _dias_desde(est.get("fecha_monitoreo"))
+    if dias is not None and dias > DIAS_UTIL:
+        log(f"Mapa: la lista de gasolineras del MEM tiene {dias} días; no se muestran esos precios "
+            f"para no engañar. Se usa el de referencia de cada departamento.", "WARN")
+        monitoreadas = []
     con_precio = marcar_con_precio(gasolineras, monitoreadas)
 
     from collections import Counter

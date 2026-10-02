@@ -29,30 +29,53 @@ MIN_FUENTES = 2           # con dos fuentes distintas el precio queda confirmado
 
 
 def _referencia() -> dict:
-    """Precios oficiales del MEM (data/precios.json) para descartar cifras incoherentes de las noticias."""
+    """El último precio que damos por bueno, para medir si una lectura nueva da un salto grande.
+
+    Se usa lo más reciente entre el informe oficial del MEM y la serie que ya llevamos, porque el
+    informe oficial puede tener semanas y en ese tiempo el precio pudo moverse de verdad.
+    """
     pr = leer_json(DATA / "precios.json", {}) or {}
-    return {k: v for k, v in (pr.get("autoservicio") or {}).items() if isinstance(v, (int, float))}
+    oficial = {k: v for k, v in (pr.get("autoservicio") or {}).items() if isinstance(v, (int, float))}
+    fecha_oficial = pr.get("fecha_monitoreo") or ""
+    hoy = leer_json(RUTA, {}) or {}
+    u = hoy.get("ultimo") or {}
+    fecha_serie = max((v["fecha"] for v in u.values()), default="")
+    if u and fecha_serie >= fecha_oficial:
+        return {k: v["valor"] for k, v in u.items() if isinstance(v.get("valor"), (int, float))}
+    return oficial
 
 
 def _coherente(fila: dict, ref: dict) -> bool:
-    """Rechaza observaciones imposibles: súper por debajo de regular, o cifras muy lejos del precio oficial.
-    El precio tope del Congreso es un límite legal, no un precio de mercado: solo se le exige el orden."""
+    """¿Esta lectura es creíble por sí sola?
+
+    Solo se rechaza lo IMPOSIBLE, no lo sorprendente. La súper siempre cuesta entre Q1 y Q3.50 más
+    que la normal: si no, el texto se leyó mal. Pero un cambio grande de precio NO se rechaza aquí,
+    porque a veces es real (el Decreto 22-2026 quitó impuestos y el galón bajó como Q8 de un día
+    para otro, y un filtro de banda fija habría escondido el precio verdadero durante semanas).
+    Los saltos grandes se marcan con `fuera_de_banda` y se exige que los confirme otra fuente.
+    """
     s, r, d = fila.get("superior"), fila.get("regular"), fila.get("diesel")
     if s is not None and r is not None:
         brecha = s - r
-        # La súper SIEMPRE cuesta más que la normal, y por un margen conocido (unos Q2).
-        # Si salen iguales o la diferencia es rarísima, el texto se leyó mal.
         if not (BRECHA[0] <= brecha <= BRECHA[1]):
             return False
-    if fila.get("tipo") == "tope":
-        return True
     for prod in ("superior", "regular", "diesel"):
         v = fila.get(prod)
-        if v is None:
-            continue
-        if ref.get(prod) is not None and abs(v - ref[prod]) > BANDA:
+        if v is not None and not (RANGO[0] <= v <= RANGO[1]):
             return False
     return True
+
+
+def _fuera_de_banda(fila: dict, ref: dict) -> bool:
+    """¿Se aleja mucho del último precio conocido? Si sí, hará falta que otra fuente lo confirme."""
+    if fila.get("tipo") == "tope" or not ref:
+        return False
+    for prod in ("superior", "regular", "diesel"):
+        v = fila.get(prod)
+        if v is not None and ref.get(prod) is not None and abs(v - ref[prod]) > BANDA:
+            return True
+    return False
+
 
 # Feeds que sí funcionan (probados el 11/09/2026). Google News sirve para titulares, no para el texto.
 FUENTES = [
@@ -223,15 +246,23 @@ def observar(c: dict) -> dict | None:
         datos = dict(precios, tipo=clasificar_tipo(texto, c["titulo"]), fecha_dato=_fecha_gt(c["fecha"]), extraido_por="reglas") if precios else {}
     if not datos or not any(datos.get(p) for p in ("superior", "regular", "diesel")):
         return None
-    if not _coherente(datos, _referencia()):
-        log(f"Precio hoy: descarto cifras incoherentes de {c['fuente']} ({c['titulo'][:50]}): S={datos.get('superior')} R={datos.get('regular')} D={datos.get('diesel')}", "WARN")
+    ref = _referencia()
+    if not _coherente(datos, ref):
+        log(f"Precio hoy: descarto cifras imposibles de {c['fuente']} ({c['titulo'][:50]}): "
+            f"S={datos.get('superior')} R={datos.get('regular')} D={datos.get('diesel')}", "WARN")
         return None
+    salto = _fuera_de_banda(datos, ref)
+    if salto:
+        log(f"Precio hoy: salto grande en {c['fuente']} ({c['titulo'][:50]}): "
+            f"S={datos.get('superior')} R={datos.get('regular')} D={datos.get('diesel')}. "
+            f"Se guarda y se publicará cuando otra fuente lo confirme.")
     fecha_dato = datos.get("fecha_dato") or _fecha_gt(c["fecha"])
     if fecha_dato > ahora_gt().date().isoformat():
         fecha_dato = ahora_gt().date().isoformat()
     obs = {"t": c["fecha"], "fecha_dato": fecha_dato, "tipo": datos.get("tipo", "otro"),
            "superior": datos.get("superior"), "regular": datos.get("regular"), "diesel": datos.get("diesel"),
            "fuente": c["fuente"], "url": c["url"], "titulo": c["titulo"][:140], "extraido_por": datos.get("extraido_por")}
+    obs["salto"] = salto
     if datos.get("resumen"):
         obs["resumen"] = datos["resumen"]
     return obs

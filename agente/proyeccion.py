@@ -18,6 +18,7 @@ from agente.comun import DATA, ahora_gt, guardar_json, leer_json, log
 
 RUTA = DATA / "proyeccion.json"
 MIN_SEMANAS = 10
+MAX_ERROR = 2.0   # si nos equivocamos por más de Q2 el galón, no vale la pena publicarlo
 TRASLADO = 0.85
 PRODUCTOS = ("regular", "superior", "diesel")
 
@@ -130,7 +131,7 @@ def actualizar() -> dict:
 
     validacion = {p: walk_forward(X, Y[p]) for p in PRODUCTOS} if n >= MIN_SEMANAS else {}
     mae = (validacion.get("regular") or {}).get("mae")
-    usar_modelo = n >= MIN_SEMANAS and mae is not None and rb_now and cl_now
+    usar_modelo = n >= MIN_SEMANAS and mae is not None and mae <= MAX_ERROR and rb_now and cl_now
     coefs = {p: ajustar(X, Y[p]) for p in PRODUCTOS} if usar_modelo else {}
     if usar_modelo and any(c is None for c in coefs.values()):
         usar_modelo = False
@@ -159,10 +160,20 @@ def actualizar() -> dict:
                 f"Q{mae:.2f} por galón (regular). El rango sombreado crece con el horizonte.")
         estado = "ok"
     else:
-        nota = (f"Calibrando: solo hay {n} semanas con datos del MEM y de mercado (se necesitan {MIN_SEMANAS}). "
+        if mae is not None and mae > MAX_ERROR:
+            nota = (f"Recalibrando: el modelo se está equivocando por Q{mae:.2f} el galón, demasiado para "
+                    f"publicarlo como pronóstico. Pasó algo que no estaba en los datos (por ejemplo el "
+                    f"Decreto 22-2026, que quitó impuestos y bajó el precio de golpe). Mientras tanto se "
+                    f"muestra un traslado simple del cambio de la gasolina en EE.UU.")
+            estado = "recalibrando"
+            salida_nota = True
+        else:
+            salida_nota = False
+        nota = nota if salida_nota else (f"Calibrando: solo hay {n} semanas con datos del MEM y de mercado (se necesitan {MIN_SEMANAS}). "
                 f"Mientras tanto se muestra un traslado simple del cambio de la gasolina en EE.UU. "
                 f"desde el último dato del MEM ({fecha_base.isoformat()}).")
-        estado = "calibrando"
+        if not salida_nota:
+            estado = "calibrando"
     salida = {
         "actualizado": ahora_gt().isoformat(timespec="minutes"),
         "estado": estado,

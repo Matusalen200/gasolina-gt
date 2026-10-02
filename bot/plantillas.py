@@ -71,6 +71,11 @@ MENSAJE_CERCANAS = (
 )
 FILA_CERCANA = "{puesto}. {nombre} — a {km} km · {precio}"
 NOTA_CERCANAS = "Toca el enlace para llegar: {mapa}"
+MENSAJE_LISTA_VIEJA = (
+    "El MEM no publica la lista de gasolineras desde el {fecha}, hace {dias} días,\n"
+    "y desde entonces el precio cambió mucho. No te la enseño para no confundirte.\n"
+    "Mándame tu ubicación 📍 y te digo cuáles te quedan cerca con el precio de hoy."
+)
 MENSAJE_SIN_GASOLINERAS = (
     "Todavía no tengo el mapa de gasolineras listo.\n"
     "Prueba /baratos para ver los departamentos más baratos."

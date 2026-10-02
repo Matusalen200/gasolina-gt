@@ -36,3 +36,33 @@ def test_consolidar_prefiere_promedio_y_calcula_cambio():
     assert c["cambio_dia"]["regular"]["q"] == 0.93
     assert c["tope"]["superior"] == 41.0
     assert [d["fecha"] for d in c["diario"]] == ["2026-09-09", "2026-09-10"]
+
+
+def test_un_cambio_grande_y_real_no_se_rechaza():
+    """El Decreto 22-2026 quitó impuestos y el galón bajó como Q8 de un día para otro.
+    Un filtro de banda fija lo habría tomado por error y habríamos publicado precios viejos
+    durante semanas. Por eso lo único que se rechaza es lo IMPOSIBLE, no lo sorprendente."""
+    nuevo = {"superior": 36.18, "regular": 34.85, "diesel": 41.72, "tipo": "promedio"}
+    viejo = {"superior": 44.66, "regular": 42.58, "diesel": 49.36}
+    assert hoy._coherente(nuevo, viejo) is True          # se acepta
+    assert hoy._fuera_de_banda(nuevo, viejo) is True     # pero se marca para que otra fuente confirme
+
+
+def test_se_rechaza_lo_que_es_imposible():
+    ref = {"superior": 36.18, "regular": 34.85, "diesel": 41.72}
+    assert hoy._coherente({"superior": 45.29, "regular": 45.29}, ref) is False   # iguales
+    assert hoy._coherente({"superior": 34.96, "regular": 42.94}, ref) is False   # normal sobre súper
+    assert hoy._coherente({"superior": 40.00, "regular": 34.85}, ref) is False   # brecha de Q5
+    assert hoy._coherente({"superior": 36.18, "regular": 34.85}, ref) is True    # brecha normal
+
+
+def test_la_referencia_usa_el_dato_mas_reciente(monkeypatch, tmp_path):
+    """Si el informe oficial tiene semanas, la referencia es la serie diaria; si no, nunca
+    podríamos salir de un precio viejo."""
+    archivos = {
+        "precios.json": {"fecha_monitoreo": "2026-09-16",
+                         "autoservicio": {"superior": 44.66, "regular": 42.58, "diesel": 49.36}},
+        "precio_hoy.json": {"ultimo": {"regular": {"valor": 34.89, "fecha": "2026-10-01"}}},
+    }
+    monkeypatch.setattr(hoy, "leer_json", lambda ruta, defecto=None: archivos.get(getattr(ruta, "name", ""), defecto))
+    assert hoy._referencia() == {"regular": 34.89}
