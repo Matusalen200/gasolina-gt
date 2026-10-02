@@ -164,7 +164,8 @@ def test_redes_solo_publica_las_que_estan_conectadas(monkeypatch):
 def test_la_imagen_sale_del_tablero_publicado(monkeypatch):
     from bot import redes
     monkeypatch.setenv("TABLERO_URL", "https://alguien.github.io/gasolina-gt/web/")
-    assert redes.url_de_la_imagen() == "https://alguien.github.io/gasolina-gt/data/grafica_precios.png"
+    assert redes.url_de_la_imagen() == "https://alguien.github.io/gasolina-gt/data/tarjeta_redes.png"
+    assert redes.url_de_la_imagen("grafica_precios.png").endswith("/data/grafica_precios.png")
     monkeypatch.setenv("TABLERO_URL", "")
     assert redes.url_de_la_imagen() is None      # sin tablero público, Instagram no puede publicar
 

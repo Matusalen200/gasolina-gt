@@ -32,12 +32,12 @@ def _llave(nombre: str) -> str:
     return os.environ.get(nombre, "").strip()
 
 
-def url_de_la_imagen() -> str | None:
-    """Dirección pública de la gráfica, deducida de la del tablero."""
+def url_de_la_imagen(nombre: str = "tarjeta_redes.png") -> str | None:
+    """Dirección pública de una imagen del proyecto, deducida de la del tablero."""
     tablero = _llave("TABLERO_URL")
     if not tablero or "github.io" not in tablero:
         return None
-    return tablero.rstrip("/").removesuffix("/web") + "/data/grafica_precios.png"
+    return tablero.rstrip("/").removesuffix("/web") + "/data/" + nombre
 
 
 # ----------------------------------------------------------------------------- Facebook
@@ -118,6 +118,19 @@ PUBLICADORES = {"facebook": publicar_facebook, "instagram": publicar_instagram, 
 
 
 # ----------------------------------------------------------------------------- corrida
+def texto_para_redes(mensaje: str) -> str:
+    """El mismo mensaje, con la invitación al canal y las etiquetas que ayudan a que lo vean."""
+    partes = [mensaje.strip()]
+    canal = _llave("CANAL_URL")
+    if canal:
+        partes.append(f"Recibe esto cada mañana: {canal}")
+    tablero = _llave("TABLERO_URL")
+    if tablero:
+        partes.append(f"Mapa de gasolineras y gráficas: {tablero}")
+    partes.append("#Guatemala #gasolina #precios #combustibles #GasolinaGT")
+    return "\n\n".join(partes)
+
+
 def configuradas() -> list[str]:
     """Qué redes están listas para publicar."""
     listas = []
@@ -143,7 +156,9 @@ def publicar(forzar: bool = False) -> dict:
         log("Redes: ninguna conectada todavía (ver docs/redes.md)")
         return {}
 
-    imagen = url_de_la_imagen()
+    # En redes va la tarjeta (llama la atención); si no se pudo hacer, la gráfica.
+    imagen = url_de_la_imagen("tarjeta_redes.png") if (DATA / "tarjeta_redes.png").exists()         else url_de_la_imagen("grafica_precios.png")
+    mensaje = texto_para_redes(mensaje)
     estado = leer_json(RUTA_ESTADO, {}) or {}
     resultado = {}
     for red in listas:

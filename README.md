@@ -22,6 +22,7 @@ Archivos para doble clic en la carpeta del proyecto:
 | Doble clic en… | Qué hace |
 |---|---|
 | **Conectar bot.bat** | Te pide el token de @BotFather, encuentra tu canal, manda un mensaje de prueba y guarda las llaves. Se hace una sola vez. |
+| **Conectar redes.bat** | Conecta tu página de Facebook y tu Instagram. Encuentra la página sola y hace una publicación de prueba. |
 | **Publicar en internet.bat** | Lo sube a GitHub y lo deja corriendo solo en sus servidores. **Tu PC puede estar apagada.** |
 | **Automatizar.bat** | Alternativa sin internet: programa tu propia PC (solo funciona si está encendida). |
 | **Gasolina GT.bat** | Busca los precios de hoy y abre el tablero en tu navegador. |

@@ -1,19 +1,3 @@
-2026-09-18 07:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-18 07:15 [INFO] Precio hoy: 0 observaciones nuevas de 14 artículos · regular 42.59 (2026-09-16)
-2026-09-18 07:15 [INFO] --- mercado ---
-2026-09-18 07:15 [INFO] Mercado: RBOB 3.2047 (2.13% 7d), WTI 97.29, USD/GTQ 7.629 · 3/3 símbolos
-2026-09-18 07:15 [INFO] --- noticias ---
-2026-09-18 07:15 [INFO] RSS: 245 notas relevantes en 8 fuentes
-2026-09-18 07:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 11, 'BAJA': 8, 'NEUTRAL': 31}
-2026-09-18 07:15 [INFO] --- senal ---
-2026-09-18 07:15 [INFO] Señal: 🔴 Llena HOY (puntaje +36) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
-2026-09-18 07:15 [INFO] --- proyeccion ---
-2026-09-18 07:15 [INFO] Proyección (calibrando, n=9, MAE=None): regular [43.08, 43.08, 43.08, 43.08]
-2026-09-18 07:15 [INFO] --- reporte ---
-2026-09-18 07:15 [INFO] Reporte diario generado:
-🔴 Llena HOY. El martes sube como Q0.45 el galón.
-Hoy el galón cuesta: Súper Q44.59 · Normal Q42.59 · Diésel Q45.85
-Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
 Lo más barato: Guatemala, normal a Q42.59
 Noticias: Transportistas piden al Congreso aprobar paquete… · Aerolíneas de EE. UU. reducirán vuelos más baratos por el…
 2026-09-18 07:15 [INFO] --- grafica ---
@@ -1998,3 +1982,19 @@ Noticias: Decreto 22-2026: cuánto costará el galón de diésel y…
 2026-10-01 20:14 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
 2026-10-01 20:14 [INFO] Cambios radicales aprobados: 1
 2026-10-01 20:14 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-01 20:15 [INFO] Redes: facebook=publicado
+2026-10-01 20:15 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-01 20:15 [INFO] Cambios radicales aprobados: 1
+2026-10-01 20:15 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-01 20:23 [INFO] Tarjeta para redes lista: tarjeta_redes.png (alza)
+2026-10-01 20:23 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-01 20:23 [INFO] Cambios radicales aprobados: 1
+2026-10-01 20:23 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-01 20:24 [INFO] Redes: facebook=publicado
+2026-10-01 20:24 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-01 20:24 [INFO] Cambios radicales aprobados: 1
+2026-10-01 20:24 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-01 20:25 [INFO] Redes: facebook=publicado
+2026-10-01 20:25 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-01 20:25 [INFO] Cambios radicales aprobados: 1
+2026-10-01 20:25 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes

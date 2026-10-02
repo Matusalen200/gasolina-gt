@@ -27,6 +27,12 @@ y te avisa, para que lo pegues tú en el canal. Eso es un minuto al día.
 
 ---
 
+## Facebook e Instagram: la forma fácil
+
+**Doble clic en «Conectar redes.bat».** Igual que el del bot de Telegram: te explica qué necesitas,
+te pide una sola llave, encuentra tu página sola, busca tu Instagram, publica una prueba y guarda
+todo. Los pasos de abajo son por si quieres entender qué está pasando.
+
 ## Facebook e Instagram (van juntos)
 
 Instagram solo se puede automatizar si es cuenta de **empresa o creador** y está **ligada a una
