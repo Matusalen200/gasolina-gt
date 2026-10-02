@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-02T15:20+00:00",
+  "actualizado": "2026-10-02T16:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
-    "BAJA": 8,
+    "ALZA": 9,
+    "BAJA": 9,
     "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "de0f6d8d0a5a",
+      "titulo": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
+      "fecha": "2026-10-02T15:23+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "fb5c56e507f7",
       "titulo": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
@@ -107,6 +118,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "9046084b6395",
+      "titulo": "SAT explica cómo cambia el crédito fiscal por la exención del IVA e IDP a combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/sat-explica-como-cambia-el-credito-fiscal-por-la-exencion-del-iva-e-idp-a-combustibles/",
+      "fecha": "2026-10-02T11:00+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "4eb5418b1e6d",
       "titulo": "UN Says Global Fuel Subsidies Could Top $1 Trillion",
       "fuente": "OilPrice.com",
@@ -179,6 +201,17 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTERINTZjYjV0dGhsWUtmMjRmNXVHN2tjaG5ZVkpldGxTRHJxOWc5N0Jtd0dhTEZLdUVpM2Z4T1J5SFYxZ2NTMm83Q1ZSXzgxUDA2Z2hXbFRKRTY1cWRWajR2SldNQ2xqTktJNDAxamcyb3V0YVZyZnh6aktvcHpUNzRobzNocWQ1ZFREbVN5OUR2MHJ3MHVQU1RveHYzYkhZZnAzc3YtNTk?oc=5",
       "fecha": "2026-10-02T01:10+00:00",
       "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b12eb5524a12",
+      "titulo": "Gasolinas bajan más de lo anunciado por el Gobierno: estos son los precios observados tras la exención de IVA e IDP",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/gasolinas-bajan-mas-de-lo-anunciado-por-el-gobierno-estos-son-los-precios-observados-tras-la-exencion-de-iva-e-idp/",
+      "fecha": "2026-10-02T01:06+00:00",
+      "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cfce72cd94b9",
-      "titulo": "Vietnam extends fuel tax relief measures until end-2026",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0NqZ21uMlhWeGNNdGY3R2R6M0ZHOEdCc3ktc0ZtcmRwQjB1dHdKdzZxOV9NUWVqc3FwaVZnSzAzMHFlbnlLLUl1SENrUGhvM3gzVnVWMks0TVFhaFJJVEM1WDY4aUJ4ak1QbjhCY0RDMEN4RXpXcWtXMnZaTzFoc2FJNFJRQXB1SHNSd1VqVkdzSmhUbzJfQ183VmVpM25WVkVFeTIzTWFKdHc?oc=5",
-      "fecha": "2026-10-01T03:23+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4482bca2a2be",
-      "titulo": "Rupee drops to two-month low as global bond rout deepens, oil jumps",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFBxQjlTRmhvTERsSXJIS0hYVzd5WDRTX0hEOU1tQmR3aVZwNzh3eXNOWVFHeGlfci1McXNCeDlySFJYMFJyZjF5WHdaT2w3RlZ2ZGQydHBfLThTRFRZMk5mTFhyR0E2RnUtQXNBSDNKald1MkRIbjhaTzdjRzd6S21rM0FIbk81MmJQU1B3YjNvRldjdDRHTGI2Q01hUHVLWlJiWXFzTlZEZmp5dGxUaWc2VFZCaFBa?oc=5",
-      "fecha": "2026-10-01T02:59+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "60a28d0c0c2b",
-      "titulo": "Oil prices rise 2% as China suspends fuel exports",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGNFYVVqQ0xkMTkyblJkMU5mMnJ6Y1RhTEhBWjJyWEhDaXdCVzg3aF9pWTFYdVkyN3d5WmpIRDdHQ283dUJhVlV4WTJzSEMwTy1uZkhwS2NNNndEZlhJY2lGTHgtRng1TjQ0XzRWdUNnUjRPQ2ZoaDg2UlJ1cTgtRGZHbTNVcUVFenI1SlIxREdDbWJJX25kWFY2ZWxxVzRyOFl3SGZzbjZUWEk2NklWOUR2UzEwanpPSzU1TnJyXzVveDRoX2c?oc=5",
-      "fecha": "2026-10-01T01:10+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
