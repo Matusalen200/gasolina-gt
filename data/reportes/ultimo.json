@@ -1,8 +1,8 @@
 {
-  "fecha": "2026-10-01",
-  "mensaje": "🟡 Sin apuro. El martes casi no cambia.\nHoy el galón cuesta: Súper Q45.27 · Normal Q43.27 · Diésel Q49.37\nPorque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.\nLo más barato: Guatemala, normal a Q43.27\nNoticias: Decreto 22-2026: cuánto costará el galón de diésel y…",
-  "veredicto": "Sin apuro",
-  "puntaje": -9,
-  "emoji": "🟡",
-  "generado": "2026-10-01T07:21-06:00"
+  "fecha": "2026-10-02",
+  "mensaje": "🔴 Llena HOY. El martes sube como Q0.30 el galón.\nHoy el galón cuesta: Súper Q36.18 · Normal Q34.85 · Diésel Q41.72\nPorque la gasolina en Estados Unidos subió un poco esta semana.\nLo más barato: Guatemala, normal a Q34.85\nNoticias: Así amanecieron los precios de los combustibles este 1 de…",
+  "veredicto": "Llena HOY",
+  "puntaje": 17,
+  "emoji": "🔴",
+  "generado": "2026-10-02T07:18-06:00"
 }

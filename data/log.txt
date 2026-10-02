@@ -1,44 +1,3 @@
-Lo más barato: Guatemala, normal a Q42.59
-Noticias: Transportistas piden al Congreso aprobar paquete… · Aerolíneas de EE. UU. reducirán vuelos más baratos por el…
-2026-09-18 07:15 [INFO] --- grafica ---
-2026-09-18 07:15 [INFO] Gráfica lista: grafica_precios.png (8 días, 4 combustibles)
-2026-09-18 07:15 [INFO] --- telegram ---
-2026-09-18 07:15 [INFO] Telegram: reporte 2026-09-18 publicado en -1003973167814
-2026-09-18 07:15 [INFO] Telegram: 0 mensajes respondidos, publicado=True
-2026-09-18 07:15 [INFO] Fin corrida
-2026-09-18 08:14 [INFO] Inicio corrida 2026-09-18 08:14 GT
-2026-09-18 08:14 [INFO] --- mem ---
-2026-09-18 08:14 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-18 08:15 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-18 08:15 [INFO] --- hoy ---
-2026-09-18 08:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-18 08:15 [INFO] Precio hoy: 0 observaciones nuevas de 0 artículos · regular 42.59 (2026-09-16)
-2026-09-18 08:15 [INFO] --- mercado ---
-2026-09-18 08:15 [INFO] Mercado: RBOB 3.2209 (2.11% 7d), WTI 97.53, USD/GTQ 7.629 · 3/3 símbolos
-2026-09-18 08:15 [INFO] --- noticias ---
-2026-09-18 08:15 [INFO] RSS: 246 notas relevantes en 8 fuentes
-2026-09-18 08:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 12, 'BAJA': 7, 'NEUTRAL': 31}
-2026-09-18 08:15 [INFO] --- senal ---
-2026-09-18 08:15 [INFO] Señal: 🔴 Llena HOY (puntaje +41) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
-2026-09-18 08:15 [INFO] --- telegram ---
-2026-09-18 08:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-09-18 08:15 [INFO] Fin corrida
-2026-09-18 09:14 [INFO] Inicio corrida 2026-09-18 09:14 GT
-2026-09-18 09:14 [INFO] --- mem ---
-2026-09-18 09:14 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-18 09:15 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-18 09:15 [INFO] --- hoy ---
-2026-09-18 09:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-18 09:15 [INFO] Precio hoy: 0 observaciones nuevas de 0 artículos · regular 42.59 (2026-09-16)
-2026-09-18 09:15 [INFO] --- mercado ---
-2026-09-18 09:15 [INFO] Mercado: RBOB 3.2343 (2.13% 7d), WTI 96.86, USD/GTQ 7.629 · 3/3 símbolos
-2026-09-18 09:15 [INFO] --- noticias ---
-2026-09-18 09:15 [INFO] RSS: 246 notas relevantes en 8 fuentes
-2026-09-18 09:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 13, 'BAJA': 7, 'NEUTRAL': 30}
-2026-09-18 09:15 [INFO] --- senal ---
-2026-09-18 09:15 [INFO] Señal: 🔴 Llena HOY (puntaje +41) · Porque la gasolina en Estados Unidos subió un poco esta semana y las noticias hablan de subidas.
-2026-09-18 09:15 [INFO] --- telegram ---
-2026-09-18 09:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-09-18 09:15 [INFO] Fin corrida
 2026-09-18 10:13 [INFO] Inicio corrida 2026-09-18 10:13 GT
 2026-09-18 10:13 [INFO] --- mem ---
@@ -1998,3 +1957,44 @@ Noticias: Decreto 22-2026: cuánto costará el galón de diésel y…
 2026-10-01 20:25 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
 2026-10-01 20:25 [INFO] Cambios radicales aprobados: 1
 2026-10-01 20:25 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-02 07:17 [INFO] Redes: facebook=publicado
+2026-10-02 07:17 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-02 07:17 [INFO] Cambios radicales aprobados: 1
+2026-10-02 07:17 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-02 07:17 [INFO] Inicio corrida 2026-10-02 07:17 GT
+2026-10-02 07:17 [INFO] --- mem ---
+2026-10-02 07:17 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-10-02 07:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-10-01)
+2026-10-02 07:18 [INFO] --- hoy ---
+2026-10-02 07:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-10-02 07:18 [INFO] Precio hoy: 0 observaciones nuevas de 5 artículos · regular 42.58 (2026-10-01)
+2026-10-02 07:18 [INFO] --- estaciones ---
+2026-10-02 07:18 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-10-02 07:18 [INFO] --- mapa ---
+2026-10-02 07:18 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-10-02 07:18 [WARN] Mapa: la lista de gasolineras del MEM tiene 25 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
+2026-10-02 07:18 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
+2026-10-02 07:18 [INFO] --- mercado ---
+2026-10-02 07:18 [INFO] Mercado: RBOB 3.2536 (1.56% 7d), WTI 88.91, USD/GTQ 7.641 · 3/3 símbolos
+2026-10-02 07:18 [INFO] --- noticias ---
+2026-10-02 07:18 [INFO] RSS: 240 notas relevantes en 8 fuentes
+2026-10-02 07:18 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 9, 'BAJA': 9, 'NEUTRAL': 32}
+2026-10-02 07:18 [INFO] --- senal ---
+2026-10-02 07:18 [INFO] Señal: 🔴 Llena HOY (puntaje +17) · Porque la gasolina en Estados Unidos subió un poco esta semana.
+2026-10-02 07:18 [INFO] --- proyeccion ---
+2026-10-02 07:18 [INFO] Proyección (calibrando, n=3, MAE=None): regular [35.28, 35.28, 35.28, 35.28]
+2026-10-02 07:18 [INFO] --- reporte ---
+2026-10-02 07:18 [INFO] Reporte diario generado:
+🔴 Llena HOY. El martes sube como Q0.30 el galón.
+Hoy el galón cuesta: Súper Q36.18 · Normal Q34.85 · Diésel Q41.72
+Porque la gasolina en Estados Unidos subió un poco esta semana.
+Lo más barato: Guatemala, normal a Q34.85
+Noticias: Así amanecieron los precios de los combustibles este 1 de…
+2026-10-02 07:18 [INFO] --- grafica ---
+2026-10-02 07:18 [INFO] Gráfica lista: grafica_precios.png (7 días, 3 combustibles)
+2026-10-02 07:18 [INFO] --- telegram ---
+2026-10-02 07:19 [INFO] Telegram: reporte 2026-10-02 publicado en -1003973167814
+2026-10-02 07:19 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-10-02 07:19 [INFO] --- redes ---
+2026-10-02 07:19 [INFO] Redes: ninguna conectada todavía (ver docs/redes.md)
+2026-10-02 07:19 [INFO] Fin corrida

@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-10-01T07:21-06:00",
+  "actualizado": "2026-10-02T07:18-06:00",
   "estado": "calibrando",
   "metodo": "traslado_simple",
-  "n_semanas": 9,
-  "fecha_base": "2026-09-16",
+  "n_semanas": 3,
+  "fecha_base": "2026-10-01",
   "base": {
-    "regular": 42.58,
-    "superior": 44.66,
-    "diesel": 49.36
+    "regular": 34.85,
+    "superior": 36.18,
+    "diesel": 41.72
   },
   "validacion": {},
   "error_medio_q": null,
@@ -15,36 +15,36 @@
   "semanas": [
     {
       "fecha": "2026-10-06",
-      "regular": 43.18,
-      "superior": 45.26,
-      "diesel": 49.96,
-      "rango_bajo": 42.43,
-      "rango_alto": 43.93
+      "regular": 35.28,
+      "superior": 36.61,
+      "diesel": 42.15,
+      "rango_bajo": 34.53,
+      "rango_alto": 36.03
     },
     {
       "fecha": "2026-10-13",
-      "regular": 43.18,
-      "superior": 45.26,
-      "diesel": 49.96,
-      "rango_bajo": 42.12,
-      "rango_alto": 44.24
+      "regular": 35.28,
+      "superior": 36.61,
+      "diesel": 42.15,
+      "rango_bajo": 34.22,
+      "rango_alto": 36.34
     },
     {
       "fecha": "2026-10-20",
-      "regular": 43.18,
-      "superior": 45.26,
-      "diesel": 49.96,
-      "rango_bajo": 41.88,
-      "rango_alto": 44.48
+      "regular": 35.28,
+      "superior": 36.61,
+      "diesel": 42.15,
+      "rango_bajo": 33.98,
+      "rango_alto": 36.58
     },
     {
       "fecha": "2026-10-27",
-      "regular": 43.18,
-      "superior": 45.26,
-      "diesel": 49.96,
-      "rango_bajo": 41.68,
-      "rango_alto": 44.68
+      "regular": 35.28,
+      "superior": 36.61,
+      "diesel": 42.15,
+      "rango_bajo": 33.78,
+      "rango_alto": 36.78
     }
   ],
-  "nota": "Calibrando: solo hay 9 semanas con datos del MEM y de mercado (se necesitan 10). Mientras tanto se muestra un traslado simple del cambio de la gasolina en EE.UU. desde el último dato del MEM (2026-09-16)."
+  "nota": "Calibrando: solo hay 3 semanas con datos del MEM y de mercado (se necesitan 10). Mientras tanto se muestra un traslado simple del cambio de la gasolina en EE.UU. desde el último dato del MEM (2026-10-01)."
 }
