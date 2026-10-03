@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T21:16+00:00",
+  "actualizado": "2026-10-03T18:22+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 9,
@@ -7,6 +7,50 @@
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "405c20773c37",
+      "titulo": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5",
+      "fecha": "2026-10-03T10:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "701a034e0cb0",
+      "titulo": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5",
+      "fecha": "2026-10-02T23:31+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "007a72d6fce2",
+      "titulo": "Trump: not going to be doing diesel export ban",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFpjaVZQbDFyTVpod0ZuUDM2djZsT1RmNzZ5TVpZRFpRbHlFbzFIeFNuaGlPeHNWem1Kc2hZN2FEVGY0eVpqemJhTjQzMzBjcUlHWXpIbTE4ZUM0N05Mc3plQXA4VjNmdXVYc0lWZ242NlJJYVNLS2w4ZGpKdjljTnJpd0dNSUhXR3UzRVpsWlMxNkRUbWNXQTJR?oc=5",
+      "fecha": "2026-10-02T22:19+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "443b8df3ea36",
+      "titulo": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
+      "fecha": "2026-10-02T21:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "f5f8c955f659",
       "titulo": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
@@ -52,6 +96,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "3806c31795d4",
+      "titulo": "G7 to release 100 million barrels of diesel and other reserves through IEA",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19pQnVCc2dwWWN3NlFDRl9LSTJvQVRYQlpDNDRxM2lhcm9kQzNkOGE5Y1c4eGFQcEFaSHZfUTlydnhfZ25hbFdWSUlBMy1IMVM1S1hOYnA1SEJWby0tZnNzY25jek44MGY1UGprN2lHT25qN3hqLTMxazdES2s0QUczSTBzcUVpTmRRc0pqcG1wd19yR1FidVJka3otVWx5SkF1dm9TaHdzN2hzLW92M1lLdVlqSVk?oc=5",
+      "fecha": "2026-10-02T16:49+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "de0f6d8d0a5a",
       "titulo": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
       "fuente": "OilPrice.com",
@@ -74,6 +129,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "7bf71d9c9d30",
+      "titulo": "Dangote's planned Kenya refinery faces legal challenge by consumer-rights group",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjFoeE14UXo1UVZVQ3BoTmlmQ0FmODgzMFdHNFR5d25OVHhpS2M0SGxPOFNzLW92TDkzMDhNSm9fdnhkM2taZlFQUjVIbWZCN0dFU3JqVHVyeF9Ib1dPTmhQWWVFUW9walRLUDd3VVdFVXFnN3NMTDBIb3RZaFhVcjA1TlVxQl9lYlJNY2dSU29wZzNCQThHRXhudWZzZFhNRjJqaEU3ck0zNDdwZlhsblprR3N5NENnTEtMcFFaa2NBSlA4T3lnTHNR?oc=5",
+      "fecha": "2026-10-02T14:38+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "a25299d8733c",
       "titulo": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
       "fuente": "OilPrice.com",
@@ -82,6 +148,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7fc3a37225cf",
+      "titulo": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOVdpUmRIWHB4RTJyblAwYnVUV2d4VVBaV0pFNUx0TXBLeV9rMDJONlpnTDJPdXVRNEhkWUU5cjVFNEI1Q0ZSTTNhMFJIcTZnY2M3SnFTNzROVDlqeENyN2pQV2d4RnJ2bVlVMUhrcl9RbmoweWp6VkEyRUJjMHl1QmdqN1d0TElTc1hkVURIQURJZmxiWllrV0R1TWh2M1psNlBBN1dIckNIa3BsbDE0VVNua1h5UE5LbDVCSjMtTVJkLVk?oc=5",
+      "fecha": "2026-10-02T14:20+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -261,6 +338,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "25a2a25bbb90",
+      "titulo": "US states take steps to curb diesel and gasoline prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmJCU0lQUEZ0Y3Nnd0Jwd2ltVkxBX1RhYk91UzUwZWlaaVBFZGJYVkVES3RBV2R4Q04ya3M1akdPRDdXREFrQS1mcXA4bmtsMVJGeHJfLXdiS1RsaEx5dlFJNGIwUkdtZ2YxdC1uS2EtLUtCQ1kzOWJIRkttTi12ZGpFeU5VVlhHRjctRlkzNzdRWWkyZTZqd1hsYU8tMW8xOUE?oc=5",
+      "fecha": "2026-10-01T21:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "1f4e6b7b81dc",
       "titulo": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
       "fuente": "OilPrice.com",
@@ -360,6 +448,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "60a28d0c0c2b",
+      "titulo": "Oil jumps 4% on reports China halts fuel exports, US troops head to Middle East",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGNFYVVqQ0xkMTkyblJkMU5mMnJ6Y1RhTEhBWjJyWEhDaXdCVzg3aF9pWTFYdVkyN3d5WmpIRDdHQ283dUJhVlV4WTJzSEMwTy1uZkhwS2NNNndEZlhJY2lGTHgtRng1TjQ0XzRWdUNnUjRPQ2ZoaDg2UlJ1cTgtRGZHbTNVcUVFenI1SlIxREdDbWJJX25kWFY2ZWxxVzRyOFl3SGZzbjZUWEk2NklWOUR2UzEwanpPSzU1TnJyXzVveDRoX2c?oc=5",
+      "fecha": "2026-10-01T16:01+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "002b15f1ade2",
       "titulo": "Burnham Promises “Pragmatic” North Sea Approach",
       "fuente": "OilPrice.com",
@@ -448,110 +547,11 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "a57a4cbef47d",
-      "titulo": "Indian Refiners Seek Tankers for Hormuz Oil",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-Tankers-for-Hormuz-Oil.html",
-      "fecha": "2026-10-01T12:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9d42483d0c08",
-      "titulo": "India will ask private fuel retailers to end sales rationing",
+      "id": "27cda5c6629f",
+      "titulo": "Trump says he is still considering diesel export ban",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGxxOEI4RDZyQTVtM3llQUJGMEhMTHlfLThORjFJWDlzeUhMMzA5NHpkMUhKb1hnc01vZkhLZHdtUENTVlRaV1phajVYSXpJOC1aQ2JWT2xNVU9xbDdyNVlHS1JUUVRhU01zek9XYlRUeTgxejQ0M3YzMF92V19qS3d6UnktM2p4TkZ0T3BKMW1acndtOHZCMzJfOVZ4dl9OLU8yU3drMXdkelNfOUE?oc=5",
-      "fecha": "2026-10-01T11:41+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "91a43261ece4",
-      "titulo": "EU's emergency diesel stocks are mainly in Germany and France",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXEwbVZ0dGxwSkt5YlM4eE9uWGV0MTZScDhaV01PU2h6UG8wOF9XOEtYODdJZFM3U2NVdUhCQ09OUlB2YmJjZ2M0Y2Y0YmVPTzhYcTd1UGxPMEtSbVZlMnhiVHExUkZvOFpWcXc2dGNEYTlmS2R2Q0FwVUYxTnNEd1ZWbzY1OXQybktURkVQUE81dnRXQWtxR3VrM3pCZW5QSVRSWFprbzI?oc=5",
-      "fecha": "2026-10-01T11:33+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e153b487dfec",
-      "titulo": "Three Tankers Struck by Unknown Projectiles in Strait of Hormuz",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Three-Tankers-Struck-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
-      "fecha": "2026-10-01T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0a8d44a66f83",
-      "titulo": "China Halts Fuel Exports Until Further Notice",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-Fuel-Exports-Until-Further-Notice.html",
-      "fecha": "2026-10-01T10:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "894bfdb3595c",
-      "titulo": "VIEW Chinese refiners suspend October fuel exports, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnExM1MyQV9LX2ZOcWJra2NUUWhBRVNqbTh2bmZHTERobzBHZ0RVX2ZhS290R3ZITnpzUzJXbjl2WFBITXN6YXotaTRLZ091V3J1MS1EOWlYeVgwOXFkZ1ZMMDZoOW5pVWhqdUNxRFhYMjRpV2pJcEcwa2ZnekZ0TkMzNGV0NUlDcXNXaUl5QS1IRGpxb3JMbzFVMTk4ZU1hQ2FpVHN5MFFTV2M5VXNJU3lCRGg?oc=5",
-      "fecha": "2026-10-01T10:01+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fc0c28197d7a",
-      "titulo": "UAE's Fujairah restores some fuel oil supplies despite Hormuz disruption, boosts Asia exports",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNXhSVGFZS2JHR2JkNzlYczU1Rk5UME9QN2ZZS3VlWXVYQVQwcE9XbTVBVFNPNERfOXJvOVhHMkhOVWc1U2ZmYjJVYzdlNVJxR0xrdWswR0NkVGJzSjlYWmRHb1l4REFpa29iRWNnMWowcG5KZGw5YkMzamc5TlRsTlU2ZlB6a21nRlBKUDJ3Y2JtUTNBMURldXpUQjlCVkdacmZDM1BoQTNJWkVVcW5qSTRxbWpQX0J5Q2t6b0hWbm1UV1VEZlVrZTJR?oc=5",
-      "fecha": "2026-10-01T09:33+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c221745ca172",
-      "titulo": "Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Allocates-13-Billion-to-Shield-Consumers-From-High-Energy-Costs.html",
-      "fecha": "2026-10-01T09:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b981d866a8a0",
-      "titulo": "Bears maintain grip on oil-importing Asian currencies as crude prices bite",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzhPVk9iS25nZTBDNFFldkdscnI4blFESDhYTUxfbVhaaWtKSUE4RUsydHpZS19vbXB5UF81a21IVGNaZ3haLTM0eGFlT3lxdV9RYUEtNlQ4MnNxbUx0dGdSTndoVDJlVXhlRFpLSjIwTVVydHhZNldyMnBIVUg3RlhFU0g2TmZiVk52SF84UEpDSXZKeWZsZVhOTjUwNGFWblNla1RIZUppY001NVRfV3hFWkViOFdrNjhoVnpNcWQ?oc=5",
-      "fecha": "2026-10-01T08:03+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "58ab2512b7fb",
-      "titulo": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
-      "fecha": "2026-10-01T07:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzJhUjBKWGtXV3haSjJWRVFyS0VjRE1Xb0pSS2NnQUpHeWRFTXd2ZldXd2hxbFhxM1RyWEl0NUltckZaYjV3dW1SZW9ieTdYNWJJTW9jQy00OERwd0xiMk1KWkVqNUJfN3JEUS1qQTM4NE9aS09qbVU5dUc2WnZfalZNYXFDbDNYRTI1eXRvRGhYS3gtUHR5TE9rMThYc0thSVlTTTZjYw?oc=5",
+      "fecha": "2026-10-01T13:11+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
