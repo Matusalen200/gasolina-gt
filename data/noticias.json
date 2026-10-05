@@ -1,18 +1,73 @@
 {
-  "actualizado": "2026-10-05T17:15+00:00",
+  "actualizado": "2026-10-05T18:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 3,
-    "NEUTRAL": 35
+    "ALZA": 11,
+    "BAJA": 2,
+    "NEUTRAL": 37
   },
   "noticias": [
+    {
+      "id": "1e5a37473162",
+      "titulo": "$9.6 Billion in Southeast Asian Upstream Assets Are for Sale Through 2027",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/96-Billion-in-Southeast-Asian-Upstream-Assets-Are-for-Sale-Through-2027.html",
+      "fecha": "2026-10-05T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "723a603e833c",
+      "titulo": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Minister-Resigns-as-US-Blockade-Chokes-Crude-Exports.html",
+      "fecha": "2026-10-05T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e3e5ea18af0a",
+      "titulo": "MEM publica reglamento de ley que exonera temporalmente de impuestos a los combustibles en Guatemala",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/mem-publica-reglamento-de-ley-que-exonera-temporalmente-de-impuestos-a-los-combustibles-en-guatemala-breaking/",
+      "fecha": "2026-10-05T17:13+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "2559276e9478",
       "titulo": "Indian State Firm BPCL Readies $3-Billion Bond to Fund Brazil oil Project",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-State-Firm-BPCL-Readies-3-Billion-Bond-to-Fund-Brazil-oil-Project.html",
       "fecha": "2026-10-05T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "cfccf631d38d",
+      "titulo": "UK's FTSE 100 steadies after worst week since April as oil eases",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjZQTm5OMFRocmQyRFgtS0NzeTYyVFdQNldxR3NtaE5RdjBtdWpkUHhoaTh0UnQ0eURfZXFDalM2d0c0M2h2VDFMeGItOUVhdHVuT3ZMNUhVMUN3YmxsZFZvejFnd3VGTXRQMEs1UWlidWIxMmdFOF9tb0NhbFVJaUw0b1V4UE1pbkhkUDZnX2FiZmNPd1NsM2tUNVdIUDVJSXBHcTRROExXNDA?oc=5",
+      "fecha": "2026-10-05T16:17+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "dbc365e40770",
+      "titulo": "Chevron elevates CFO to lead oil and gas operations",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l4djkzZk5ieVJUbDB3bnRxekFCR25teXgxNmE5dy1FeXpoMkNUdnVQQXVVdTE1T2xmelNvN2Q0dUJualpKN0NyU1pLcFByN2l3OFJjMEYtTWdmeHRPSGpRdkExZW16M3ZkX1dsT1BRb0hBRFhmbFltN1hxbXlKU244cTZyYmNEZS1rZnZEYUZ1d0gz?oc=5",
+      "fecha": "2026-10-05T15:42+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -500,61 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "443b8df3ea36",
-      "titulo": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
-      "fecha": "2026-10-02T21:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "28fbd1fb8790",
-      "titulo": "Transportistas de combustible aseguran que precio del diésel sigue alto",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMWkl0TzRSVkExQmVxcjdNOUo1dFFEcGI2UGMzdnhFNGcweVZJRWZKRzdYRjFXTjFTREFvckJPZmYtWFBGSmVmQjd5bl83MHVLVDliWHZ2NHRvbTRtQjJad2VseFZQZWV1OTJFc1RGS0NzYmZkeGFEYnJjQQ?oc=5",
-      "fecha": "2026-10-02T19:03+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f5f8c955f659",
-      "titulo": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
-      "fecha": "2026-10-02T19:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9d2f7620c13a",
-      "titulo": "G7 countries agree on release of diesel and oil stocks after US pressure",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
-      "fecha": "2026-10-02T18:17+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "48f05646ecaf",
-      "titulo": "IEA's Birol says oil prices starting to fall after reserve release decision",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHZzWUw2YjVHbmx6SmNmYURKOGxkcy0zbndDQnpTMnRSc0JLOEpIaWw0MzVmeGRzNGZPeUFZQlM4aGduVEV5cVRCYlFwSk53RUQxYzhoZHd2UFhwX25mZlJKbmFzR2Zza3E3OGRVRVN4M0lvV2w3bTQwb1FzQ0s5eUhvQ3VjZTBZbW11QzVKTWctQ3FYQk9GZ2VYRVdKMEo1RVp2S3Z0LTVVMV9OZE15ZURBejNCWVkteVdzZDRsMHc?oc=5",
-      "fecha": "2026-10-02T17:36+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
