@@ -1,75 +1,75 @@
 {
-  "actualizado": "2026-10-04T12:22-06:00",
-  "revisados": 25,
-  "nuevos": 0,
+  "actualizado": "2026-10-05T07:22-06:00",
+  "revisados": 12,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 44.61,
-      "t": "2026-10-01T16:09+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/lh-economia/esmith/2026/10/01/gasolina-amanece-mas-barata-por-exoneracion-del-iva-y-del-idp-apoyo-estara-vigente-entre-el-1-de-octubre-y-el-31-de-diciembre/",
+      "valor": 36.09,
+      "t": "2026-10-05T12:26+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-10-01"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-05"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 42.58,
-      "t": "2026-10-01T16:09+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/lh-economia/esmith/2026/10/01/gasolina-amanece-mas-barata-por-exoneracion-del-iva-y-del-idp-apoyo-estara-vigente-entre-el-1-de-octubre-y-el-31-de-diciembre/",
+      "valor": 34.79,
+      "t": "2026-10-05T12:26+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-10-01"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-05"
     },
     "diesel": {
       "tipo": "promedio",
-      "valor": 49.4,
-      "t": "2026-10-01T16:09+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/lh-economia/esmith/2026/10/01/gasolina-amanece-mas-barata-por-exoneracion-del-iva-y-del-idp-apoyo-estara-vigente-entre-el-1-de-octubre-y-el-31-de-diciembre/",
+      "valor": 41.69,
+      "t": "2026-10-05T12:26+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-10-01"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-05"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-09-29",
-      "q": -0.66,
-      "pct": -1.5
+      "vs_fecha": "2026-10-01",
+      "q": -8.52,
+      "pct": -19.1
     },
     "regular": {
-      "vs_fecha": "2026-09-29",
-      "q": -0.69,
-      "pct": -1.6
+      "vs_fecha": "2026-10-01",
+      "q": -7.79,
+      "pct": -18.3
     },
     "diesel": {
-      "vs_fecha": "2026-09-29",
-      "q": 0.03,
-      "pct": 0.1
+      "vs_fecha": "2026-10-01",
+      "q": -7.71,
+      "pct": -15.6
     }
   },
   "diario": [
@@ -102,6 +102,12 @@
       "superior": 44.61,
       "regular": 42.58,
       "diesel": 49.4
+    },
+    {
+      "fecha": "2026-10-05",
+      "superior": 36.09,
+      "regular": 34.79,
+      "diesel": 41.69
     }
   ],
   "tope": null,
@@ -189,6 +195,19 @@
       "url": "https://lahora.gt/lh-economia/esmith/2026/10/01/gasolina-amanece-mas-barata-por-exoneracion-del-iva-y-del-idp-apoyo-estara-vigente-entre-el-1-de-octubre-y-el-31-de-diciembre/",
       "titulo": "Gasolina amanece más barata por exoneración del IVA y e IDP; apoyo estará vigente del 1 de octubre y el 31 de diciembre",
       "extraido_por": "reglas"
+    },
+    {
+      "t": "2026-10-05T12:26+00:00",
+      "fecha_dato": "2026-10-05",
+      "tipo": "promedio",
+      "superior": 36.09,
+      "regular": 34.79,
+      "diesel": 41.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
+      "titulo": "Así se encuentran los precios de los combustibles este lunes",
+      "extraido_por": "reglas",
+      "salto": true
     }
   ],
   "sin_precio": [
@@ -327,6 +346,17 @@
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcWVhVXIxa1B4eTQ2QVRoZno4SEFGMDhjclc5RTY5TXU4UFB0LW5pVjc4YUlVTE9hVGxfSEF6cGtXS1BTUlptNW5zbnFxUlNmMlhOOU9uVzRoSW5LQ29PN1NYQkVKYUg2Y2ZjaWRoLV9EeWJKcU9qRG4xdVhJamhJNFFyeERkNTJLY2s2RzlucFA0YWpMM0ZWWVlvYnJ2OW1VZHQtVXViUHVjVHdJSHJPYk9YUjU4RU5oVlBfVDBzNW8xNkRQV2c3UUxWOGZ2bEwwcHZNU1JMZ1pYY0s2ZzZUUXozQmdYM3cyRElwSDNYMNIBigJBVV95cUxPcldVcEpxODFHb3FvMXBWei14MnI3MkZyLVFfVkNMQlN4UTM1XzR4alE5WGdYZHhyUTRBMUk5U09WNnQ3Tk1uemJtcXVkOHQ5S3V2T1ZJSnNkY3BicDdWNTlCeXp0MkZaZXA4bTV1bXZ2VDBzb1ZRMVFHNVI0QXVjTTVNYlRvRmh1YU8welJ1aFJZTnpNVzN5S1BmSnRadlU0OXJqcnFoUVBVVW83b3hoUjFkUUVlV0t5YnhJa2VNTVV0bW1Vd0dXcGdlaS04S19oc2xCR3lveEF6YjJtQ0lOd0E3cFFzOUVMVmNyUGJlUWNzWXd1STc4UzR6aW9hUHhscHc1cFBHTUcwUQ?oc=5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWVnQ3oxdGhMTGY1bF9UZTZZeF9QdENKSTgwRzVyTFFhT0lXTFplcl8xS2FpbExFekNWbVVHMWF1WE5WeGs5MjhpYWRLVnVJNWVQOVhFcVg4aXI2bmVrTFNmTWYtd1pTb3J5X3BnaG1QcEtTc1ZqOHR1cVpZTXI1MldnbkFZUy1HakJqdEZ6NDRpQXVad3NLWVZYRUN6akZuN3F0TkhYOUdkd0ptejFZc1otRUxFTFVzT3BqaVF2T2Rsb0trUlk2UFhsWXExUmVYZDdQMlBJSElNX0lxOHhPcWJBYk56Qmgw0gGDAkFVX3lxTE1GWl9HTFZCYjhUSll5cGFQa043OTRlcG1MWDFFWXNFNFJ2RWM3YnFlOGJ5UXNNb1c0VW0tSE8yeGJyTUhkZUtqdkVTWGszY29vVkVaNW1fUVZjVkloTnNSYy1TOEdoTm5Ka2o0MklzU3UxTmhrMWs5Tm5QLWl2cnVwejZSRE1SMDFjZlJySUlja0ZMQWtQeDFabm1vb2RYaHA0cmktQjNwTzZBWTI1cnhoSTZmMUtTMFVzbVpqdTJzWUpMM0lEVXhYUTZlSkxSbm5CZmlfWlFpWXN5WHpZbFpnUUtUYlQweUxWVWdIVW1vVm9Wc1BndUcyV0lmZ09odUc5X1U?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjdDVFRLRE12eHlzekY1SFRfMmpDdWpPNmNZLXl6aDEyUE9FcVpUVFdoWHVNWkd0THFUMWxqNWVSdzJvRkdRRGhHVmlIVHdaZ0RGeUFOWXpqbXdkS0c0cXZZMThiRkFTVmp0azNsM2V4dU8tbnhnQWh2c0xuSUJxNWEzelJzZFlKR0xpcld2TDZEa05weDlBTzRxVWlEVUhkTGVib1pzLUJDTzV2SlV3VS01SzVVVG9vNDE4TGZWME5LLWZZdHpKUHFjcXJYSGlTbXNnTTln0gHWAUFVX3lxTFBuN0NUVEtETXZ4eXN6RjVIVF8yakN1ak82Y1kteXpoMTJQT0VxWlRUV2hYdU1aR3RMcVQxbGo1ZVJ3Mm9GR1FEaEdWaUhUd1pnREZ5QU5Zemptd2RLRzRxdlkxOGJGQVNWanRrM2wzZXh1Ty1ueGdBaHZzTG5JQnE1YTN6UnNkWUpHTGlyV3ZMNkRrTnB4OUFPNHFVaURVSGRMZWJvWnMtQkNPNXZKVXdVLTVLNVVUb280MThMZlYwTkstZll0ekpQcWNxclhIaVNtc2dNOWc?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0NINDZCMXhHVXBaSDZCVDByRS1WRVhSWkQwb2tIVlJjNTNHdzUxQ1YzZC03U3V2UWM5TjVjSU9hQksyY2h5cThiZ1ZtUkJwbDduWjYzVmx6azZnRzc1ZVlua0J5dWJZSVdBYlgxdFMwTzlDTVdCVy1qbk90ZzR1TlBWRWlmamZmcmZLdlZnLWk0TUhBR3dBUDJwOUp2U3JwcTc1ZXJDZm9iTHFiRGQxUld0RDZUWG9kNWEwT2txMWVBQVhpcVI1N1F5YWI5dlN0NkNXdy130gHwAUFVX3lxTE41NlF1M3JzN0tmcmdfcTI1STE3SWx3UmdkcWJuYnhLanhIcklOV2l4cTc4RjhvYmp6OXBia0lmV0ExamRtQkdOM3NiczloY1pEendtVFFuRzJXZEs5bGVYRXVrWUdJeHhxdGRzNVhlczFVQUF3NG1qd3BNOFk3ZTFBYV9ycjR5X2o5RHRLUVVQazM3bG1KV3dOblRkNHZtcFotbnRVbmdyNlVaZnhwMGZLeUdVZjNUU1hpMkpOVkdZMU0xdlZNNVcwbW0tTC1mN3pGUy0zNWktclFPV0hoLVdLcFVnbVpaSTQyLXRHTUI0Vg?oc=5"
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0NINDZCMXhHVXBaSDZCVDByRS1WRVhSWkQwb2tIVlJjNTNHdzUxQ1YzZC03U3V2UWM5TjVjSU9hQksyY2h5cThiZ1ZtUkJwbDduWjYzVmx6azZnRzc1ZVlua0J5dWJZSVdBYlgxdFMwTzlDTVdCVy1qbk90ZzR1TlBWRWlmamZmcmZLdlZnLWk0TUhBR3dBUDJwOUp2U3JwcTc1ZXJDZm9iTHFiRGQxUld0RDZUWG9kNWEwT2txMWVBQVhpcVI1N1F5YWI5dlN0NkNXdy130gHwAUFVX3lxTE41NlF1M3JzN0tmcmdfcTI1STE3SWx3UmdkcWJuYnhLanhIcklOV2l4cTc4RjhvYmp6OXBia0lmV0ExamRtQkdOM3NiczloY1pEendtVFFuRzJXZEs5bGVYRXVrWUdJeHhxdGRzNVhlczFVQUF3NG1qd3BNOFk3ZTFBYV9ycjR5X2o5RHRLUVVQazM3bG1KV3dOblRkNHZtcFotbnRVbmdyNlVaZnhwMGZLeUdVZjNUU1hpMkpOVkdZMU0xdlZNNVcwbW0tTC1mN3pGUy0zNWktclFPV0hoLVdLcFVnbVpaSTQyLXRHTUI0Vg?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnk0UnZ3TmZLWG9mZ3B1SXAteV9Jblp0eWc4bDd3YS1pd1htM3RUcFBrQ1dPNmJzbkZjcFRkZkdod0pyU3VJRzhzaXlXWFVsS2VzOGg4SW1tSm9zZ1JMWVBxNG5QOTJJaXZEZWxJbmdDQ2REWUVEWUtLeGY0VnFESzZPU0RqT0MzVUFibl9PRXRVRHNMRzc4NUxfOHEwbUJzS2FYRGs3YlJFMWVGMGJLN3NoZEh0UWphbTNxeGZtdUREMDZaM2c?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRFN0ZDlkdGVwZ1hJaVJXMVdZVVlWMHpYN3ZQRzlZN1UzTVlwdkUyV3BiM2FtVFBDTkhBQjB2WWp3aXlxalVRU2hGaFRDbkgyTko5aDd1Nm9tZmo3b3p0YkRzTUxIUjQzNnVsM25mVFphek1UWU5MdjFmZzFrdm1QU3JlaWdQSExmVm4xN3FCWVZTQXRhM2dya1lZbGg5NHlYUVd5LUJxaWlFZXlsUDcyaFZCT2kxYkMwRmlucWU1VVZsNHBVQVlUTlNaUl9WZEs1WEY4bUtrZHc1a2pJN3NiTzY0YjFBZkxodE95THU3X1hRTnRwUnRWVdIB-AFBVV95cUxNRFN0ZDlkdGVwZ1hJaVJXMVdZVVlWMHpYN3ZQRzlZN1UzTVlwdkUyV3BiM2FtVFBDTkhBQjB2WWp3aXlxalVRU2hGaFRDbkgyTko5aDd1Nm9tZmo3b3p0YkRzTUxIUjQzNnVsM25mVFphek1UWU5MdjFmZzFrdm1QU3JlaWdQSExmVm4xN3FCWVZTQXRhM2dya1lZbGg5NHlYUVd5LUJxaWlFZXlsUDcyaFZCT2kxYkMwRmlucWU1VVZsNHBVQVlUTlNaUl9WZEs1WEY4bUtrZHc1a2pJN3NiTzY0YjFBZkxodE95THU3X1hRTnRwUnRWVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUF0eHB5RGNoelNwblo2V3oxVzU2MnoyUUo5SEdwUkRSTjV5QXBEbE1FVWJianZBRjgzVW1yTU5JOUVFeEV2Mi1wVVNRN05IcFBGQnphRElFWkIwRmdkTTBYUFlsU010MDZYMU8yYXNqNUU4NTFwUjk5WGFyZ2lrNkRSVkU3WldMQ2tlb183Nk5NVnJXOXk3TzlrMzhhamdfVE5vemxPaUx3Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNlM2Z0NibkVVX2NONGRrTFZMNTItMm9hVVF4VHRjWm9VbnlVTmtta2lSRlVCSFJyU3lPRU9RNWZQdWlnLUJab0pJY2w1WnVBZ3QwdnhuQng5MUotN0VhV3FNM3Z6ZGJNMFFMUXNEYUlxVUNmenQxekZvTjl2LWVBTHJxbUkzV0VRNTdoYXJqdTNzcVR6MGs2b3dXaDFrNnc5R0RDMEZ5UUxuOEh3UUJXU2E2TE1mVlBxaHdaZWF0UnVQM0pFcDVHb1VtaW4?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnhla0tiZWpuR0thdWtXeXpjSTV1emkySkNUaE1YOTVna21WUDIxck1GSjl2TFljSS1JWjJjaW12UVhTRjI3bC1zRVkwSzRHZHpoS3AtamdjT3N5OUxqYU9zZzEwd1kySnc4TXotcm5ReUJ6Y2pLU1MxUEtsUlBkeEpsVWRaXzh0REQwemh6OGV5WmUzY3oycHpkWmstMDlidExaOTNJNEk4VmxRT3hLaHNSU0FER3F1UXlpRmpfS3ExcEpkYk9VMTBCVHRTQlJ0YUV0aQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0RFdnNlRnNrUnlHTXNYTkN3ajBmNGJvTzN0TllieE5FWUwyTDVsZndlVGVxX29GWjIzU3pETG9mUjdqLUFLRjFIR0JKUWxuUkNSem9QMGJXVFRJLXFGaWZuSjZuV2lDbXhxdUN2Y2l0eDBNRGx3b1A2eEFoMlYyMUo2QlViVmYtME5ldU9VMTVYTDBXUkNuQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNE1JejM3RWRlRVlEbU0yQVBfcmJVSXhUX2pBd3hYZlhXYXpGNjFFRklqWWpaaGg2SkdJMHdlbE91cXprMVR1VWY2a3RUb3RQSlJDVXk1RUs3LV9nZ3o4R0hoUzFhcHpIZnFqTXdlWEF0QlM4cnE1eEM2RkJQZU9sN19NUFRqQmVmTm9VM3RlOU13eXJ4Wk9Zeno2YUhodkIwb0RiMVFrV3RDeklya2tLTlctYlBvNGx4VWdZ?oc=5",
+    "https://dca.gob.gt/noticias-guatemala-diario-centro-america/1280876/",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYS00SmdHNEMtX1FLY1JXZFNzUFpjSWRLUE93LW12VGUtbENiMUN0NzE0eXhzU0VaUmhsc2hQSUpfejFlX1Npdm9WUUJaRVZsdGNEdFV6anBERDhJNWU4Vk85Q3FPX2hPOWtIdmhvOWxhbHFxX0prU2VrZlBDWmlCM3ViTFFETHB6SXBMY0xsWnBQbUpJdEhTcGliX1JmYWFEVmwzRF9TTnZDR3oyWDd3V2w5Z3dOVFdWOGxTZHF3dU4wU25fQ29LMXdjZllZMkNaVFgw0gHuAUFVX3lxTE52cHZ6OVE0ekRNZm56bjhZVlhneUNnQnNRTUhBRE8tcC1jYi16cEdsODNjU0EtRnJpNmxMYzFtbXFDdF9ZUmJhNFR4ZzNvYkExVXN3T1VCZzU4LUkyaFdlTHp4SGNJNzBOMWVTWkZFNmNYaGhqTjZxWlZNcjVsR2JXQk5zUmxNNTNIUm1vVjdiWWV3Ukp6UjFiNmphZ1RFcXhTTUE3OVBMcXoyalhIcGJ4UUlXaVpTZW91eWNnc0hOSU5wLWo2YzlnWTlCTS0tTENGazdvbVZUQ0lGNWdxWTZKemVLd3NsWEozT2tmQXc?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaE03eWFDbTg5RmZfb2tCM0lUdlV3ZFByOWxwVTZfS3NrTWx3RFRvZkUycWlrYm5iQkpJbnE2MXhhWDlOTXNMVXZ0VzdqY0ZkQ2haT1E5MkhMTFlvRDhjazhVaHltRUJDd3RqZy1ZM19LUHFIckllSmlTVndPN1d5Tzlrd3BCcXo1WTRuYVZBSkNEUHhjd0ZUUmcwa0VtUlkzUENqU3Y2eVVfaGlGRkNhVEx4TWtxd3FzYzZTOVhWQnlhRnlyTFRNN1VwZ3hHUzVvbFHSAewBQVVfeXFMUGVXUTB3YWRyZHoxQmlnUDAtcnFXRk42bXpab0p2Mi1tWmZRVkszT1I0cm9XZnkwdjRZNmQ3aWpqWlFjcGY3dHMzbWF4cDZqd0UzWW5EMGJiSWtFM21sZTNGbHZLWFZGajZIVUlTdThacHMxY2kxS3NSRGRtNW1PS3A0MTIyc0pkMGdHa0IwbFg1a1E3Tm93TWZVWkFRdG02eFlHakZqRG1iTTFObW9MY3VDX0FjYldGcGRtT0M5VHVtVnhnWFYxdVdHZVE4Y1dJeVhUdzQ5UkUtdkprenBkM1BVVnRUcTlMTG9WSHE?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjF2QjRwSUcxV052MUhmeVFHdnNoNTFsR2Yyd0tCWHdIb090Zmx6YTZfcENheURBamxrOUpDWGpKWEtKdjBpTlhWeWdnMU9JOHJnd0NIM05kN1lPUzg0RHZzT3Q4dmtLVzJDYWZIMGQyekNMeDJjMHNXUURuUDlyQnFxNVhUd3cwanhpc0Z4VTZqVEdSamFfR1pyQ1prVDA?oc=5"
   ]
 }

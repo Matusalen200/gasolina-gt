@@ -1,8 +1,8 @@
 {
-  "fecha": "2026-10-02",
-  "mensaje": "🔴 Llena HOY. El martes sube como Q0.30 el galón.\nHoy el galón cuesta: Súper Q36.18 · Normal Q34.85 · Diésel Q41.72\nPorque la gasolina en Estados Unidos subió un poco esta semana.\nLo más barato: Guatemala, normal a Q34.85\nNoticias: Así amanecieron los precios de los combustibles este 1 de…",
-  "veredicto": "Llena HOY",
-  "puntaje": 17,
-  "emoji": "🔴",
-  "generado": "2026-10-02T07:18-06:00"
+  "fecha": "2026-10-05",
+  "mensaje": "🟢 Espera, va a bajar. El martes baja como Q0.90 el galón.\nHoy el galón cuesta: Súper Q36.09 · Normal Q34.79 · Diésel Q41.69\nPorque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.\nLo más barato: Guatemala, normal a Q34.79\nNoticias: 10 apuntan a que sube y 5 a que baja",
+  "veredicto": "Espera, va a bajar",
+  "puntaje": -22,
+  "emoji": "🟢",
+  "generado": "2026-10-05T07:22-06:00"
 }

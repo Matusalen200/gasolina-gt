@@ -1,1 +1,38 @@
-{}
+{
+  "2026-10-05|superior": {
+    "estado": "pendiente",
+    "producto": "superior",
+    "fecha": "2026-10-05",
+    "valor": 36.09,
+    "antes": 44.61,
+    "salto": -8.52,
+    "fuente": "TV Azteca Guatemala",
+    "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
+    "detectado": "2026-10-05T07:22-06:00",
+    "avisado": false
+  },
+  "2026-10-05|regular": {
+    "estado": "pendiente",
+    "producto": "regular",
+    "fecha": "2026-10-05",
+    "valor": 34.79,
+    "antes": 42.58,
+    "salto": -7.79,
+    "fuente": "TV Azteca Guatemala",
+    "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
+    "detectado": "2026-10-05T07:22-06:00",
+    "avisado": false
+  },
+  "2026-10-05|diesel": {
+    "estado": "pendiente",
+    "producto": "diesel",
+    "fecha": "2026-10-05",
+    "valor": 41.69,
+    "antes": 49.4,
+    "salto": -7.71,
+    "fuente": "TV Azteca Guatemala",
+    "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
+    "detectado": "2026-10-05T07:22-06:00",
+    "avisado": false
+  }
+}
