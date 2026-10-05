@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-05T13:22+00:00",
+  "actualizado": "2026-10-05T14:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 9,
     "BAJA": 5,
-    "NEUTRAL": 35
+    "NEUTRAL": 36
   },
   "noticias": [
     {
@@ -13,6 +13,28 @@
       "fuente": "EIA",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68245",
       "fecha": "2026-10-05T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d5bac82ff3ab",
+      "titulo": "Replenishing crude and fuel stocks could take two years, Saudi Aramco CEO says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFBWUXdRbEpSdW95M2JsWlZMNF9VRXhZdUp2eVBoSXJYYllUbmZ2anNWMFFrQ3lGWFU2cnNxUW1zWTk2alRMS2VhVUtqdndlVi0xc21BT3Fwa2hnd0tjZWxQZDJtaGNvQk41c2lfSWZQR0FaampUcHpFQXdvbG1vUElBZmhuU3FRbC1fNW9MZ2c3eS12dHM5a05QeHVtR3VCYXhmcTZ3TW9CYjdZa1JhdlZWLWVMOHNGM1dQVUhHNTVCQi1fNkE?oc=5",
+      "fecha": "2026-10-05T13:38+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f42ef430caf7",
+      "titulo": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Strike-on-Aramco-Facility-in-Riyadh-as-Yemen-Fighting-Escalates.html",
+      "fecha": "2026-10-05T13:30+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
@@ -57,6 +79,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Rules-Out-More-Reserve-Releases-After-G7-Pledges-100-Million-Barrels.html",
       "fecha": "2026-10-05T11:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2c0d866faf5a",
+      "titulo": "US Supreme Court weighs bid by oil companies to avoid climate lawsuit",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2t4Tld4Y2hsdXplcC1OLUhMeENlQURPLXFUX0pNZWl3TGcydUZKV0xiSDdDZ0JCakNwZ2RhdVZ0dGozLUlVdEVCamQtN1ZPS29ZeXg0bzR5bGMxOV9LbU9VLVE1anpaLTVFRC1oWXE4aUx1by13ZW8tVVBJQmFzQ2ZYZ3pSLUk3azNmaEdlSmtfU3RUTHZXRmk3YTdTb1BGWU9mclJiV1R4RWUzeGNOeE5Wa3hvb2Y3NExfVExn?oc=5",
+      "fecha": "2026-10-05T10:48+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -393,6 +426,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1cf2cccb1731",
+      "titulo": "Brazil's Petrobras makes new oil discovery off Amapa state",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzY3cXlCTG1ZajJPWDVyR0RHV0JxU3ItUjdEd3F6bVByeWFaVkUyOF9JUXdYMVBJNzNHU09hZFpjQkxxLV9YVGV6enQxZVEzNDdFZzlaX055S2V1M2tLXzlhdkhVWXFkc0ZNMHhmcy1sT2hwblpPSTBDczY4Q19IdDR3NzVkT2dFRl9PRkMtZ25XaUlVQ0ZIenAzWVM4cXN0MXo0MnBDZmxLS1pKdHc?oc=5",
+      "fecha": "2026-10-02T21:54+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "443b8df3ea36",
       "titulo": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
       "fuente": "OilPrice.com",
@@ -423,6 +467,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9d2f7620c13a",
+      "titulo": "G7 countries agree on release of diesel and oil stocks after US pressure",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
+      "fecha": "2026-10-02T18:17+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -470,88 +525,33 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "de0f6d8d0a5a",
-      "titulo": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
-      "fecha": "2026-10-02T15:23+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fb5c56e507f7",
-      "titulo": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
-      "fecha": "2026-10-02T14:45+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7bf71d9c9d30",
-      "titulo": "Dangote's planned Kenya refinery faces legal challenge by consumer-rights group",
+      "id": "55219d06d8d1",
+      "titulo": "Trump says US deal with South Korea has $8.4 billion for oil recovery",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjFoeE14UXo1UVZVQ3BoTmlmQ0FmODgzMFdHNFR5d25OVHhpS2M0SGxPOFNzLW92TDkzMDhNSm9fdnhkM2taZlFQUjVIbWZCN0dFU3JqVHVyeF9Ib1dPTmhQWWVFUW9walRLUDd3VVdFVXFnN3NMTDBIb3RZaFhVcjA1TlVxQl9lYlJNY2dSU29wZzNCQThHRXhudWZzZFhNRjJqaEU3ck0zNDdwZlhsblprR3N5NENnTEtMcFFaa2NBSlA4T3lnTHNR?oc=5",
-      "fecha": "2026-10-02T14:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpSdDRDc2MzeVQ0R28ycC03cXdDVTBvUGN0WTh3eGJSQ0I4UEN1Sk1PSzQ4NjF2QjVRTVhXbnMtN2JFSWxrUGtlTDhoNTRMVUZpTS1KT2xVcGh3czdZN0loQnNDb1d4UXVJMllkTk00cXhrUHNRbHpnakhJSGJ3OVRCRjA2QloydDZILUQyTl9UaFc5aHlmVjVYZWRBbUE4dXp4Q0ZfWEdGdEp1cTRLeXkxNVdvNFBObDVWd3hmWUtfZw?oc=5",
+      "fecha": "2026-10-02T16:16+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
-      "id": "a25299d8733c",
-      "titulo": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Deploys-Patriots-to-Shield-Saudi-Oil-and-Qatari-Gas-Facilities.html",
-      "fecha": "2026-10-02T14:30+00:00",
+      "id": "5a70d3b2c829",
+      "titulo": "Oil settles lower after Europe agrees to tap diesel reserves",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTERINTZjYjV0dGhsWUtmMjRmNXVHN2tjaG5ZVkpldGxTRHJxOWc5N0Jtd0dhTEZLdUVpM2Z4T1J5SFYxZ2NTMm83Q1ZSXzgxUDA2Z2hXbFRKRTY1cWRWajR2SldNQ2xqTktJNDAxamcyb3V0YVZyZnh6aktvcHpUNzRobzNocWQ1ZFREbVN5OUR2MHJ3MHVQU1RveHYzYkhZZnAzc3YtNTk?oc=5",
+      "fecha": "2026-10-02T16:07+00:00",
       "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9af0faff61e3",
-      "titulo": "El petróleo cae más de un 4% ante la posible liberación de reservas",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3dIT0RFQzkwY0V1X2RpMFBxekFZUFFrYi1ZQlM0MEcwb25hcXA3Q2JsWkZPbFMtQ2o5M2dwRUNKdUNvR1N4TGFlbnN6c2NDZ0llYk0tLWFfMHd5VnZVcjFubmV6ZThkQ1UxU2NmSnJjcHViYWtrQUxiU3ZxZk1tbUMwQllvejVNOXI0cU9jdzVzT2J4?oc=5",
-      "fecha": "2026-10-02T14:23+00:00",
-      "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
-      "id": "7fc3a37225cf",
-      "titulo": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOVdpUmRIWHB4RTJyblAwYnVUV2d4VVBaV0pFNUx0TXBLeV9rMDJONlpnTDJPdXVRNEhkWUU5cjVFNEI1Q0ZSTTNhMFJIcTZnY2M3SnFTNzROVDlqeENyN2pQV2d4RnJ2bVlVMUhrcl9RbmoweWp6VkEyRUJjMHl1QmdqN1d0TElTc1hkVURIQURJZmxiWllrV0R1TWh2M1psNlBBN1dIckNIa3BsbDE0VVNua1h5UE5LbDVCSjMtTVJkLVk?oc=5",
-      "fecha": "2026-10-02T14:20+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0843421a63e9",
-      "titulo": "Europe agrees to release stocked diesel oil, Trump says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5",
-      "fecha": "2026-10-02T14:12+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a57eedbf02b0",
-      "titulo": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
+      "id": "de0f6d8d0a5a",
+      "titulo": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
       "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-JERA-Creates-Oil-Storage-Firm-to-Manage-National-Reserve-Sites.html",
-      "fecha": "2026-10-02T13:30+00:00",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
+      "fecha": "2026-10-02T15:23+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
