@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-05T15:19+00:00",
+  "actualizado": "2026-10-05T16:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 11,
     "BAJA": 4,
-    "NEUTRAL": 36
+    "NEUTRAL": 35
   },
   "noticias": [
+    {
+      "id": "3f68662930a9",
+      "titulo": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Electric-Vehicle-Sales-Hit-Record-as-Fuel-Prices-Surge.html",
+      "fecha": "2026-10-05T15:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "9f896660644a",
       "titulo": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate",
@@ -541,17 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
       "fecha": "2026-10-02T16:50+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3806c31795d4",
-      "titulo": "G7 to release 100 million barrels of diesel and other reserves through IEA",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19pQnVCc2dwWWN3NlFDRl9LSTJvQVRYQlpDNDRxM2lhcm9kQzNkOGE5Y1c4eGFQcEFaSHZfUTlydnhfZ25hbFdWSUlBMy1IMVM1S1hOYnA1SEJWby0tZnNzY25jek44MGY1UGprN2lHT25qN3hqLTMxazdES2s0QUczSTBzcUVpTmRRc0pqcG1wd19yR1FidVJka3otVWx5SkF1dm9TaHdzN2hzLW92M1lLdVlqSVk?oc=5",
-      "fecha": "2026-10-02T16:49+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
