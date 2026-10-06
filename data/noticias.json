@@ -1,18 +1,51 @@
 {
-  "actualizado": "2026-10-06T11:24+00:00",
+  "actualizado": "2026-10-06T12:28+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 9,
     "BAJA": 4,
-    "NEUTRAL": 36
+    "NEUTRAL": 37
   },
   "noticias": [
+    {
+      "id": "08e8b48a4e48",
+      "titulo": "Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Courts-Saudi-Arabia-and-UAE-as-Asias-Oil-Supply-Fears-Persist.html",
+      "fecha": "2026-10-06T11:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "99fdfa1f3372",
       "titulo": "China Accelerates Ultra-Deep Drilling to Boost Domestic Oil Supply",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Accelerates-Ultra-Deep-Drilling-to-Boost-Domestic-Oil-Supply.html",
       "fecha": "2026-10-06T10:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e7c5dcc130d8",
+      "titulo": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNME5mNWI4S1ZzcGRoUDk1R3NETnJ0R2NsRk1hV0pVYUp5cUs4MmhZbm1JNHNNMWhuTVBmM1p2NWl0Vy1LTEJrdVhtOXppM0loSldRS1lWUEZoY1RZR0FCcV9QYnJ1MXRUY2Eza1pkcmpTcUxNdU85bFczLUxDWndRaWdSWHRLSko3a0ZHQ1BVTjUwRnR2OVA0OUI3dDdndDFOWW4wM295OE91X19UZ29fUjhZZDJ3SmdJamlr?oc=5",
+      "fecha": "2026-10-06T09:43+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "df5298c7791a",
+      "titulo": "Saudi energy minister says oil pumped through East-West pipeline reached 5.8 million barrels",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGhwS0d6Y0FFQWI2RTNHYXE1eG1RRTBWWWp2SDFrZUVMSG1EcHNwN3lpMURoaktVTHh0bEQ2eDMyUkg0ZGMzUldHV1ZTSXFYbXo0UFI2Vmk3SWU2NzdTYk9WZUlqZmpCam9uVFl1TjRST0FlY1hRSjVFVkt3TGU5NTNDczZvS2hMUldFbGRaQ2c2QlJTdUFRbUtGRmhBaUFiOFh4ZW0yR2hvUEUyNlZXQkxNZDJfNDMyVXVPX21LN0lGbWRUOGc?oc=5",
+      "fecha": "2026-10-06T09:42+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -519,39 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3NmVDJ2ZjZRdVItaXBoaVRVVEllRXhLLWV3cjVKTVFDLVhYRmMyTVZUMjlCNDVHZXVHZHNUdzlBczdBcTM1WjZtM0dISGQ4bUpreXZmUTFWblJiTldMYWd6WU5oNmlkS2RfeGlhU1hDYU5sVmwwSzdQaFozelFTWWNYTVYyREs5dWJWUkRfbld1VlExMTFJSDlWaDRxaG9xc2ttc1ZCNTYwT2I0S2xwRjczUUk3TF9aNjBEb3VRcXBXclNyVHZB?oc=5",
       "fecha": "2026-10-04T23:03+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "aab2ee57a0b0",
-      "titulo": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
-      "fecha": "2026-10-04T23:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f2e29079c80d",
-      "titulo": "Oil steadies as Middle East crude exports rise and G7 to release stocks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5",
-      "fecha": "2026-10-04T22:17+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d0be10d3ecad",
-      "titulo": "Europe’s Diesel Woes Just Got Even Worse",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
-      "fecha": "2026-10-04T21:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
