@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-06T13:18+00:00",
+  "actualizado": "2026-10-06T14:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
-    "BAJA": 5,
-    "NEUTRAL": 35
+    "ALZA": 7,
+    "BAJA": 7,
+    "NEUTRAL": 36
   },
   "noticias": [
+    {
+      "id": "b9f772981389",
+      "titulo": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Metals/Commodities/Energy-Shock-Wipes-264-Billion-Off-the-Worlds-Top-Mining-Stocks.html",
+      "fecha": "2026-10-06T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f6cab3326fc4",
+      "titulo": "Rescatan a piloto y capturan a dos hombres por robo de cisterna con 6 mil galones de combustible",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/justicia/rescatan-a-piloto-y-capturan-a-dos-hombres-por-robo-de-cisterna-con-6-mil-galones-de-combustible-breaking/",
+      "fecha": "2026-10-06T13:33+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b3c4b37ceba2",
+      "titulo": "EU Delays Methane Rules, Opens Refinery Talks as Fuel Prices Hit Records",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-Opens-Refinery-Talks-as-Fuel-Prices-Hit-Records.html",
+      "fecha": "2026-10-06T13:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "20e4b528f5d6",
       "titulo": "India Could Boost Crude and Critical Minerals Supply from Ecuador",
@@ -159,6 +192,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9aa800f218a0",
+      "titulo": "World shares advance as oil falls, bond yields retreat",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ?oc=5",
+      "fecha": "2026-10-06T01:48+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b49707eea66c",
-      "titulo": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Hormuz-Crude-Flows-Top-Pre-War-Levels.html",
-      "fecha": "2026-10-05T05:26+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f6aa0e1faa22",
-      "titulo": "Japan has no plans for new oil release from national reserves, official says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05FbFpVVjhsRks2UmJfLW1tamU4aEFucnhrYmhtckw4ZWxFM1JJOHRpaXpOWFRaY190S1FmRjZRUTNkWGFwZEk3TFcyc0N1eHBwOUlnVWpZeUZPa0VVeFJUd0dJTGdybDZvcEp1R21WRXdTT3hfVG5DTFM1YmgyV2ZmTUJKNTU2SDE2M0xtRnlELTA4ODNWelo1a3FERGY0UjlXbnJGbjRGRzgtWEszMF9CRVdWeEJhWHc?oc=5",
-      "fecha": "2026-10-05T04:56+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "37d26d42110f",
-      "titulo": "Indian shares rise as oil, Fed fears ease; financials gain on Q2 updates",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5",
-      "fecha": "2026-10-05T02:37+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ffc726ec9102",
-      "titulo": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
-      "fecha": "2026-10-05T01:22+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
