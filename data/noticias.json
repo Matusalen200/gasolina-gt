@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-06T14:18+00:00",
+  "actualizado": "2026-10-06T15:19+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 7,
+    "ALZA": 8,
     "BAJA": 7,
-    "NEUTRAL": 36
+    "NEUTRAL": 35
   },
   "noticias": [
+    {
+      "id": "ebef38c8f396",
+      "titulo": "Gulf Producers Say Importers Should Share the Cost of Hormuz Workarounds",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Producers-Say-Importers-Should-Share-the-Cost-of-Hormuz-Workarounds.html",
+      "fecha": "2026-10-06T14:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "b9f772981389",
       "titulo": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks",
@@ -38,6 +49,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "23442641daa3",
+      "titulo": "Attack on oil tanker leaves 12 injured, Indian ministry says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0xLQ09DRmI3QkxnRG5ZSlNHNk03ZHRlMlRJc25oUm9IR0FDOTdzOURDa1hYaVgtNWVOQTB4Y2pObks2MzhRdVVXWldNOWE4ZFV2TUw1dzdXVDB4a3NSanBwOUlVSks0QlNiUmZiUVlqT0hPOEVPMk9haHFBTzZmdTk5NTl4ZFYxdHFFZF92dFBabWtTWURjMkZ2TnZrb3duUW9jT1hkOA?oc=5",
+      "fecha": "2026-10-06T12:48+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -530,28 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Holds-November-Quota-at-3101-Million-Barrels-Daily.html",
       "fecha": "2026-10-05T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1344ccde79ca",
-      "titulo": "COMMENTARY: Oil's new problem isn't supply. It's logistics",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGFlcUIyYU9yU0Z3ZUp6S1pZVU0zTEhFVVFxM2JOUmNuT0I0UmdUcVlKLTFBRVNBaXE1dVZQdEROQURJN29rbkcxcFVNX0lWaWMtTzlEYjRCRzdSU19TR0FIRXliQ18wZ21vZTdPb3FvY3dIc0pHX19ralAwd0hjVnFkbGtReDNLNVUwcFdzUHFsdHlybGxYQmNBV2dlc2dHQ0FYazNkeWRKMmg4TFUyZA?oc=5",
-      "fecha": "2026-10-05T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f6750c996916",
-      "titulo": "COMMENTARY: India may be best placed to fill a China-sized hole in fuel exports",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVktJbDRXMWQ5SE96b3JWb2JwVFREdlhnUTU5c2pnSDQyVTdRNUNSRWFORXN1dEkxb3NIaHZDdUZycDhIdVI0bW5EeW1pMWNwRk1zUGtvb25ybW8zWWRfSktHb0RVZEVoaHlpa2pDYk02M2s3NnhleEU1cEFadjJFN0RPbVdXU1RnYWZQMXp0SGpWVnFuZEFiUHNodVBFalFNVFpZMGw1N0xoNkF3RW5YU2Fpdi0tTTBuTk93RDU2VGpGdGtzZ2N3?oc=5",
-      "fecha": "2026-10-05T06:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
