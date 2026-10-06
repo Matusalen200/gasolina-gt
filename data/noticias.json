@@ -1,12 +1,56 @@
 {
-  "actualizado": "2026-10-06T19:15+00:00",
+  "actualizado": "2026-10-06T20:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
-    "BAJA": 5,
+    "ALZA": 7,
+    "BAJA": 8,
     "NEUTRAL": 35
   },
   "noticias": [
+    {
+      "id": "0d1dbf8d97aa",
+      "titulo": "Halliburton Shuns Falklands Oil Project",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html",
+      "fecha": "2026-10-06T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "43956fd12dc9",
+      "titulo": "Trump firma un decreto sobre el “diésel rojo”: ¿Qué es y cómo busca reducir costos en EE. UU?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/trump-firma-un-decreto-sobre-el-diesel-rojo-que-es-y-como-busca-reducir-costos-en-ee-uu/",
+      "fecha": "2026-10-06T19:39+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "437b7b5c22b7",
+      "titulo": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Builds-2027-Budget-on-58-Oiland-a-Very-Large-Deficit.html",
+      "fecha": "2026-10-06T19:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "69f188b51356",
+      "titulo": "Transportistas explican por qué el precio del pasaje no bajará pese a reducción de impuestos a combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/guatemala/comunitario/transportistas-explican-por-que-el-precio-del-pasaje-no-bajara-pese-a-reduccion-de-impuestos-a-combustibles-breaking/",
+      "fecha": "2026-10-06T19:01+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "9390acfa3c21",
       "titulo": "Is the West’s 100-Year Venezuela Oil Bet About To Backfire?",
@@ -85,6 +129,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "53cb15689e98",
+      "titulo": "London stocks gain on softer oil, easing gilt yields; Defence shares fall",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzh2RWtVenBUZmhPWExwdWdmTjlkMmhiSS12TGRobzUxNWlVdFRHWDAxaFhackxjZEI0WHJjOGF0TURrVFJsWWhjQXk1M29CV195NG54MlhZd1RXVC1XYlZ5VDZ3YTNSMEZpdVlNYi1LeUVmOGUwQUdSZndkTjZwcVZiMFZWSWdpOHpGTDI5MmZ0c3diaXFxbmdBUUt4MWNYQUR3cVZ4aVY1N1VSME1faG9xYU9Mc3djcFlPMDREYw?oc=5",
+      "fecha": "2026-10-06T16:09+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "2abf168b304f",
       "titulo": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
       "fuente": "OilPrice.com",
@@ -145,6 +200,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-Opens-Refinery-Talks-as-Fuel-Prices-Hit-Records.html",
       "fecha": "2026-10-06T13:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "706159e9bb83",
+      "titulo": "Iraq proposes oil price assumption of $58 per barrel in draft budget",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlyWktydWVyR0h5RVhQcXFub3NBa3JKTWtuc0ZtdUp4a01ETExZQUdpWDN0Q1drUkJKd3R6eW9BT29OOEFHOGppa0ROUzFHOXo1amY5Q3Axa0U1VUtWM3BDTURiYUtLdExRS3QxVGFUZ2VCOGxNelBVT19lMlhsS0ZSVElQVUdHOGFGbWhVYTdJNTJQeHJVcXVmTlFPZmNYcmh6YlY5WExranNwV3pLc1ZLYw?oc=5",
+      "fecha": "2026-10-06T13:01+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -426,6 +492,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "d4412d829ec7",
+      "titulo": "Canada's Cenovus strike $4 billion deal to buy Athabasca Oil, expand production",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2tmcUdIbFdVNWs0TWo1aHlpMU9FRW44OHVDTUx1NEM4LTV4bWZ4Z2MxcDRmRkNPaXVfMFZNTDFaNVJPM21BcEJNb1VyWnY5cEM0Q0gwNC1ZeUxnUTRucThjVmJkZlRMUWs3WDQxc09uOXg2TWg1RndlRjhKNW12NUJOYmZ2ZUxhV2VIYW9iX2VNUmh4eFk0ZDRVWk5vSUFFbGRsQld5bnVmMDBW?oc=5",
+      "fecha": "2026-10-05T17:55+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "723a603e833c",
       "titulo": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
       "fuente": "OilPrice.com",
@@ -478,83 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1fc42b574ea0",
-      "titulo": "Kenya allows its citizens to participate in Dangote Refinery IPO",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3JDSHdrSGdadmh2YVhDRWR6OGh0UzVfSXVVVkQ5aWZWV0JxaEZxWDVUZGljeWJRZVdBbkJleEwtbFVtaVBjUUtMeUR5V3lGRW5EckFkWDNfNUFvdmxYbmZya3ZETGhISXpwQU9hdzVDNGFseGpSZHljREdMUXZ0elA3OUFCbTI0U21iSGJOcWlHeTVfX2VrUHVGTWlyb242S3VTOGdtWXBpdkk?oc=5",
-      "fecha": "2026-10-05T15:59+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "dbc365e40770",
-      "titulo": "Chevron elevates CFO to lead oil and gas operations",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l4djkzZk5ieVJUbDB3bnRxekFCR25teXgxNmE5dy1FeXpoMkNUdnVQQXVVdTE1T2xmelNvN2Q0dUJualpKN0NyU1pLcFByN2l3OFJjMEYtTWdmeHRPSGpRdkExZW16M3ZkX1dsT1BRb0hBRFhmbFltN1hxbXlKU244cTZyYmNEZS1rZnZEYUZ1d0gz?oc=5",
-      "fecha": "2026-10-05T15:42+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3f68662930a9",
-      "titulo": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Electric-Vehicle-Sales-Hit-Record-as-Fuel-Prices-Surge.html",
-      "fecha": "2026-10-05T15:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9f896660644a",
-      "titulo": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Possible-Fire-Reported-at-Saudi-Refinery-as-Attack-Claims-Circulate.html",
-      "fecha": "2026-10-05T15:17+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1186aa6960dc",
-      "titulo": "Supreme Court Takes Up Boulder Climate Suit Against Exxon and Suncor",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Supreme-Court-Takes-Up-Boulder-Climate-Suit-Against-Exxon-and-Suncor.html",
-      "fecha": "2026-10-05T15:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "62535fec269c",
-      "titulo": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-CEO-Warns-Oil-Inventories-Are-Scarily-Thin.html",
-      "fecha": "2026-10-05T14:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "59f2c7600607",
-      "titulo": "Crude oil prices and refinery margins generally increased throughout the third quarter",
-      "fuente": "EIA",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68245",
-      "fecha": "2026-10-05T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
