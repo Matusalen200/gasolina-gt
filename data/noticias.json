@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-06T12:28+00:00",
+  "actualizado": "2026-10-06T13:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 9,
-    "BAJA": 4,
-    "NEUTRAL": 37
+    "ALZA": 10,
+    "BAJA": 5,
+    "NEUTRAL": 35
   },
   "noticias": [
+    {
+      "id": "20e4b528f5d6",
+      "titulo": "India Could Boost Crude and Critical Minerals Supply from Ecuador",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Could-Boost-Crude-and-Critical-Minerals-Supply-from-Ecuador.html",
+      "fecha": "2026-10-06T12:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "08e8b48a4e48",
       "titulo": "Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist",
@@ -19,6 +30,28 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "9b9cbb42f397",
+      "titulo": "Chinese independent refiners boost Iraqi oil purchases as Iranian flows fall, traders say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVpJd0hveEZLT295UHBsdlFzX0U5MnRpMHVrcGZYMXZmSzMzeXlfMGd3TmRBdlNwYl9lWW1EeDNWVy1ZRGppc21oSElzWG9ONVpRWjhHS1NERTFkczJTMlhWQVlVVEQyM0RKRkZTVDNHQ3lsRXBJbUs5ZmE3VHYxU1hPb09TUlR3Y1g5T3FLVWJnWEJLR2VPOFR5VFVhZi1saF9kMTNlQ2RVM0NETUthX1hBaHNHOXM2RDh5TmhaY2hwZ2s?oc=5",
+      "fecha": "2026-10-06T11:23+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "a4f67f2ae3a9",
+      "titulo": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region, Russian war bloggers say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2JMV0wyUk5IMkhiaGJsZmMzWFBuQURabUh3eEJOTDZmMWhINVg3UHVXMGhpN0ZNaVFWUmtweGc1LWNsckdlckxrV0hJNncyLU5HLXJYMnpGbDI4OWVtSUR2SlBIUjJVWWFaSzFFWHVCYUJzRUhuVkgtYkFsa1hRVlNpdkdfQTJoWHIxbTF3bWs1TXpoQzhNOVNPbHFhSWdqaFFWeHhHZEJ6UFhKVzhlelZaY0tzQlJpTkZZ?oc=5",
+      "fecha": "2026-10-06T10:32+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "99fdfa1f3372",
       "titulo": "China Accelerates Ultra-Deep Drilling to Boost Domestic Oil Supply",
       "fuente": "OilPrice.com",
@@ -27,6 +60,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7fae5db35643",
+      "titulo": "Wall St futures rise as yields, oil dip",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "fecha": "2026-10-06T10:27+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3f2102e4da63",
-      "titulo": "Suncor to sell offshore Canada oil stakes to Ithaca for $842 million",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1VtN3d5VkdnOTA1VzJidHFtNXhOeFJ4YS1CcEtaSVhGTU50OXdWeVJ2Umo4XzBmVVd6MzduaThnajYwSE45OF9QUElHbENEcmRoM2F5Q09uS3JQejZGb242dVFCa0JoS25UUDRxNkROdW0yME9XeVpXTUhXNGF1OVk0dnpTczdsVVVUUmJhN1NRNXF3NWtKUHAzVHdBY0ROemVFNVE0UFZMb3c?oc=5",
-      "fecha": "2026-10-05T01:18+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "62ae70342b51",
-      "titulo": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlnRmFJc1NCRTRsSVNmNTRtMnh2dmJiNWdMbnF2YVZRU0g1WXpERld1Qm0xbW5MQzNnTUhYTjFCUWVadVlWbmdwZjJSTUdSUkpGU2FrMzRmRW80RWRDcGpidUNVUHd1aVloWkFKZFRVNllUMEhVczNJNjNSZkR2VmZrU1hIbGRzZmZpeTF1TUNsMFp4ZFVuVE16RjlnYVBmUGhtRG94Z0VOTk13b2Y4ZUhpTElPSTctdlJQTmdCWnNnamhrVkE?oc=5",
-      "fecha": "2026-10-05T01:09+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "999eb3fd0f08",
-      "titulo": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWpva2NQNVZ6d29Gekc1UUNmUGZCZmladGdPeDBQWDZ1MVJqNkh0SzZYNDVsbVpCTWlZck9WdGEzckxPUVBDTkU4TnZnVlZjMEFpbDJKN3R6aFNmU2Y0UWlBa2pISGRxYzVVTUtKaVZuc2xFOUpYdDdpVW9PR2E5emRUc1FaQ0J4QUFNTkNkQ1dsYUc3YlMwWmVUMjczX2c?oc=5",
-      "fecha": "2026-10-04T23:50+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4ef639bcc1fe",
-      "titulo": "Apache workers back strike that could disrupt North Sea Forties oil pipeline, union says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3NmVDJ2ZjZRdVItaXBoaVRVVEllRXhLLWV3cjVKTVFDLVhYRmMyTVZUMjlCNDVHZXVHZHNUdzlBczdBcTM1WjZtM0dISGQ4bUpreXZmUTFWblJiTldMYWd6WU5oNmlkS2RfeGlhU1hDYU5sVmwwSzdQaFozelFTWWNYTVYyREs5dWJWUkRfbld1VlExMTFJSDlWaDRxaG9xc2ttc1ZCNTYwT2I0S2xwRjczUUk3TF9aNjBEb3VRcXBXclNyVHZB?oc=5",
-      "fecha": "2026-10-04T23:03+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
