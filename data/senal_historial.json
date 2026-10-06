@@ -36,9 +36,9 @@
   },
   {
     "fecha": "2026-10-06",
-    "puntaje": -2,
+    "puntaje": 0,
     "tendencia": "estable",
     "veredicto": "Sin apuro",
-    "cambio_estimado_q": 0.05
+    "cambio_estimado_q": 0.1
   }
 ]
