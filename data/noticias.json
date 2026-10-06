@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-06T17:15+00:00",
+  "actualizado": "2026-10-06T18:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 11,
     "BAJA": 5,
-    "NEUTRAL": 35
+    "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "a0feaa0813f0",
+      "titulo": "US EIA hikes oil price forecasts again as Iran war drains global stockpile",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZk8xUmkwZm83ZUdaTWpWaEVibFZzckNxOVFNOG9OTjlWdzJBdXRqWk5GUUFoME5DWXJmNThNRlIzdVBxUXNfeGd5cTFFNjlVZmg1VkFwVXdONzVLNGh0RVF5S203NlRieWFBNEY3b0dnZlZ3MERxUGlYWTRDaGwzYUJaYWJxWjI1WTlJbDNfMFJ0TVlqSjdFNnl6SVF6UVhmQlhNM2pRUnltSDVMMXNmS21JZkMySWNFVjhtbXVSMUw?oc=5",
+      "fecha": "2026-10-06T17:39+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2dae18e72cb7",
+      "titulo": "The world has nearly burned through its oil stockpile buffer, executives say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5",
+      "fecha": "2026-10-06T17:27+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "daf429be8f42",
       "titulo": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers",
@@ -492,6 +514,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "62ae70342b51",
+      "titulo": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlnRmFJc1NCRTRsSVNmNTRtMnh2dmJiNWdMbnF2YVZRU0g1WXpERld1Qm0xbW5MQzNnTUhYTjFCUWVadVlWbmdwZjJSTUdSUkpGU2FrMzRmRW80RWRDcGpidUNVUHd1aVloWkFKZFRVNllUMEhVczNJNjNSZkR2VmZrU1hIbGRzZmZpeTF1TUNsMFp4ZFVuVE16RjlnYVBmUGhtRG94Z0VOTk13b2Y4ZUhpTElPSTctdlJQTmdCWnNnamhrVkE?oc=5",
+      "fecha": "2026-10-05T13:28+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "599eff13a32e",
       "titulo": "South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips",
       "fuente": "OilPrice.com",
@@ -519,39 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2tmcUdIbFdVNWs0TWo1aHlpMU9FRW44OHVDTUx1NEM4LTV4bWZ4Z2MxcDRmRkNPaXVfMFZNTDFaNVJPM21BcEJNb1VyWnY5cEM0Q0gwNC1ZeUxnUTRucThjVmJkZlRMUWs3WDQxc09uOXg2TWg1RndlRjhKNW12NUJOYmZ2ZUxhV2VIYW9iX2VNUmh4eFk0ZDRVWk5vSUFFbGRsQld5bnVmMDBW?oc=5",
       "fecha": "2026-10-05T11:46+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "61413c7bc7ae",
-      "titulo": "Japan Rules Out More Reserve Releases After G7 Pledges 100 Million Barrels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Rules-Out-More-Reserve-Releases-After-G7-Pledges-100-Million-Barrels.html",
-      "fecha": "2026-10-05T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2c0d866faf5a",
-      "titulo": "US Supreme Court weighs bid by oil companies to avoid climate lawsuit",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2t4Tld4Y2hsdXplcC1OLUhMeENlQURPLXFUX0pNZWl3TGcydUZKV0xiSDdDZ0JCakNwZ2RhdVZ0dGozLUlVdEVCamQtN1ZPS29ZeXg0bzR5bGMxOV9LbU9VLVE1anpaLTVFRC1oWXE4aUx1by13ZW8tVVBJQmFzQ2ZYZ3pSLUk3azNmaEdlSmtfU3RUTHZXRmk3YTdTb1BGWU9mclJiV1R4RWUzeGNOeE5Wa3hvb2Y3NExfVExn?oc=5",
-      "fecha": "2026-10-05T10:48+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1000686f2714",
-      "titulo": "ConocoPhillips sees oil price floor rising to $70 a barrel, chairman says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdElzWnJPYVRNeTc4QzA0NUVpNFo2NjBtY0VfZU54X2M4U0ZURUwyU2hjWFgya3Z5b01SUkdUeGQwQWtXT19KMll3d05QY1pndWkzdnV1bVZWcU5vcWNmTWxEVE5ROElsbUYxeUNLeVpzaEpHaFAxNlFEcHBJSUpzNDFZcHUzT3EwTXlYQ0xKNTBpZ0JiUWozQkw2MG01RWF5TmcyMVFETTctWTF3andCSTlMcW54eC1aTnc?oc=5",
-      "fecha": "2026-10-05T10:09+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
