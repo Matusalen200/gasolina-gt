@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-06T16:19+00:00",
+  "actualizado": "2026-10-06T17:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 9,
-    "BAJA": 7,
-    "NEUTRAL": 34
+    "ALZA": 10,
+    "BAJA": 5,
+    "NEUTRAL": 35
   },
   "noticias": [
+    {
+      "id": "daf429be8f42",
+      "titulo": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-East-West-Pipeline-Moves-58-Million-Barrels-as-Red-Sea-Route-Recovers.html",
+      "fecha": "2026-10-06T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "2abf168b304f",
       "titulo": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
@@ -60,6 +71,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ad8b43613f41",
+      "titulo": "India's September fuel consumption rises 3.9% from previous month",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbk83VWVQMlBsS1paM1NnaGxKaTk5VFBCVW8zYzFqeUFhd1RaSkdGeG85RGx0UVZlM3ZfbEt6dkN3LXNUVUV0Z1h2dmVobTlXM3pHeTB2eU1KcGowM1h0dUMwV2lveHpfQnplQUlMQWJGeF9Qd3JvYVFFcFZKZTQzMDU2ejFiQm5ubzl2bDFJSE1YU3FoSTBtZmNxU292U0dpMVdTVTJRMnlEM1JSTkE?oc=5",
+      "fecha": "2026-10-06T12:59+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -371,6 +393,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1fc42b574ea0",
+      "titulo": "Kenya allows its citizens to participate in Dangote Refinery IPO",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3JDSHdrSGdadmh2YVhDRWR6OGh0UzVfSXVVVkQ5aWZWV0JxaEZxWDVUZGljeWJRZVdBbkJleEwtbFVtaVBjUUtMeUR5V3lGRW5EckFkWDNfNUFvdmxYbmZya3ZETGhISXpwQU9hdzVDNGFseGpSZHljREdMUXZ0elA3OUFCbTI0U21iSGJOcWlHeTVfX2VrUHVGTWlyb242S3VTOGdtWXBpdkk?oc=5",
+      "fecha": "2026-10-05T15:59+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "dbc365e40770",
       "titulo": "Chevron elevates CFO to lead oil and gas operations",
       "fuente": "Reuters (vía Google News)",
@@ -519,39 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdElzWnJPYVRNeTc4QzA0NUVpNFo2NjBtY0VfZU54X2M4U0ZURUwyU2hjWFgya3Z5b01SUkdUeGQwQWtXT19KMll3d05QY1pndWkzdnV1bVZWcU5vcWNmTWxEVE5ROElsbUYxeUNLeVpzaEpHaFAxNlFEcHBJSUpzNDFZcHUzT3EwTXlYQ0xKNTBpZ0JiUWozQkw2MG01RWF5TmcyMVFETTctWTF3andCSTlMcW54eC1aTnc?oc=5",
       "fecha": "2026-10-05T10:09+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bcc7b2110af2",
-      "titulo": "Kremlin declines comment on report that Ukraine talks are linked to multi-billion dollar oil deal",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEZFNVotSlh0T2JDa1J6bXR6czRZZ1I5dkN2X1puS1FEMWdCbThQN0VwOU1JRWM5WmN4SHNOdEF3LUtjZXZkQUh3cXZ2VXdGbjJpcWxITlRId0pQcFZVUXE0M18xV1Q0WHkxT1ZISV9BZEg3VTRiaHRxMnJBajFkUnF0VzBfTER6Z0tzT2s1QjBuN3hqem15YzNxQU12c2ozdVRDQ0pkdVMxYlZHQ21SaGlhYTZNcC1SemxmejRzSUlMVEFpWUE?oc=5",
-      "fecha": "2026-10-05T09:41+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "893e77303511",
-      "titulo": "Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Margins-Slide-as-G7-Announces-100-Million-Barrel-Stocks-Release.html",
-      "fecha": "2026-10-05T09:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cf085ecc744a",
-      "titulo": "Aramco Cuts Asia Oil Prices to Six-Year Low, Raises Prices for Europe",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Cuts-Asia-Oil-Prices-to-Six-Year-Low-Raises-Prices-for-Europe.html",
-      "fecha": "2026-10-05T08:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
