@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-06T15:19+00:00",
+  "actualizado": "2026-10-06T16:19+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 8,
+    "ALZA": 9,
     "BAJA": 7,
-    "NEUTRAL": 35
+    "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "2abf168b304f",
+      "titulo": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Hidden-Cost-of-Saudi-Arabias-Oil-Export-Recovery.html",
+      "fecha": "2026-10-06T16:05+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "ebef38c8f396",
       "titulo": "Gulf Producers Say Importers Should Share the Cost of Hormuz Workarounds",
@@ -541,17 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Cuts-Asia-Oil-Prices-to-Six-Year-Low-Raises-Prices-for-Europe.html",
       "fecha": "2026-10-05T08:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "06ad5bf9c1f1",
-      "titulo": "OPEC+ Holds November Quota at 31.01 Million Barrels Daily",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Holds-November-Quota-at-3101-Million-Barrels-Daily.html",
-      "fecha": "2026-10-05T07:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
