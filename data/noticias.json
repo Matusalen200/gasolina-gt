@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-07T19:18+00:00",
+  "actualizado": "2026-10-07T20:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
+    "ALZA": 15,
     "BAJA": 10,
-    "NEUTRAL": 24
+    "NEUTRAL": 25
   },
   "noticias": [
+    {
+      "id": "d14f86732a38",
+      "titulo": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
+      "fecha": "2026-10-07T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "893c21422c33",
       "titulo": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane",
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbk83VWVQMlBsS1paM1NnaGxKaTk5VFBCVW8zYzFqeUFhd1RaSkdGeG85RGx0UVZlM3ZfbEt6dkN3LXNUVUV0Z1h2dmVobTlXM3pHeTB2eU1KcGowM1h0dUMwV2lveHpfQnplQUlMQWJGeF9Qd3JvYVFFcFZKZTQzMDU2ejFiQm5ubzl2bDFJSE1YU3FoSTBtZmNxU292U0dpMVdTVTJRMnlEM1JSTkE?oc=5",
       "fecha": "2026-10-06T12:59+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a4f67f2ae3a9",
-      "titulo": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region, Russian war bloggers say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2JMV0wyUk5IMkhiaGJsZmMzWFBuQURabUh3eEJOTDZmMWhINVg3UHVXMGhpN0ZNaVFWUmtweGc1LWNsckdlckxrV0hJNncyLU5HLXJYMnpGbDI4OWVtSUR2SlBIUjJVWWFaSzFFWHVCYUJzRUhuVkgtYkFsa1hRVlNpdkdfQTJoWHIxbTF3bWs1TXpoQzhNOVNPbHFhSWdqaFFWeHhHZEJ6UFhKVzhlelZaY0tzQlJpTkZZ?oc=5",
-      "fecha": "2026-10-06T12:51+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
