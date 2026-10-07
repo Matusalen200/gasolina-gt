@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-07T11:23+00:00",
+  "actualizado": "2026-10-07T12:32+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
+    "ALZA": 15,
     "BAJA": 10,
-    "NEUTRAL": 26
+    "NEUTRAL": 25
   },
   "noticias": [
+    {
+      "id": "9c2f0e1d2a61",
+      "titulo": "Norway Plans to Tap $63.7 Billion From Its Oil Fund in 2027",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Plans-to-Tap-637-Billion-From-Its-Oil-Fund-in-2027.html",
+      "fecha": "2026-10-07T12:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "64e43819cc13",
+      "titulo": "Wall St futures fall as yields and oil rebound; Fed minutes in focus",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
+      "fecha": "2026-10-07T11:50+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "07d297e9b1cb",
+      "titulo": "Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Shells-Refining-Margin-Jumps-75-as-Fuel-Supplies-Dry-Up.html",
+      "fecha": "2026-10-07T11:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c82014cab50f",
       "titulo": "MEM analiza apoyo temporal ante tercera alza del gas propano en 2026",
@@ -27,6 +60,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5ce546158f64",
+      "titulo": "Banks lead FTSE 100 lower as gilt yields, oil prices climb",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkw0Nm9BQmtob3l3a3h6Vm0zRVl6dDhqbzVDWmttaUlfaEUwWDZURC1oNkx2bGZUdVJWNjl0Xzh2T0lVMlVUYVVSMUEwckgyakNPYzdQdlJDU2NJMlU5YnM0amRoVDlDSGhVN2FVWUV6bHNOYzZCcTZYcFp0cDRKZmROT2NGZjVUX2gxYWtuSmUyS2g2SUZiNVMtWktWNnluLVhzblFCazJadw?oc=5",
+      "fecha": "2026-10-07T10:11+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -508,50 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exports-Recover-to-81-of-Pre-War-Levels.html",
       "fecha": "2026-10-06T08:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c7f609d34e4f",
-      "titulo": "Trump Defers Federal Fuel Tax on Dyed Diesel as Prices Hit $6.32",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Defers-Federal-Fuel-Tax-on-Dyed-Diesel-as-Prices-Hit-632.html",
-      "fecha": "2026-10-06T05:15+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8f88b684f081",
-      "titulo": "Japan aims to agree on action plans with Asian partners to bolster oil reserves",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlpzcUFlT3RnY1RXNmZfM2FQQkNJdlBhZ2UxNVNSSGJGLWFVd0VXbEgzQjVWT3hmbGdTeVhLNmFtNG9VcURkNWl4eHk5UUlUbkE2UU1hUzdfRnNEdWtYZHIydFVBQVg5NF9Pd1ZCQWs2b3l0dld1WkNVdUdNeGdUQWxmTDQwRmFXODRMcTFhLTA2OGhRZkVmcmdrUE4ta2E5ZTBzaEF0eHlJZXJESzZPNTIzRm1PN2RYb2s0UEtLaw?oc=5",
-      "fecha": "2026-10-06T04:40+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "01c680d3f7b4",
-      "titulo": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",
-      "fecha": "2026-10-06T03:03+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9aa800f218a0",
-      "titulo": "World shares advance as oil falls, bond yields retreat",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ?oc=5",
-      "fecha": "2026-10-06T01:48+00:00",
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
