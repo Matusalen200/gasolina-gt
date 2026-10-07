@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-07T20:17+00:00",
+  "actualizado": "2026-10-07T21:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
+    "ALZA": 14,
     "BAJA": 10,
-    "NEUTRAL": 25
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "3cbbcc9ef61d",
+      "titulo": "Iran War Pushes 25 Countries Into New Electrification Policies",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Pushes-25-Countries-Into-New-Electrification-Policies.html",
+      "fecha": "2026-10-07T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d14f86732a38",
       "titulo": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ad8b43613f41",
-      "titulo": "India's September fuel consumption rises 3.9% from previous month",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbk83VWVQMlBsS1paM1NnaGxKaTk5VFBCVW8zYzFqeUFhd1RaSkdGeG85RGx0UVZlM3ZfbEt6dkN3LXNUVUV0Z1h2dmVobTlXM3pHeTB2eU1KcGowM1h0dUMwV2lveHpfQnplQUlMQWJGeF9Qd3JvYVFFcFZKZTQzMDU2ejFiQm5ubzl2bDFJSE1YU3FoSTBtZmNxU292U0dpMVdTVTJRMnlEM1JSTkE?oc=5",
-      "fecha": "2026-10-06T12:59+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
