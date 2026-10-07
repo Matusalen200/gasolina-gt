@@ -43,9 +43,9 @@
   },
   {
     "fecha": "2026-10-07",
-    "puntaje": -4,
-    "tendencia": "estable",
-    "veredicto": "Sin apuro",
-    "cambio_estimado_q": -0.55
+    "puntaje": -21,
+    "tendencia": "baja",
+    "veredicto": "Espera, va a bajar",
+    "cambio_estimado_q": -0.9
   }
 ]
