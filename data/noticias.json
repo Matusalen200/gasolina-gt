@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-07T17:23+00:00",
+  "actualizado": "2026-10-07T18:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
+    "ALZA": 17,
     "BAJA": 9,
-    "NEUTRAL": 25
+    "NEUTRAL": 24
   },
   "noticias": [
+    {
+      "id": "893c21422c33",
+      "titulo": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Gulf-Energy-Hub-Braces-for-Category-2-Hurricane.html",
+      "fecha": "2026-10-07T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "0f44f16c24ae",
       "titulo": "Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue",
@@ -133,6 +144,17 @@
       "titulo": "Banks lead FTSE 100 lower as gilt yields, oil prices climb",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkw0Nm9BQmtob3l3a3h6Vm0zRVl6dDhqbzVDWmttaUlfaEUwWDZURC1oNkx2bGZUdVJWNjl0Xzh2T0lVMlVUYVVSMUEwckgyakNPYzdQdlJDU2NJMlU5YnM0amRoVDlDSGhVN2FVWUV6bHNOYzZCcTZYcFp0cDRKZmROT2NGZjVUX2gxYWtuSmUyS2g2SUZiNVMtWktWNnluLVhzblFCazJadw?oc=5",
+      "fecha": "2026-10-07T10:11+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8d64901b68c4",
+      "titulo": "Breakingviews - COMMENTARY: Oil’s new normal undercuts jet maintenance boom",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2ExM1J6YS1XSnpaUmctZU9kdk9xM19vNjFNNlFmNkp3eU5uSUp5N05iTDhsNTUxOFRUNlRuLVRQVTROSGVGWEdTMGZYcnYxV1Nuc2Z3Mm5lYWxTaTVEbVZnNkZMUGRPb3plVkZhX2hUOU9FbTlQUUZjT2hUbUU0a2FiQUY4R0QydS16R1MwWnJVbEVid1NRekM5R0U3SDJCampEZ0dPcHdYUDQ?oc=5",
       "fecha": "2026-10-07T10:11+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "20e4b528f5d6",
-      "titulo": "India Could Boost Crude and Critical Minerals Supply from Ecuador",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Could-Boost-Crude-and-Critical-Minerals-Supply-from-Ecuador.html",
-      "fecha": "2026-10-06T12:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "08e8b48a4e48",
-      "titulo": "Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Courts-Saudi-Arabia-and-UAE-as-Asias-Oil-Supply-Fears-Persist.html",
-      "fecha": "2026-10-06T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]

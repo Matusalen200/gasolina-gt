@@ -1,35 +1,3 @@
-2026-09-26 07:19 [INFO] --- mem ---
-2026-09-26 07:19 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-26 07:20 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-26 07:20 [INFO] --- hoy ---
-2026-09-26 07:20 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-26 07:20 [INFO] Precio hoy: 0 observaciones nuevas de 14 artículos · regular 43.29 (2026-09-23)
-2026-09-26 07:20 [INFO] --- mercado ---
-2026-09-26 07:20 [INFO] Mercado: RBOB 3.1968 (-1.8% 7d), WTI 92.44, USD/GTQ 7.6365 · 3/3 símbolos
-2026-09-26 07:20 [INFO] --- noticias ---
-2026-09-26 07:20 [INFO] RSS: 233 notas relevantes en 8 fuentes
-2026-09-26 07:20 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 17, 'BAJA': 5, 'NEUTRAL': 28}
-2026-09-26 07:20 [INFO] --- senal ---
-2026-09-26 07:20 [INFO] Señal: 🟡 Sin apuro (puntaje +4) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
-2026-09-26 07:20 [INFO] --- proyeccion ---
-2026-09-26 07:20 [INFO] Proyección (calibrando, n=9, MAE=None): regular [42.2, 42.2, 42.2, 42.2]
-2026-09-26 07:20 [INFO] --- reporte ---
-2026-09-26 07:20 [INFO] Reporte diario generado:
-🟡 Sin apuro. El martes casi no cambia.
-Hoy el galón cuesta: Súper Q45.29 · Normal Q43.29 · Diésel Q49.39
-Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
-Lo más barato: Guatemala, normal a Q43.29
-Noticias: Licitación PET 4: El MEM adiciona 13 obras al Plan de… · Economía de Guatemala mantiene crecimiento, pero El Niño…
-2026-09-26 07:20 [INFO] --- grafica ---
-2026-09-26 07:20 [INFO] Gráfica lista: grafica_precios.png (11 días, 4 combustibles)
-2026-09-26 07:20 [INFO] --- telegram ---
-2026-09-26 07:20 [INFO] Telegram: reporte 2026-09-26 publicado en -1003973167814
-2026-09-26 07:20 [INFO] Telegram: 0 mensajes respondidos, publicado=True
-2026-09-26 07:20 [INFO] Fin corrida
-2026-09-27 07:19 [INFO] Inicio corrida 2026-09-27 07:19 GT
-2026-09-27 07:19 [INFO] --- mem ---
-2026-09-27 07:19 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-27 07:20 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
 2026-09-27 07:20 [INFO] --- hoy ---
 2026-09-27 07:20 [WARN] Precio hoy: descarto cifras incoherentes de Google News GT (Bolivia queda entre los diésel más caros de Latino): S=None R=None D=17.95
 2026-09-27 07:20 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
@@ -1998,3 +1966,35 @@ Noticias: MEM analiza apoyo temporal ante tercera alza del gas… · Exención a
 2026-10-07 11:23 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
 2026-10-07 11:23 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-10-07 11:23 [INFO] Fin corrida
+2026-10-07 12:18 [INFO] Redes: facebook=publicado
+2026-10-07 12:18 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-07 12:18 [INFO] Cambios radicales aprobados: 1
+2026-10-07 12:18 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-07 12:18 [INFO] Inicio corrida 2026-10-07 12:18 GT
+2026-10-07 12:18 [INFO] --- mem ---
+2026-10-07 12:18 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-10-07 12:19 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-10-01)
+2026-10-07 12:19 [INFO] --- hoy ---
+2026-10-07 12:20 [WARN] HTTP fallo https://perspectiva.gt/feed/: HTTPSConnectionPool(host='perspectiva.gt', port=443): Read timed out. (read timeout=25)
+2026-10-07 12:20 [WARN] Feed Perspectiva: HTTP sin respuesta
+2026-10-07 12:20 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-10-07 12:20 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 34.79 (2026-10-05)
+2026-10-07 12:20 [INFO] --- estaciones ---
+2026-10-07 12:21 [WARN] HTTP fallo https://perspectiva.gt/feed/: HTTPSConnectionPool(host='perspectiva.gt', port=443): Read timed out. (read timeout=25)
+2026-10-07 12:21 [WARN] Feed Perspectiva: HTTP sin respuesta
+2026-10-07 12:21 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-10-07 12:21 [INFO] --- mapa ---
+2026-10-07 12:21 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-10-07 12:21 [WARN] Mapa: la lista de gasolineras del MEM tiene 30 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
+2026-10-07 12:21 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
+2026-10-07 12:21 [INFO] --- mercado ---
+2026-10-07 12:21 [INFO] Mercado: RBOB 3.073 (-6.31% 7d), WTI 88.22, USD/GTQ 7.6425 · 3/3 símbolos
+2026-10-07 12:21 [INFO] --- noticias ---
+2026-10-07 12:21 [INFO] RSS: 234 notas relevantes en 8 fuentes
+2026-10-07 12:21 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 17, 'BAJA': 9, 'NEUTRAL': 24}
+2026-10-07 12:21 [INFO] --- senal ---
+2026-10-07 12:21 [INFO] Señal: 🟢 Espera, va a bajar (puntaje -39) · Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.
+2026-10-07 12:21 [INFO] --- telegram ---
+2026-10-07 12:21 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
+2026-10-07 12:21 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-10-07 12:21 [INFO] Fin corrida
