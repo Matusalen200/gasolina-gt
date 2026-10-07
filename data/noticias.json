@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T15:28+00:00",
+  "actualizado": "2026-10-07T16:19+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
@@ -7,6 +7,17 @@
     "NEUTRAL": 25
   },
   "noticias": [
+    {
+      "id": "0f44f16c24ae",
+      "titulo": "Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Devalues-Dinar-145-as-Hormuz-Disruption-Drains-Oil-Revenue.html",
+      "fecha": "2026-10-07T15:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d60cad4ff343",
       "titulo": "U.S. Crude Stocks Dip But Distillates Hold Steady",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a4f67f2ae3a9",
-      "titulo": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region, Russian war bloggers say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2JMV0wyUk5IMkhiaGJsZmMzWFBuQURabUh3eEJOTDZmMWhINVg3UHVXMGhpN0ZNaVFWUmtweGc1LWNsckdlckxrV0hJNncyLU5HLXJYMnpGbDI4OWVtSUR2SlBIUjJVWWFaSzFFWHVCYUJzRUhuVkgtYkFsa1hRVlNpdkdfQTJoWHIxbTF3bWs1TXpoQzhNOVNPbHFhSWdqaFFWeHhHZEJ6UFhKVzhlelZaY0tzQlJpTkZZ?oc=5",
-      "fecha": "2026-10-06T10:32+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
