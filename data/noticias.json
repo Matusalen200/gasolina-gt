@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-07T12:32+00:00",
+  "actualizado": "2026-10-07T13:21+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
-    "BAJA": 10,
-    "NEUTRAL": 25
+    "BAJA": 9,
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "709cc38210a2",
+      "titulo": "Mixed outlook for energy expenditures this winter",
+      "fuente": "EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68264",
+      "fecha": "2026-10-07T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "9c2f0e1d2a61",
       "titulo": "Norway Plans to Tap $63.7 Billion From Its Oil Fund in 2027",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ca5b8063c499",
-      "titulo": "Gulf Oil Exports Recover to 81% of Pre-War Levels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exports-Recover-to-81-of-Pre-War-Levels.html",
-      "fecha": "2026-10-06T08:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
