@@ -3,25 +3,25 @@
   "tendencia": "baja",
   "veredicto": "Espera, va a bajar",
   "emoji": "🟢",
-  "cambio_estimado_q": -1.5,
-  "cambio_estimado_texto": "El martes baja como Q1.50 el galón.",
+  "cambio_estimado_q": -1.55,
+  "cambio_estimado_texto": "El martes baja como Q1.55 el galón.",
   "componentes": {
     "gasolina_eeuu": -60,
     "dolar": 0.6,
     "noticias": 20
   },
   "detalle": {
-    "rbob_cambio_7d_pct": -6.78,
+    "rbob_cambio_7d_pct": -6.93,
     "usdgtq_cambio_7d_pct": 0.03,
-    "noticias_alza_7d": 16,
+    "noticias_alza_7d": 15,
     "noticias_baja_7d": 10,
-    "rbob_precio": 3.1769,
+    "rbob_precio": 3.167,
     "usdgtq": 7.642,
     "tipo_cambio_usado": 7.642
   },
   "razon": "Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.",
   "redactado_por": "plantilla",
-  "actualizado": "2026-10-08T12:18-06:00",
+  "actualizado": "2026-10-08T13:17-06:00",
   "proximo_martes": "2026-10-13",
   "fecha": "2026-10-08"
 }

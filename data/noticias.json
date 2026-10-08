@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-08T18:18+00:00",
+  "actualizado": "2026-10-08T19:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
+    "ALZA": 15,
     "BAJA": 10,
-    "NEUTRAL": 24
+    "NEUTRAL": 25
   },
   "noticias": [
+    {
+      "id": "dbe14090670c",
+      "titulo": "Virtual Power Plants: The Grid Capacity Nobody Had to Build",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Virtual-Power-Plants-The-Grid-Capacity-Nobody-Had-to-Build.html",
+      "fecha": "2026-10-08T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "8a9047a0f3e1",
       "titulo": "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "089bef532cca",
-      "titulo": "Dollar gains as oil climbs and investors focus on the Fed",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnY5bzdPR0xZNUZ6VEJzWUhMVmJQZEI0bzY0cHpWV21LdHRFeDlIWkxnMURDYVFDVU9nZEVPYU9TNWNNV3NvWUE5MlJPaUVXT2VqaGJQQVFwNmtHWE5nNUF2SU5Ob3dmYVlSOENZVmRBc3lVUjFMM1NYYlBfLUJ6ZzJaU0FQQlQwMkh0cXlrZEItc0ZKeC1YLXdOd2wzRWxHeUlSUDg4STVVQTVGdmc?oc=5",
-      "fecha": "2026-10-07T01:14+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
