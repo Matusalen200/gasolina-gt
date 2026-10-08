@@ -1,18 +1,40 @@
 {
-  "actualizado": "2026-10-08T16:20+00:00",
+  "actualizado": "2026-10-08T17:17+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
-    "BAJA": 10,
-    "NEUTRAL": 23
+    "BAJA": 8,
+    "NEUTRAL": 25
   },
   "noticias": [
+    {
+      "id": "2d93a1f33f84",
+      "titulo": "Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Reliance-Drives-Indias-Venezuelan-Oil-Imports-to-Seven-Year-High.html",
+      "fecha": "2026-10-08T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d2619e44c3d2",
       "titulo": "Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Crude-Oil/Equinor-Finds-Up-to-103-Million-Barrels-of-Oil-Equivalent-at-Gullfaks-South.html",
       "fecha": "2026-10-08T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5ba6a455120e",
+      "titulo": "Ukraine says it hit Russia's largest oil refinery",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5",
+      "fecha": "2026-10-08T15:12+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "83b56c0b984c",
-      "titulo": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
-      "fecha": "2026-10-06T22:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "72b2509178ae",
-      "titulo": "US Crude Inventories Slide",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Slide.html",
-      "fecha": "2026-10-06T21:15+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
