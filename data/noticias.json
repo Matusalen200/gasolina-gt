@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-08T15:19+00:00",
+  "actualizado": "2026-10-08T16:20+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
-    "BAJA": 9,
-    "NEUTRAL": 24
+    "BAJA": 10,
+    "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "d2619e44c3d2",
+      "titulo": "Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Equinor-Finds-Up-to-103-Million-Barrels-of-Oil-Equivalent-at-Gullfaks-South.html",
+      "fecha": "2026-10-08T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6335b70441b7",
+      "titulo": "Asia races to stockpile oil, speed up renewables in response to Iran war",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1Cd0Mwc1pJOUR1MFdlMWxHSzRESGx0anZnd0FyYzJZRVAteGFZOFNvSEdjYjNZREFINVprWFhiVmIyZkNrZlNBM25GaVgzMGo4OFJNdmE0LVdJbmYxSFJILTZzaXRhTlFxTXZNOGhWamREdTlYQTI4dXJycS1lMFF6VEgyUHo3c3NUeV93NmY3RXowVEp2andOcWVTMmZpZUFVYXZKcGg1cVlwRjlaOUxsQnQ?oc=5",
+      "fecha": "2026-10-08T14:37+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "031d20e1d2d3",
       "titulo": "Russian Oil Flows to India Plunge to 310,000 Bpd",
@@ -181,6 +203,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fcd24d425821",
+      "titulo": "Precio del petróleo cae ante posible liberación de más reservas",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHdpZnk2UEZYdjV6MzJJNU9obFYwT185SXRucEJONDJ4R3NFOUpkbTBZZGJGYk9rZHZiRGduTWhoWVFLY3p4ZlZicTRaOTRKc3BVNDBJZ2xqeDNYT0Z2VlhrdWVWYzA3RUZwUDNlTWRGd3AzeUVfV0FBdnE2UDRrU2hDa0RXb3VlQ2RTM0pzbWppWWdGVFFQalVPbw?oc=5",
+      "fecha": "2026-10-07T20:24+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9aa800f218a0",
-      "titulo": "Wall Street shares notch records as oil prices stabilize, bond yields retreat",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ?oc=5",
-      "fecha": "2026-10-06T20:31+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "aca17b51a86f",
-      "titulo": "Venezuela's Cardon refinery halted after fire, no injuries reported",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUzg2YXJYRzVZM2tjYUx4U2ozUHo4cy1jZnFlYkRLOWlITnBFRjJES2ZtMGVLMVdnUDluVDl2b0pFWURvOWNYOFNQbm1WdnNpeHd5Q05FUlVnQVhNZkkwWFpLUkdLVlR5RHFuSjBGazhKcE1FQU90OERlLWoxWVJnTlkxQnplTVdITkhvVHE0TzFTUmtJSHlQX0E3VVZaaGsxNy1HVUVwX3g0aHc?oc=5",
-      "fecha": "2026-10-06T20:27+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0d1dbf8d97aa",
-      "titulo": "Halliburton Shuns Falklands Oil Project",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html",
-      "fecha": "2026-10-06T20:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
