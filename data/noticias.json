@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-08T20:17+00:00",
+  "actualizado": "2026-10-08T21:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
-    "BAJA": 10,
-    "NEUTRAL": 25
+    "ALZA": 13,
+    "BAJA": 11,
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "e5334bf22e67",
+      "titulo": "Iran War Energy Shock Puts Hydrogen Back on the Table",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Energy-Shock-Puts-Hydrogen-Back-on-the-Table.html",
+      "fecha": "2026-10-08T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "6d8f4007ed7a",
       "titulo": "Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production",
@@ -481,6 +492,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ea042f9d6d86",
+      "titulo": "Shell expects record refining margins as Iran war boosts fuel markets",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamVwY1BTVUJKQmdkWDFBXzA2aFBOVlJYUGVqTHB1cXFYY2ZQdFJ4NHVIT25iQXYwaFVSYTkwVWJnc18xVXBNeHNjQXVxU2pPalpGTWVaM1h2MnRlRGlXZnBTOTItUi03OGxMRlROUnRFQnBGZ0RZNnExUm9VMi1vdzdvY3ExaGtuTjBtb0REbVM?oc=5",
+      "fecha": "2026-10-07T10:40+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "2a98b0e47f74",
       "titulo": "Europe’s Fuel Squeeze Is Turning Into a Q3 Windfall for Equinor",
       "fuente": "OilPrice.com",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b6da7ca293e8",
-      "titulo": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
-      "fecha": "2026-10-07T06:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "40cc0b703ef5",
-      "titulo": "Exención a los combustibles termina en diciembre: la medida que diputados buscan para evitar un impacto en enero",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/politica/exencion-a-los-combustibles-termina-en-diciembre-la-medida-que-diputados-buscan-para-evitar-un-impacto-en-enero/",
-      "fecha": "2026-10-07T06:12+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
