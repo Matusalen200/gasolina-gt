@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-08T13:21+00:00",
+  "actualizado": "2026-10-08T14:20+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
-    "BAJA": 9,
-    "NEUTRAL": 25
+    "BAJA": 10,
+    "NEUTRAL": 24
   },
   "noticias": [
+    {
+      "id": "aabd423a9805",
+      "titulo": "Supertanker Rates Hit Record $1.4 Million a Day",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Hit-Record-14-Million-a-Day.html",
+      "fecha": "2026-10-08T13:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "1f7eae2ae088",
       "titulo": "Wall St futures decline as oil surge, high yields stoke inflation worries",
@@ -544,17 +555,6 @@
       "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9390acfa3c21",
-      "titulo": "Is the West’s 100-Year Venezuela Oil Bet About To Backfire?",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Is-the-Wests-100-Year-Venezuela-Oil-Bet-About-To-Backfire.html",
-      "fecha": "2026-10-06T19:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
