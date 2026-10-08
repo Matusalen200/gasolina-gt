@@ -1,45 +1,3 @@
-2026-09-28 09:19 [INFO] --- telegram ---
-2026-09-28 09:19 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-09-28 09:19 [INFO] Fin corrida
-2026-09-28 10:17 [INFO] Inicio corrida 2026-09-28 10:17 GT
-2026-09-28 10:17 [INFO] --- mem ---
-2026-09-28 10:17 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-28 10:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-28 10:18 [INFO] --- hoy ---
-2026-09-28 10:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-28 10:18 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 43.29 (2026-09-28)
-2026-09-28 10:18 [INFO] --- mercado ---
-2026-09-28 10:18 [INFO] Mercado: RBOB 3.1958 (-0.07% 7d), WTI 94.52, USD/GTQ 7.631 · 3/3 símbolos
-2026-09-28 10:18 [INFO] --- noticias ---
-2026-09-28 10:19 [INFO] RSS: 231 notas relevantes en 8 fuentes
-2026-09-28 10:19 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 14, 'BAJA': 8, 'NEUTRAL': 28}
-2026-09-28 10:19 [INFO] --- senal ---
-2026-09-28 10:19 [INFO] Señal: 🔴 Llena HOY (puntaje +21) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de subidas.
-2026-09-28 10:19 [INFO] --- telegram ---
-2026-09-28 10:19 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-09-28 10:19 [INFO] Fin corrida
-2026-09-28 11:14 [INFO] Inicio corrida 2026-09-28 11:14 GT
-2026-09-28 11:14 [INFO] --- mem ---
-2026-09-28 11:14 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-28 11:14 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-28 11:14 [INFO] --- hoy ---
-2026-09-28 11:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-28 11:15 [INFO] Precio hoy: 0 observaciones nuevas de 3 artículos · regular 43.29 (2026-09-28)
-2026-09-28 11:15 [INFO] --- mercado ---
-2026-09-28 11:15 [INFO] Mercado: RBOB 3.1601 (-0.47% 7d), WTI 93.12, USD/GTQ 7.631 · 3/3 símbolos
-2026-09-28 11:15 [INFO] --- noticias ---
-2026-09-28 11:15 [INFO] RSS: 232 notas relevantes en 8 fuentes
-2026-09-28 11:15 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 12, 'BAJA': 10, 'NEUTRAL': 28}
-2026-09-28 11:15 [INFO] --- senal ---
-2026-09-28 11:15 [INFO] Señal: 🟡 Sin apuro (puntaje +7) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de subidas.
-2026-09-28 11:15 [INFO] --- telegram ---
-2026-09-28 11:15 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-09-28 11:15 [INFO] Fin corrida
-2026-09-28 12:17 [INFO] Inicio corrida 2026-09-28 12:17 GT
-2026-09-28 12:17 [INFO] --- mem ---
-2026-09-28 12:17 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-28 12:18 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-28 12:18 [INFO] --- hoy ---
 2026-09-28 12:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
 2026-09-28 12:18 [INFO] Precio hoy: 0 observaciones nuevas de 1 artículos · regular 43.29 (2026-09-28)
 2026-09-28 12:18 [INFO] --- mercado ---
@@ -1998,3 +1956,45 @@ Noticias: MEM analiza apoyo temporal ante tercera alza del gas… · Exención a
 2026-10-07 15:16 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
 2026-10-07 15:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-10-07 15:16 [INFO] Fin corrida
+2026-10-08 07:20 [INFO] Redes: facebook=publicado
+2026-10-08 07:20 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-08 07:20 [INFO] Cambios radicales aprobados: 1
+2026-10-08 07:20 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-08 07:20 [INFO] Inicio corrida 2026-10-08 07:20 GT
+2026-10-08 07:20 [INFO] --- mem ---
+2026-10-08 07:20 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-10-08 07:20 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-10-01)
+2026-10-08 07:20 [INFO] --- hoy ---
+2026-10-08 07:20 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-10-08 07:20 [INFO] Precio hoy: 0 observaciones nuevas de 7 artículos · regular 34.79 (2026-10-05)
+2026-10-08 07:20 [INFO] --- estaciones ---
+2026-10-08 07:21 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-10-08 07:21 [INFO] --- mapa ---
+2026-10-08 07:21 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-10-08 07:21 [WARN] Mapa: la lista de gasolineras del MEM tiene 31 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
+2026-10-08 07:21 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
+2026-10-08 07:21 [INFO] --- mercado ---
+2026-10-08 07:21 [INFO] Mercado: RBOB 3.1845 (-2.89% 7d), WTI 92.1, USD/GTQ 7.6425 · 3/3 símbolos
+2026-10-08 07:21 [INFO] --- noticias ---
+2026-10-08 07:21 [INFO] RSS: 229 notas relevantes en 8 fuentes
+2026-10-08 07:21 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 16, 'BAJA': 9, 'NEUTRAL': 25}
+2026-10-08 07:21 [INFO] --- senal ---
+2026-10-08 07:21 [INFO] Señal: 🟡 Sin apuro (puntaje -8) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-10-08 07:21 [INFO] --- proyeccion ---
+2026-10-08 07:21 [INFO] Proyección (calibrando, n=1, MAE=None): regular [34.02, 34.02, 34.02, 34.02]
+2026-10-08 07:21 [INFO] --- reporte ---
+2026-10-08 07:21 [INFO] Reporte diario generado:
+🟡 Sin apuro. El martes casi no cambia.
+Hoy el galón cuesta: Súper Q36.09 · Normal Q34.79 · Diésel Q41.69
+Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+Lo más barato: Guatemala, normal a Q34.79
+Noticias: 16 apuntan a que sube y 9 a que baja
+2026-10-08 07:21 [INFO] --- grafica ---
+2026-10-08 07:21 [INFO] Gráfica lista: grafica_precios.png (8 días, 3 combustibles)
+2026-10-08 07:21 [INFO] --- telegram ---
+2026-10-08 07:21 [INFO] Telegram: reporte 2026-10-08 publicado en -1003973167814
+2026-10-08 07:21 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
+2026-10-08 07:21 [INFO] Telegram: 0 mensajes respondidos, publicado=True
+2026-10-08 07:21 [INFO] --- redes ---
+2026-10-08 07:21 [INFO] Redes: ninguna conectada todavía (ver docs/redes.md)
+2026-10-08 07:21 [INFO] Fin corrida

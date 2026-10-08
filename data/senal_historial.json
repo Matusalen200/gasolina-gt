@@ -47,5 +47,12 @@
     "tendencia": "baja",
     "veredicto": "Espera, va a bajar",
     "cambio_estimado_q": -1.2
+  },
+  {
+    "fecha": "2026-10-08",
+    "puntaje": -8,
+    "tendencia": "estable",
+    "veredicto": "Sin apuro",
+    "cambio_estimado_q": -0.6
   }
 ]
