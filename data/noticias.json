@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-09T15:18+00:00",
+  "actualizado": "2026-10-09T16:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 11,
     "BAJA": 10,
-    "NEUTRAL": 30
+    "NEUTRAL": 29
   },
   "noticias": [
     {
@@ -71,6 +71,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6153ba9bd41b",
+      "titulo": "COMMENTARY: Paris jitters, oil battles and a Bolsonaro-fuelled Brazil rally: The financial week in five charts",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFMxeEtNcGl5OVVlMWtINHV4MmR0XzhKbmlEZlpCeHFmOHAwam5WU1U2RDZlSVA4Mm5MdEp3QWFockJVT0FfckV3ZEkwWmRLdWFPR1A3WkVfWnNzWW5sb0IyTV9Fc0dMUjVjdHM5Q21SWlRoQ0doUlpQb25VTWJoNEN6QklGR3ktbmtaem9aRi1zZC1BNEZDME9xb1J0RHJva216MmhWcnVuLVZWYmd1NFBacVAxVWExQkJ5cHU4bVFYeFFZWjVVb0dRdkFHYWlUZGxuVU52b0REZjNSTG9LYVpqNA?oc=5",
+      "fecha": "2026-10-09T11:26+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -540,17 +551,6 @@
       "titulo": "US will rescind policy targeting oil and gas industry methane leaks",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEdMUkc3WGlYY2RnbDdkQlJ4N3hyNk4wZU5Tb296MmlXRFotZWRZcF9SZkdNbzBXbFRrLUt1d2FxTk9PYjhlYndLSGF1aXpEVWk2ODVfRnJKRUk5aTdZcTl0c1dEMEpONDk1eHpvZ2RoOE16X2lfN1ZldkhJRS1ubHoyYnV5Y0FtdlRDc0VSTWZXem5QcXp5QjVkQmFPS1hENFEzMkhIX29RR3lOTEtjTVdlaUVVZXIyQUxCbA?oc=5",
-      "fecha": "2026-10-07T19:12+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d949628b3f0f",
-      "titulo": "US seizes $3 million in fuel shipments to Cuba as crackdown continues",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjFTNVhaYWpIdjNGcW5WdWNpOGZxc0tBV19OYk5GQ2VNc19PS1pOU0dZTFYtZHFSSW9DQmhJMWg2cFhuMXNFZGtXZjlOVml2SkQ1V1BqeFRxWHlxUU9kRThFMHhfcDdXTGNQOXV5V1Y4ZVExZFl1VEJ2ZGhjdnVqRFlaU1FSWERqdHNNOXJsWGw3dV9DNXByZjdhbzJJaFFRZkt2YUZUZUlvbXJ2SHdUeQ?oc=5",
       "fecha": "2026-10-07T19:12+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
