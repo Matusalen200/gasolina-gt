@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-09T16:17+00:00",
+  "actualizado": "2026-10-09T17:16+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
+    "ALZA": 12,
     "BAJA": 10,
-    "NEUTRAL": 29
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "c9d6581aa955",
+      "titulo": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
+      "fecha": "2026-10-09T16:35+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "787efbfde550",
       "titulo": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations",
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
       "fecha": "2026-10-07T19:28+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f29346f01212",
-      "titulo": "US will rescind policy targeting oil and gas industry methane leaks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEdMUkc3WGlYY2RnbDdkQlJ4N3hyNk4wZU5Tb296MmlXRFotZWRZcF9SZkdNbzBXbFRrLUt1d2FxTk9PYjhlYndLSGF1aXpEVWk2ODVfRnJKRUk5aTdZcTl0c1dEMEpONDk1eHpvZ2RoOE16X2lfN1ZldkhJRS1ubHoyYnV5Y0FtdlRDc0VSTWZXem5QcXp5QjVkQmFPS1hENFEzMkhIX29RR3lOTEtjTVdlaUVVZXIyQUxCbA?oc=5",
-      "fecha": "2026-10-07T19:12+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",

@@ -1,31 +1,3 @@
-2026-09-30 10:18 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-30 10:18 [INFO] Precio hoy: 0 observaciones nuevas de 3 artículos · regular 43.27 (2026-09-29)
-2026-09-30 10:18 [INFO] --- estaciones ---
-2026-09-30 10:18 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
-2026-09-30 10:18 [INFO] --- mapa ---
-2026-09-30 10:18 [INFO] Mapa: reuso las 1116 gasolineras que ya tenía (se rebajan cada 7 días)
-2026-09-30 10:18 [INFO] Mapa: 1130 gasolineras en 22 departamentos, 14 con precio real del MEM
-2026-09-30 10:18 [INFO] --- mercado ---
-2026-09-30 10:18 [INFO] Mercado: RBOB 3.2786 (-0.52% 7d), WTI 91.35, USD/GTQ 7.6385 · 3/3 símbolos
-2026-09-30 10:18 [INFO] --- noticias ---
-2026-09-30 10:18 [INFO] RSS: 245 notas relevantes en 8 fuentes
-2026-09-30 10:18 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 15, 'BAJA': 7, 'NEUTRAL': 28}
-2026-09-30 10:18 [INFO] --- senal ---
-2026-09-30 10:18 [INFO] Señal: 🔴 Llena HOY (puntaje +16) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de subidas.
-2026-09-30 10:18 [INFO] --- telegram ---
-2026-09-30 10:18 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-09-30 10:18 [INFO] Fin corrida
-2026-09-30 11:15 [INFO] Inicio corrida 2026-09-30 11:15 GT
-2026-09-30 11:15 [INFO] --- mem ---
-2026-09-30 11:15 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
-2026-09-30 11:15 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-09-16)
-2026-09-30 11:15 [INFO] --- hoy ---
-2026-09-30 11:16 [WARN] Feed Diaco: HTTP sin respuesta
-2026-09-30 11:16 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-09-30 11:16 [INFO] Precio hoy: 0 observaciones nuevas de 0 artículos · regular 43.27 (2026-09-29)
-2026-09-30 11:16 [INFO] --- estaciones ---
-2026-09-30 11:16 [WARN] Feed Diaco: HTTP sin respuesta
-2026-09-30 11:16 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
 2026-09-30 11:16 [INFO] --- mapa ---
 2026-09-30 11:16 [INFO] Mapa: reuso las 1116 gasolineras que ya tenía (se rebajan cada 7 días)
 2026-09-30 11:16 [INFO] Mapa: 1130 gasolineras en 22 departamentos, 14 con precio real del MEM
@@ -1998,3 +1970,31 @@ Noticias: 12 apuntan a que baja y 10 a que sube
 2026-10-09 10:17 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
 2026-10-09 10:17 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-10-09 10:17 [INFO] Fin corrida
+2026-10-09 11:14 [INFO] Redes: facebook=publicado
+2026-10-09 11:14 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-10-09 11:14 [INFO] Cambios radicales aprobados: 1
+2026-10-09 11:14 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-10-09 11:14 [INFO] Inicio corrida 2026-10-09 11:14 GT
+2026-10-09 11:14 [INFO] --- mem ---
+2026-10-09 11:14 [WARN] Listado MEM no accesible (HTTP 403); probando alternativas
+2026-10-09 11:14 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-10-01)
+2026-10-09 11:14 [INFO] --- hoy ---
+2026-10-09 11:15 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-10-09 11:15 [INFO] Precio hoy: 0 observaciones nuevas de 0 artículos · regular 34.69 (2026-10-09)
+2026-10-09 11:15 [INFO] --- estaciones ---
+2026-10-09 11:15 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-10-09 11:15 [INFO] --- mapa ---
+2026-10-09 11:15 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-10-09 11:15 [WARN] Mapa: la lista de gasolineras del MEM tiene 32 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
+2026-10-09 11:15 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
+2026-10-09 11:15 [INFO] --- mercado ---
+2026-10-09 11:15 [INFO] Mercado: RBOB 3.1396 (-5.44% 7d), WTI 91.17, USD/GTQ 7.6415 · 3/3 símbolos
+2026-10-09 11:15 [INFO] --- noticias ---
+2026-10-09 11:16 [INFO] RSS: 218 notas relevantes en 8 fuentes
+2026-10-09 11:16 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 12, 'BAJA': 10, 'NEUTRAL': 28}
+2026-10-09 11:16 [INFO] --- senal ---
+2026-10-09 11:16 [INFO] Señal: 🟢 Espera, va a bajar (puntaje -44) · Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.
+2026-10-09 11:16 [INFO] --- telegram ---
+2026-10-09 11:16 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
+2026-10-09 11:16 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-10-09 11:16 [INFO] Fin corrida
