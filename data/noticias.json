@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-09T13:20+00:00",
+  "actualizado": "2026-10-09T14:19+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
-    "BAJA": 12,
-    "NEUTRAL": 28
+    "ALZA": 11,
+    "BAJA": 10,
+    "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "cc034ec839e5",
+      "titulo": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Petronas-to-Raise-Malaysia-Dividend-19-to-78-Billion-for-2027.html",
+      "fecha": "2026-10-09T13:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "a83f7dd7a00a",
       "titulo": "Crude Oil is Underpriced, Energy Aspects Says",
@@ -503,6 +514,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f16abd9eede4",
+      "titulo": "IEA to accelerate oil reserve release, says 100 million barrels still to come",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
+      "fecha": "2026-10-07T19:28+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "f29346f01212",
       "titulo": "US will rescind policy targeting oil and gas industry methane leaks",
       "fuente": "Reuters (vía Google News)",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "60ea986326b1",
-      "titulo": "World shares, euro slide as high oil prices, fiscal worries linger",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5",
-      "fecha": "2026-10-07T16:34+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2d757e5728a9",
-      "titulo": "US crude stocks fall amid strong exports, refining activity, the EIA says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVl9sOUZ6bmRCNno5WWFVTjROOU5nUi1oRlVvU3Y5MG1KLS1HdGg3UGVqcGNpaDNzeXdrX0NPS2FOX1Y2SFNmWkh5YkphTDRRUWtXZk9PeFdjQjF0ZlBlY3FieWVKZVRMTDNlNEJMVWFJbHQ0alFQNDBNTzZBelJPZ0Fic2ZiZ0ctZDNVUE15ZFRtM3dmeEdTa3I5a0lVVUEtbXRrZm80SXRNZzZ4Z0pkc0dkaEpWR05PdlFPM2c4TjBzZWJLR1ZJdm1B?oc=5",
-      "fecha": "2026-10-07T15:35+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
