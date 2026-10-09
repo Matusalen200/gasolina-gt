@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-09T18:19+00:00",
+  "actualizado": "2026-10-09T19:15+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
+    "ALZA": 11,
     "BAJA": 9,
-    "NEUTRAL": 29
+    "NEUTRAL": 30
   },
   "noticias": [
     {
@@ -30,11 +30,33 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "3ef01ded5881",
+      "titulo": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi11Q0h2dzdNc1k0V0JHbU9lZ2RadENhM3hnM3E1VE1oOHVuYmJmM0d2cEhQUWVfaUFVTndUMGlXZU5XOW54US1OVTc5bm9CdlR2bXlPMmpuX0RfdzNlemItaDVQcGh5MlRDckFFeWtva09WSG9PelJtbTZucFhERjZaWDkzcTFkY2FfYUNmNV9YVGxuZ1ZfcndRRHNwa0VmaW1EX2tTYTF4SlVHNE9Zc0s2UE9fQQ?oc=5",
+      "fecha": "2026-10-09T15:45+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "c49af46d4483",
       "titulo": "Germany to release up to 15 million barrels of oil under G7 plan",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTRTemFBVTFJS2xsZVdHX3Q3Ul9mTkU4T0JGYkNkSVJabXg4dFplZnJfRmVOVS1YLXE0RndpbW9SaEozSTVSOHd0cWZFRTR3WE5BV2JEek14RDkzY3l0dmNzTXZWMU9uTmducE1WdktTWDFoM2o0OUN6eEtMR1FmbFFxZHNROWNFcEd4VUFqVlNGSHFmNEpSOWliMUVrRkRPeVJmdXVubGtrWEk?oc=5",
       "fecha": "2026-10-09T15:32+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "0c06f2efcc37",
+      "titulo": "One person dies, one in serious condition after Greek refinery incident",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTY4X3lOOTRab0tKMllQb2Ewc1RKRnFaeldMUXYtTm5KYm9UNm9nSmw5ODJZZ0Jhei05OGJVREJMNFNuc0NDNHVUZnAydGNXSXk2dDMwZ0JTTUVqSk04c0hINzgxX2dpa3l0NWo5WXlYZzcxRGRJM1BMamRDT3AzcDFmcVZCWVVUT2dsdDNlSzV4QW1BUFNoNGZaaG13U0xJQ05odm44eDZBdmZtMWhHcVB6c3EwRmI1cXpz?oc=5",
+      "fecha": "2026-10-09T15:21+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3a62fefdbace",
-      "titulo": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk9KZFZoanU3aUpvZm9jNU5pVUhQdVdWR1VTbGNCaGIyTmJCMzJTSDJWcXZGVG1GM3RNUU44eVY5NUpoLWdKMUhHVWEtMW1qb2dJc1J3c1c1cVVIRmNDTWdNcHFFN1FVRGxRYUpLYU43MTZJNmI2YzlwN2szVVZDdGQ0cHNNUEhoTlhrSDVNLVhVZkp6SXNjUVZnU05qOFFJX2w1aWdjT3U3UmlJMUk4ZVYyNVloeGVyUVJaNjVvNnBjUQ?oc=5",
-      "fecha": "2026-10-07T23:13+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8840b8e5f021",
-      "titulo": "Depleted Global Stocks Set Higher Floor Under Oil Prices",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Depleted-Global-Stocks-Set-Higher-Floor-Under-Oil-Prices.html",
-      "fecha": "2026-10-07T22:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
