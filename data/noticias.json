@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-09T19:15+00:00",
-  "nuevas": 40,
+  "actualizado": "2026-10-09T20:17+00:00",
+  "nuevas": 7,
   "balance_7d": {
-    "ALZA": 11,
+    "ALZA": 12,
     "BAJA": 9,
-    "NEUTRAL": 30
+    "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "88f9e7312c0a",
+      "titulo": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
+      "fecha": "2026-10-09T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "0f7157ab832b",
       "titulo": "U.S. Oil Drilling Continues to Inch Upward",
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5",
       "fecha": "2026-10-08T00:57+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3956c3383ac5",
-      "titulo": "Kpler Suspects Gulf Producers Are Paying Iran for Safe Passage",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Kpler-Suspects-Gulf-Producers-Are-Paying-Iran-for-Safe-Passage.html",
-      "fecha": "2026-10-08T00:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
