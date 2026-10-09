@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-09T20:17+00:00",
-  "nuevas": 7,
+  "actualizado": "2026-10-09T21:16+00:00",
+  "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 9,
-    "NEUTRAL": 29
+    "ALZA": 10,
+    "BAJA": 10,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "970b4455b281",
+      "titulo": "Trump says Russia to supply diesel to US and global market",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+      "fecha": "2026-10-09T20:11+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "88f9e7312c0a",
       "titulo": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
@@ -16,6 +27,28 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "724f41810107",
+      "titulo": "US Gulf producers shut in more oil and gas as Isaias nears landfall",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjFreUNCMW5wWVJtV21RWHU3VkkxejZoNDNaLV9NbnFJVEdVU2Ywd3lSaVF3OUhfREUyZlp0UjlBd29LdkdoZTZNSUtqanJfVnFncnE3M0ZEdkEyQzBzQmQ5akNzVVpXNWpmM0IyQk5Ba3VTNDdUeXpxeEJwX2M0dWRyMVpWZndOOHk2c0VRTm1jcGVoQVQxSl9SM2lxMFhfWG56dWtfb2tNWVBNbVE?oc=5",
+      "fecha": "2026-10-09T18:15+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e464f748fa91",
+      "titulo": "Trump to push US officials to use Defense Production Act to raise oil, fuel output, three sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1hybG8yXzVuaGdDMzcxdm5qMXZXYm93ZzFyNkxvcUp5UEd6N1BfeTJNSG55WFF5aFNob2ZkbjhZRHJKczBPeXVSeDBwY2tQMjRVb0pEdi01ejhkclV4M19tcjlFQ0MtVktibjlpX0lJZWV6Y3ltaG0zakk4QVlkLXNlQmRlMXFnclVJcWRiRXBKX2ZUclNIV2h2TU5WNThqSmw0WjAxWk9oSGhVZ2tiOXZ4SlZ0b0d2QVNkZzFBYUthY3BDektQRV9B?oc=5",
+      "fecha": "2026-10-09T17:45+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -519,39 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTBTaW5hMG1mek95cGFESEtOcV83R3BQTVZHVlFYQ05Ud0RqVkh6OEtGejFOM1FIYWdjV0F4T016bE5TNndwYll4QjdnVl8tdUUyUVJaMmZUc1dnSFJEZS1ULTFvU2w5Z1RGZFd3bnZ1NUg2T3ZNQlluWkhldE04YjhGLXdOR01aREJ4UGc4bVNIXzFGQmxxX0RlbEZRa2QzdlZHcGhzb0pCQXBQWGtWc1VROURtakFWQ3luWQ?oc=5",
       "fecha": "2026-10-08T03:08+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ec737dd4e640",
-      "titulo": "India's Sensex slumps to 32-month low on oil surge, foreign exodus",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
-      "fecha": "2026-10-08T02:23+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f1f0f5cc9b1c",
-      "titulo": "Oil jumps as Middle East supply concerns persist amid shipping attacks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
-      "fecha": "2026-10-08T01:25+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6389d3002af4",
-      "titulo": "Shares slip as oil spikes and bond bashing rumbles on",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5",
-      "fecha": "2026-10-08T00:57+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
