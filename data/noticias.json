@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-09T17:16+00:00",
+  "actualizado": "2026-10-09T18:19+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 12,
-    "BAJA": 10,
-    "NEUTRAL": 28
+    "BAJA": 9,
+    "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "0f7157ab832b",
+      "titulo": "U.S. Oil Drilling Continues to Inch Upward",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
+      "fecha": "2026-10-09T17:31+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "c9d6581aa955",
       "titulo": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
@@ -16,6 +27,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c49af46d4483",
+      "titulo": "Germany to release up to 15 million barrels of oil under G7 plan",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTRTemFBVTFJS2xsZVdHX3Q3Ul9mTkU4T0JGYkNkSVJabXg4dFplZnJfRmVOVS1YLXE0RndpbW9SaEozSTVSOHd0cWZFRTR3WE5BV2JEek14RDkzY3l0dmNzTXZWMU9uTmducE1WdktTWDFoM2o0OUN6eEtMR1FmbFFxZHNROWNFcEd4VUFqVlNGSHFmNEpSOWliMUVrRkRPeVJmdXVubGtrWEk?oc=5",
+      "fecha": "2026-10-09T15:32+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -68,6 +90,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFAxYTlxLTNCZ3c2bHMya2hWU2VvRUNTQ1I3YllKaGtoRERCSGFwaGFsRDlpQUVsdENqMnloSVpIQlFLZzk0N0VLNEdRSDExR2ZDaU5YOFQ1ekl4Y0tHb2VyUEVGOHVvam9KeTFHU1ZabmxQVjJMRC1jVmZFOVdtdWFuM3p6VHhjU2VqOFl3MXdBUG12OXU4RlMzV0ZNZ3RaSGpidld3cDBzR2VIcjNQOUNRbHdObV9K?oc=5",
       "fecha": "2026-10-09T11:40+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1d6f4773db13",
+      "titulo": "Sterling ticks higher as dollar dips on lower oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTndRanYwOWtGVXkzdjhMNkRVS3FfaGRfNkIzVEl6YjJRYUZFUWRRTUp1V09tQ0c0TFVTMlBDUDdkaTNwVmVzRGFSVG1DNmhxVjB4WFNFNThQbXU1UDlGMEV6X2s3cFEwUzR5V2dCNFVQR1F6ZEN1UV85cnVuT2VZd1hnOHJiRkdFOE9RXzRQWVVNUDk1TUJkeQ?oc=5",
+      "fecha": "2026-10-09T11:35+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -437,6 +470,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f29346f01212",
+      "titulo": "US will rescind policy targeting oil and gas industry methane leaks",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEdMUkc3WGlYY2RnbDdkQlJ4N3hyNk4wZU5Tb296MmlXRFotZWRZcF9SZkdNbzBXbFRrLUt1d2FxTk9PYjhlYndLSGF1aXpEVWk2ODVfRnJKRUk5aTdZcTl0c1dEMEpONDk1eHpvZ2RoOE16X2lfN1ZldkhJRS1ubHoyYnV5Y0FtdlRDc0VSTWZXem5QcXp5QjVkQmFPS1hENFEzMkhIX29RR3lOTEtjTVdlaUVVZXIyQUxCbA?oc=5",
+      "fecha": "2026-10-08T04:48+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "1f51b6ce4ec6",
       "titulo": "Rupee risks more losses after post-RBI policy slide, higher oil adds to woes",
       "fuente": "Reuters (vía Google News)",
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3cbbcc9ef61d",
-      "titulo": "Iran War Pushes 25 Countries Into New Electrification Policies",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Pushes-25-Countries-Into-New-Electrification-Policies.html",
-      "fecha": "2026-10-07T21:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fcd24d425821",
-      "titulo": "Precio del petróleo cae ante posible liberación de más reservas",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHdpZnk2UEZYdjV6MzJJNU9obFYwT185SXRucEJONDJ4R3NFOUpkbTBZZGJGYk9rZHZiRGduTWhoWVFLY3p4ZlZicTRaOTRKc3BVNDBJZ2xqeDNYT0Z2VlhrdWVWYzA3RUZwUDNlTWRGd3AzeUVfV0FBdnE2UDRrU2hDa0RXb3VlQ2RTM0pzbWppWWdGVFFQalVPbw?oc=5",
-      "fecha": "2026-10-07T20:24+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d14f86732a38",
-      "titulo": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
-      "fecha": "2026-10-07T20:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f16abd9eede4",
-      "titulo": "IEA to accelerate oil reserve release, says 100 million barrels still to come",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
-      "fecha": "2026-10-07T19:28+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
