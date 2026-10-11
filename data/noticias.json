@@ -1,12 +1,89 @@
 {
-  "actualizado": "2026-10-10T13:23+00:00",
+  "actualizado": "2026-10-11T13:24+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 11,
-    "BAJA": 11,
-    "NEUTRAL": 28
+    "BAJA": 7,
+    "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "d40a938774ab",
+      "titulo": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
+      "fecha": "2026-10-10T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1b588da5edd0",
+      "titulo": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+      "fecha": "2026-10-10T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "21c9f69e0f0c",
+      "titulo": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
+      "fecha": "2026-10-10T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "533e596a1d41",
+      "titulo": "Rusia levanta parcialmente su prohibición de exportación de diésel según acuerdo con Trump",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/rusia-levanta-parcialmente-su-prohibicion-de-exportacion-de-diesel-segun-acuerdo-con-trump/",
+      "fecha": "2026-10-10T20:22+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d1ebd1b5476d",
+      "titulo": "Trump dice que “ha llegado el momento de que Ucrania tenga un nuevo presidente”",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/trump-dice-que-ha-llegado-el-momento-de-que-ucrania-tenga-un-nuevo-presidente-breaking/",
+      "fecha": "2026-10-10T19:54+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "785a7746c13a",
+      "titulo": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
+      "fecha": "2026-10-10T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "64d0ee540b75",
+      "titulo": "The Iran War Is Fueling a Boom in Clean Energy",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
+      "fecha": "2026-10-10T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "b54ec10fe3f7",
       "titulo": "Trump se prepara para una larga guerra económica con Irán tras prometer resultados rápidos",
@@ -393,6 +470,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1f7eae2ae088",
+      "titulo": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
+      "fecha": "2026-10-08T23:09+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "6389d3002af4",
       "titulo": "Shares slip as oil jumps and bond yields stay high",
       "fuente": "Reuters (vía Google News)",
@@ -464,94 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Set-October-Record-Even-as-National-Average-Slips.html",
       "fecha": "2026-10-08T17:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2d93a1f33f84",
-      "titulo": "Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Reliance-Drives-Indias-Venezuelan-Oil-Imports-to-Seven-Year-High.html",
-      "fecha": "2026-10-08T16:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "82f3b77cb93d",
-      "titulo": "European shares close lower as banks drop to 3-month lows, oil prices weigh",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUllTVdrR0JoVndXTG9SVDJYZl94UkgwUDFRWHJpLWZGMWtpRjJmVUlqUHpjSENGY2dvczFhdjRsNVFKeGhwOEtCa1dOeUd2RUZGSG5nbzVJNkpLNGFiX0tBUmFITndZSHFfamJoempwUTY2MHJBbFFxWkg0QmIxZ2VhSGV6Y0psbURGaDVMc1FWT0NxQV9uS3dKOTVBTkVFVElfSjFXWVhTVTNJODNNU2U3M2s?oc=5",
-      "fecha": "2026-10-08T16:26+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4f01e6688255",
-      "titulo": "US bonds fall, lifting yields for 2nd day, as oil weighs, 30-year auction looms",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5",
-      "fecha": "2026-10-08T16:25+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d2619e44c3d2",
-      "titulo": "Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Equinor-Finds-Up-to-103-Million-Barrels-of-Oil-Equivalent-at-Gullfaks-South.html",
-      "fecha": "2026-10-08T16:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5ba6a455120e",
-      "titulo": "Ukraine says it hit Russia's largest oil refinery",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5",
-      "fecha": "2026-10-08T15:12+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6335b70441b7",
-      "titulo": "Asia races to stockpile oil, speed up renewables in response to Iran war",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1Cd0Mwc1pJOUR1MFdlMWxHSzRESGx0anZnd0FyYzJZRVAteGFZOFNvSEdjYjNZREFINVprWFhiVmIyZkNrZlNBM25GaVgzMGo4OFJNdmE0LVdJbmYxSFJILTZzaXRhTlFxTXZNOGhWamREdTlYQTI4dXJycS1lMFF6VEgyUHo3c3NUeV93NmY3RXowVEp2andOcWVTMmZpZUFVYXZKcGg1cVlwRjlaOUxsQnQ?oc=5",
-      "fecha": "2026-10-08T14:37+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "031d20e1d2d3",
-      "titulo": "Russian Oil Flows to India Plunge to 310,000 Bpd",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Oil-Flows-to-India-Plunge-to-310000-Bpd.html",
-      "fecha": "2026-10-08T14:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "aabd423a9805",
-      "titulo": "Supertanker Rates Hit Record $1.4 Million a Day",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Hit-Record-14-Million-a-Day.html",
-      "fecha": "2026-10-08T13:30+00:00",
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
