@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-10-11T07:23-06:00",
-  "revisados": 8,
-  "nuevos": 0,
+  "actualizado": "2026-10-12T07:34-06:00",
+  "revisados": 12,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 35.99,
-      "t": "2026-10-09T12:08+00:00",
+      "valor": 36.19,
+      "t": "2026-10-12T12:55+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/09/asi-estan-los-precios-de-los-combustibles-este-viernes-2/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -18,14 +18,14 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-09"
+      "fecha": "2026-10-12"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 34.69,
-      "t": "2026-10-09T12:08+00:00",
+      "valor": 34.89,
+      "t": "2026-10-12T12:55+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/09/asi-estan-los-precios-de-los-combustibles-este-viernes-2/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -35,14 +35,14 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-09"
+      "fecha": "2026-10-12"
     },
     "diesel": {
       "tipo": "promedio",
       "valor": 41.69,
-      "t": "2026-10-09T12:08+00:00",
+      "t": "2026-10-12T12:55+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/09/asi-estan-los-precios-de-los-combustibles-este-viernes-2/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -52,22 +52,22 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-09"
+      "fecha": "2026-10-12"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-10-05",
-      "q": -0.1,
-      "pct": -0.3
+      "vs_fecha": "2026-10-09",
+      "q": 0.2,
+      "pct": 0.6
     },
     "regular": {
-      "vs_fecha": "2026-10-05",
-      "q": -0.1,
-      "pct": -0.3
+      "vs_fecha": "2026-10-09",
+      "q": 0.2,
+      "pct": 0.6
     },
     "diesel": {
-      "vs_fecha": "2026-10-05",
+      "vs_fecha": "2026-10-09",
       "q": 0.0,
       "pct": 0.0
     }
@@ -113,6 +113,12 @@
       "fecha": "2026-10-09",
       "superior": 35.99,
       "regular": 34.69,
+      "diesel": 41.69
+    },
+    {
+      "fecha": "2026-10-12",
+      "superior": 36.19,
+      "regular": 34.89,
       "diesel": 41.69
     }
   ],
@@ -225,6 +231,19 @@
       "fuente": "TV Azteca Guatemala",
       "url": "https://tvaztecaguate.com/nacionales/2026/10/09/asi-estan-los-precios-de-los-combustibles-este-viernes-2/",
       "titulo": "Así están los precios de los combustibles este viernes",
+      "extraido_por": "reglas",
+      "salto": false
+    },
+    {
+      "t": "2026-10-12T12:55+00:00",
+      "fecha_dato": "2026-10-12",
+      "tipo": "promedio",
+      "superior": 36.19,
+      "regular": 34.89,
+      "diesel": 41.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
+      "titulo": "Así amanecieron los precios de los combustibles este lunes",
       "extraido_por": "reglas",
       "salto": false
     }
@@ -462,6 +481,17 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZTOVNxOTVLTVlMXzB2VkJvLTRNVGVUcHVGRzBqRDhqVnpDOUUyOE11SEJqazJKVlBuUy1GR3NJbWFMbFdYeWlYWmZydEtrOEZxNFQ3MnZrQWlNOG8wb0FxVzRtZ1ljMG9uRFlENzhMMjcxUmtMNXFST1JGMV95eGNQQmhmeU9JVnk3UzFlUnJwdjY0YnozelY0dThaTnBEakNpeThDRk93ZzFFdU00bXl30gHMAUFVX3lxTE1YbjFJVUJ2T3BvRXB0MG5pOS1fUWVhRE4ycTd4Y3pQbmJqQlNLZG9WYWZpRmRoWGR2dnJyOGZwdjNfWXJJZjgzX2kzcjYyTmFrNWYyMkJOTU92aW9vamZUcV8xelJGb2ZtMVh5d3RIY0pVeWxRbXdzZHVhTG83WHY3dmtsQVAtRTBLSkc4WmMtb1d0S2oybHZ0TWg5WlhHOGdOZThJWEczaU80NUVsNkxFS0NsaHJUT1dONlZ1dDd2cjd0dzNMenhWMnk4dA?oc=5",
     "https://republica.com/internacional/trump-pide-un-nuevo-presidente-para-ucrania-tras-ataques-a-refinerias-rusas-202610101250",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3BOVW5aLWxGa0ZzQ2ZvcllwS1VzaW1JRTZfNnZKVXZfU3Z5Yko3MFc3ZGVjNWhaMVFrdmhUMkRmMmpNd3Rlc242Yms4MGxGb2ZWcTF0S2pSYkNoWGVUSWgxVUM1Ymp2QVNxY3I4R0todzlMZVBETFR1a2J0dUJ1dU5xajNobXZncUNJY05vYjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdHh2RlBXNlBhRVk0TmhSYktsVWRpaFA1b3Z1YnpOSEJZTTlyamZxRFc2NG5jSENMSXNXMzFLWmYtXzdSc1dSOGR5Z1Vja2p5UUhpWGdYZjBndlpiVXZrYTJfSGJQbWpuUVJ6Y0xFSXJoaC1HMjZBWV9WR1VFQkhoLS1VN3p0Mmo3cndzQ0xaZEw2bWFsVUlQYW1iY3ZoTVZHRk54WDd0WnhmU0tiRExuM0ZocG1Db3REMEI2aXZYMDBBQ0l3ZXJnNnRNOGFJcTRwYzdJVWVHa1JId2JHR2Yxa2RaU2FQTEtWN2tyUFNjekLSAYsCQVVfeXFMTVN0RGxBODJVQzZlWm84bDhOeHNQZWFKQTFEZHBVTzVxSXZUVHlhWVRYLV9yNXNSeUV5Mnc5MlFESFdCd29CSUZjNk1IT1dmdTFMZDVReXZXYzNIVHBEX3k5ejRUa1dFTWN4VlBWQi1vYm5VRGNHYWFaTlloeUVNT3hMSnpoS29NcVA3ZzA5Nm1jc1RRcGVPaFMtNHd3XzRLWm5WQUZ6YjhUQU9vTDV5UV9sWWlsY3E5aHdCaUt2TEhuVkpSYnV6N2dWZ3gwWlFZZllOeW56ZzdMYzF0OEtONDZwNmFxTVlFaTVoQTU2TS1TSHNxZ3ZWa0lKWms0dFFiUENRSnZVUXZ3TlNJ?oc=5"
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdHh2RlBXNlBhRVk0TmhSYktsVWRpaFA1b3Z1YnpOSEJZTTlyamZxRFc2NG5jSENMSXNXMzFLWmYtXzdSc1dSOGR5Z1Vja2p5UUhpWGdYZjBndlpiVXZrYTJfSGJQbWpuUVJ6Y0xFSXJoaC1HMjZBWV9WR1VFQkhoLS1VN3p0Mmo3cndzQ0xaZEw2bWFsVUlQYW1iY3ZoTVZHRk54WDd0WnhmU0tiRExuM0ZocG1Db3REMEI2aXZYMDBBQ0l3ZXJnNnRNOGFJcTRwYzdJVWVHa1JId2JHR2Yxa2RaU2FQTEtWN2tyUFNjekLSAYsCQVVfeXFMTVN0RGxBODJVQzZlWm84bDhOeHNQZWFKQTFEZHBVTzVxSXZUVHlhWVRYLV9yNXNSeUV5Mnc5MlFESFdCd29CSUZjNk1IT1dmdTFMZDVReXZXYzNIVHBEX3k5ejRUa1dFTWN4VlBWQi1vYm5VRGNHYWFaTlloeUVNT3hMSnpoS29NcVA3ZzA5Nm1jc1RRcGVPaFMtNHd3XzRLWm5WQUZ6YjhUQU9vTDV5UV9sWWlsY3E5aHdCaUt2TEhuVkpSYnV6N2dWZ3gwWlFZZllOeW56ZzdMYzF0OEtONDZwNmFxTVlFaTVoQTU2TS1TSHNxZ3ZWa0lKWms0dFFiUENRSnZVUXZ3TlNJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUNVQUdDZ1I5RmRWWDJCamFTSm5YWHBScnB0VktMUDR6aFlYYzlFMGV6LUhwV2IzaFV3Zmc0R3d0aU0wZXMyQVZyLXRkOGdPblBLbXRSOWJOVjBGVkZBdnQ1bFhnSG9Pc3R3SXN4Qi1VY1BPbW1JWmFlWVVpMG5GUHJaTHRxclhyNUZ5TDZVVTBTckFpYXlaNk1YWnVXa2NVZkpVNFZ3WjVoVEU?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNVo3dklSSlhRdUFiWVl1YXRvX1RYc2NaQ1c3anNBY0VTMVJGdVB0Y1Btc082ZjNja0o3bTRFMVVrNXVrZXIydmV5ZVFoTGkwYlFwdDJwbFFZTnNBX2k0eGFiR3RwMmRCWUtyalN3U3pYUjVoV3RSYnpPM21nTVRhd19WbXF1TDExdjZDYjdLbzRIMG1mcWpoa2hKQkMtY1lZVVlGSlFsdFl0d2lObnhVRWpWNE1kYzU2YW03bzJQNldQendkNWdQQWFzWUdUS2RJRzYteVpMMWtCLTdjM0h3WThmdjNLRXpnZDA4OFFfek11TnM?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR205anpNbWxCZGluYXFKYnR0enAzT2hRTE1yZzV5SndQcDRSWmNYTFBhSERsMXlZSzJ6aFBHanJpSjZZWVFBc0lESnRnMXV3eUNCbGxmYzZEVFZFV2h4OGI3b1ZSMl80VHlRdTFhS1lIbWtHWnBsUHI3TTcwUzZkMFRTWWdYNzFPU01URTFzZmEwcEtfZk05UFpBVERhLTdzSzcweVBIaEhISjhPQzUwQ3F30gG3AUFVX3lxTE9ZVXl3VktSTDQ3eHRoVUVwcnI0QnNZWHZqbGxqVDNHSmZpRHZ3S3JkdW9kd2NDOU1POHUxRnZLR1RyQXpWMUpLQVZpMDFaZnc4MVYybEFPQ0hzeWlsclBhaWNSN1k4aUE1VnN6YXRVOGVERWp4S2dnWEtCTDZxTlVSZ2xnM0lvNTNySl9jR3Rxd0c1bG9meEcxSy1JZTZ2bXFqUjMwbHF4dFN3UXZFcHhpYVFlS05VOA?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFNNM185d3Bjd0Q4Q0tTc1VHdW01ZHVDSjdLNHh5cTBrYkRWN0RYY3M5VE4ta0ZTd2JFUWp5RG5DdXFwbEV4cVVza3B4dmxZMUxlaDVpTjhidUVGTWQ5YVh2NXZhNVFKYlBIdGhoXzNKYmNyZi1wZ3d0ZGxmbENrRGlremR6VVNXcVRXeWdRWDJPcndHbF9YVEtwQVpxejNpMlFjeURJRC05cXh6SkJmSUlObWdjWTA?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZlo0cUhCWmN1cFA4Zmt4dV9GUER5UGhxMDJ4azFscnNHblhRTHhaeU9XcU4tWXNkVzd6VVlXVUg2MWFYNU5QUVA2VWhCbWRlc3dYWkJSV214NXZJZldMMWFjYk9VYW9kTkV0UUNUdjFQa0I2SlYxNmRTbExtckRjTEg0bjBTUHdjYm5UOWpOd0Z6M042aHRFMVFBRGt4WnozdGNQbjFfQnYzc0xIV1ZnYk55WVFQYVpQQV9xMG1VLUc2OEZIaWhSRHFwOG5lR3BoSjhYenBldHZqcF91OW1XS3NvMkQxWjNnQl9MS1RQd1RTZnEt?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRy12Z2RQSkxpczlqWHVLOXV0enNuN2dMRTlPZ3VvbkpMUGs5MXZueVptenBGRmI3ckVzd2tEX045MWpNbzNJbm9zSDViZmxBaGgyRjJQbFNaQVFkZTBrbEU1di0xbWtSUUZLb3A4MGpFbEdsSkh1cHlZaTNmZ3dfVlV1Rkp0SHJOY1NyUGFaQ2RCMHF6T1YtWjh5NGlGWWZ4aEpaajVDNFdUby1NQkFBdjlyMmlldlJpQXhWUlZjb0hiRXJKaFdtNTVPbktINnZSc2dqYTB4bThTNUN0?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnRxWi0za0VVbzlVc1hVTGIzSnAxQUFRYW96YTlpNzdqR01RMWxQN0s3Ql9QcC1faTJmbGNrUHMtX3laUTVZVkp5Y0p1ZVAzRzVESFhlVFY1Rm5GT3N2ZkZXTkF1a2l0X05FbEQxeDJwQ2VVTmV2NF9PUmVMbU44UjNOblpacHF2bTdFWlNheHhwZXlwemxNLTJXLVBiN3kyX0duQlpaTUlrWFp5SURGeDR6amVuSFVEWHYyNWNSVHg4UGg0RXUwMA?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGhaVHZZX0tiUUp0bHRMUnhNLTdQdl85NEJnaXU3bHVxdUd0bWxRSE9FRjhjTWVzQjIxNGJpVTZGcHhpQTRGTm9nYVYwS1Q0SlBuRGw1bjIyNTJhVlBMU0lsRVZ1dWhWNmxDX1NEUnZvaHl5SUprS00zZ2tLQVFYc3h0c3dXVXZMY0xRQzVpZ014RWtIS3dud3ZyTm5ZN2xSaWRJZUNlMHVUYTdXa1paTmdYOVhJTTg?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHhaNUVCZ3VlZHhUdnc2YUlFb1Q3RjhySTNIVkkzejRqakJTS0JtSnJsbjhyZG01ejBEVlRQUDRtaFZTUi1VUTU3OWdKT1JOcWJTcEx5OWpZNHhCMUxJVTk4MXhBZGtaMHVoN196U3REYlVBODlhQ3dKQWw2ajUwbVljSF9uZUJnZDJfaUhLbEFFWHEtM1NWeTVIeFg0Wlk0Qnd0Mg?oc=5",
+    "https://www.lared1061.com/posts/el-kremlin-no-confirma-la-tregua-energetica-con-ucrania-anunciada-por-trump",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNERJSUNtVXllVld6cWQ3dnBQZ3hxeER5Um8taW9OSllOOTJWM19hTG52dFF4ajdQdUQ0MlZpT3gwZFhsWHRlRHNaWWM3cjFkWXhFcmxPcHFjVmwtSjhRbFB4a0o1T2pGMTFMcHFDaDNfNmlBN2w3M3VrT3cwYWNWTjVlb3dETGFRbzZNd3VpblhQZ3M?oc=5"
   ]
 }
