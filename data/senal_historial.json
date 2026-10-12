@@ -78,9 +78,9 @@
   },
   {
     "fecha": "2026-10-12",
-    "puntaje": 55,
+    "puntaje": 50,
     "tendencia": "alza",
     "veredicto": "Llena HOY",
-    "cambio_estimado_q": 0.7
+    "cambio_estimado_q": 0.55
   }
 ]
