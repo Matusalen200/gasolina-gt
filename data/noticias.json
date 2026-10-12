@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-12T17:17+00:00",
+  "actualizado": "2026-10-12T18:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
+    "ALZA": 13,
     "BAJA": 4,
-    "NEUTRAL": 32
+    "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "1037a023b945",
+      "titulo": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
+      "fecha": "2026-10-12T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "3cd419359ff4",
       "titulo": "FTSE 100 ends higher as financial, medical stocks offset crude price hit",
@@ -35,6 +46,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/Energy-Stocks-Soared-in-Q3-as-Fuel-Markets-Tightened.html",
       "fecha": "2026-10-12T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7fbc7a8d7ae0",
+      "titulo": "Trump defends Russia diesel deal as lawmakers from both parties complain",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
+      "fecha": "2026-10-12T15:48+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -107,6 +129,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "5693d9cd9508",
+      "titulo": "Asian refiners buy spot November Saudi oil, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnNKRV81aDlKVS1rMVJzSUFpcC1aRVZwU0Flc21NbUlEaWE4bUZvaHZXQzlEek1vVWpuaHFkcmVZemxhMkdaeGptQ3dGLXhkWGRQcjZxdmtLS2EzMnlJSnVadmRKeEZMc3ZSQ3BsN0E0dURETzVGSEpfdnJuMzVpUV94NFNzdUJ3NlpCTFdvaWhpQ21KZEJfSnVTclBfM2tLNkE4YmttWHRNUQ?oc=5",
+      "fecha": "2026-10-12T13:10+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "122b3b336e5d",
       "titulo": "“EE.UU. no debería darle a Rusia un salvavidas financiero mientras mata civiles en Ucrania”: las críticas contra Trump por su plan de importar diésel ruso",
       "fuente": "Prensa Libre",
@@ -145,6 +178,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Stuck-Between-Middle-East-Escalation-and-Russia-Ukraine-Energy-Truce.html",
       "fecha": "2026-10-12T11:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "03c10652fc62",
+      "titulo": "Cuba denies involvement with island-bound fuel shipments seized by US",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTdXQkZiNmZlU3FaSUpwSjVIdXRNM0dOYWhzaDU2a2Eta2NIUkNLODZuOXVycnQ1SFVLalFMRUd3cmNHT2NtVHhiNTVpdDU1bndRa2JDSXo4MFk3VDlHWUprRVBkaTZtU2FoOUF1ajdNNWFJcDgwQmV3MGRGUUFyUkw0dVBGa3I0bFBlZnNjSWJibVFTc2NGdWNsUENKeG5vRC1WaHNyaVY0aFJ0anNUdW5tMVlZRjIyMnJlQ2JB?oc=5",
+      "fecha": "2026-10-12T11:06+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "44f07eec9504",
-      "titulo": "Oil prices settle higher as more production shut ahead of hurricane",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
-      "fecha": "2026-10-09T20:19+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "970b4455b281",
-      "titulo": "Trump says Russia to supply diesel to US and global market",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
-      "fecha": "2026-10-09T20:11+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "88f9e7312c0a",
-      "titulo": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
-      "fecha": "2026-10-09T20:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "06f5ed57bddb",
-      "titulo": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
-      "fecha": "2026-10-09T19:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
