@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-12T19:16+00:00",
+  "actualizado": "2026-10-12T20:18+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
-    "BAJA": 4,
+    "ALZA": 12,
+    "BAJA": 5,
     "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "9e4d2bf8dcfe",
+      "titulo": "Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbG5FR1BDa09LM1I4UWVxVENCQ2gtR0hvZ2pUVWR0cDBSRjVKdnlKc0FrNDAtc010U2R3QlkxUG9lVGRMRHItdzc5Y0ROR1NtRzBWbWZzcG1GbFAteGpEMnVSWElFbEhrUDJGbzFJcllwZVVGVU03UWNQQmZFX3RyNGx4UlNzdS1rdjFQekFGSFNNdkpsRmhHQTZnTktxVkRZRGZGUERJdFljTllxTXp5eG1pRnZhM1FORS1wX3VreWdTcHVqNnZ6eQ?oc=5",
+      "fecha": "2026-10-12T18:48+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "1037a023b945",
       "titulo": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
@@ -156,6 +167,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Looks-to-Import-Crude-Oil-from-Libya-to-Diversify-Supply.html",
       "fecha": "2026-10-12T12:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6864ae8df459",
+      "titulo": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeDljRm5PXzhUMzJ0cjZmbEM1SGY0YUNJV1lzb0VDX2M1MHItZFpGMjZUakszempCWHo0RVpaTEk1akt5Yy1yNDduWVpaV295M003SjhfWkZieWJCdy1Rd3dtV2tiUVB3cmp3QTJFZFNHSlFVMnlzNHdVLWdqUzBXdkU2SzFBWXNvcG1ESW1VeWJlTVZSUjBPVmNnbmpkVTJBbWlaYjdoc2pienZOejF1YTl1a2dHSFZNNjdnSnVkYWtzT2FNeUl6VlNiWjI?oc=5",
+      "fecha": "2026-10-12T12:19+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -533,28 +555,6 @@
       "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "76e7d6560faa",
-      "titulo": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
-      "fecha": "2026-10-09T21:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3a9f3338e1fa",
-      "titulo": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
-      "fecha": "2026-10-09T20:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
