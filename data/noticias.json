@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-12T16:18+00:00",
+  "actualizado": "2026-10-12T17:17+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 5,
-    "NEUTRAL": 33
+    "ALZA": 14,
+    "BAJA": 4,
+    "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "3cd419359ff4",
+      "titulo": "FTSE 100 ends higher as financial, medical stocks offset crude price hit",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUFaYzhXUGhhdFpHc2M4a0JXTmllM2hTQ0FfVnVMUFdWQTkwNWRRb3gxQm83NFNGQWc3Y0Fpb0VONWl4LUZyc2ItUllCMlpndkRhZENCWlJXT2N2b3pWdFBYUFdRbExJQ2NsMUpydGdiOGo0UXhWV0s1T3c1MDd2RlpKWWR1SDBReHJlTWZySUhvaDJMM3Z6Z2Rn?oc=5",
+      "fecha": "2026-10-12T16:50+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4c2b28aa8d18",
+      "titulo": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
+      "fecha": "2026-10-12T16:50+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "36de35d1058f",
       "titulo": "Energy Stocks Soared in Q3 as Fuel Markets Tightened",
@@ -530,28 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
       "fecha": "2026-10-09T19:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "724f41810107",
-      "titulo": "US Gulf producers shut in more oil and gas as Isaias nears landfall",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjFreUNCMW5wWVJtV21RWHU3VkkxejZoNDNaLV9NbnFJVEdVU2Ywd3lSaVF3OUhfREUyZlp0UjlBd29LdkdoZTZNSUtqanJfVnFncnE3M0ZEdkEyQzBzQmQ5akNzVVpXNWpmM0IyQk5Ba3VTNDdUeXpxeEJwX2M0dWRyMVpWZndOOHk2c0VRTm1jcGVoQVQxSl9SM2lxMFhfWG56dWtfb2tNWVBNbVE?oc=5",
-      "fecha": "2026-10-09T18:15+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e464f748fa91",
-      "titulo": "Trump to push US officials to use Defense Production Act to raise oil, fuel output, three sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1hybG8yXzVuaGdDMzcxdm5qMXZXYm93ZzFyNkxvcUp5UEd6N1BfeTJNSG55WFF5aFNob2ZkbjhZRHJKczBPeXVSeDBwY2tQMjRVb0pEdi01ejhkclV4M19tcjlFQ0MtVktibjlpX0lJZWV6Y3ltaG0zakk4QVlkLXNlQmRlMXFnclVJcWRiRXBKX2ZUclNIV2h2TU5WNThqSmw0WjAxWk9oSGhVZ2tiOXZ4SlZ0b0d2QVNkZzFBYUthY3BDektQRV9B?oc=5",
-      "fecha": "2026-10-09T17:45+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
