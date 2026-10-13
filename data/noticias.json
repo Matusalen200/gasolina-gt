@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-13T12:32+00:00",
+  "actualizado": "2026-10-13T13:25+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
+    "ALZA": 13,
     "BAJA": 3,
-    "NEUTRAL": 33
+    "NEUTRAL": 34
   },
   "noticias": [
     {
@@ -16,6 +16,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4ddad90235ea",
+      "titulo": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVpHcU5oOWl3WUt1NFlQNi1Ld3JVQWI5Z0l3Z3p4UTFGSDdsMk5Yak5zdy16Z1NCcl9NMzBqbkgxaEdSLUtBSWVJWXQ5MnBiTzlDMXUyZE5iemFmQlJ2b3JlRWgxTlRMdnhHMVptZXhvMUtwMHZpb3IwM0VOZEUyLXpVenhqb2toWmJUdU9kQ25odHY2enA2a2xvd19mQ2U0WTVIVUlYa0kzYUdWYUVIaGtQSVdZY2pGVC15b2pEZlZhRDVteFVlOGFCOA?oc=5",
+      "fecha": "2026-10-13T11:35+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -544,17 +555,6 @@
       "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1c582c98ae85",
-      "titulo": "Oil prices rise as attacks on Saudi Arabia overshadow Trump's Russian supply announcements",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
-      "fecha": "2026-10-11T23:26+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
