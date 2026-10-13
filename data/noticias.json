@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T18:23+00:00",
+  "actualizado": "2026-10-13T19:29+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
@@ -7,6 +7,17 @@
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "31e653399885",
+      "titulo": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Exports-Set-to-Surpass-1-Million-Barrels-per-Day-for-First-Time.html",
+      "fecha": "2026-10-13T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "6fdce2ac48e8",
       "titulo": "Argentina Takes Falklands Oil Fight to International Tribunal",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bb1b25b282e9",
-      "titulo": "Oil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Stuck-Between-Middle-East-Escalation-and-Russia-Ukraine-Energy-Truce.html",
-      "fecha": "2026-10-12T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
