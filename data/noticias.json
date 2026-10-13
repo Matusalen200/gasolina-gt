@@ -1,18 +1,139 @@
 {
-  "actualizado": "2026-10-12T21:17+00:00",
+  "actualizado": "2026-10-13T11:25+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 5,
-    "NEUTRAL": 33
+    "ALZA": 14,
+    "BAJA": 4,
+    "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "fb005aa4dd75",
+      "titulo": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
+      "fecha": "2026-10-13T09:20+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "178b6cc23a89",
+      "titulo": "Zelenski se arriesga a una ruptura con Trump por la presión de las elecciones de mitad de mandato en EE. UU.",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/zelenski-se-arriesga-a-una-ruptura-con-trump-por-la-presion-de-las-elecciones-de-mitad-de-mandato-en-ee-uu/",
+      "fecha": "2026-10-13T06:05+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b155892c5422",
+      "titulo": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Retreat-as-Saudi-Arabia-Pledges-to-Keep-Exports-Flowing.html",
+      "fecha": "2026-10-13T05:38+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f1c143e58bf4",
+      "titulo": "Finnish Foreign Minister says US oil purchases from Russia 'not a good idea'",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkt5Z3JOemJCNEVzdG5MM1hpdmVGcHdEQm5yVVJNcXE3WHNKYmwxV3lfWmg0Q1VCUDl2cWtmMUNUMk9USjJ5enBUQzFEOFAzV083VHNNRmtDSDBQaVo5Wl9pTW10dzFxdUJZbkRzQlZEVGx4VWl5RzN6WnRZVEdfM0tnN2tXTU5VcGw3SmFCZTZObTlkMmw3SnB5VkVKRmlyQW9ZMmp0dzZsZ1FKbmdmemJDaTFZYy1DTUFTX0d3aw?oc=5",
+      "fecha": "2026-10-13T04:19+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5be5d281b6d8",
+      "titulo": "Japan cabinet backs plan to help oil importers pay for higher transport costs",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2d1cTB5R0NxaTRxNldKbGJ3Vy01ZkJMMVhpUk1jUU8yYTR6VDJDWEZIMGs0UWRzcmpzalJUUnNMUmpLb1JTdkQ4X0g1STZMRjZscnpQNk91XzhQVTlCc2VaUENEUlNhbTNuYkR3UDU5Q0MyME1sdC0zemxrQ0QtWnVWUXZYRDNEM2FQMVk3MkhGQklpRHgzRGUzWkN6VGpHRmlGN1NldUh6dTVJNEFoNVRqTlg0cTBpOGg3cFlQbTU?oc=5",
+      "fecha": "2026-10-13T04:15+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ed35ca393147",
+      "titulo": "Gold gains as oil, dollar retreat; investors brace for US inflation test",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "fecha": "2026-10-13T02:23+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "17ac62ab0b80",
+      "titulo": "Oil retreats as Russian diesel supply prospects counter Gulf supply risks",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
+      "fecha": "2026-10-13T00:25+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "fea5e29182bb",
       "titulo": "Heat Pumps Are Coming for Coal’s Industrial Heat Market",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/Heat-Pumps-Are-Coming-for-Coals-Industrial-Heat-Market.html",
       "fecha": "2026-10-12T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fd82dc4afab9",
+      "titulo": "EU looking at oil and gas windfall profit tax, as energy prices soar",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkFnZHlycnVIT0dJR21Nd1NXQ215NHNYZGp5WHM5Rk9MeEdBbktzUFhMSmZyWHRUS2o3Vkl6MWdGTVhmeVB4NUxPNG0zeHVSNU0yY2otd2Z0REhpWmhscGxzN3B4RW1CYlJYZmFhUnpucDBYMGJfMHdpSWx3YWtsTlFWc1lzVktYcDZvZXhYU1d1dEF4TklNekJ0cHk0ZVZsUE1aQU5JSVZXbWNLd3c?oc=5",
+      "fecha": "2026-10-12T20:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fc278a52acf7",
+      "titulo": "Legisladores de EE. UU. califican de “ilegal” acuerdo de combustible entre Trump y Putin y esto argumentaron",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/legisladores-de-ee-uu-califican-de-ilegal-acuerdo-de-combustible-entre-trump-y-putin-y-esto-argumentaron/",
+      "fecha": "2026-10-12T20:10+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e1c4a5c84529",
+      "titulo": "Shipping and insurance costs for energy flows surge, OPEC, non-OPEC ministers say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUJ1Y0p1c0dpaFgyQ3FETThUc1dRbnlrNVdaeXItQnMzX2NRS1FpZDh6bUN4REd1OGRwOEw1WWMwSUxzYjFhMUZIU3dTWFAxTmpVRjVFSkI3NnNpVGJsMnd1anl2ZnN6NE5telhScGJTZVF0ajhrbkhTS00tbm9oZjdpRTdJcXV0ZFc0UlhXOVJtN2RfRDRlQWo2ODE4NGdlekk3dzZFR2dSUUJNNkthNEpDMUxLTzczdXlneklScTc?oc=5",
+      "fecha": "2026-10-12T19:12+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "711fc7d5f7e3",
+      "titulo": "Russia says its diesel exports may exceed volumes announced by Trump",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXBaMl96X25takpKUC15RzZpMEhXT3FwMkM0a0xiZUxuV1FINXU4eXF4emoxdWl5TGZjYkNoeGhOeWdESE8yZXUyRXU2NlpoZ3hENzRoTlRaVTBUMWFTOWpQRlVYel9PbEZhdTVla2U2MS1QU3RDcXR0aEZ2cjFXMXV3ek45YWEwakhFVVBPQ1hRYjRZZk9SVXcxaFAwQ2hxOHBxTmdqTHZNWGVITUgzUWUwd0t1V3phQVBzaHR3?oc=5",
+      "fecha": "2026-10-12T18:52+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -38,6 +159,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "bfa1120fd36b",
+      "titulo": "About 30% of US Gulf oil production shut in response to Isaias",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkZwYlVMOFA1RXZIZ2NOZEp3eUktY2NnZTQwME5wdEk3czA0ZGIzdGU0S05sVmJfa2UzVjFscjZIczk0a1Rqa0dDWnY5YTJwN1FNejlhVlpfdDRYdVp2eDlSNkRyTGNLVmlOc01IUTJKSHBxZkZYUENmeHc3RS1kQktWbU5uV0tsMV94Wi1Ba3dIRkVzM3E3T1cwRDFRM1RCbmtMa1BVTQ?oc=5",
+      "fecha": "2026-10-12T17:14+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -423,138 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1b588da5edd0",
-      "titulo": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
-      "fecha": "2026-10-10T23:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "21c9f69e0f0c",
-      "titulo": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
-      "fecha": "2026-10-10T21:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "533e596a1d41",
-      "titulo": "Rusia levanta parcialmente su prohibición de exportación de diésel según acuerdo con Trump",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/rusia-levanta-parcialmente-su-prohibicion-de-exportacion-de-diesel-segun-acuerdo-con-trump/",
-      "fecha": "2026-10-10T20:22+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d1ebd1b5476d",
-      "titulo": "Trump dice que “ha llegado el momento de que Ucrania tenga un nuevo presidente”",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/trump-dice-que-ha-llegado-el-momento-de-que-ucrania-tenga-un-nuevo-presidente-breaking/",
-      "fecha": "2026-10-10T19:54+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "785a7746c13a",
-      "titulo": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
-      "fecha": "2026-10-10T19:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "64d0ee540b75",
-      "titulo": "The Iran War Is Fueling a Boom in Clean Energy",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
-      "fecha": "2026-10-10T15:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2b9f69c32eb2",
-      "titulo": "Trump calls for replacing Ukraine's Zelenskiy in tussle over diesel deal with Russia",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXFuRXk1Sm4ydlg5Tng2TklTSDlLUlhUXy12UldndXpmdWN1cnNYSmhZaFRwRTlSM0pUZWVtZjdicXdNbVlSMUxNYk5YYVhncjczY2FuLThrRlk4MTFPUU8ySVM5bHRlaGdfX19VTHQxQU9ZTXQwazF2MXhKYlUzVTFUMEZ2cjdQSTZGVEN5QWRPMlhPQnZTNElXeTY5QzZJb2NMcENHTUhSUXVVMU1kYjdoN2ZJZGdoTllBMkRvenZ4aU0?oc=5",
-      "fecha": "2026-10-10T06:39+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b54ec10fe3f7",
-      "titulo": "Trump se prepara para una larga guerra económica con Irán tras prometer resultados rápidos",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/trump-se-prepara-para-una-larga-guerra-economica-con-iran-tras-prometer-resultados-rapidos/",
-      "fecha": "2026-10-10T06:05+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9e911e0d896e",
-      "titulo": "Villa Hermosa: 53 viviendas presentan daños severos, pero sigue pendiente definir la ayuda para las familias",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/comunitario/villa-hermosa-53-viviendas-presentan-danos-severos-pero-sigue-pendiente-definir-la-ayuda-para-las-familias/",
-      "fecha": "2026-10-10T03:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9bcdfa66353a",
-      "titulo": "¿Qué acordaron Trump y Putin sobre el petróleo ruso y cómo podría influir en el precio de la gasolina en EE. UU.?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/que-acordaron-trump-y-putin-sobre-el-petroleo-ruso-y-como-podria-influir-en-el-precio-de-la-gasolina-en-ee-uu/",
-      "fecha": "2026-10-10T01:13+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f6eefd3b85b7",
-      "titulo": "Euro falls, set for fifth straight weekly drop as oil prices rise",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXdEVjljdXBVWmtDOUFnLWJiRVhYWHg1TVNmTEhLbXN1Q0RSeFN0UW5ES2pmYmV0aVA0Z3BuMkdLTFAydFJBNm1KeE5xUFNITlhIMzZMRHNTMkRSc3QwWTRfMVRPSkJGY1BlQUJ5R1NZN3NOOU9xUWNnOGk4bGxlYlh2emNhaXNwdjBXNXU1bWVjeUxXVHdpMUpsZ202M3JwVnIyc3J3?oc=5",
-      "fecha": "2026-10-09T22:07+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9c5c862d6e22",
-      "titulo": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
-      "fecha": "2026-10-09T22:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
