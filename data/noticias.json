@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T19:29+00:00",
+  "actualizado": "2026-10-13T20:27+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
@@ -24,6 +24,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Argentina-Takes-Falklands-Oil-Fight-to-International-Tribunal.html",
       "fecha": "2026-10-13T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "63a3f9de9230",
+      "titulo": "US blockade keeps Iranian crude exports at zero in October, report says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmFzZDZiY3ExNTlsMjFjTDcxaHlMTHhtcWlyQzhoNzZGZk52bDVFUGQyZnlPTy1vVmNWdVRucFdqU0JBVi1JclRCaGFNVy1JMjFxQzhvcy11TllRWTdpV20zWDM3d1lXNTRTNWl4N2w1ZEJNZ2d2U3pBSkVKeklCNlRITmN1eG5CejQzdU56N3oyeXVidVd0TEVIQklXVWtNZlJ4Y3hCOTVrR1ZiQnNCaUc2cjlLcEE?oc=5",
+      "fecha": "2026-10-13T16:53+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -360,6 +371,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1c582c98ae85",
+      "titulo": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
+      "fecha": "2026-10-12T18:36+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "1037a023b945",
       "titulo": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
       "fuente": "OilPrice.com",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6864ae8df459",
-      "titulo": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeDljRm5PXzhUMzJ0cjZmbEM1SGY0YUNJV1lzb0VDX2M1MHItZFpGMjZUakszempCWHo0RVpaTEk1akt5Yy1yNDduWVpaV295M003SjhfWkZieWJCdy1Rd3dtV2tiUVB3cmp3QTJFZFNHSlFVMnlzNHdVLWdqUzBXdkU2SzFBWXNvcG1ESW1VeWJlTVZSUjBPVmNnbmpkVTJBbWlaYjdoc2pienZOejF1YTl1a2dHSFZNNjdnSnVkYWtzT2FNeUl6VlNiWjI?oc=5",
-      "fecha": "2026-10-12T12:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "eed4ae8ce14c",
-      "titulo": "US stock futures steady as oil jumps to two-week high ahead of key earnings",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
-      "fecha": "2026-10-12T11:35+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
