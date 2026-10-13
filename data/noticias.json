@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-13T15:20+00:00",
+  "actualizado": "2026-10-13T16:20+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
+    "ALZA": 15,
     "BAJA": 3,
-    "NEUTRAL": 34
+    "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "78a2466ae1de",
+      "titulo": "Why Diesel Prices Are So Much Higher Than Gasoline",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Why-Diesel-Prices-Are-So-Much-Higher-Than-Gasoline.html",
+      "fecha": "2026-10-13T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "f59fb66872db",
       "titulo": "Saudi Arabia Becomes the Oil Market’s Biggest Wild Card",
@@ -79,6 +90,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Faces-1-Billion-LNG-Bill-This-Winter.html",
       "fecha": "2026-10-13T12:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ea9e003f96a7",
+      "titulo": "Occidental oil prices jump as supply concerns lift crude",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWhnUmlGS0Y5eEs2Vm13V3cxZFZSWmUzMjZ6OEdCdzhoN294ZEl2Wk1YeVNLb2VhWThLZXlnbHpNMmxwak8zVXBxdDM1N3ZLeFRxUHBOclVEdXBHZUVWTXJrYUs3ZGZHdEo0eUpDVHh3SlJRQjVXVFdNNE5iMnJtLTRhTTJnT0l5Z2FPckNfcFJFcEVfVVlnRmQ4SWpEYTY5WGpRaDJ5c0g?oc=5",
+      "fecha": "2026-10-13T12:01+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
@@ -530,28 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWQtMDRPN05hVWltQzRWWGdZLUVfT3lnZXNrVDBteWp6NWJfZEFBaEgzZEVVaGRUaXJuTVhSTXNBV29fcUFvZVcxV19yRnU1Sk9zM3p5MWcwYkNsaDI0bV9DeW9tc3NQamVDb3ZZeFpGb0hPRGk1N1gyMW9QU3VidVlZMVhZZlF0RWdMZy1KcFJIbDlDXzN6c0xHajFhWHVmckI0SVZuU3lFZTVKc3hWNEZ6eTZrYkk?oc=5",
       "fecha": "2026-10-12T09:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9ac24168113a",
-      "titulo": "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Urges-Asia-to-Build-Up-Oil-Reserves-as-Middle-East-Risks-Mount.html",
-      "fecha": "2026-10-12T08:15+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c4c7532b6d40",
-      "titulo": "European shares rise on lower oil prices, bank strength ahead of earnings",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTJzODAxR3FEbnVoV2loanlVRUtiSWs3SDhqQjB4RFBXcFhyTks1MWFrc1BFMG1Vck5vUWlYQ0tqNHkxRTZXV01UaWgtS3ZaN0c0dWdzT1gwNTBscXRKUDRnVWdlWFhzYVRoNGxpT0FUZk9Ic2NtaWotNDlIOEJpeHRCNDhvR2Zab09ONXhUM2w0WTZSdENtYjhoem02aElsdFlfUjZEODVWeldtSGtBV1VieklOUldW?oc=5",
-      "fecha": "2026-10-12T07:21+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
