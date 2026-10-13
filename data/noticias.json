@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-13T14:22+00:00",
+  "actualizado": "2026-10-13T15:20+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
+    "ALZA": 13,
     "BAJA": 3,
-    "NEUTRAL": 33
+    "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "f59fb66872db",
+      "titulo": "Saudi Arabia Becomes the Oil Market’s Biggest Wild Card",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabia-Becomes-the-Oil-Markets-Biggest-Wild-Card.html",
+      "fecha": "2026-10-13T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5cd994c41a76",
+      "titulo": "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Buy-Middle-East-Crude-Through-Ship-to-Ship-Transfers.html",
+      "fecha": "2026-10-13T14:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "0e77e213261a",
       "titulo": "Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel",
@@ -38,6 +60,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "764e3f9914ce",
+      "titulo": "Argentina seeks tribunal order against UK oil activity near Falklands",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbi1FVHFsVEM2RjVqWkpZVFBEemU5RFZQN1N3OHB3WFRLcm4wWHIyaFN4TDQ3SVB5NWVFWkRxbS1tbThCWXk3VHExZXB1WGNiT3hrYlJQQ3ZqRTBaYTNIdURfZGtSOXZxNDBCbV9lTWoyUFBQQUpmdUtTc2M4NFF4TWxtVmgyTmdOSzdBWUxtNGNUam5DMDc2dUZsNUFaQ2NTZk1yOUxlZjhFLXFiWk1ZOThLS3huOGI2TVp5blFB?oc=5",
+      "fecha": "2026-10-13T12:50+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "de403a16c745",
-      "titulo": "Supertanker Rates Slip From Record Highs",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Slip-From-Record-Highs.html",
-      "fecha": "2026-10-12T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "74838444f790",
-      "titulo": "COMMENTARY: The oil market's center of gravity is moving east",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjYxNmhnSlJibVVZcGVOSld5YWc3c1NMeXVEcTNwN3pWclpSR0xKUHhObVdLempqUV9NSkM0VkhyZEY3Z2cyNFVNSEl0bkU4UmRVeXJVZ2x2MlRqMTltZ0N3a1hIejZmOVZlaXA5czc1X2k0OThSWnY2bjZsMXpLQmNfTk9uNnNoNDE3R3ZSb3dNV1lwd3hfQmhnYV9ZNVZDVGRVRnRPV052SEpyZ2xr?oc=5",
-      "fecha": "2026-10-12T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e1fcb034c914",
-      "titulo": "Two More Oil Tankers Attacked Near Strait of Hormuz",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
-      "fecha": "2026-10-12T05:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
