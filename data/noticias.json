@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T17:18+00:00",
+  "actualizado": "2026-10-13T18:23+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
@@ -7,6 +7,28 @@
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "6fdce2ac48e8",
+      "titulo": "Argentina Takes Falklands Oil Fight to International Tribunal",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Argentina-Takes-Falklands-Oil-Fight-to-International-Tribunal.html",
+      "fecha": "2026-10-13T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "0c93dbca4e6f",
+      "titulo": "Trump says Houthis trying to drive up oil prices ahead of US midterm elections",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjJueXpwNnRLbk1Db0NkZzBZS0tqUGF4NHU3ZWYxcWRHdVU0WW9uYVZJeUlpUVR2amR3Q0dyd1ZwYTFwZjRkUXU2VWRmX2otWUh5dHBmTW1Tak1iczg5a3pzR21oZTk3S3lzN0NfWmZ4TWRFalFNLVBsdU5vVTFkSDQ4TnNGVDZOcnVTS2FWTzBTbW1pN0ZoamZrRG5fQlc2QXpZWjV3?oc=5",
+      "fecha": "2026-10-13T16:38+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "e112c765bd9b",
       "titulo": "Dangote Swings to $4.7 Billion Profit Ahead of Africa’s Biggest IPO",
@@ -530,28 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Stuck-Between-Middle-East-Escalation-and-Russia-Ukraine-Energy-Truce.html",
       "fecha": "2026-10-12T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "03c10652fc62",
-      "titulo": "Cuba denies involvement with island-bound fuel shipments seized by US",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTdXQkZiNmZlU3FaSUpwSjVIdXRNM0dOYWhzaDU2a2Eta2NIUkNLODZuOXVycnQ1SFVLalFMRUd3cmNHT2NtVHhiNTVpdDU1bndRa2JDSXo4MFk3VDlHWUprRVBkaTZtU2FoOUF1ajdNNWFJcDgwQmV3MGRGUUFyUkw0dVBGa3I0bFBlZnNjSWJibVFTc2NGdWNsUENKeG5vRC1WaHNyaVY0aFJ0anNUdW5tMVlZRjIyMnJlQ2JB?oc=5",
-      "fecha": "2026-10-12T11:06+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "650581f3b82e",
-      "titulo": "BMI Predicts Brent Crude Will Remain Above $100 for Months",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/BMI-Predicts-Brent-Crude-Will-Remain-Above-100-for-Months.html",
-      "fecha": "2026-10-12T10:30+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
