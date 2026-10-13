@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-13T20:27+00:00",
+  "actualizado": "2026-10-13T21:25+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 16,
-    "BAJA": 3,
-    "NEUTRAL": 31
+    "BAJA": 4,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "feafee7e9aae",
+      "titulo": "Five Shale Stocks to Watch Before Third-Quarter Earnings",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html",
+      "fecha": "2026-10-13T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "31e653399885",
       "titulo": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
@@ -294,6 +305,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "eed4ae8ce14c",
+      "titulo": "Nasdaq falls ahead of earnings, economic data while oil rallies",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
+      "fecha": "2026-10-12T23:50+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "fea5e29182bb",
       "titulo": "Heat Pumps Are Coming for Coal’s Industrial Heat Market",
       "fuente": "OilPrice.com",
@@ -530,28 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnNKRV81aDlKVS1rMVJzSUFpcC1aRVZwU0Flc21NbUlEaWE4bUZvaHZXQzlEek1vVWpuaHFkcmVZemxhMkdaeGptQ3dGLXhkWGRQcjZxdmtLS2EzMnlJSnVadmRKeEZMc3ZSQ3BsN0E0dURETzVGSEpfdnJuMzVpUV94NFNzdUJ3NlpCTFdvaWhpQ21KZEJfSnVTclBfM2tLNkE4YmttWHRNUQ?oc=5",
       "fecha": "2026-10-12T13:10+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "122b3b336e5d",
-      "titulo": "“EE.UU. no debería darle a Rusia un salvavidas financiero mientras mata civiles en Ucrania”: las críticas contra Trump por su plan de importar diésel ruso",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-no-deberia-darle-a-rusia-un-salvavidas-financiero-mientras-mata-civiles-en-ucrania-las-criticas-contra-trump-por-su-plan-de-importar-diesel-ruso/",
-      "fecha": "2026-10-12T12:49+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4ec0d402497e",
-      "titulo": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Looks-to-Import-Crude-Oil-from-Libya-to-Diversify-Supply.html",
-      "fecha": "2026-10-12T12:30+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
