@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-13T13:25+00:00",
+  "actualizado": "2026-10-13T14:22+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
+    "ALZA": 14,
     "BAJA": 3,
-    "NEUTRAL": 34
+    "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "0e77e213261a",
+      "titulo": "Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Trump-Defends-Russian-Diesel-Deal-as-Energy-Ceasefire-Claims-Unravel.html",
+      "fecha": "2026-10-13T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3a3ae584b1ba",
+      "titulo": "Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa ahead of operation",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
+      "fecha": "2026-10-13T13:58+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5b966e58ed7d",
+      "titulo": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWdiOFh3ZXNEdWNtbEZLVlFDZ2dJQTZaanZ3dUtaNVgycEpwX0tDZWVYVF9PQlpRX085YWNwTkdtZVNmY0R2S0hHcllmRVlxcnAyYm9fTEZQa3YtYlljLXd6ZlROZ3VOTFktSmZnNFFkdGkxUkwyRmJ0R1JiQ0FtLXUzZTdSZGY1dlJCUndmd2FjQkxrT2dWRGFvMmcteFU0VVNQMEdxQVN4eVE5QjdBYg?oc=5",
+      "fecha": "2026-10-13T13:07+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d3fb09f91217",
       "titulo": "Pakistan Faces $1 Billion LNG Bill This Winter",
@@ -49,6 +82,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9cc910619290",
+      "titulo": "European shares edge higher as lower oil prices lift sentiment",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkFQLVNEd0ZIdnhVT3Z4U3lsNEQtSExMbU9XZDV5UzRBT01oWHBoQ1drSTIzekVuaWNpeUlwYnhTT2xSNTlDRkFmTkdHUlR4aTl2bmFkOTBpYW5qNzlXY1VmUkNpRS13ZlRJMnlTM1N3dlFScnJWQUEyaFZ0UFNIemZodlhwZHc1N2hneXZSeTBmMTlGeTBTdl8tUThQdHY4MEo3RVNBSVVmQzhXUURJ?oc=5",
+      "fecha": "2026-10-13T07:41+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f67723a77c46",
-      "titulo": "Gold eases on strong dollar, oil prices; US inflation data eyed",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
-      "fecha": "2026-10-12T03:13+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "969fbd033c85",
-      "titulo": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
-      "fecha": "2026-10-12T01:01+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "130b385c7b67",
-      "titulo": "Shares shrug off oil swings as earnings season looms",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
-      "fecha": "2026-10-12T00:42+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3d59f63ea086",
-      "titulo": "Trump anuncia que Ucrania y Rusia acordaron un alto el fuego energético ¿cómo impacta en los precios de los combustibles?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/trump-anuncia-que-ucrania-y-rusia-acordaron-un-alto-el-fuego-energetico-como-impacta-en-los-precios-de-los-combustibles/",
-      "fecha": "2026-10-11T23:36+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
