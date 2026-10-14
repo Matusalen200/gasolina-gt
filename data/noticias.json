@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T14:30+00:00",
+  "actualizado": "2026-10-14T15:32+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
@@ -360,6 +360,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "c64662048969",
+      "titulo": "What's in the diesel deal between Putin and Trump?",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVYyWUE3V0taZldlY0hsb2o0Rko0Y0QxTGJrbk80SHhyT3VKcWR1LTNfMFFEcEowbklSemZfRHp0Vk51cTBIQWFxNTBMSGZWTGZJejR4TUtoN1V6NGpWcnJtZWhScXY2MGotd1E4eW05UHd1cVZWb3NJLVI2NXl0QnJlRWlMeW1sVVFKSm1mQnBUd29yZVE?oc=5",
+      "fecha": "2026-10-13T14:44+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "5cd994c41a76",
       "titulo": "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
       "fuente": "OilPrice.com",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ed35ca393147",
-      "titulo": "Gold gains as oil, dollar retreat; investors brace for US inflation test",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-      "fecha": "2026-10-13T02:23+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
