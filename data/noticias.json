@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T16:31+00:00",
+  "actualizado": "2026-10-14T17:30+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
@@ -112,6 +112,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSURXUFJMVjlqbThsWm5sbEtVQXpJVzc5VnpZWVN1OGR4Nm04UkU3V0c5azZLQ2N3X2ZkeE1PYWFHalRJY1JoamRrZjdVdHF5OVRnVEMyMzk0cENCWVF3WUktbmxraEdJMDdIMmlWMTNzUU83UlpNZ1FBUm1GRmtidEl3SmxVaEVYUWJDRXk0eWlOM0VvQVVpemdSWE4wVTZPZDQ1aw?oc=5",
       "fecha": "2026-10-14T10:14+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2d9509dd9ccd",
+      "titulo": "Liberia offers 29 offshore blocks in 2026 oil and gas licensing round",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWNyZnJMSENoeXJuTXgwLTFWd2NFQmJtSFFfZk9kbmdRYVg5ZzY3RTU3TklMejhLV0k0R1hxRkZrY2tacWZtcEJpQk5jaEhmQ3lXZVhZaEFfVWloWjZ6Q2tBZ1pMbl9Db1pGeHEwNUJGYkZnOGwyMzZGWVNRZWZrQmRxR3p4eTZmNGJYdHRpbjIzbXlYazVlRTA1NW9XQl9EeGpKVUpMc09sbEtreTBTMTJhWk0?oc=5",
+      "fecha": "2026-10-14T09:08+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f1c143e58bf4",
-      "titulo": "Finnish Foreign Minister says US oil purchases from Russia 'not a good idea'",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkt5Z3JOemJCNEVzdG5MM1hpdmVGcHdEQm5yVVJNcXE3WHNKYmwxV3lfWmg0Q1VCUDl2cWtmMUNUMk9USjJ5enBUQzFEOFAzV083VHNNRmtDSDBQaVo5Wl9pTW10dzFxdUJZbkRzQlZEVGx4VWl5RzN6WnRZVEdfM0tnN2tXTU5VcGw3SmFCZTZObTlkMmw3SnB5VkVKRmlyQW9ZMmp0dzZsZ1FKbmdmemJDaTFZYy1DTUFTX0d3aw?oc=5",
-      "fecha": "2026-10-13T04:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
