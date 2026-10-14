@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T15:32+00:00",
+  "actualizado": "2026-10-14T16:31+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
@@ -7,6 +7,17 @@
     "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "59e6910d0811",
+      "titulo": "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Novak-Calls-US-Diesel-Deal-a-Positive-Signal-for-Russias-Economy.html",
+      "fecha": "2026-10-14T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "3cf84a7ed17e",
       "titulo": "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5be5d281b6d8",
-      "titulo": "Japan cabinet backs plan to help oil importers pay for higher transport costs",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2d1cTB5R0NxaTRxNldKbGJ3Vy01ZkJMMVhpUk1jUU8yYTR6VDJDWEZIMGs0UWRzcmpzalJUUnNMUmpLb1JTdkQ4X0g1STZMRjZscnpQNk91XzhQVTlCc2VaUENEUlNhbTNuYkR3UDU5Q0MyME1sdC0zemxrQ0QtWnVWUXZYRDNEM2FQMVk3MkhGQklpRHgzRGUzWkN6VGpHRmlGN1NldUh6dTVJNEFoNVRqTlg0cTBpOGg3cFlQbTU?oc=5",
-      "fecha": "2026-10-13T04:15+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
