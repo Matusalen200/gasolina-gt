@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T17:30+00:00",
+  "actualizado": "2026-10-14T18:32+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
@@ -7,6 +7,28 @@
     "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "af151cac4d1c",
+      "titulo": "Kazakhstan-linked hackers targeted Russian refinery, spied on city government, researchers say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUNRWFJPaDl3UTE2R0JYd3lfd0dIUGRsVFBFcHpnNlFxdnZjUnZwMnRUYUFZbTlHcDA1NWRPeUU2VEpBTDFaNko0TURDNXdwQ21fOXBpSm9NaFBmVFhKZDVMd2dxOFJTMjRjdExiU1NCazB0RTZnZHc3MmQ1VVFfWXFFZkthVlpyWTZkQ0YwYnkzOW4tbG9LMkV2Z183MmhtZXFhU0FxVUJVa25oaVU2ZkZteEx6ZlIyR2o1N3lVYTA0a3po?oc=5",
+      "fecha": "2026-10-14T17:51+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "024e41cde486",
+      "titulo": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
+      "fecha": "2026-10-14T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "59e6910d0811",
       "titulo": "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy",
@@ -531,28 +553,6 @@
       "url": "https://www.prensalibre.com/internacional/zelenski-se-arriesga-a-una-ruptura-con-trump-por-la-presion-de-las-elecciones-de-mitad-de-mandato-en-ee-uu/",
       "fecha": "2026-10-13T06:05+00:00",
       "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "04a7b6ddf9b6",
-      "titulo": "COMMENTARY: Trump's oil jawboning loses punch as wars spiral",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGRSS0t5UkdaMjZZWUNWWXNZWlpKOV9YcC1XdF9UVXE1M3NEVFJ5MC0zdHZZZnQtclpCRDJZX2hVM1NWNC1xZWZuQl82blNBZmZLRk9YdWZuZ1VMcFZvQmVFYld4VzgteDB3R0NhM05CckEwcjlxVHdldmV0NXlKOGZnc0FuYVIzZU00clRsRVVLeHZySzJ3NnV6MDY3R0I3NU51Sk9oTmRMek8yNExNMXZLYw?oc=5",
-      "fecha": "2026-10-13T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b155892c5422",
-      "titulo": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Retreat-as-Saudi-Arabia-Pledges-to-Keep-Exports-Flowing.html",
-      "fecha": "2026-10-13T05:38+00:00",
-      "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
