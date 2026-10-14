@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-14T11:35+00:00",
+  "actualizado": "2026-10-14T12:42+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
-    "BAJA": 4,
-    "NEUTRAL": 31
+    "ALZA": 14,
+    "BAJA": 3,
+    "NEUTRAL": 33
   },
   "noticias": [
+    {
+      "id": "35c0e82a7e1a",
+      "titulo": "Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramcos-New-Chinese-JV-Refinery-Gets-First-Saudi-Crude-Cargo.html",
+      "fecha": "2026-10-14T12:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fe435ff620fd",
+      "titulo": "Diesel shortages could persist well into 2027, IEA says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmx3MC1ZNktjTUI0ODR3THRhZGw1dk1mWXozUDJqbHFJSGhvT2ZyYW1GZHlLQnh2dk1pMUE3YnhqYi1XX3lVRFA5MHdTS1lWSGtlNEFtclc4S2dMX3NqOTZPMURyZXN2WEJ0Ulo3b1hrNXlKeDJHbHRYRGFVVWluYXBCeVZadXJtRXJCZDVEN2xVWGs1cHYtbHJXQ29YRVlzZlBNVkJ3d3h1Zw?oc=5",
+      "fecha": "2026-10-14T12:02+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6d30a2a07bb1",
+      "titulo": "EU delays methane rules on oil and gas imports for a year",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1FoRVViUjFFU1FZN0hKaDR4Q3M4S2VheF9USmZYVzNFYk9hd2t1WlJRbmNiSnRwNkF4ZjhxUThPaWdNd0MtS0FHdkFCUDQwWUI3RHAydzl2QkduWXBob09SWDNyREttM1M1Y2hBbDZMLW1HREVSVUtoRVFVOFR6OHNSc0xpUTM5Tmw2RGhSVUprbFNndlRiUU5ZdjA?oc=5",
+      "fecha": "2026-10-14T11:01+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "1b8fee02f064",
       "titulo": "Trump Announces “Massive” Greenland Oil Exploration Plans",
@@ -27,6 +60,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5f33091370bb",
+      "titulo": "Speed of Europe's diesel stock release in focus as IEA meets",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSURXUFJMVjlqbThsWm5sbEtVQXpJVzc5VnpZWVN1OGR4Nm04UkU3V0c5azZLQ2N3X2ZkeE1PYWFHalRJY1JoamRrZjdVdHF5OVRnVEMyMzk0cENCWVF3WUktbmxraEdJMDdIMmlWMTNzUU83UlpNZ1FBUm1GRmtidEl3SmxVaEVYUWJDRXk0eWlOM0VvQVVpemdSWE4wVTZPZDQ1aw?oc=5",
+      "fecha": "2026-10-14T10:14+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fd82dc4afab9",
-      "titulo": "EU looking at oil and gas windfall profit tax, as energy prices soar",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkFnZHlycnVIT0dJR21Nd1NXQ215NHNYZGp5WHM5Rk9MeEdBbktzUFhMSmZyWHRUS2o3Vkl6MWdGTVhmeVB4NUxPNG0zeHVSNU0yY2otd2Z0REhpWmhscGxzN3B4RW1CYlJYZmFhUnpucDBYMGJfMHdpSWx3YWtsTlFWc1lzVktYcDZvZXhYU1d1dEF4TklNekJ0cHk0ZVZsUE1aQU5JSVZXbWNLd3c?oc=5",
-      "fecha": "2026-10-12T20:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fc278a52acf7",
-      "titulo": "Legisladores de EE. UU. califican de “ilegal” acuerdo de combustible entre Trump y Putin y esto argumentaron",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/legisladores-de-ee-uu-califican-de-ilegal-acuerdo-de-combustible-entre-trump-y-putin-y-esto-argumentaron/",
-      "fecha": "2026-10-12T20:10+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "14ed4839a77f",
-      "titulo": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5",
-      "fecha": "2026-10-12T19:21+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e1c4a5c84529",
-      "titulo": "Shipping and insurance costs for energy flows surge, OPEC, non-OPEC ministers say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUJ1Y0p1c0dpaFgyQ3FETThUc1dRbnlrNVdaeXItQnMzX2NRS1FpZDh6bUN4REd1OGRwOEw1WWMwSUxzYjFhMUZIU3dTWFAxTmpVRjVFSkI3NnNpVGJsMnd1anl2ZnN6NE5telhScGJTZVF0ajhrbkhTS00tbm9oZjdpRTdJcXV0ZFc0UlhXOVJtN2RfRDRlQWo2ODE4NGdlekk3dzZFR2dSUUJNNkthNEpDMUxLTzczdXlneklScTc?oc=5",
-      "fecha": "2026-10-12T19:12+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-10-14T05:34-06:00",
+  "actualizado": "2026-10-14T06:41-06:00",
   "revisados": 3,
-  "nuevos": 0,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
       "valor": 36.19,
-      "t": "2026-10-12T12:55+00:00",
+      "t": "2026-10-14T12:37+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/14/registran-aumento-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -18,14 +18,14 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-12"
+      "fecha": "2026-10-14"
     },
     "regular": {
       "tipo": "promedio",
       "valor": 34.89,
-      "t": "2026-10-12T12:55+00:00",
+      "t": "2026-10-14T12:37+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/14/registran-aumento-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -35,14 +35,14 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-12"
+      "fecha": "2026-10-14"
     },
     "diesel": {
       "tipo": "promedio",
-      "valor": 41.69,
-      "t": "2026-10-12T12:55+00:00",
+      "valor": 42.69,
+      "t": "2026-10-14T12:37+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/14/registran-aumento-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -52,24 +52,24 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-12"
+      "fecha": "2026-10-14"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-10-09",
-      "q": 0.2,
-      "pct": 0.6
-    },
-    "regular": {
-      "vs_fecha": "2026-10-09",
-      "q": 0.2,
-      "pct": 0.6
-    },
-    "diesel": {
-      "vs_fecha": "2026-10-09",
+      "vs_fecha": "2026-10-12",
       "q": 0.0,
       "pct": 0.0
+    },
+    "regular": {
+      "vs_fecha": "2026-10-12",
+      "q": 0.0,
+      "pct": 0.0
+    },
+    "diesel": {
+      "vs_fecha": "2026-10-12",
+      "q": 1.0,
+      "pct": 2.4
     }
   },
   "diario": [
@@ -120,6 +120,12 @@
       "superior": 36.19,
       "regular": 34.89,
       "diesel": 41.69
+    },
+    {
+      "fecha": "2026-10-14",
+      "superior": 36.19,
+      "regular": 34.89,
+      "diesel": 42.69
     }
   ],
   "tope": null,
@@ -244,6 +250,19 @@
       "fuente": "TV Azteca Guatemala",
       "url": "https://tvaztecaguate.com/nacionales/2026/10/12/asi-amanecieron-los-precios-de-los-combustibles-este-lunes/",
       "titulo": "Así amanecieron los precios de los combustibles este lunes",
+      "extraido_por": "reglas",
+      "salto": false
+    },
+    {
+      "t": "2026-10-14T12:37+00:00",
+      "fecha_dato": "2026-10-14",
+      "tipo": "promedio",
+      "superior": 36.19,
+      "regular": 34.89,
+      "diesel": 42.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/14/registran-aumento-asi-amanecieron-los-precios-de-los-combustibles-este-miercoles/",
+      "titulo": "Registran aumento: así amanecieron los precios de los combustibles este miércoles",
       "extraido_por": "reglas",
       "salto": false
     }
@@ -510,6 +529,8 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFB4YXBreEtTMlVTZmEtMm5zTGJJOFl6NHJfTkdWaE9EYnMxNVdVMTJuZm4wMUF0R21wSTdMS29NNG9JYjJ6REJkdEFVRTBKVDZlVGxjd2Ywc3hibzQ4Njc5X2otMWJUR0Q4a0JvbzBEaVRLal9wZ2J0Z3RfLXlrRHZtUmo4dE1lel9lS292Q2hvVGdHYmFsWTBCbVJvT0pyRlE?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZqZ29ab1BudlJycG5RTzYzZkh0a04yTUlXZXFuNVhSU19NWE5rQTh6eklpUXcwc3dlV3JMamVVa0VKSXdyenp2b2o0YWhnN20zblhxZEpUNjQ5UG1zdUN3MHh1aUdzdmVVLXppaTA0aldGRjN5cFBxRFVzOXRvZnBxRHFRSy1USk9maWlUdF9Zd1ZuTTVtTDBDcWRVVTVqa19RdTRLekpmTzc4eF9nNWtHUDJKZWZSNXVQNmZ0THNRSmM?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjFJV01BcHlHZGR3Sm5hN1NGWnpQczd1VTdZXzZaUGVwY3Y2VGpVMGJ2VkcxSWlrSnFfa0N5M0JFc3RBeTBfUTRYYkhNcl81X1BCanFRdkdiSzJhOXgwT0hLT1RFMkUyLVlaZWZTd1NERjhEZWZ1aDRIY3JjYWpUdU5oVTk1RjZSM1ZncGhNMjA0N0RmdWFOckgxelljUGo4dk1wT25USThTQXp4OW9iN3dtYzNDbFQxcTlzaEdKanFJV2pTb2RxYm1B?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRVhnY05aSFFDelZHb1BSX3JMbE9UYktDVDYtOEhZY1Jic0U2WVUzVlRFdEhLZkxMaTZRbWxyQWctWjZ4ZjE0Z29HTm9DRTJYWHlnaEdEM0tDaFoxSG0taHF3VjZXaEJCc3FwX0pCT0g1OXlYei1GVUFLX1RuS1hpa1JWT095dFN5VjMyamdOS2t2T2gydVJPN3lKcjdBam5wVWxGLWM5emtQUlBhcEZ3SXVSNExHNjFFX08tN2tJeEFJTFAtR2xoZlBDOVlmcW1zbEh4RDg4a3FWR1VmTFdDemJ4eFgxVmNPbVE?oc=5"
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRVhnY05aSFFDelZHb1BSX3JMbE9UYktDVDYtOEhZY1Jic0U2WVUzVlRFdEhLZkxMaTZRbWxyQWctWjZ4ZjE0Z29HTm9DRTJYWHlnaEdEM0tDaFoxSG0taHF3VjZXaEJCc3FwX0pCT0g1OXlYei1GVUFLX1RuS1hpa1JWT095dFN5VjMyamdOS2t2T2gydVJPN3lKcjdBam5wVWxGLWM5emtQUlBhcEZ3SXVSNExHNjFFX08tN2tJeEFJTFAtR2xoZlBDOVlmcW1zbEh4RDg4a3FWR1VmTFdDemJ4eFgxVmNPbVE?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2d0bWF1VWxfYXdCVzRNUUpYdG55UTRQeUduYnN0Vjg5LWV6YjR3X3VmRVQtLWRJWFV0X1RPMFpjMUlzaGVVbG5lekpTQ2FKUFZqU2xCRHQwZEN0VWloU0NBcU5ray0yc0M1UlNmZ1Z6UUJpazNiTVdOR0lLM3FZTFZNcEhabjdoWmdrZXBzbm1nMmxzak44LW5EWmp3WGZLcXhEall2ZGdaNFI4Qm00YnJ0MlB1QXVOdEV0Ty1BOFRVYkRIOFZ6aWkxcFRGaWpEWFIxVmpHWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNU1iZWhReVZyVDQ3RjNvTWZQTkV4QTluV3lieUtESDJxeHhDSVBUWHgxX2xFb2NQVHVEN0ptUU0xTkk5S3pRREp4bng3UV83d0dxWUUydTBOVmk1S0Q2LWFFV1ZSdkE1UjhjcjM5ZjVKcWZzdnVJVnFMVTNMdlZPX1lBcTAxU1FXWUtXYmFpby1yTklPZ2RfUkJLWXlHUk5BcVppaXJhWDM5RlNfWVgyakFfdDFSSTdMdDZSb1RxUQ?oc=5"
   ]
 }
