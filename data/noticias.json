@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-15T15:33+00:00",
+  "actualizado": "2026-10-15T16:29+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 17,
+    "ALZA": 16,
     "BAJA": 7,
-    "NEUTRAL": 26
+    "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "91b5bc7961d3",
+      "titulo": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Down-Nearly-9-Million-Barrels.html",
+      "fecha": "2026-10-15T16:09+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "ba5b0bec6d86",
       "titulo": "Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "19ea8c08a0ec",
-      "titulo": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-conflictos-globales-se-han-convertido-en-un-dolor-de-cabeza-para-trump-a-pocas-semanas-de-las-elecciones-de-medio-termino-en-ee-uu/",
-      "fecha": "2026-10-14T03:28+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
