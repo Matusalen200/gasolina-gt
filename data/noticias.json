@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T20:24+00:00",
+  "actualizado": "2026-10-15T21:28+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
@@ -7,6 +7,17 @@
     "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "129e95120422",
+      "titulo": "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Nuclear-Fuel-Independence-Edges-Closer-as-Urenco-Expansion-Hits-75.html",
+      "fecha": "2026-10-15T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "d7229279f9ab",
       "titulo": "Ukraine Strikes Major Russian Oil Refinery",
@@ -544,17 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5f33091370bb",
-      "titulo": "Speed of Europe's diesel stock release in focus as IEA meets",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSURXUFJMVjlqbThsWm5sbEtVQXpJVzc5VnpZWVN1OGR4Nm04UkU3V0c5azZLQ2N3X2ZkeE1PYWFHalRJY1JoamRrZjdVdHF5OVRnVEMyMzk0cENCWVF3WUktbmxraEdJMDdIMmlWMTNzUU83UlpNZ1FBUm1GRmtidEl3SmxVaEVYUWJDRXk0eWlOM0VvQVVpemdSWE4wVTZPZDQ1aw?oc=5",
-      "fecha": "2026-10-14T10:14+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
