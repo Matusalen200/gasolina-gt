@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T14:31+00:00",
+  "actualizado": "2026-10-15T15:33+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
@@ -7,6 +7,17 @@
     "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "ba5b0bec6d86",
+      "titulo": "Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Bulgaria-Breaks-Ranks-With-EU-Over-Trump-Putin-Diesel-Deal.html",
+      "fecha": "2026-10-15T15:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "3eb13525fc11",
       "titulo": "Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
@@ -30,6 +41,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "245110892a6d",
+      "titulo": "IEA says total oil stock release will exceed 400 million barrels",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1h3c1luXzRady0tREdiR0F1RlVkLTQtNFNXZnIyM2g0V2RDV2JwOWN2S05BX05EQl9MaHVMNW1CLWlseW8zNElob29fUlBLY0dWQ3ktNGc3UVJLUndrR2ZjOHBzU1p4UXFsUWVuRDJpcmMyQ3EyVDlkQkNQSzBwNVpDbWI4dmw5TUtDNExXTzYwTEVYZDZKM3dZNDA4dHJYUjNKZmJLa0EtSDEtMkhHRmlVZ00xUVU?oc=5",
+      "fecha": "2026-10-15T13:54+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "199b9cb90dd3",
       "titulo": "U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding",
       "fuente": "OilPrice.com",
@@ -38,6 +60,28 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "33c4a1b5eef0",
+      "titulo": "US retail sales beat expectations in September on higher gasoline prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5",
+      "fecha": "2026-10-15T12:49+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "a7a576523685",
+      "titulo": "Saudi Aramco offers extra spot crude cargoes to Europe, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMmt6QTFrSlZDUkhGXzhYa2RkMEwtY3YxalljNnNQN3M4Nm1oRi03dnRwc3BpMlppTDJCa3hUcEJicF9iamJJQmFqYmNRc29TRGtKQ05PejFlMUJ6eHRsbUdoX1EzLXNsTzNic2dyZ0ZvSGNHdy1oUUhsWldVRzVtcWNzcWFEY3RsUGNINkozOXBZR0F4M0h3VnNmYUN4bnNEV0xHNGt6N29KSkZpcU5EenRYZ3h3QQ?oc=5",
+      "fecha": "2026-10-15T12:48+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -57,6 +101,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzByYnVybkRWdGdaSVllS3J1NnRlN1pXOE5lMXFSXzIzX3JLekZReWNyUXRsMElJYzhwUDVkbEtwT2tYXzR1SV9mNzlyLWg0RnRsaGJQSGsyVlBiaDF3ZnN2LTJKbnlGeEw2cW1kVHlsQzJYVWtvS2NtWWRRXzRZQmlKNGJNdzZ2ME5ONWhuZmJmdVc4a19fREtHa1luY2o2WWRDaHlESUQ4eXYt?oc=5",
       "fecha": "2026-10-15T11:26+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f9bcdc3674a8",
+      "titulo": "Kremlin says Russia restarts diesel exports after deal with Trump",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFE2QXJhYXdGUkRUampyNWVRNVh3Rk9TMlJhYUJWcjB5UXcwd1JyZVRST0VxVzFURDJaMV9ETTNDcmtyVTY5ZnAzUThaSGdaUGlvNWVPNXFKQ0U1U0ctZ19xeF9mZkZhQmNmX0tCM2J1NjVyOUVlallCc0lYSmo4NU1wX0FaaDRHZGltMWN3SkJ6N2ZHMktoTjBhSlBvcWFVcjZxT3VzY08xbzVJb3V6aVhQUDJzNXBi?oc=5",
+      "fecha": "2026-10-15T10:59+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -500,61 +555,6 @@
       "idioma": "es",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "52ccbb115e6b",
-      "titulo": "Indian shares muted as oil prices, foreign outflows offset IT rebound",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDFseEc5cVpDQ2FOSndESDFUc3N6VnVMY0c0bS14N2taUmU3cU9CY09HeEVvX014STdGY1pwY05aWXVTemoycUFEbzFLeFdVa2JIZ1Nwc1BUZGxkSXEyeXJvVW5VdFBtM0E3MXVpWll5R3pKU3FMajQzODBYZjhuM1V5cDdOQmlwRmxwWUhkZ2R5a0RKM2YtaU91UkVMYUJsYVJmQVBOU1lra2R6YkZ0bXdn?oc=5",
-      "fecha": "2026-10-14T02:25+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8458b76f1cbb",
-      "titulo": "Oil prices rise as Iran deploys new tactics to target tankers",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
-      "fecha": "2026-10-14T01:27+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "79dd1d723733",
-      "titulo": "¿El etanol acumula agua, daña el motor o exige mantener el tanque lleno? Cinco dudas sobre la gasolina E10",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/comunitario/el-etanol-acumula-agua-dana-el-motor-o-exige-mantener-el-tanque-lleno-cinco-dudas-sobre-la-gasolina-e10/",
-      "fecha": "2026-10-14T00:21+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1f3315bc1d31",
-      "titulo": "Wall Street Sees Inflation Easing Even With Oil Above $90",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
-      "fecha": "2026-10-14T00:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a019f3a090cb",
-      "titulo": "¿Puede Guatemala reemplazar los buses diésel por eléctricos?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/puede-guatemala-reemplazar-los-buses-diesel-por-electricos/",
-      "fecha": "2026-10-14T00:00+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
