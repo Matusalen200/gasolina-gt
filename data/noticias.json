@@ -1,17 +1,50 @@
 {
-  "actualizado": "2026-10-15T16:29+00:00",
+  "actualizado": "2026-10-15T17:28+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
+    "ALZA": 15,
     "BAJA": 7,
-    "NEUTRAL": 27
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "f6d54f06330b",
+      "titulo": "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Recovery-Gains-Momentum-as-New-Drilling-Rigs-Arrive.html",
+      "fecha": "2026-10-15T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7a4c57c0fe1c",
+      "titulo": "How Aramco learned to keep pumping oil under fire",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEo4RHMzbGVMLUpQcnFqT28tSlU2Q0FBUlZtc2MzaUZSLXpsd3o3X1VGQXplLWJUaUJuQ1BCbFdVbzZwZUk0OURuZ0dmcWVkaWNaclNBcHBlRGR1bWViNWROR21UV2pSRTdqNDZfUVFDdHR2TG9lUDd5eDlNRzVtWHRVNFI5d3I4MUtQdG04SVA1OURzQzI5WXk3N3ItUEE?oc=5",
+      "fecha": "2026-10-15T16:57+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "91b5bc7961d3",
       "titulo": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Down-Nearly-9-Million-Barrels.html",
+      "fecha": "2026-10-15T16:09+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "78d29b60742c",
+      "titulo": "IEA to speed up oil stocks release including over 20 million barrels of diesel",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5",
       "fecha": "2026-10-15T16:09+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ea2a4f7633be",
-      "titulo": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-106-as-Iran-Threatens-More-Tanker-Attacks.html",
-      "fecha": "2026-10-14T05:31+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a586d67672ff",
-      "titulo": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXAwYWFZMS12UWs5MXF5SVpmYk9hR1Bka01FNFNTdVE3bUFYbi1qdXZjbVNDaDVfMWQ0ZGhZNERJYUhYVHFLR0ZiYl9Eby1sUG84VTNqVmViTXJmaWVBbEVQeVZHZzRfVGxNd0xBOWJ6c3RzVW1FY3NpUEtLaHdBTzNDWmhUS3Utb3B4ajFjVUxUcGFHdmotT0NwMU5kS2lmSVNYTGd5a0NWdw?oc=5",
-      "fecha": "2026-10-14T04:29+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "26d1663ce004",
-      "titulo": "High gasoline prices expected to boost US consumer inflation in September",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
-      "fecha": "2026-10-14T04:01+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
