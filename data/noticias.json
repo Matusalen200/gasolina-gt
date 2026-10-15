@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T19:29+00:00",
+  "actualizado": "2026-10-15T20:24+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
@@ -7,6 +7,17 @@
     "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "d7229279f9ab",
+      "titulo": "Ukraine Strikes Major Russian Oil Refinery",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Major-Russian-Oil-Refinery.html",
+      "fecha": "2026-10-15T19:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "2edaaffd0fe5",
       "titulo": "IEA Speeds Emergency Oil Release",
@@ -541,17 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSURXUFJMVjlqbThsWm5sbEtVQXpJVzc5VnpZWVN1OGR4Nm04UkU3V0c5azZLQ2N3X2ZkeE1PYWFHalRJY1JoamRrZjdVdHF5OVRnVEMyMzk0cENCWVF3WUktbmxraEdJMDdIMmlWMTNzUU83UlpNZ1FBUm1GRmtidEl3SmxVaEVYUWJDRXk0eWlOM0VvQVVpemdSWE4wVTZPZDQ1aw?oc=5",
       "fecha": "2026-10-14T10:14+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2d9509dd9ccd",
-      "titulo": "Liberia offers 29 offshore blocks in 2026 oil and gas licensing round",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWNyZnJMSENoeXJuTXgwLTFWd2NFQmJtSFFfZk9kbmdRYVg5ZzY3RTU3TklMejhLV0k0R1hxRkZrY2tacWZtcEJpQk5jaEhmQ3lXZVhZaEFfVWloWjZ6Q2tBZ1pMbl9Db1pGeHEwNUJGYkZnOGwyMzZGWVNRZWZrQmRxR3p4eTZmNGJYdHRpbjIzbXlYazVlRTA1NW9XQl9EeGpKVUpMc09sbEtreTBTMTJhWk0?oc=5",
-      "fecha": "2026-10-14T09:08+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",

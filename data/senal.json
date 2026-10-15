@@ -1,27 +1,27 @@
 {
-  "puntaje": -10,
+  "puntaje": -6,
   "tendencia": "estable",
   "veredicto": "Sin apuro",
   "emoji": "🟡",
-  "cambio_estimado_q": -0.6,
+  "cambio_estimado_q": -0.5,
   "cambio_estimado_texto": "El martes casi no cambia.",
   "componentes": {
-    "gasolina_eeuu": -29.4,
+    "gasolina_eeuu": -25.5,
     "dolar": -0.2,
     "noticias": 20
   },
   "detalle": {
-    "rbob_cambio_7d_pct": -2.94,
+    "rbob_cambio_7d_pct": -2.55,
     "usdgtq_cambio_7d_pct": -0.01,
     "noticias_alza_7d": 14,
     "noticias_baja_7d": 7,
-    "rbob_precio": 3.0739,
+    "rbob_precio": 3.0678,
     "usdgtq": 7.641,
     "tipo_cambio_usado": 7.663
   },
   "razon": "Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.",
   "redactado_por": "plantilla",
-  "actualizado": "2026-10-15T13:29-06:00",
+  "actualizado": "2026-10-15T14:24-06:00",
   "proximo_martes": "2026-10-20",
   "fecha": "2026-10-15"
 }
