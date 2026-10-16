@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-16T18:27+00:00",
+  "actualizado": "2026-10-16T19:27+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
+    "ALZA": 10,
     "BAJA": 9,
-    "NEUTRAL": 30
+    "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "a886efb7a170",
+      "titulo": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
+      "fecha": "2026-10-16T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "996cb12f1975",
+      "titulo": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
+      "fecha": "2026-10-16T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4d8b5a22566c",
+      "titulo": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+      "fecha": "2026-10-16T18:20+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "64a00b03461d",
       "titulo": "U.S. Oil Drillers Back Off Even As Prices Soar",
@@ -514,45 +547,12 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "d7daa11f44cf",
-      "titulo": "Drone attack causes fire at Russia's Ryazan refinery, regional governor says",
+      "id": "7d4254eda6d7",
+      "titulo": "COMMENTARY: Oil's long view darkens as Iran war refuses to end",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0pBZjduSzRvUXQtRkNsY2RuSldmSVlKSThDLVhvbFYwOHlFclo3Ymt1VFptaERXV3h6Xy1ROHVMWWthTDluc1JzQTFHYk40MlNqSjBfSHBYSnVLbWhUWXAxbjJUTHdFZEhxdkRZdnhjbjBld2tSMXN2WDY4YVdxWmZVVkpuZF9IWERVQktOS0JkVkJDQl9XU1RNSDZ3WW0yZEJpNlQySXJtUG1NTGR1WGpQMA?oc=5",
-      "fecha": "2026-10-15T07:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2VycDJiM2tHUVV0LUZHMjgtcmdqOHQ2QWZkakF6eGlnY2ZmaHduOE80Ul95NjVTTVFtVFR5d3l4Q09QdU15YWI5MzVxYzdnUWlKRXgtR0lGakUyV243MlJPamhMRFIxTF85SWRJclNQLTlJTW9KUHR6OFdFMUpxaURpYkdISHJPRk5ZMDNIZ2h5Zm9rVVVzQTk0Uk56VXdYY1d5ZGduNDJUcVA0MjNBaDNB?oc=5",
+      "fecha": "2026-10-15T07:56+00:00",
       "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5e2da652bf0f",
-      "titulo": "Lithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Lithium-Prices-Plunge-as-EU-China-Trade-Deal-Sparks-Demand-Fears.html",
-      "fecha": "2026-10-15T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a796bc8d5c2c",
-      "titulo": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5",
-      "fecha": "2026-10-15T06:03+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a581c8984bdd",
-      "titulo": "El IVA-crédito y la exención a combustibles",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/opinion/columnasdiarias/el-iva-credito-y-la-exencion-a-combustibles/",
-      "fecha": "2026-10-15T06:01+00:00",
-      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
