@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T17:24+00:00",
+  "actualizado": "2026-10-16T18:27+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 11,
@@ -7,6 +7,17 @@
     "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "64a00b03461d",
+      "titulo": "U.S. Oil Drillers Back Off Even As Prices Soar",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html",
+      "fecha": "2026-10-16T17:29+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "6d460a492961",
       "titulo": "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
@@ -542,17 +553,6 @@
       "url": "https://www.prensalibre.com/opinion/columnasdiarias/el-iva-credito-y-la-exencion-a-combustibles/",
       "fecha": "2026-10-15T06:01+00:00",
       "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7d4254eda6d7",
-      "titulo": "COMMENTARY: Oil's long view darkens as Iran war refuses to end",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2VycDJiM2tHUVV0LUZHMjgtcmdqOHQ2QWZkakF6eGlnY2ZmaHduOE80Ul95NjVTTVFtVFR5d3l4Q09QdU15YWI5MzVxYzdnUWlKRXgtR0lGakUyV243MlJPamhMRFIxTF85SWRJclNQLTlJTW9KUHR6OFdFMUpxaURpYkdISHJPRk5ZMDNIZ2h5Zm9rVVVzQTk0Uk56VXdYY1d5ZGduNDJUcVA0MjNBaDNB?oc=5",
-      "fecha": "2026-10-15T06:00+00:00",
-      "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
