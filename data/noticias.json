@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-10-16T15:26+00:00",
+  "actualizado": "2026-10-16T16:28+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 12,
-    "BAJA": 7,
-    "NEUTRAL": 31
+    "BAJA": 8,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "6c97cc21c8b0",
+      "titulo": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
+      "fecha": "2026-10-16T16:13+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "a0e51bd62a2b",
+      "titulo": "US solicits exchange of up to 17 million barrels of oil from strategic reserve",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM?oc=5",
+      "fecha": "2026-10-16T16:02+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "a35a4ce99036",
       "titulo": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
@@ -27,6 +49,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3155dea1b478",
+      "titulo": "¿Por qué los combustibles no bajarán de precio en el corto plazo en Guatemala?",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlZKbHlEYkdyTnR1N21iWVdWejZ0V0V4UDFDZGJiSHU4cF9xVzFnVDFTdm9GcWxyUWx6SHVCY0tCQms1VHNPdU9aTWliSUdyTXpkclZYSnpXNUlXcU16SzBTMWM3N2xFSjlZU19PbTF2bWY1NkpidTRQeHBDeF9EcDV4OVJsdkFa?oc=5",
+      "fecha": "2026-10-16T13:24+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -60,6 +93,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ac1f1804c7a4",
+      "titulo": "Russia talks up refinery attack as Trump blames Ukraine for expensive fuel",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5",
+      "fecha": "2026-10-16T10:29+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -509,50 +553,6 @@
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html",
       "fecha": "2026-10-15T05:19+00:00",
       "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "77bb263d1926",
-      "titulo": "Bessent calls for World Bank reforms, including upstream oil and gas financing",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmVBc2lZeXZJNlZpZ3VMVkdXTENJanEzampXOWtLcmRpVkFoOFFKTktkTWI2akVZTG9wV1UyY1ZreW02TzBDTG5LWUxiOUl4bnl0TW5JRG52X21aT3A1TkdyRV9ObEVBZWl3TmxKODB5aUVQLXFCa0NBY1VCQ2pZUEtDZUpiaDYxUjhoanZPQ0FCam8xcmJuVS13b3lQLXBPb2dSb044ZTlvYnF6X293STlMOXJBa21k?oc=5",
-      "fecha": "2026-10-15T05:01+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ff822c1d4ef9",
-      "titulo": "Rupee extends winning streak as dollar, oil ease and stocks rally",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGR1OENJajFoN1pyejk2WXpNSHBSRTFpMzl1WXFiT2NIWGloV1lPc1BkY0VCRGM0VjVrSHMzYnBNVE93WjBWSXVCcTcxVkVDRkEwMC1mUWJYeXIyUlNoMUJBV0JVWEFOaUMwV2tpOHkyVFFESTdVeDFTbnFiVTZLRHVLNVhrelFOTTdhRG5WRVJwb0RjTWF1aU9iWmRRSThRX1NzeUZQMzl5aGV1MXJjYVZrX05mb3dsRE04OGJkRUQ?oc=5",
-      "fecha": "2026-10-15T02:58+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5f1465b64df4",
-      "titulo": "Oil prices slide as US weighs easing sanctions on 'shadow fleet'",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5",
-      "fecha": "2026-10-15T01:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "eaebf04d16b0",
-      "titulo": "Precios de combustibles en Guatemala suben entre el 12 y 15 de octubre: ¿qué se prevé para los próximos días?",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/precios-de-combustibles-en-guatemala-suben-entre-el-12-y-15-de-octubre-que-se-preve-para-los-proximos-dias/",
-      "fecha": "2026-10-15T01:13+00:00",
-      "idioma": "es",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
