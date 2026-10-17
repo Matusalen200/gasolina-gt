@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-10-16T21:24+00:00",
+  "actualizado": "2026-10-17T13:32+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
-    "BAJA": 9,
+    "ALZA": 12,
+    "BAJA": 8,
     "NEUTRAL": 30
   },
   "noticias": [
@@ -126,6 +126,17 @@
       "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "94a8e74d5b97",
+      "titulo": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0JUeTlGZHJqb29Dcnp1dEhpLXFEN0EwdG1IX0pzb29pampFTEhISTdSODVqdDd4a2dSRllSSy12YzBHSXR1bmZCVmJyRXFmTl9IN2tDVTkwbWFXa09hTUFhaER0U2hZMkh3YTZwaXlMZzkyUUNMUWtRUW96clBaR3JpNnVFanlyUjFqek1FWTV3TGtqbHRHWDR1RDZZZnBiRFlzdElpcEw3czFJaVkyT3pMLURLQm1FQzhxY0lJdHBUbUYwd25Ralk4R21xb1VQdUdqempCX2lpRUNwbHc?oc=5",
+      "fecha": "2026-10-16T12:41+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -536,25 +547,14 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "ba76d3fa876b",
-      "titulo": "Angola aims for faster oil and gas concessions as part of new regulatory revamp",
+      "id": "ff822c1d4ef9",
+      "titulo": "Rupee extends winning streak as dollar, oil ease and stocks rally",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTNKS1hUb1FnUkZGS3h4MjF5UlR3ZzBTMUFTYk1aUUZmdDFQSVotZ3dyeUFBVzdUQVRjSTlJbjA1ZmRNVkp2NWRxRV9xemRfUi01YzdLMWFhd0tES3BTYmgtejF1WHd6WUY1T2tFd1RFUEpFY0hYRTB3R3N1cF9WWDhqWkFnSWp3NXJpbHp6X1lpNkdFVVExZjAtZk1ZUjBnekJwaEZ1eThSZWhvQlRSWlJzRTJEOXVv?oc=5",
-      "fecha": "2026-10-15T09:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGR1OENJajFoN1pyejk2WXpNSHBSRTFpMzl1WXFiT2NIWGloV1lPc1BkY0VCRGM0VjVrSHMzYnBNVE93WjBWSXVCcTcxVkVDRkEwMC1mUWJYeXIyUlNoMUJBV0JVWEFOaUMwV2tpOHkyVFFESTdVeDFTbnFiVTZLRHVLNVhrelFOTTdhRG5WRVJwb0RjTWF1aU9iWmRRSThRX1NzeUZQMzl5aGV1MXJjYVZrX05mb3dsRE04OGJkRUQ?oc=5",
+      "fecha": "2026-10-15T10:28+00:00",
       "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "36edf3f92bed",
-      "titulo": "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-to-Resume-Russian-Oil-Refinery-Strikes-After-Failed-Energy-Ceasefire.html",
-      "fecha": "2026-10-15T09:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
