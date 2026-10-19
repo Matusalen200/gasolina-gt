@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T07:44-06:00",
-  "revisados": 11,
+  "actualizado": "2026-10-19T13:44-06:00",
+  "revisados": 8,
   "nuevos": 1,
   "ultimo": {
     "superior": {
@@ -96,6 +96,12 @@
       "superior": 45.27,
       "diesel": 49.37,
       "regular": 43.27
+    },
+    {
+      "fecha": "2026-09-30",
+      "superior": 34.59,
+      "regular": 32.9,
+      "diesel": 40.66
     },
     {
       "fecha": "2026-10-01",
@@ -209,6 +215,19 @@
       "extraido_por": "reglas"
     },
     {
+      "t": "2026-09-30T18:00+00:00",
+      "fecha_dato": "2026-09-30",
+      "tipo": "estacion",
+      "superior": 34.59,
+      "regular": 32.9,
+      "diesel": 40.66,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/09/30/publican-ley-que-establece-exencion-temporal-de-impuestos-a-los-combustibles/",
+      "titulo": "¿Cuándo se verán reflejados los nuevos precios de los combustibles y cómo quedarán?",
+      "extraido_por": "reglas",
+      "salto": false
+    },
+    {
       "t": "2026-10-01T12:29+00:00",
       "fecha_dato": "2026-10-01",
       "tipo": "promedio",
@@ -313,13 +332,6 @@
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRVozazZ3RHdYaWhVZjhKQ1JLV0VyMjJBMEhhRElkc1dDNU9WMWdlMlZHWVpEdkctZlBPUTVvYzhydXpEYTN4ME4tUkEyTjJZeFFZREtaMVdmNVpTeHlTdkNKZzM4QkNFeVRqV21NTWs4c0swTmdSbTl4aFNXZDJuVU5lcW55SzlNdDNTRTk3cmtlZnFFdEVJUElyTDFTZFZ3TFZSWG1GVERPald0bm5WNGRYLUFZWXR3Nl8yVktjSjhEaDhwVkVUaV93NHVmWkhhM1BzZlZfOWttM3N6bjZfTFBxMTRGT2E4ZGRrUDE4ckRXaEZPVkpF0gH3AUFVX3lxTE1FWjNrNndEd1hpaFVmOEpDUktXRXIyMkEwSGFESWRzV0M1T1YxZ2UyVkdZWkR2Ry1mUE9RNW9jOHJ1ekRhM3gwTi1SQTJOMll4UVlES1oxV2Y1WlN4eVN2Q0pnMzhCQ0V5VGpXbU1NazhzSzBOZ1JtOXhoU1dkMm5VTmVxbnlLOU10M1NFOTdya2VmcUV0RUlQSXJMMVNkVndMVlJYbUZURE9qV3RublY0ZFgtQVlZdHc2XzJWS2NKOERoOHBWRVRpX3c0dWZaSGEzUHNmVl85a20zc3puNl9MUHExNEZPYThkZGtQMThyRFdoRk9WSkU?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGk4RndrRkhSRHR6NEM4SHpoVmYtNVZIXy1NWEhXanVud2g2cVhuam9uRFdGNXNXZ1pWSzk0OUxxcG5SejdGU3BHMmFGcnlmNzloUmVuNFE3Q1hMZkcwd3dlYy1zZC1KR2xSdHBMVWVoRm96bGFmd3R5S1JBcXJQVjNLREVoMk5hTnhDMk9qR0ltUDdaWXJZbjFyNWlyTlgtanhMVUtyMTY4RExGczFja3dqbjVLMy1FX1p0NEJVZ0JYakdZQVFvTmVCckNaM0RiLUdDYl85N2ZDTjBtd1kw?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tVGRCUHdKWXF2dGQ2NUVuMlN1Y2JyZmJybWNBdng0VzZvdjNkZHdMUl8xYW1NNWZxWlpyc1FkQ2hBQm4xeDVsVmJDVnRLSUhuTXlINGxqZmo?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjI3NlBYd01nVmRyNTNmeG01Tk11dTlvcG1NY2ZDZG9kUFdkUElfcUt1c1M4WGxtSlpPMEhSZ0phTEszRDhHSUFoMXFjU2lOTXlscWx2MzVrTWJ2VnhnRFlxbWVlR1FUam9zbVc0QWpzUG1aWnZVOUdNQVRGcWxXTjVCU3JaN0ZMSVNyLW5ic09VdzZQSENHSFFXdnh2QW9nQmNqakZjeVZyLTdmZ18yMGR0anR2N1VFelduZml3c19fRUtCdElELXE1anUtemlTQXF5X3Vn?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXBaSE40NHpMS2xPNDI2bGd0MWxMZjhuQ1gzWjJXakVJMGhtMHlWQkYtdDhQQ3BvcDcweGdxNlhqYmVNbFdBS2wyQklIRW1RSzlOTWlMdmt4eW4wVHhON0pLNTBKWEhRQmU4Z0cyMWp4eExIOWZMSTJJbEZPblcxQl96LWo5WUtabFFmck9EZUhWRXFTamI3Ul9wdXV2V3lKS3VOTlpocUNsa1RyMVZ1YXNn?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaEpNa0tubEFvZlBkd1lhQUhyZHBwZUdrM19oOXMxTHl2ZXU0QzdwU05zbWpsMGdHMUlIaXdyTFRFTWJnRnFzQ1JibXFyc0dOMnBoQ2FkaWN3Z1dTcW9jSGM0bTBPMVZnRDg5OFFwVlRfRXhrNmtQcm5FQXhDNkExeGpTVl9oNDhQMW91T3BIUVcyQkhaZlpkOFdia1Z2ZWJETmpMT2VKeENJVGxCZmc?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2F1REJtMnRyV3U2dWlUeFpJYWk2YUp0Wng5dVd2T0ZlS3FYQnRCNzRBNmdkbDJ6aEVRcUY3bDdic181azdad3NmbEFLSzF3ZnFDNHlybnFHYlpNbi1MdWVIam9iMjV4cUNuTDA4SEZjRnhvN1RFWmpiNE1LakF0Tl9JbzYtYmNDZmRIZU4wNXFkdlk2RnFmMzlZbEwyM1p5Qm81dWR4Nm1XNC0x?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3l4U3dtRFpWcUdqekd4NkNPN3hzWDNYNnNDeTZNcHcyUmJ0NlUwbEo3am5qY0tHbm5MUVpTZkhNNWc1Qnl0SGxXbTFoMVZHNEhSSnJza2d0b3I4ZllqNHBOSGpoQW9qQTBNblFxLTAtYi1vN1Z5SkVVbDlVbE10ek14OU5CelFibjhQdHBNc1FNNm1pT1JFRU9SbmlxQWo3NGdFaHVtTXZ4emhXTXhEanA2bE45Z3dLbjVsSENHYlZRMXV0ZnJDR0dtcnpuX0pPeERDUGtoTXBVaHdFWlhz?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVNUczl2MGJKSFhPNnYzS2htZnFrb0RaSlZyZGRCUkRLREhURnhIbXFxbF9SZXdzTGZVSlVGSjZucXh0a0tkR0pnWjgzd0NJTGN2WF9OUXBxU3BRWGRIa21vNTNVM3BSRE40Tkt4LWtrcGNWQ3BRNGZyVWVUd09iUU5IYmtxU1JnZVFZbkpRcjZOWTVrc2F6TnpnUkNXUk1aQzFYRXlHdHhQUUN2T3M5N2EyWlZSZEJFUlRBMmVWN2VULW1OXzFxSG1n0gHKAUFVX3lxTE5tU1RzOXYwYkpIWE82djNLaG1mcWtvRFpKVnJkZEJSREtESFRGeEhtcXFsX1Jld3NMZlVKVUZKNm5xeHRrS2RHSmdaODN3Q0lMY3ZYX05RcHFTcFFYZEhrbW81M1UzcFJETjROS3gta2twY1ZDcFE0ZnJVZVR3T2JRTkhia3FTUmdlUVluSlFyNk5ZNWtzYXpOemdSQ1dSTVpDMVhFeUd0eFBRQ3ZPczk3YTJaVlJkQkVSVEEyZVY3ZVQtbU5fMXFIbWc?oc=5",
     "https://tvaztecaguate.com/nacionales/2026/09/23/congreso-conocera-objeciones-al-decreto-21-2026-sobre-combustibles/",
@@ -612,6 +624,13 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHdLM3lzdW9LV3hXYVJnUGNDMUFobjlmRUs1OTVBVE9GSU1RLVZjdG1HRTJQdmZZeU9LX3ZHZUdFSWhTSllYajVhWUhsUjVsZlBqU1BoYVRsanpyU3dLLTNab09rOE1VWC1hSF81Qlo4d3AyN0M3U0U4NWVSTzlIUmU1N2k1YXpPR1BZdkd5OFEwa2w0UjJDdWM2Tk85alE4MUwwaXNOU1RVNXZHUExZWNIBywFBVV95cUxOdnVEOUNnTVE1S3pPS3ltbm9YbTg0cGtfNGJMZDNqUlFSUm90djUyYTR0dS1GQlVHME5tckxiemE3YktVSU44TWpKcVptOHBwcHl2S2xsc25vLTFHaERCaWlpcm5fZmVQZUQwNGczMU9Gd3Q0Ni11R0x4WjltOHBIUlgwWGx1YVlhb3duTjNiR0o2MnZ4Tmd0cDVGX3pIRGJ0aG5tcWhCY0NhUkw1STJoVFQ1OHltaGx4ejkyZUViWmp6d1puTTZqbWtkQQ?oc=5",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkZaS29sUEZnRXp0TzRLcDNpQVVpX0ZUU3QxRHJFeWxHWUdYRDNZVXVRRFc0SHBGWVN5NUM5eFg1NU9jUVo5NmZCUHd6SDRqbnZPOFpTY1h4X3hIN1VVUDctN3Z2ZjRKNjhTeElTdHBMaDFiWnpZNzlpZi1tVkNOOXVXNUhHTnV2V0EwMFFPTndQM2ZDMjZReXp5X3dGY0NXclhLNXRlMmtWVTl6RHJ0TWw3N0p4cUhraTRNNWItZUxrM0hwT25CT2tYQ3oxX3ZVTGdtaVozMEV3UmfSAfYBQVVfeXFMTnhSTXNteDhBbHpQSEVyeXlwZVl4V0dBenNjYzFUVlVQcDhQR0hSbFg0dU43ODZiNDRBVXpEbmNzR0tGZWtDeWRkWGtOUko1ZTBQU2swU1FadUhCMXF1LWdQdG92NXpwcC1PT3hDdEMyejZfZ0VySWxOUjhoQ0hFX3FYMEtwRHVTNU1fM005SjdYQnZpZmNUM09nYWZoWU96V3dlcGx4UVYxMlJjWnpXdUI5bm44Skl1M0Q5aXVOa01iV0NQV2M5UjBnbWtlNkVPSVlBOVJibG9qcjk4QzltWklpMkdkUjllZngyLS1kZW9maEZXZVln?oc=5",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPclRNVnd2OG4zMkxsRVJwaTBDSUxpT1VwSExGM3RCclVNbFdFUTFvTXlCNDA5UmQwMXVNSHF5X0V4TERGOXg0QXBUcE1HeU00aVplcDF2c1dQaVlxYnk1d3ZBWDZnNWt2MXVndWcyeDF1NDhKX0x0cEYyVF9YdzNuZHY1SmFHQ2hySTY3TmtabWpieXc4aGdtVkRNUEU2UHJCeXh4NXVyeHg3ZlBOV1ROd1I2UkVZSDctczFHVWpCbHRRRHBUeS00NW5QTHc5aXVaU1VqQThQSVNpSEl3Znk3LXFQONIB9wFBVV95cUxQSlFRZHdTVEJPNGR5Q1RUa0F4ODk1dklERzBiX3h5R0RQcXFxcFpqMmlITXNMX01zalBqd0JOUTFwLUkyTmNDeTlPZWJvVmZZcmZuSmZQNmdWLUNmbmkwaVFZa3g3SnhZZnYzSlFiY0RnNWRaMGsteXQ1WDJWdUpzS0VUMVV5V0gwUkZTazh4NTVhN1hGc2FVM3VMYnlVM2N2LXhhNFRpME9kNHdCRnNxYzhkTjdYNkxNaTJqbVU4dHd3alJmY3FLbGZhYURYbERBQS1DUFBCODlfa3A4Z0JYQ1BDS2RhYnNLSlhLTmV6czBkdzlJbWxF?oc=5",
-    "https://lahora.gt/nacionales/diego/2026/10/19/conred-descarta-el-teletrabajo-que-evaluo-para-reducir-el-consumo-de-combustible-de-algunos-trabajadores-now/"
+    "https://lahora.gt/nacionales/diego/2026/10/19/conred-descarta-el-teletrabajo-que-evaluo-para-reducir-el-consumo-de-combustible-de-algunos-trabajadores-now/",
+    "https://lahora.gt/lh-economia/theconversation/2026/10/19/como-se-fija-el-precio-de-transportar-un-barril-de-petroleo-por-mar-now/",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3VuOXAxSjIyNC1XNVFyMzkzWHhQQVZCX1duYlBzem1NTW5faVhfWVlmdjJsbkIwZElKSGVSN2tueHBGazRSZlhVSHprOTYxT3Q0eVczMloyd2NVT3EySjg4OS1VVmc1TWFUb1ZmUFc1di1QMmhpcWQ5SVRWdER2QUJ0Y2szVXV0eVZ6Ti02UUsxaFptNFd4T1hydzF2UEpxWUVXcmpKYW0wdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbU1RNThnNE9CYl9uY3JfNTRJaE1Sb2ZvR2RneVBqaDNPdlppVGZTbDBpeFR4RVkwX2ZrUVhNMER2OE5PTzZXVE8wclNJMlhBTjc5ME1PeWY1VC1DVE5Ddks0bHdYV19uaWZLM2R4cWVYdnNUQVJCNnd3bkJDMVhuWENObjk3NWVUMDBuaE9xV0Z3Y1pweHNEVzMwOU1vTGVyZDA2NHoxZ2xZTk9sMDktOXNUSmctZWlQVWhQOWlIdFVxSHBpWXdJbDdUbkRNSDZYc2tRbC1DdUdnTjlQc1RicjZfbUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xSFhxdC05dUZ0LWZ1MThjSS1NbTQ1OXJ1bmVZcDEzcWNvZW1yN1NTUkZVRXRqTzBIYVA4YThPc3MyUUMyZFRnc3ZGV1pPQmdJSXRwa1JtUG9oRzR6VVFocXQtZy1qTHNlUzZFNXRmZUItVVZzMHgyU3ZoNA?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak1LME8zU3hpQ3ZCWGFFWHZQU3lOOXh1Q2J5MXRBcGdkX3FWNXF1RnFFSFRFMUs1dFFXbUVzYVJRQXNndTZscFc3V0t6NnFkQ3BCYUhUQWwtdG1LelYwQ3NXcEJYVGk5WmdYWnVrZUVVbExyakdaazBpZkFQaHpfdWVQUU5XOERlUFpiajROd2ZrdHpZbThKSFJYMA?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbUJnSjNrUkN3X0s2LTgwWlpzb2dIS0xGQjNlOFdGbWMtcEU3UXg0S2ZaMjRhYlFxOTlLOXdET0N2QVVkdTVlRUc3UVBpdnE0TEc1clNPZDlkVWNqeDc3bEpBaFpQMWktTjEwMEIzX1RJNjN1VW9MMkJXYjlYU0pEQ0JVMG5CUTRwc1QwNmx2Z2x3WUdHRk9vdWdXSlpSaGtrUUJqRVlaVlNDemZ2WFp6WkFjdGdsampFTk5QZU9xa1VrT3RYQzJYUWJxVWpNNHpIT2dHakU0d2JMSk1YcmFaS0k3c3VBNlnSAYICQVVfeXFMTlY2dXl2Q19LX21PQjhMck1GTU9BeEI2MEstOGktTzkxSThDWWh2V3ZLbFZxODJrdVVCWGw3SlRLOU1WZjNsdFlZck5yeVNJTDJWNTl6Ry01ZzNrTjl3Q1daWVNZQXZHU2Y3SldjaGFOdlE5Q094enBjNzZCYjZ4TVhFelQ4ck9ZczRJVVRPdFNmX0tRSEQzWDZhV0NMZENzUVdlRFdTTmJoQTZpMVBkeWxVX3FrTmxPdnFzSFJhLXJVSVRaTjNVaE15NkhPUEZkOWVQWWRhcEVVeWl0WGNTQnFWQUxSSTZfTG5tRnJwVXNaRmFkdEREUzZIVHNyYmE1OGtB?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTU2eEppd290RGcyMnJ3LXhQY0VCMmlxSnd0UVVCT1l6ZVhrZE9YSjc3VWlhUHBTUUtpOGstbzZ5ZUk1Z1MtdnpLdm5OS2docVZqVEhFZFJDOEk4NlFySERSWXpjVGtDT280bUFKTEE5aVp4T2RXR3FqTEZtZ05Yek5JWU9wcG5PSzdvWkhYN0ZSQWxXVldxNzVwOGtVbVZQ?oc=5"
   ]
 }
