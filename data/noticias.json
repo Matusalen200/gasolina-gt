@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-19T19:45+00:00",
+  "actualizado": "2026-10-19T23:29+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
-    "BAJA": 6,
-    "NEUTRAL": 27
+    "BAJA": 7,
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "08da28559e08",
+      "titulo": "New Oil Fields Should Have to Build the Carbon Storage Market",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/New-Oil-Fields-Should-Have-to-Build-the-Carbon-Storage-Market.html",
+      "fecha": "2026-10-19T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "a8849a27056f",
       "titulo": "Why Canadian Oil Is Lagging Even As Global Crude Soars",
@@ -541,17 +552,6 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
       "fecha": "2026-10-15T23:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a796bc8d5c2c",
-      "titulo": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5",
-      "fecha": "2026-10-15T22:09+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
