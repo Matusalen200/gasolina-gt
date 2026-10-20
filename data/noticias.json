@@ -1,12 +1,78 @@
 {
-  "actualizado": "2026-10-20T17:52+00:00",
+  "actualizado": "2026-10-20T21:26+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 14,
-    "BAJA": 8,
-    "NEUTRAL": 28
+    "ALZA": 13,
+    "BAJA": 7,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "0488dd488b62",
+      "titulo": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html",
+      "fecha": "2026-10-20T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "a34277b20e57",
+      "titulo": "API: Crude, Product Inventories Continue to Draw",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/API-Crude-Products-Continu-eto-Draw.html",
+      "fecha": "2026-10-20T20:56+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ead2c46e585b",
+      "titulo": "Phillips 66 locks out union workers at New Jersey refinery after contract expires",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmJBbVhlMGVqVWZjckk3ZWpRWllwalNNVmVvYzE4WlZXZzJCcVhqcTY2VnNsTWRDZnZ5TllGY3BtR3UzQUp1M2lVU1U5dXFxcFJfRVdGMFJSS3FuVHFmeDZaTUpkWDF2MWhMcmFERUhnSzBwcWd6SGJNRHhrYnJjYjdvWk96Yl9idGdVMWI1Y09RWi1NU2ZIN0ZRNUpVb0R4bmlYQ2tZZzUybWFuVEtvWHlCT05GQlZBcHNNY1RKdV91MFVWTG9uS1lzZ2trdw?oc=5",
+      "fecha": "2026-10-20T20:48+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "213134f0fe54",
+      "titulo": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Middle-Easts-Next-Energy-Boom-Has-Nothing-to-Do-With-Oil.html",
+      "fecha": "2026-10-20T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d0e6bb9ff759",
+      "titulo": "US coaxing refiners to produce more diesel, energy department officials say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczBsMElXTmU3MHktOU91QkR4MWE3TkFnNjZ2OWNZakp6bFIzY1NGZk1nQWJ6T1h0VjExcUlBOUVHSW9KekVmVW54X25HNjBZM1oxOWUxN05pLXRZOENWOG53QnBqTEwwODlIWGVseU1PQjlHU1VzdERwclZGS0JxSi1PdFlmd2RjbE56c0E1RER2VzhYTExoY0gzaFdZUmdsb1REMHRCNTBERFYyT1NDNlZJWFg2enJvaV9rOEtoeDZqSXl6a2JRX3hR?oc=5",
+      "fecha": "2026-10-20T19:43+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "44ca7137dfec",
+      "titulo": "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Production-Plunges-126-as-Europe-Heads-into-Winter.html",
+      "fecha": "2026-10-20T18:31+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "f971f70f9484",
       "titulo": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
@@ -74,6 +140,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "3f9b802345a7",
+      "titulo": "Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzdwRFZCSlN2bEpHUURBc2xXaDU5djAzLV9JR1RWTk95VVdueUQ1TW9sWjdQWmhDR2tWNW9kdVJWYy1JdS05dHhNYUVkTTFvdzYzUUlHOGhhTVBvZmQ3c1RWZW40NTQ3ajM2RjZXRWczYkE1YW4zaW1FNHdCX3hiNEk0dWJwUTVLMndZbFlCLWhORVAzcXNaRHh4ZkEtOU9YVkFTSEQxSzJ6ZHBiQzJZNFF4WlJiT2xpdW1BMnZtREh6ZU5NczVrR3VPNA?oc=5",
+      "fecha": "2026-10-20T14:36+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "eba4911a8a26",
       "titulo": "Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers",
       "fuente": "OilPrice.com",
@@ -100,6 +177,17 @@
       "titulo": "IEA ready to go if further oil stocks release needed, chief says",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWJ0WUpzR0w2cnFpS2x1d0dWV1F1SFgwNlpXeEpzcVJhVlhNaGRPQlhtd1BJWVI2ZjhVM3ZFQ2lNdHZmaFVSRENORWdJaW9HNFZRRFFfX0N2NG04N0NfZW56STBCN1FFemdWT1dBVlRQM3pYeDB4WDBCQWhsbXRkNXFNcnFic1JTb0Q5Rjk0V0x4UzZ5dnZDemh3cTJ3eElBWmxiMjV4eHZ5S2RTZG1BWUhR?oc=5",
+      "fecha": "2026-10-20T11:39+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "47429ae24cf0",
+      "titulo": "IEA oil stocks release timing is up to individual members, chief says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjQwUGZrTC00LUMtdFBsaTRfQTJoUWp5MzdPTG04MllSbUZXSDN4RW1IQkkyYmNHT2pCM1BKdlVaQWJkbEQ1ck5rWWF2U2VWVlZzOEFIdkJRNjN6YkZxZ3djNVBRcVIzTWR5QXpPQzVMTkZJVFJwYlVRODFqTW11WXZBSmwwaXAyUGtQNEJ2LXh0N05seUVGSk5wbTZTNGpXT29xRTlBcFFuMy1mbm1WNkt1d25QX1hF?oc=5",
       "fecha": "2026-10-20T11:39+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
@@ -426,6 +514,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "a799431d3a0d",
+      "titulo": "Turkey will get some diesel from US-Russia supply deal, energy minister says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
+      "fecha": "2026-10-18T11:51+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "5e7c7b955328",
       "titulo": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
       "fuente": "Reuters (vía Google News)",
@@ -456,105 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3e3404cc4e6b",
-      "titulo": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
-      "fecha": "2026-10-17T17:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1c28ffc28ce5",
-      "titulo": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Bolivias-Energy-Crisis-Deepens-as-Natural-Gas-Reserves-Run-Dry.html",
-      "fecha": "2026-10-17T15:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c92c0334825e",
-      "titulo": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
-      "fecha": "2026-10-17T14:03+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a886efb7a170",
-      "titulo": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
-      "fecha": "2026-10-16T19:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5b0a6526f043",
-      "titulo": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
-      "fecha": "2026-10-16T18:35+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "996cb12f1975",
-      "titulo": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
-      "fecha": "2026-10-16T18:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4d8b5a22566c",
-      "titulo": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
-      "fecha": "2026-10-16T18:20+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "64a00b03461d",
-      "titulo": "U.S. Oil Drillers Back Off Even As Prices Soar",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html",
-      "fecha": "2026-10-16T17:29+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6d460a492961",
-      "titulo": "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Equatorial-Guinea-Rewrites-Oil-Law-After-Production-Collapses-85.html",
-      "fecha": "2026-10-16T16:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
