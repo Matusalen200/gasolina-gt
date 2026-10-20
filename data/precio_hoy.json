@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T17:29-06:00",
-  "revisados": 2,
+  "actualizado": "2026-10-20T05:34-06:00",
+  "revisados": 5,
   "nuevos": 0,
   "ultimo": {
     "superior": {
@@ -332,11 +332,6 @@
     }
   ],
   "sin_precio": [
-    "https://tvaztecaguate.com/nacionales/2026/09/23/congreso-conocera-objeciones-al-decreto-21-2026-sobre-combustibles/",
-    "https://www.prensalibre.com/economia/precio-de-los-combustibles-en-guatemala-estos-son-los-precios-de-galon-de-regular-y-super-en-autoservicio/",
-    "https://tvaztecaguate.com/nacionales/2026/09/22/exencion-de-impuestos-asi-quedarian-los-descuentos-en-los-precios-de-los-combustibles/",
-    "https://tvaztecaguate.com/nacionales/2026/09/17/falta-de-lluvias-reduce-disponibilidad-de-algunas-verduras-y-eleva-los-precios/",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV195Q1FfM3hkRHRhRl93dUZqRXo3RFA5YTBJR3VPczNFVjc5VVhJQzVLaW55bDNjdTY4QmhCNXlyNHhHTjBQWlJydkNEUGpqYm5QQUladl9RWVppNXRBQ3NZQ0RRMmFRaHFFckZnMkhDRWM2NHp1UUF1cXQ2aWp5YUVzejY2dHYwV2tqb3IyRktaMm1nTFhtYTVvSFZXdW9yTjU4?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWk5ZHFWWHN2bmtwNlZuVV9ENnVmZ2xWX0E1b242cFlSN3d1NFotbE01b0tSWlhjNW94WEdpazdtXy04dFMxVTUwV0JUY0xxV0U3dUZBc01fam9NZGc4WkFyX1Vfc2psWUVxOXNKZzRjQllXVGRfNDBZUXl1TFpwVjRaSXJnU211TlE5SE1yYmFuVmJWOGI1SjY3U2NxYzNDQVJFaDRjOHlLSmtlUTBCVg?oc=5",
     "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1QZkdVV0lxTVFsdm93eW82RUJrdEMzand6THRtaUEzbURVMkw2Zl9IRWwza0l0bFIwX2gw?oc=5",
     "https://www.prensalibre.com/economia/mem-y-sat-aseguran-estar-listos-para-aplicar-desde-el-1-de-octubre-la-rebaja-en-gasolinas-y-diesel/",
@@ -631,6 +626,11 @@
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbUJnSjNrUkN3X0s2LTgwWlpzb2dIS0xGQjNlOFdGbWMtcEU3UXg0S2ZaMjRhYlFxOTlLOXdET0N2QVVkdTVlRUc3UVBpdnE0TEc1clNPZDlkVWNqeDc3bEpBaFpQMWktTjEwMEIzX1RJNjN1VW9MMkJXYjlYU0pEQ0JVMG5CUTRwc1QwNmx2Z2x3WUdHRk9vdWdXSlpSaGtrUUJqRVlaVlNDemZ2WFp6WkFjdGdsampFTk5QZU9xa1VrT3RYQzJYUWJxVWpNNHpIT2dHakU0d2JMSk1YcmFaS0k3c3VBNlnSAYICQVVfeXFMTlY2dXl2Q19LX21PQjhMck1GTU9BeEI2MEstOGktTzkxSThDWWh2V3ZLbFZxODJrdVVCWGw3SlRLOU1WZjNsdFlZck5yeVNJTDJWNTl6Ry01ZzNrTjl3Q1daWVNZQXZHU2Y3SldjaGFOdlE5Q094enBjNzZCYjZ4TVhFelQ4ck9ZczRJVVRPdFNmX0tRSEQzWDZhV0NMZENzUVdlRFdTTmJoQTZpMVBkeWxVX3FrTmxPdnFzSFJhLXJVSVRaTjNVaE15NkhPUEZkOWVQWWRhcEVVeWl0WGNTQnFWQUxSSTZfTG5tRnJwVXNaRmFkdEREUzZIVHNyYmE1OGtB?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTU2eEppd290RGcyMnJ3LXhQY0VCMmlxSnd0UVVCT1l6ZVhrZE9YSjc3VWlhUHBTUUtpOGstbzZ5ZUk1Z1MtdnpLdm5OS2docVZqVEhFZFJDOEk4NlFySERSWXpjVGtDT280bUFKTEE5aVp4T2RXR3FqTEZtZ05Yek5JWU9wcG5PSzdvWkhYN0ZSQWxXVldxNzVwOGtVbVZQ?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWo2bEF1NlEtN01URlV6NkdGbUt5Nk1sN2xyVUJSSGc1dUFGLU1ESXBrNW15YkxiLThSLUNTOTJnYllVSUlzWVB3WmVSYzBNQ1dtM3Z6LVdLVWQ5OGl3QkJab1Y3V1k5eFZSb3ZnVmRRaldDMzFlRnRCaWl4WmhJTEg2aHVKZ1IyQ0Vnb2hoRGhmaW1rNENvRmcwQzd4eWFFb0hiUU90QktzeUpwWVJkLU9kcFJoM2NxbmxveUV2SjJlWDgxNzVIZmY1ZWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jU2diYktoUVFkUVI4LUNXa1g1Qk1uenY2NnVCMHZSbzk1TzFoeUN6djhxNlg1MnZTd3VWdXBaVFVTUzRXYjFmcU1EaEJRZmlpY2dwc3ZueEpPUG5Y0gFiQVVfeXFMUFRLRHJnNEdrWVkwRFBxTU9Na0Vnand1MHMzQlNGTUdqWDh5Y192cnNTbmZRUWlkY3BxTFNqWHcwS0Q2cFg0RUdkNTFYMDBkME9tT0tJS3Z0S2RHdU5Ebi16bHc?oc=5"
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jU2diYktoUVFkUVI4LUNXa1g1Qk1uenY2NnVCMHZSbzk1TzFoeUN6djhxNlg1MnZTd3VWdXBaVFVTUzRXYjFmcU1EaEJRZmlpY2dwc3ZueEpPUG5Y0gFiQVVfeXFMUFRLRHJnNEdrWVkwRFBxTU9Na0Vnand1MHMzQlNGTUdqWDh5Y192cnNTbmZRUWlkY3BxTFNqWHcwS0Q2cFg0RUdkNTFYMDBkME9tT0tJS3Z0S2RHdU5Ebi16bHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WVGtpNTBNUUwzS0R2bmRMWDM3c0RRdFB5ZklSYkhhT09lODR6SHFRTy1YY0o3aEFxOFZv?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE55Mnhldy1IYTJpVDVaZ1UtYzF1N2FEUUtGYl9jSXhvZkVzUHY1YllZMndNTFdMbDRmcnZZ?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnFWR015X2JOWlhmc3F2MnQyYVVpMl90bFJJZ2lLc1h4ZEUyYTFzRWZwYU5hR1RqUTNvSlk5RV9INUZybWtxakxKVHpxZk51c0k4bXBsdkVYN21IR01ab19aeFRzc1RpUDcwYVk5Wkg4cFUtbnZVM3dCT25rRDhwYlVjcWZXOU84a2JHb283MUJQTEI2VmlQaHUxcEpsMW8yblRSb2lYT0xfa2JMSFZ3clVKdi1wZERuTU1Sc1ZvS2tnYW1NUHhYbnhNMENYTHY5YXpiMkUxUHV5UdIB2gFBVV95cUxQVnFWR015X2JOWlhmc3F2MnQyYVVpMl90bFJJZ2lLc1h4ZEUyYTFzRWZwYU5hR1RqUTNvSlk5RV9INUZybWtxakxKVHpxZk51c0k4bXBsdkVYN21IR01ab19aeFRzc1RpUDcwYVk5Wkg4cFUtbnZVM3dCT25rRDhwYlVjcWZXOU84a2JHb283MUJQTEI2VmlQaHUxcEpsMW8yblRSb2lYT0xfa2JMSFZ3clVKdi1wZERuTU1Sc1ZvS2tnYW1NUHhYbnhNMENYTHY5YXpiMkUxUHV5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhXVXN6bjNIMVRJYm1sR25DdnRqZVdTOTNyaS0yZTNqRGJ0UlVaWjM1YXNPQzQ3MTZjcW52cVp0TzByREc5YV9QZlZCcWYwNmRsRWVaM1N2djE4cDQzSnJtZ3ZPazhRcmNaNGJRT0xRQTVnVjdkMXNYZzF5X0RKdWNvdUhDTEdwYkdvTDRtZnFNUXpqZ3lfTFF3?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcE81ckZxUmNBSHZ0UzMzaDB1bHZiNW13UzRLWmo3ak9HRmIwSDhYR3dZQ2U0dXZnU3VRYWhsUTFpLVBOOE12U1MxcE5EcTNWRUFTZmItNk9rMnVIZGdPSlc5X1B4VTN5ZEJ3V1c2Umc5N0p0VUNiMjJuTFJCZDg4NWtqQktHLWJGZXNhNlNUSUhEUjBRcjAw?oc=5"
   ]
 }
