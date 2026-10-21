@@ -1,75 +1,75 @@
 {
-  "actualizado": "2026-10-20T15:25-06:00",
-  "revisados": 2,
-  "nuevos": 0,
+  "actualizado": "2026-10-21T09:55-06:00",
+  "revisados": 7,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
-      "tipo": "otro",
-      "valor": 36.05,
-      "t": "2026-10-18T12:10+00:00",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/diesel-y-gasolinas-apuntan-a-una-rebaja-en-guatemala-estos-serian-los-precios-por-galon-para-el-domingo-18-de-octubre/",
+      "tipo": "promedio",
+      "valor": 35.19,
+      "t": "2026-10-21T12:20+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
       "n": 1,
       "fuentes": [
-        "Prensa Libre"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (Prensa Libre)",
-      "fecha": "2026-10-18"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-21"
     },
     "regular": {
-      "tipo": "otro",
-      "valor": 34.38,
-      "t": "2026-10-18T12:10+00:00",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/diesel-y-gasolinas-apuntan-a-una-rebaja-en-guatemala-estos-serian-los-precios-por-galon-para-el-domingo-18-de-octubre/",
+      "tipo": "promedio",
+      "valor": 32.99,
+      "t": "2026-10-21T12:20+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
       "n": 1,
       "fuentes": [
-        "Prensa Libre"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (Prensa Libre)",
-      "fecha": "2026-10-18"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-21"
     },
     "diesel": {
-      "tipo": "otro",
-      "valor": 42.67,
-      "t": "2026-10-18T12:10+00:00",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/diesel-y-gasolinas-apuntan-a-una-rebaja-en-guatemala-estos-serian-los-precios-por-galon-para-el-domingo-18-de-octubre/",
+      "tipo": "promedio",
+      "valor": 42.69,
+      "t": "2026-10-21T12:20+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
       "n": 1,
       "fuentes": [
-        "Prensa Libre"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (Prensa Libre)",
-      "fecha": "2026-10-18"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-21"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-10-14",
-      "q": -0.14,
-      "pct": -0.4
+      "vs_fecha": "2026-10-18",
+      "q": -0.86,
+      "pct": -2.4
     },
     "regular": {
-      "vs_fecha": "2026-10-14",
-      "q": -0.51,
-      "pct": -1.5
+      "vs_fecha": "2026-10-18",
+      "q": -1.39,
+      "pct": -4.0
     },
     "diesel": {
-      "vs_fecha": "2026-10-14",
-      "q": -0.02,
-      "pct": -0.0
+      "vs_fecha": "2026-10-18",
+      "q": 0.02,
+      "pct": 0.0
     }
   },
   "diario": [
@@ -138,6 +138,12 @@
       "superior": 36.05,
       "regular": 34.38,
       "diesel": 42.67
+    },
+    {
+      "fecha": "2026-10-21",
+      "superior": 35.19,
+      "regular": 32.99,
+      "diesel": 42.69
     }
   ],
   "tope": null,
@@ -329,15 +335,22 @@
       "titulo": "Diésel y gasolinas apuntan a una rebaja en Guatemala: estos serían los precios por galón para el domingo 18 de octubre",
       "extraido_por": "reglas",
       "salto": false
+    },
+    {
+      "t": "2026-10-21T12:20+00:00",
+      "fecha_dato": "2026-10-21",
+      "tipo": "promedio",
+      "superior": 35.19,
+      "regular": 32.99,
+      "diesel": 42.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
+      "titulo": "Así están los precios de los combustibles este miércoles",
+      "extraido_por": "reglas",
+      "salto": false
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2hIOGFGOXBfdnd6ZE5CZkFkNlRMbjlxNDUtMFBac2haVkVzQ0VIRERVeXVyTlJiSjFucElLNkI1UTBIS1E1NTRCMHR1Q0lxTC1QMkxKaF9mbDB1MXBBLUNsZ0NFdFBPbno0aU15Rlg1OTNOUllfcTdaU0h3M1JYcl82VllsaVdLSi1KWjYyVVBhNFhGcHNTRnlaRWdxMElHUkRaZXR0ZTduVkcyZDNycnBPMVl3aU5NTEttaU5VSFBfZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEtvaHcwZjVPVW41Z3BTNlZYdUNGeFlDZC1adEVIMzUtZllVdE1HT0o0SFc1Mi1TWGlPd2xTbktHRjRocEcxSHFfeDE1S0FlOXliOUdoUDdjY0FCS05qNjdkS01LSEhoRVUxeGg4djhWSkJLTUg1Y05ISmd1VEJ0V09fMXRMc1lzT01VWldxSFJZYUpPX0tMWF8xY3dTN2pnaEJvU1d2Tk40UVJzb1VJbXZOVF92R0JOdXFr?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2tqbFlrWks1VFBwdmVUQXhoQW55ZHJ4eHIxREEzX2tkZ0FDOHRtTHIwOHp0cWd1YzYzSHQ1WE5OemUwTDJiSGh1U19vRXJhTGUyeDVkZGZZMDNEd21Jd0Vvbm1YNS1iUTNKZkhZdG5RM3BabV9seGw4czZfd3NsbVd2WUlZY2o3bzNJY2plQ1R0SVpmZHJhaGY2Yy1Fb1pfd0p1QTlQTDQ1bC1QRWh4elNPVnE4NW9qUm1xRlB2ZlNHRWtmeVVBMTAzMWJFbko1THF3?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkY3MkNtcWY4ZElkWmxEM1pLN3B1NHJad3BVZUlnVGVnaXBHLU9DaXUyUERwNWdJb1dRSGlSQXpXV0xSRTFpNjFJQmFxdFg3R3Y5TW13ZjlmRU9DZGRGc1hicWpxZE1fRG5NdzhyRmtGWjUzOWVkLU9VVFpvTnNBWmVLTG11OFR6a2J6dGpWbjJsV3NuVEU1MnBxWlpLd2s?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjVvcERWX1J4VWgzcldXLTc4eFRDTEFGSERZYlNFT2VHdXdYTEY2VDZOVFdxeGE4NkFfdTd4eFJGN25EaWtJekVLeU5SV2pIcFlna1plNGhiZXlFSkNkMDd2RndKUEZhSlRYLWY4ZzhMeGF2ZlNjWlVGblJzLUNiSTdxU0FXazdmR0JFQVk4cUVDSnl1SlRVbVFQN1h6MkI3dWExTUphS09UeXM?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcV96Vi0yQVVOUzQtTTR5U0djLS1lRUFYQWl5RjZsMXVrZ0VkbkJrLU9xMWl5czBKWjRaMk1jSHdWVXJzQm4tR0ZQVGhlVXNuXzAxRHlxTzFNTFczU2VIdU96WlU1aEZVTUd3QjYyeWZKUHNIcmNTemt5dGxNS2hmYmFyc01zRXA5bEtvNGVfdXZhcGc0T0RpeWUxN2k0OHJ5V1RDTDByNkJvUmtPZDAzVlBpdDdaSWI30gG4AUFVX3lxTFBxX3pWLTJBVU5TNC1NNHlTR2MtLWVFQVhBaXlGNmwxdWtnRWRuQmstT3ExaXlzMEpaNFoyTWNId1ZVcnNCbi1HRlBUaGVVc25fMDFEeXFPMU1MVzNTZUh1T3paVTVoRlVNR3dCNjJ5ZkpQc0hyY1N6a3l0bE1LaGZiYXJzTXNFcDlsS280ZV91dmFwZzRPRGl5ZTE3aTQ4cnlXVENMMHI2Qm9Sa09kMDNWUGl0N1pJYjc?oc=5",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSE1VVVRZQ2stajEyaWtROTZZa3dDYXJCZ2JFNnBucmRtTzRIRFpTanZ4aHU1YjY0eS14Qjl2eG12c3dLd2IyRDNPeWtHV3hQb2xWelF1RkZNWFpXOGJXX0xaSlFfNDBBaTdrTndDTjJySEIwVnB1aWdydjMxT2dweWhwN3Npc1pLbWdFSTVEX1AwcVlnQkRNUHJEQzc0WXQwUVdPZjRPTFN0RDZ6eDhEWHRtaFpGYWg3LWdJTFd1ZVRiRGNhMkNkWm1SX1VRUXBrX0lpVXNNNkFGUGFJ0gH3AUFVX3lxTE96N0VYZnNZNXpaMkpKcDVLM01LUHdvS1luSzNpNDQ4aDhBUjlzaGJfaXJ2TWJFMlBaZmhGalVOMzROeGlheE9tRGZseXBEdmtQM0hfemF2aHhyRjBmY2Jwb29PS2U3ajJuYUNLMW1jOEdFRFFWQmlvOVpBY015dWpVbGYxWlVDdkwtWjk4VmRMUmpyLUlUR1hiZmF6UGVjOUpoS25JMXlrTHE4bmgwVUNILXQtRlp5N0g3TGYzaVY4MlNhbzAtRkk0T013ZEEyeUtScmNaVnUyVTl0ZE5oeS1Bd3BDXzQzSnpoWUxrT09YLXlyVXZ1QVk?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHNTLVlfQURRSF9kQ3pPcll5MF9QOXdpTmpCU0VPLV9aY2NWRl9MaFgwazQ1Snp4eFhEVlNuUnYtNTRKeUdGUXp2VlZDSW9MZmlGOUtDOUdYcTlpaGRyZkFucDNiQkFXak4tZ1J1TjV5Q0J2RHJ6dTA3LS1MSExNWlo5Zko5QUI4YUtERk1yNkpLTjU4MVFqaUdhd1E1SzZoM0JIbUVFeWNhWnlWY01DSHR5Q1UzX0ZK?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGdUaERjMndGZENWVlhESlhyZnJ3cnhhTGVHYURCNXBDV1dCRkJCRXpmdkJnNnFwNkd5MXNiQzd0RzZMRHNRalA5X3h2bGxpRzJ0cXZMS25QSndqQk9zSldTb0x1V1cwUEZEbTBjTGtlZ2tnSG5LZndrQ2JfRHdaWVUyRnhYdUJGUHlfZEJNLVhCOHBEcWVTd1E2TjgtT3Y0VGtKT3JvWkNPYW10SzBTTWRVcGE5TUwxaDllc2ZDTmFuZGxVTkFF?oc=5",
@@ -631,6 +644,12 @@
     "https://republica.com/internacional/kansas-cosecha-cara-enfria-el-animo-electoral-200010203270",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWdPbC1zRVo0TVpjd0ZFdU42RmJmS0UzdWVfWmJ5clJTOHlhdk1EU0oyRWJxY3hUeHZWQVhMakhyQ2FvdExEZ1RmbG5VdGV6S0NPUXY4R1ZJcktDWDZfY21CdzZBdFRNbkZRUVBhQ21HdlhXbEgtcDIxVWFhN2hObnNhRVY2MzZJajlOQzJvWkxvWTJWRXBr?oc=5",
     "https://lahora.gt/internacionales/agenciaefe/2026/10/20/el-puede-hacerlo-asegura-trump-al-insitir-un-acuerdo-de-paz-entre-la-ukrania-de-zelenski-y-rusia-de-putin/",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmZrOWtENnI0Q2V5TUxFYVlIVGtUczNXNnlPRU1KWExrbllpWDd4dXVieU9uTjRsSWhNQWlnUHRicXpENXJpYUZmR3pzamtwVWhYMnFIWGVNMFY1Si1NdWhCcnBYVEUxcU1RdjVRLTZqcGRXNWlQQ3lhTWR2aVZMREhJM3hvYTN3Wll5WWMtZw?oc=5"
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmZrOWtENnI0Q2V5TUxFYVlIVGtUczNXNnlPRU1KWExrbllpWDd4dXVieU9uTjRsSWhNQWlnUHRicXpENXJpYUZmR3pzamtwVWhYMnFIWGVNMFY1Si1NdWhCcnBYVEUxcU1RdjVRLTZqcGRXNWlQQ3lhTWR2aVZMREhJM3hvYTN3Wll5WWMtZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGdEQTJoWlNDc2ZKX3Z2cTUtd0x4RjZLcmhMMDFITFYxSU1xQXFrT3M2MHQtSVhROVl0RlVxaUtoa0lraGZ5ZVBOaWNuY2J5ZFJ1V2VxY01sbFNSTG9lLXNNRjAwVmhMV0trY0NpTUoyUGdmeWNVaElhNEtzcHpWVWwyZzlrU0xXWjc3RjZ5TmViREhCM2lsUWhEcURqT1hQVzFhdTd3aWtJU00?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkFZd0J6SVA5M1VBQ1pJcHIzTHJ0M1c4SVpKbllscXBxcDlKQzdNS25VZjJkbDZzLWl0ekFUNC1JMGRaWGxmc0Fncm1pTmN6NUNIZ2Vzc1I5TEJ3LVRndWViWjdHb1VOU2d0T2JuWUMtNENnWTJJYmUyYjBEby1hTi1xSU0tUlRBN2wwcjRsTlRXNE1hdE1CQktiM3hFTUdGQUhr?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWZ4bExtR01jZHNzWWttWk1Cb1owWDROc3Z2T0U1dXJ4eVBWVnNvNzFWTURMWmhBbHUzYVluWHZjUGNWYUc5SS1PUkpSckpVRC1NUEVGZ0FUaC1iQkxUdnhHbmJHTjlsanhseGxJbUc2SnJqOExpVi1jQ0xBWGNRdzk2TE96bkJMbEdpbFRIekthZUJHSmdzMGNHbVdRdnZDT1dNWTdVSHdEWG81ODZGM3dYSXlrYTdPdjllUnpmZ0FqN21VV0g5dGd6LWc5U3A2dy1FUkhnd2Q?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmZSb1Y2U0htVzN3RW85Y2U0aTVDb2liMkUzU0x1X1F0SC1iQWZ3ZVNqbWpfb0pWWVdBNk5wYnhITlc5ZjJadWVVWlF3TmRHMmlsRTNfVmpPUVIyZkFRU3Q4czMxVDhwTnR1d3pxc1pBaGtxY0tBN2dIQVZMR0l2QU43SHItVmpmRXdjMUl0VndBMzA4dEdtZk9hNHVBcEwzTTVHQg?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXFUc3dadndzRHQ0NUlMRmJnWHFpQ3pSRWh4SVQ2OF9aQjBxaWRidWVwZ1BUSjhNaGFmSjB5ZVRKTE84RUtPMzNELURTVHFfTkMzTGZwREVJam4waWlUSHBDR3dxcm1JZUxBdXZNMm1FQ2tZeTh4TzlsM3NtdTk4aGQ3U0FGYUpUUjd4bFVHaVJzSVVkVXBhbG9EYzNMM1RWU3dPWU8td3B6T19UV242YndsczZ5SHRoaUNtdnl3amJBQzJvLVk3WGtfNVRQZw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXkycG9CaWVJQ19zTi1DMTZOM2VZY0FFR1hjTFdjUUdSMUtwUm5kUmVyMUNEU2cxczNSSXVrWHZwM214d1RlTlJOVUE5VGY3RE5yMUI0MUtZMHhQRHd0dzJHamRETlU2OXhZSTgtS1BEamVfejVPSWVwT2M5azJCcGp3X3lvaFE?oc=5"
   ]
 }
