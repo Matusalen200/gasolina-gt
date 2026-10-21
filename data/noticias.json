@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-21T17:57+00:00",
+  "actualizado": "2026-10-21T21:27+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
-    "BAJA": 5,
+    "ALZA": 11,
+    "BAJA": 4,
     "NEUTRAL": 35
   },
   "noticias": [
+    {
+      "id": "f9ff1f039853",
+      "titulo": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/SP-Global-Warns-Hormuz-Energy-Shock-Could-Become-a-Global-Food-Crisis.html",
+      "fecha": "2026-10-21T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9a8884e95d5f",
+      "titulo": "As BP Leaves the North Sea, These Independents Are Buying In",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/As-BP-Leaves-the-North-Sea-These-Independents-Are-Buying-In.html",
+      "fecha": "2026-10-21T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "655dee099c3c",
+      "titulo": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Russias-Northern-Sea-Route-Workaround-Supplying-Asian-Buyers.html",
+      "fecha": "2026-10-21T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "b737c0ad8c75",
       "titulo": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
@@ -16,6 +49,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "182e5aefeca9",
+      "titulo": "Price of Russian oil used for tax calculations jumps 60% above the budget level",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N?oc=5",
+      "fecha": "2026-10-21T17:07+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -459,6 +503,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f9a233fd1ca4",
+      "titulo": "Rubio to encourage India's Reliance to produce, refine more Venezuelan oil",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzVIbWZvOEliSS16aVNWeUNsMlVlcG9wSDVMUkJsdjVrSzM0TUxueEQ5YThPUGtqMFNJbGM3MkROXzVoNzhaNnhCSmpRZEZBX0Zka0Fuci1YbGxVcEpmY3FzbFU2ck0zYVRSZVJYdnJpUkpVaWRRMGd4Z3J3cnhnbFJuWGI1YmRsOHlvSlE3SDJjcnZ5MWtyOFhKRmhFVVEzOFRnLVFIQUZ1YnBFamVN?oc=5",
+      "fecha": "2026-10-20T12:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "547ee34de665",
       "titulo": "IEA ready to go if further oil stocks release needed, chief says",
       "fuente": "Reuters (vía Google News)",
@@ -500,61 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "09ca2fac6c91",
-      "titulo": "Trump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-8-Billion-in-Emergency-Diesel-Relief-for-US-Farmers.html",
-      "fecha": "2026-10-20T08:15+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "53593c20540b",
-      "titulo": "Asian refiners use smaller tankers, buy delivered crude as freight rates soar",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2ZqUG1VeDQwZ1U1Vmc2NDFHWU1KUEdiMmhXVFhjX0FleHIwdnJyRHliLTJWb0FaWDAwbFBMaEdMdHdfemljUEdFX3lpcUdYSmdKcjRUZHhiNjNTMUhobzNFWkpTSEhtZUN1RUxMeHY5b0RJaFJuc2wwRDFJT3hkYUxLS1BycXZMeFVWVExXcGpqMUxVdE1qWUxyRVN1emZ3UGhONmZ1NWJYVWUyMmJRLUZSN29Ib0J5WmNsQ2Vrb1VmOEk?oc=5",
-      "fecha": "2026-10-20T07:09+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "90a968fa1b06",
-      "titulo": "Gulf Keystone, ShaMaran agree $601 million oil merger",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd21lMXF3TWhOQ1h0SUp3ZGJEdlExNGNXMzBHeFBjSkZ5ZHR5ZHdmSEpsWTFzTEVtSnlXX1diRmRMbE4yeHdqTVNPb21NTUFQMlB0emZWWmtQcFJGSWYzNjNPMk1XSV9kTmI0bXQzaXlaVHBNUE1BMTFoZTV4Umdyb3dEa1hyTi1ncUlCUEZGaFBKZDkta29wYXh2eFVjUm81b0swN2VLSGFaUUN0OVpRVl9GV1JXakZMV1ZlVg?oc=5",
-      "fecha": "2026-10-20T06:26+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4ef6eb6d11be",
-      "titulo": "Oil majors face spending test from Iran war windfall cash",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
-      "fecha": "2026-10-20T06:04+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a48887049266",
-      "titulo": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
-      "fecha": "2026-10-20T04:56+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
