@@ -1,29 +1,29 @@
 {
-  "actualizado": "2026-10-21T21:26",
+  "actualizado": "2026-10-22T17:54",
   "fuente": "MEM (página oficial)",
   "origen": "https://mem.gob.gt/que-hacemos/hidrocarburos/comercializacion-downstream/precios-combustible-nacionales/",
-  "fecha_monitoreo": "2026-10-12",
+  "fecha_monitoreo": "2026-10-21",
   "correlativo": null,
   "tipo_cambio": 7.663,
   "autoservicio": {
-    "fecha_anterior": "2026-10-05",
-    "fecha": "2026-10-12",
-    "superior": 36.17,
-    "regular": 34.86,
-    "diesel": 41.69,
+    "fecha_anterior": "2026-10-12",
+    "fecha": "2026-10-21",
+    "superior": 35.18,
+    "regular": 32.95,
+    "diesel": 42.69,
     "kerosene": 58.0
   },
   "servicio_completo": {
-    "fecha_anterior": "2026-10-05",
-    "fecha": "2026-10-12",
-    "superior": 37.11,
-    "regular": 35.79,
-    "diesel": 42.64,
+    "fecha_anterior": "2026-10-12",
+    "fecha": "2026-10-21",
+    "superior": 36.22,
+    "regular": 34.0,
+    "diesel": 43.73,
     "kerosene": 58.0
   },
   "cambio_semanal": {
-    "superior": -0.02,
-    "regular": -0.03,
-    "diesel": -0.01
+    "superior": -0.99,
+    "regular": -1.91,
+    "diesel": 1.0
   }
 }
