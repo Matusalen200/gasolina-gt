@@ -34,5 +34,41 @@
     "url": "https://tvaztecaguate.com/nacionales/2026/10/05/asi-se-encuentran-los-precios-de-los-combustibles-este-lunes-2/",
     "detectado": "2026-10-05T07:22-06:00",
     "avisado": false
+  },
+  "2026-10-22|superior": {
+    "estado": "pendiente",
+    "producto": "superior",
+    "fecha": "2026-10-22",
+    "valor": 44.66,
+    "antes": 35.19,
+    "salto": 9.47,
+    "fuente": "La Hora",
+    "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+    "detectado": "2026-10-22T15:21-06:00",
+    "avisado": false
+  },
+  "2026-10-22|regular": {
+    "estado": "pendiente",
+    "producto": "regular",
+    "fecha": "2026-10-22",
+    "valor": 42.58,
+    "antes": 32.99,
+    "salto": 9.59,
+    "fuente": "La Hora",
+    "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+    "detectado": "2026-10-22T15:21-06:00",
+    "avisado": false
+  },
+  "2026-10-22|diesel": {
+    "estado": "pendiente",
+    "producto": "diesel",
+    "fecha": "2026-10-22",
+    "valor": 49.4,
+    "antes": 42.69,
+    "salto": 6.71,
+    "fuente": "La Hora",
+    "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+    "detectado": "2026-10-22T15:21-06:00",
+    "avisado": false
   }
 }

@@ -1,12 +1,56 @@
 {
-  "actualizado": "2026-10-22T17:55+00:00",
+  "actualizado": "2026-10-22T21:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
-    "BAJA": 3,
+    "ALZA": 14,
+    "BAJA": 4,
     "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "60823823f615",
+      "titulo": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html",
+      "fecha": "2026-10-22T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "79f9f9f98145",
+      "titulo": "Asia Needs $1 Trillion a Year to Secure Energy Supplies",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Asia-Needs-1-Trillion-a-Year-to-Secure-Energy-Supplies.html",
+      "fecha": "2026-10-22T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7b80fae17f0c",
+      "titulo": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html",
+      "fecha": "2026-10-22T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7a65681ec590",
+      "titulo": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html",
+      "fecha": "2026-10-22T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "3a1210fdc3a3",
       "titulo": "Citi’s $60 Oil Call Meets $112 Brent",
@@ -30,6 +74,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "031043582144",
+      "titulo": "US regulator is probing suspicious Iran oil trading, official says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
+      "fecha": "2026-10-22T16:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "819a77f774af",
       "titulo": "Britain Finally Creates an Oil Wealth Fund—50 Years Too Late",
       "fuente": "OilPrice.com",
@@ -41,11 +96,33 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "d89a53d89d7d",
+      "titulo": "US refiners have run harder in 2026 as tight diesel supplies boost margins, EIA says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXRDSVZqUlhiVXJHdV80OVNPVERRZDlMRWJXOTl4eEw3MWZ3ZVBFX2E3TGdhd2xWSWxkTkpVZkhRa3NlT0Jaa3JyTHNTMU9BaWxkeFV4SVVkZU1FV3Fockk4RWNKRW9fb3NZMHkzWVh5QndCRzVSUW54a09DM09vWEpMQVdTR2NQV0hmenlaZmxpdWJyN1Vuak15azFfU1gxb3RCQlFRb1BrTVZZTEFjMjlaZUJINkNmWW4yNm5YcWc3UTdnU0d6Nw?oc=5",
+      "fecha": "2026-10-22T15:59+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "5ed754435a96",
       "titulo": "P&G warns of bigger cost hit from oil prices, even as consumer demand holds up",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXZkVkhTMUxoaW8wOXZWUC1TbzdCbXlXbUVoWWVZdGZSN1FzdGdrb0VjcW1IZWtLR0JuUWx1RWdGNFpVTHgzYXVjeURmX3RPUVlxYVlNT1hvREZSLWVOR2NVN0sxZTZFMzNDcXFLbUQ2bjJVZUhzdGRSaFY4MTRKeGhuQ09fTFlfVVVVZmo3c24wTnBhZVlGckVPdXBodjF5UnR1RFFhRUtFXzZKVG56LTRoYlFja0pVbUV3OFFyX05zUTE4djJYUTYzQXVBY0s3TjlkdFk2cjA?oc=5",
       "fecha": "2026-10-22T15:44+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "dcb3ce649dc2",
+      "titulo": "Citi sees oil risks skewed to upside despite recovery in Gulf exports",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVZV3hhS1BtQ2puTC1WcVZBYXo2bEI3bE0xaS1keVpmVkduLTBFT2tvSkRiSUk3RTA2dDBXd3o5TDk1VjFJNFpWN2xXdmZGby1UWWl2MkFxMDZJd056WnpmRU1IUXhWaXZiR2JzWkQwaFBvcC04MGZjUUd6THZTd0c2TmZ4YjlwUHVxeWR6bzRnSDV6VW5jNDlDRDgyaTFoclFnQi02aXZUZnJKa1Q1OTlkaVdlQQ?oc=5",
+      "fecha": "2026-10-22T14:37+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -68,6 +145,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Record-Fuel-Prices-Accelerate-Europes-EV-Sales.html",
       "fecha": "2026-10-22T12:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4a5d590d760c",
+      "titulo": "ADNOC's XRG in talks to buy stake in Eni's Libya oil and gas business, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1g2NkVwaGlBeGlfNkxLTFhLYzdVOW42cThDUFRoVDJJa3RsSF9xdGxleFhFTXdHbHdTZFJFNk9UaTMwOXhtZHYteGJKWWgtNVctU0lwcWppNUZQWGl4SlpQUHhUbWZmbXFxWVNxbUlBNkx0U0NSTFQybWExWU9aLWVGa0lHaWNDOGNoYm4weENEVU9GbmtoZzlSVVZEdHNJbU9QU2JxQjNsM1B5NFNYcEtuSWw1TGVEMHc?oc=5",
+      "fecha": "2026-10-22T11:51+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -236,6 +324,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ec4d73b1e4e1",
+      "titulo": "Presupuesto 2027: MEM solicita Q437 millones y diputados cuestionan baja ejecución",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/presupuesto-2027-mem-solicita-q437-millones-y-diputados-cuestionan-baja-ejecucion/",
+      "fecha": "2026-10-22T00:06+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -456,105 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8046a2990858",
-      "titulo": "Indian Oil to trim Middle East oil imports under annual deals amid Iran war",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXE3WlNvck1LNktoX2lmc1NPNVZaNkRJdnJidHRaRE1RcWxTSC1rYzgyS3J1RnlpeEMwTlh5YnRBMXNPLXJiYTJOR2o2RGF0eTlMQm9Wa24wMUJXX0VzaDVGc042V0JLcnJlTTJYdzVNLWtIbFVuQkN4cXFielNxdi1RUUNRcTY2Zlo3MXJEUEZQaE1DWnh0aTludkNSWlZfbjc2TXZPSVVQZUFpaW5SXzVFSU1WVzZ1TzVLNFFSYkNCZw?oc=5",
-      "fecha": "2026-10-21T08:46+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2093b71b90b2",
-      "titulo": "Namibia's disputed petroleum bill clears second reading in parliament",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEtfYTRqbTFCUG1sbEJSTlBwSlVGRG0wZVZyN2Nncmplb3JPZ2t0aElTeEhkUDRncllGQ1dHVWpzVUo3QzA5WHpGVmRKQW5DeVdrX0tOMnFjS2YzcVplUjlvZ3VEdk9uSXBYdlI2emdnQVJpRVRNYTcwcVVnNDNEWXJDQU5hZDVubi0tZ090ZEZQSlN0bHBjaU1ZMkJXbXhjOFpSbkl6T3lkSzN2UUI3MHl6QVd3eDBp?oc=5",
-      "fecha": "2026-10-21T07:11+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6a5ba4c3986d",
-      "titulo": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Administration-Pushes-Refiners-to-Boost-Diesel-Output-as-Prices-Soar.html",
-      "fecha": "2026-10-21T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ecc6d4bc7df0",
-      "titulo": "Oil Prices Climb Above $110 as Middle East Supply Fears Persist",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-110-as-Middle-East-Supply-Fears-Persist.html",
-      "fecha": "2026-10-21T05:11+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e26dcb665161",
-      "titulo": "Gold steadies near one-week low as oil-driven inflation fears grow",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-      "fecha": "2026-10-21T03:45+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "418df03155f6",
-      "titulo": "Indian shares slip on elevated crude, Ambani's Jio IPO sees strong demand",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjNITnczLXgyWGppRkFrTDc1dE9MOWM3aENNVGVKRkFJWU9XT0RUcWM4WTFUaVlxanNvVVZQV0E3OGFZWEM4UDFLSXFuV3psVEFxOGtqVFgxdGpVWDRILWJxS1IwUW1PU0FDSGg4ZUNjQnlUeG54aDI5TTREMDIwWXJHdXU5WW1ndEp2YTBVejl3UW5YeXpVRUItV2NKbGdqb2ZwNlV3Wm8xWThfRU9xVQ?oc=5",
-      "fecha": "2026-10-21T02:35+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7a89f45d2dd0",
-      "titulo": "Dollar holds steady as Middle East tensions simmer, oil rises",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5",
-      "fecha": "2026-10-21T01:20+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1d170ceaf665",
-      "titulo": "Oil prices jump $2 as Iran knocks hopes of diplomatic progress",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5",
-      "fecha": "2026-10-21T00:50+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "58623e56c9e8",
-      "titulo": "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Petrobras-Deepwater-Push-Sets-Off-a-Race-for-Offshore-Vessels.html",
-      "fecha": "2026-10-20T23:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]

@@ -1,75 +1,75 @@
 {
-  "actualizado": "2026-10-22T11:54-06:00",
-  "revisados": 8,
-  "nuevos": 0,
+  "actualizado": "2026-10-22T15:21-06:00",
+  "revisados": 6,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 35.19,
-      "t": "2026-10-21T12:20+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
+      "valor": 44.66,
+      "t": "2026-10-22T20:58+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
       "n": 1,
       "fuentes": [
-        "TV Azteca Guatemala"
+        "La Hora"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-21"
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
+      "fecha": "2026-10-22"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 32.99,
-      "t": "2026-10-21T12:20+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
+      "valor": 42.58,
+      "t": "2026-10-22T20:58+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
       "n": 1,
       "fuentes": [
-        "TV Azteca Guatemala"
+        "La Hora"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-21"
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
+      "fecha": "2026-10-22"
     },
     "diesel": {
       "tipo": "promedio",
-      "valor": 42.69,
-      "t": "2026-10-21T12:20+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/10/21/asi-estan-los-precios-de-los-combustibles-este-miercoles-2/",
+      "valor": 49.4,
+      "t": "2026-10-22T20:58+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
       "n": 1,
       "fuentes": [
-        "TV Azteca Guatemala"
+        "La Hora"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-21"
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
+      "fecha": "2026-10-22"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-10-18",
-      "q": -0.86,
-      "pct": -2.4
+      "vs_fecha": "2026-10-21",
+      "q": 9.47,
+      "pct": 26.9
     },
     "regular": {
-      "vs_fecha": "2026-10-18",
-      "q": -1.39,
-      "pct": -4.0
+      "vs_fecha": "2026-10-21",
+      "q": 9.59,
+      "pct": 29.1
     },
     "diesel": {
-      "vs_fecha": "2026-10-18",
-      "q": 0.02,
-      "pct": 0.0
+      "vs_fecha": "2026-10-21",
+      "q": 6.71,
+      "pct": 15.7
     }
   },
   "diario": [
@@ -144,6 +144,12 @@
       "superior": 35.19,
       "regular": 32.99,
       "diesel": 42.69
+    },
+    {
+      "fecha": "2026-10-22",
+      "superior": 44.66,
+      "regular": 42.58,
+      "diesel": 49.4
     }
   ],
   "tope": null,
@@ -348,14 +354,22 @@
       "titulo": "Así están los precios de los combustibles este miércoles",
       "extraido_por": "reglas",
       "salto": false
+    },
+    {
+      "t": "2026-10-22T20:58+00:00",
+      "fecha_dato": "2026-10-22",
+      "tipo": "promedio",
+      "superior": 44.66,
+      "regular": 42.58,
+      "diesel": 49.4,
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+      "titulo": "Eliminación temporal de impuestos impulsa reducción en precios de los combustibles",
+      "extraido_por": "reglas",
+      "salto": true
     }
   ],
   "sin_precio": [
-    "https://www.prensalibre.com/economia/agro-preve-caidas-de-hasta-30-en-la-produccion-para-2027-y-plantea-al-gobierno-diez-medidas/",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLThzREtsaEU4UkxsNGQ5ekhucnNrVlBxakJETTdsTU5jY0hlLVVMMEpfQ1RiRDlOVTljSXBQRDltOUlKSHFTN282VEg0bHVkTXg2eGRDdE81NkF1NFh4YWl6S2ZWdE9FRlRsNWVtNW4wcFEzbWI2THI0cXJWRTJhVU1PRE5LSS1nWHM3QTV0T2xSMFlGTl9GYUthRkpYUm5UNlZ6bzlQby1Sb2lnMlNEOUJQVWlHUFY0RVdrQ1A5d3pSUFF5RmdIaDVKSWo?oc=5",
-    "https://www.prensalibre.com/economia/exencion-del-idp-e-iva-en-combustibles-asi-se-reflejara-en-las-facturas-de-los-consumidores/",
-    "https://www.prensalibre.com/economia/mem-descarta-interrupciones-en-suministro-de-gasolina-y-diesel-en-guatemala/",
-    "https://www.prensalibre.com/economia/que-falta-para-que-se-aplique-la-exencion-del-idp-e-iva-a-la-gasolina-y-el-diesel-en-guatemala/",
     "https://www.prensalibre.com/economia/suspension-del-iva-y-del-idp-no-atiende-la-situacion-del-diesel-y-sectores-piden-medidas-mas-sostenibles/",
     "https://www.prensalibre.com/economia/guatemala-suspende-iva-e-idp-a-combustibles-estos-son-los-efectos-fiscales-que-anticipan-analistas/",
     "https://tvaztecaguate.com/economia/2026/09/23/cuando-bajara-la-gasolina-en-guatemala-esto-establece-la-exoneracion/",
@@ -650,6 +664,11 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnJvcUlIQmhqOEVGeUpIMHF1aFJvbnhvTXhvWGN6Y3BFQlB3Ul9DbE1aT2dOVy04ZTlrLXA0dmVua2lLVDJ3N2s3MmRLeTBtQmdLbTVGWmhsSjVVY1phOVFyd2NTQXAyYUhSbXBPLXp6dTdUU3VicWFwTEhaR2hQdjhvdGxkZ2otdUp4SDJLbURMS1BsTUlZaVFNajBKM1JOZlE?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1N4eWVhWlBfUUtZQndJMUNPaFRBaXZLTHhNSWVxdy1BRXZtQUEwSExaYkxnZ0JUbHROZmhveEp4bGwySEJBWjdUWW9LZ0xmMlQzOTlNdEQyZFdXOHlTdExtekVLV0J2RzdpTjJid181dF9WNGFTbzNHd0JfOVhsTUliank0bXNt?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdyYmNvOUVzOU5oblhIMGJXMlpvQWk1UkhydExyalZmZWU3ZVI3d291MWRiQzBWa0pkQjQtcUpVWURneUtiLVNmRnFkYVdJbVNSUjlZQjBtMzVJQWZYUkl3OWJIWk14QklfbWtJRklPZWZVMXc2T2VLMzBvWHVKeXlwcnVQOUQwWXdQTjhBY0U4YXhQTkQ0MFZfcjFNbzRJSjRPbTBxN2lzb2FHSDBybFNCTVlJZ0VfNFpfZE5wbWkza2c1d0pXWWpiTGVSYk92a19nNXl30gHWAUFVX3lxTE1ER3JiY285RXM5TmhuWEgwYlcyWm9BaTVSSHJ0THJqVmZlZTdlUjd3b3UxZGJDMFZrSmRCNC1xSlVZRGd5S2ItU2ZGcWRhV0ltU1JSOVlCMG0zNUlBZlhSSXc5YkhaTXhCSV9ta0lGSU9lZlUxdzZPZUszMG9YdUp5eXBydVA5RDBZd1BOOEFjRThheFBORDQwVl9yMU1vNElKNE9tMHE3aXNvYUdIMHJsU0JNWUlnRV80Wl9kTnBtaTNrZzV3SldZamJMZVJiT3ZrX2c1eXc?oc=5",
-    "https://www.prensalibre.com/economia/etanol-en-guatemala-siete-de-cada-diez-usuarios-de-regular-migraron-a-la-superior-en-dos-meses-segun-el-mem/"
+    "https://www.prensalibre.com/economia/etanol-en-guatemala-siete-de-cada-diez-usuarios-de-regular-migraron-a-la-superior-en-dos-meses-segun-el-mem/",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUEw2UzFxN0dmVFE2M3IwWkU1VUtHYWZKMDhiaUtlem5obmhuX2FObDdoRVJfU0RYM3UyVVJKanBZdlNVOEJHeXNmN0ZJanVmbjFuV0FnazlUNy11LVV0ODZldTZpZTlwbzgtVlp6a1BmYTgxYXNLR2dxbEh2cnA5TGNWb1hpUnp6MVgxdXdHSkl4NzgzUXlzY2x1ZXVIZEdDeW1FVDdJXy13Z0xlcFh3UjFfRy01N0hsU1VyNS1jekFMdlJvdlVYOFl3Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMmN2Yy1QWXhza3NrcnZGZzlRTWZmeEV5NE40bFNDZFhBU2ZxTlUzTHpreEZoQzdWM0lZcXJXNk5fMG1vNlRjdmJ6ZkR4aURVaFhRR2YyZXRuUHpTb2NPenhRT2g3UlRmY3NEbUVVNnVUYWNFSW82T2xjZnI1dDhESTF0V3R1c0IxaVEyem1zSFFHSWR3YXItMndmcHQtOTNaQVk0X3FHYXlVd3BNbkpJYlpZYUpOWFl2VGRfbGpOeFNaYkJwQUVCcDFBTmw0VlhOUlUyY3c3RW5MNTZhMHNUTw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODc1b0s3MjhWRW5JUGZ1aEV6dm85ZEdjSlhZRkthRWZOT2ZiMnB5b0w4TTNGYXNFWGVSeXRrYnFlTkowMjVMQVZWMUNjbEZGQmVZNGdMMl9CVzdhaV9wZWNNT2F2MVBYY1g4T3NEUVA2S2hnNkFUeUh4TDdHS3lBZjJVMFA3U0xRVW5rakdFVlBwVFdyTlc0czV2QklJaWlyMXRrcQ?oc=5",
+    "https://lahora.gt/lh-economia/jveliz/2026/10/22/guatemala-y-belice-impulsan-produccion-de-combustibles-sostenibles-de-aviacion-para-reducir-emisiones-de-co2/",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTIzS2lFX3JNS0JNQ3RCYmZfbmFxVGNDb2MzTER4X1BqbTI1WUczX19IWl94UU85RnNIYWFSSU9ON0RYU3h1ZF96TXJFWUk0VnFTeUZhdVBUX1g1c2c4eUhRUFBIblJTdmtpWFQtbkQ1TTExY2xhMFVBbHZReVdUV2JNYjB3RjlYWjRZZDFyQlZWcnJ6eEJDQ0JUMEF5bHVYZ1ZCcFR1OEVKa3dkcFIxNWJjeE8zWFV2WHZLb2ZMbnFVdjVBV2lHcW53b0VDOUhpUWp2LWppdkZIazNTVDlTODVlRFBHQ2JDOEtiRWxR?oc=5"
   ]
 }
