@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-10-23T17:48+00:00",
+  "actualizado": "2026-10-23T21:12+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
-    "BAJA": 3,
-    "NEUTRAL": 34
+    "ALZA": 14,
+    "BAJA": 5,
+    "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "92ed6710d9f3",
+      "titulo": "Trump and Burnham discuss North Sea oil, Ukraine and Falklands",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUNKODFrR1F2TUlucF9FcWd0TV8xUHFzc0RKOHdfUk4tcEtaa1ZCUGZLNV80NXFUQlJLajRxOHRZSTZ5NUJnSllzWDZJMFNFbnBkd3NTaTNkNWV0NTFrZnF2THNmd3U4S1E4cU5hN0VJRFdUR1FHeEJLcFBhUTUtMHRjaEQycVN5Zkx2SThGaVZKMzNQdnVGaUtuaFBmaTVLZ1pmN0g0T09vZDVZWmc?oc=5",
+      "fecha": "2026-10-23T20:06+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "9cd8b4e44d7e",
       "titulo": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
@@ -52,6 +63,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "17a726239616",
+      "titulo": "US authorizes emergency release of up to 400,000 oil barrels from strategic reserve",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN09NY3ROanZFXzE0MUt5cTZmYkozTFNRNng5X0tUUkhHeENpY3oxTlBYVG5HWmdVdnhYcFhmZnhaRTlxWlZMRXZmczNqZTRUbzlJWnJ3WFVURmJORklmeVd0WG03VzY1VVl3THUwT0pxTUNXQVRiLWFFSUU4ZnFKZXdjZHhzNXItQ0NWb1Y3N3NERW1IUHkyMjRoclBqRXZyN1dMVTZRblB6TGFXZTZuQ1hmb1lCeUtOQkhKY0RjdEE?oc=5",
+      "fecha": "2026-10-23T16:23+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "2f6a3be434df",
       "titulo": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
       "fuente": "OilPrice.com",
@@ -93,6 +115,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "693771ef8abc",
+      "titulo": "China calls on oil, gas firms to boost output, build strategic supply bases",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0RFYzFuVnNTcWFqV3k0V2R3NVJjN3VLcmwyMk9WZnlKWTNxTVdwTEdOMUlYZmFMNGUydHYyYUdKd1ZUSzU1b2dfdDZFN3BGLWVfbkJyNmlQLVh5RmE1MEY0SXlzdVB2d2UwcHhPSUpIZmVxMEhCVXRFSGZCZEtHVV84X3FhbDVodmV4SHJlS1Axa3VHd0NUZ0RqQXNLRlczMEQzNmE5VjdtMXFza2MyTThOSmw2bzFVMV9z?oc=5",
+      "fecha": "2026-10-23T13:25+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -148,6 +181,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2dc56f270c74",
+      "titulo": "SAT solicitará revisar meta de recaudación del 2026 por exoneración de impuestos a combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/sat-solicitara-revisar-meta-de-recaudacion-del-2026-por-exoneracion-de-impuestos-a-combustibles/",
+      "fecha": "2026-10-23T11:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -470,6 +514,28 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "fcbfca0739cc",
+      "titulo": "US refiner Valero posts record quarterly profit as supply disruptions boost margins",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0J4Z1hTMUNSRXFieWxXREx5bWRTMzlTNU9yMUs1bnRlc0xJTUlJa1Q2S2w5X2lzTzNSQ2EzdVQzZERaWVU4NTlFVXRYakdIeG5lTVhYeWtPMDl3VHZSYkoxX1VIUGoyQmNfTlh3b0JJNG5lQnVwUmxWc3RzYk1TX3RaQTFVWGJkMk4yZU01VUZ2NmdTbDYwNkNNdTZ3X3lJdHd5bVBNTFFYcmFrS0NoeTJxREltcWRWbmt2a2g0bDJNa3NKYnhV?oc=5",
+      "fecha": "2026-10-22T10:33+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2d766c2590ed",
+      "titulo": "Rupee snaps eight-day rally as oil climbs to highest since May",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVNZbG9QbzVrUDFGaTZHVkJwZ0cyZHRYa0RwQjlwU0xQXzYtc1hDaHZCMjhuLU5nS0o5Uk1BamlZSlB0T0dYU1Y5U1FTRU1YQ2lLNlQyOUF3THZRSElCX0prb1ZrUzZQNm5vUGhnMVo5QVl6NkdyekloV2JIbjl1VWhLWTBrdDV6Yjc5d0x5cFFRWmYxX2RXcVhJTkhrQWpNaE1DbWlHaVU?oc=5",
+      "fecha": "2026-10-22T10:29+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "20bb896a2cee",
       "titulo": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge",
       "fuente": "OilPrice.com",
@@ -489,72 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "548cc1471877",
-      "titulo": "Saudi Aramco seeks to partner with countries to expand its oil stockpile, CEO says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnBIaFNpRTVBNGxoQnowWUV6YnVWQkMzUl9ENWo5ZG95djJvRVZsTHVsTmFoX1V1OEQxcEE1Qmo4azB1MDlxc1VIM2VKbGFWT3BCTS1paXlteFJMazdobHJXd1hOaUR2a01RN05fMThEYzVFU3R3RlNCcXkxOHduaUtWSGJRWGJ3WjFBbnpZYjRCcjV5eUpXaC12M0RLaVlfV2lvMGNjUHhoSFhoUFJ5UlNWVGZEM0lEOHhCelVfcEdDTlBDZEE?oc=5",
-      "fecha": "2026-10-22T08:17+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3df57f257b9e",
-      "titulo": "Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Reserves-Run-Dry-as-US-Naval-Blockade-Tightens.html",
-      "fecha": "2026-10-22T07:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8ee685c352af",
-      "titulo": "South African rand slips as oil hits highest since May, fuel levy cuts loom",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGswN2JGZUZVTW9tU2hRNHhJblVfdHVtYkVreEF5YXdmYlllZnRZVS11QjZ2RFQzZXlYSy1wYnNtRUlaNDcyR0lMd3c0MWVXajExbjlSR284cTZzQk0tUXlQMnpMdUNGOW5odG1kYjNNelZVX1I3U01iU1ZXVWZFUXJnSXpQZU5iQThNaWRHMWk0SzRkc21YZU9oQ0lzVUgyMDV5LWVsVHg4MVhiSG11RlRVcEd5d1ZHMDNTQ25uNGtUVkMwZUY4?oc=5",
-      "fecha": "2026-10-22T06:59+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f3cf90883d47",
-      "titulo": "India's Mideast oil imports return to pre-war levels in September",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5",
-      "fecha": "2026-10-22T06:02+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4f9c52d85bbe",
-      "titulo": "COMMENTARY: Don't mistake Mideast oil rebound for normality",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnNNcW94aG5WWHAzeXd2Zzl1TFVkQ3BxSzdlbm50RE9WS2tXcFBwLXk2TGdpQ25GZjcwb05fekJTZUY4eWxHSW9udnBqdDRhQ0JvLXZPSUFmNWZPYmR3T1hOaVZBb0hXWHFIODJPeVBWWERsVDRHelhSODBoWEZVbzFQTnBQRmFZT0h6MS04WlQ3eThuYUEzNjAtcHphdkNGNGpUSW5BNFVRNGlJQU1Mcw?oc=5",
-      "fecha": "2026-10-22T06:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3da0ddb6768c",
-      "titulo": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html",
-      "fecha": "2026-10-22T05:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
