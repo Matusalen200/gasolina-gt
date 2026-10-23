@@ -1,75 +1,75 @@
 {
-  "actualizado": "2026-10-22T15:21-06:00",
+  "actualizado": "2026-10-23T11:47-06:00",
   "revisados": 6,
   "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
-      "valor": 44.66,
-      "t": "2026-10-22T20:58+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+      "valor": 34.99,
+      "t": "2026-10-23T15:36+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/23/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-10-22"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-23"
     },
     "regular": {
       "tipo": "promedio",
-      "valor": 42.58,
-      "t": "2026-10-22T20:58+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+      "valor": 32.79,
+      "t": "2026-10-23T15:36+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/23/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-10-22"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-23"
     },
     "diesel": {
       "tipo": "promedio",
-      "valor": 49.4,
-      "t": "2026-10-22T20:58+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/lh-economia/jveliz/2026/10/22/eliminacion-temporal-de-impuestos-impulsa-reduccion-en-precios-de-los-combustibles/",
+      "valor": 42.69,
+      "t": "2026-10-23T15:36+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/23/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-10-22"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-10-23"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-10-21",
-      "q": 9.47,
-      "pct": 26.9
+      "vs_fecha": "2026-10-22",
+      "q": -9.67,
+      "pct": -21.7
     },
     "regular": {
-      "vs_fecha": "2026-10-21",
-      "q": 9.59,
-      "pct": 29.1
+      "vs_fecha": "2026-10-22",
+      "q": -9.79,
+      "pct": -23.0
     },
     "diesel": {
-      "vs_fecha": "2026-10-21",
-      "q": 6.71,
-      "pct": 15.7
+      "vs_fecha": "2026-10-22",
+      "q": -6.71,
+      "pct": -13.6
     }
   },
   "diario": [
@@ -150,6 +150,12 @@
       "superior": 44.66,
       "regular": 42.58,
       "diesel": 49.4
+    },
+    {
+      "fecha": "2026-10-23",
+      "superior": 34.99,
+      "regular": 32.79,
+      "diesel": 42.69
     }
   ],
   "tope": null,
@@ -367,14 +373,22 @@
       "titulo": "Eliminación temporal de impuestos impulsa reducción en precios de los combustibles",
       "extraido_por": "reglas",
       "salto": true
+    },
+    {
+      "t": "2026-10-23T15:36+00:00",
+      "fecha_dato": "2026-10-23",
+      "tipo": "promedio",
+      "superior": 34.99,
+      "regular": 32.79,
+      "diesel": 42.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/23/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes/",
+      "titulo": "Así se encuentran los precios de los combustibles este viernes",
+      "extraido_por": "reglas",
+      "salto": true
     }
   ],
   "sin_precio": [
-    "https://www.prensalibre.com/economia/suspension-del-iva-y-del-idp-no-atiende-la-situacion-del-diesel-y-sectores-piden-medidas-mas-sostenibles/",
-    "https://www.prensalibre.com/economia/guatemala-suspende-iva-e-idp-a-combustibles-estos-son-los-efectos-fiscales-que-anticipan-analistas/",
-    "https://tvaztecaguate.com/economia/2026/09/23/cuando-bajara-la-gasolina-en-guatemala-esto-establece-la-exoneracion/",
-    "https://www.prensalibre.com/economia/combustibles-el-congreso-aprobo-una-nueva-medida-pero-que-pasara-con-el-subsidio/",
-    "https://www.prensalibre.com/economia/subsidio-al-diesel-daria-estabilidad-a-las-tarifas-por-epoca-de-fin-de-ano-afirman-transportistas/",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNE5lNjhmVEZvT3QyVXRSUWRWSy1tbGdWZm9BWHAwWW5xLVE2NXBZS0M5SXN5cUxZYnRYdzVsaXROSEJua2FPUDV2M21jbWNhV0ZOeC1jUU9NTDc5eGVGdWI4Y3BfNFphM2NNVFdoV3FLRnlscFBjemtWdUloc0NNTFVvUllhQy1xVFVSdTRYQk50TTR1REFOVXZXUVZIMzBNUnNzZlF3ZmViY3FYd2pZbElpSFB4d19TaUhuaURORWg1X184ZDNteHBVZ9IB5gFBVV95cUxNV0xIUUp4MERldWdxRjQ2cmN1d0RVY1M0WWMxUGlzQkt3TnNucnFkd1RyWjVfOFNJNWowYjVNVUJhVnhfREFaQmpnQWVQeFdaMkU5YzJPcHZNeDVXSjZfd29SWkgtUjVaV3dBdEdBMXhtRWgxQ0p3WS1CZWFyN1Axc0RYTVptYjdPTDBhcHlWdEdSdThTS3R1amRpemh4LXJOUFhyNUxDRHFIRG5VX3kxRDFyRWIyTFppekREangzVjJVeFI3Sm5WcnhoZ1kzcDJERnRnNUpiRzRMd3NGeUxTTEU3UldDZw?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1JoQWIweThvMkZINE1lblJDOVAwQlBSMWdtWDJ4V0VueGpmaGtmTkd3UU9ZNjhuLXNPRjJfaFZIc0d1d1kwWUJSUUFrZmJ3dlFERFJUbDdhNVpXRlRXM1NZXzBkaDRxSWNJLXpOdzBHQTVmTmpEdW5CTE1ZNHBtTktxb29ucFRpTURDWjRtTWZSSG9v?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaTBxeE5VSm4wcTF6akpuNzJEbFlpQS1EVnBVb2U2Qnp1cGp4UXFTUlJwNFdhV0d6TEhNT3Q1SkJNSnpWZ1hxc2FRb25oQmQtWkk4OUljYXpvbTFSRXdHOWJuNTNySk5BcVFBbklvZ2JoQ1pBRGtiX1V4RmlwVXdjVGRvSDRjMm1PanU3NUZPc0hvNmVVUEYzdGpwWnBtdFFmdkIxSE01OGl5MzREeHhNYVAtQVFTa2dsbU5fYk5kQm9ZcDJaakFmem10UUQ3bjlXMEtCSFhnYzJCXzFfR3lr0gH6AUFVX3lxTE5fZVZMWEM4RmtVamU5RHk4c1A3T3dOZ0tWdjJ3RUdaMmlrdDVELTJTRmplYXk2bVFLaXk0bEQ0ZG8tZFo5UnNvckprUHpENHFYRHR5eUZrd0N3TVB4NEtfaXpSUktUNlNsb1pDbEc0NXR3MzZjMTkzaWhPaTUtaDVxQlV5UkdEYk5Dci1ONm9ta21qa0ktdlZYQ08wVV9Gbzg2dm9LMDc2eTdCQWhEakV6d0tJdjdVdGdzcXRtQXZBZ2Y4RlNVcW1BdHdlbmJ4cUNiY2c5QnBCdExLckluVThncnA0cjdvQTktdjRMRFpNU2pXMmJaaEVhRlE?oc=5",
@@ -669,6 +683,11 @@
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMmN2Yy1QWXhza3NrcnZGZzlRTWZmeEV5NE40bFNDZFhBU2ZxTlUzTHpreEZoQzdWM0lZcXJXNk5fMG1vNlRjdmJ6ZkR4aURVaFhRR2YyZXRuUHpTb2NPenhRT2g3UlRmY3NEbUVVNnVUYWNFSW82T2xjZnI1dDhESTF0V3R1c0IxaVEyem1zSFFHSWR3YXItMndmcHQtOTNaQVk0X3FHYXlVd3BNbkpJYlpZYUpOWFl2VGRfbGpOeFNaYkJwQUVCcDFBTmw0VlhOUlUyY3c3RW5MNTZhMHNUTw?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODc1b0s3MjhWRW5JUGZ1aEV6dm85ZEdjSlhZRkthRWZOT2ZiMnB5b0w4TTNGYXNFWGVSeXRrYnFlTkowMjVMQVZWMUNjbEZGQmVZNGdMMl9CVzdhaV9wZWNNT2F2MVBYY1g4T3NEUVA2S2hnNkFUeUh4TDdHS3lBZjJVMFA3U0xRVW5rakdFVlBwVFdyTlc0czV2QklJaWlyMXRrcQ?oc=5",
     "https://lahora.gt/lh-economia/jveliz/2026/10/22/guatemala-y-belice-impulsan-produccion-de-combustibles-sostenibles-de-aviacion-para-reducir-emisiones-de-co2/",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTIzS2lFX3JNS0JNQ3RCYmZfbmFxVGNDb2MzTER4X1BqbTI1WUczX19IWl94UU85RnNIYWFSSU9ON0RYU3h1ZF96TXJFWUk0VnFTeUZhdVBUX1g1c2c4eUhRUFBIblJTdmtpWFQtbkQ1TTExY2xhMFVBbHZReVdUV2JNYjB3RjlYWjRZZDFyQlZWcnJ6eEJDQ0JUMEF5bHVYZ1ZCcFR1OEVKa3dkcFIxNWJjeE8zWFV2WHZLb2ZMbnFVdjVBV2lHcW53b0VDOUhpUWp2LWppdkZIazNTVDlTODVlRFBHQ2JDOEtiRWxR?oc=5"
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTIzS2lFX3JNS0JNQ3RCYmZfbmFxVGNDb2MzTER4X1BqbTI1WUczX19IWl94UU85RnNIYWFSSU9ON0RYU3h1ZF96TXJFWUk0VnFTeUZhdVBUX1g1c2c4eUhRUFBIblJTdmtpWFQtbkQ1TTExY2xhMFVBbHZReVdUV2JNYjB3RjlYWjRZZDFyQlZWcnJ6eEJDQ0JUMEF5bHVYZ1ZCcFR1OEVKa3dkcFIxNWJjeE8zWFV2WHZLb2ZMbnFVdjVBV2lHcW53b0VDOUhpUWp2LWppdkZIazNTVDlTODVlRFBHQ2JDOEtiRWxR?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGkwY016T184SlZDSmFLMktIcHJ0X2t2WmJObXVJZy1ZM2tiUlVuUjM2TEpDZjl2ZWVoZHBoWU1TbUgyWkVzdXRJeTlSTzNMbDZUR3Nqd3VrTHg5ak5yTUJJY2JibzZNSDhqSWFvNmRSb2NKVThEZDlxbnNnV09MVERFVHV3TWdnWGkySWhSaFc3N1V0amxKSG5kcnd5YWJKa2g4dTU4dlh2Y0dwYi1fTw?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDdVVWdqTUtmUk9va1owTU0wZVNxWEMwRE1LVlJ2Wm5xa2tSRUxlajdtYWMtUzZ0UHZESVVialpIYkZ1Ml8zTDctWi1uc1BnR2RFZjlxdHhDNUd5dlltQU9HRFRod1c5Yk9ZZTFJWG96WjRUQXA3cFM0T3lyVngwNFBhLXEtdDBiMEoyVVExM3JuMjdFRHRnZXd6M3RWTkFYc1lYbXhRUnpwekhpSWtqNkxWYUJWTjBwNTlHNA?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPel9PMzU3b0UyRlZTMkY2ck9hWHhIM0EtRHp1ZzJQLURCMk1wT0hBWk1lY2tFSlE5MllLYzBRaThpcG4wOXVHMUl2eV91REhpRGhsd195YmZqeURwLTNiV0sxMXc3c2R5eURVRF9YaGdMUm9yV2lULWY2LVVJdnZUeXlrTWp5c3RuRWQ1cmwtZGNmYXdlSmR4a3pVd0xOMWU2T09yVC1acHczbkgtZ1c5U2dWMTZRdWU5eC05Y2VqODhTWGctYkEwbGlZMmJjZ3RtdEdVT3RRNVROOHhpQkE?oc=5",
+    "https://www.prensalibre.com/economia/sat-solicitara-revisar-meta-de-recaudacion-del-2026-por-exoneracion-de-impuestos-a-combustibles/",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmw1bEU4am5nZnp2X2txUU9nYzh6UjRWVFk4VEdDek0wUWZweFRRd2JrZUlVVlFQZmx4ZnRuY2hiV3Bsd0kwd011QUFNNU11M2poYkhDWEM2M0FnTDI5amg4ZF9UTmw5ZXBGMm1XX1Q2UkFzQk9mUXVPdk1uNlNYOUc0VWNCREFzbGxTdlRsSmx5VWFBTFYtbFlrRGc1ZHVpSUpCc0FWc2l0WlZlSk9fRFFDUkIwcUtnSm1TTTV5OV9FcE8tNWQ4cE04d2E5dw?oc=5"
   ]
 }
