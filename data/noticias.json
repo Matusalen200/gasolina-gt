@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T19:06+00:00",
+  "actualizado": "2026-10-26T23:08+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 12,
@@ -7,6 +7,39 @@
     "NEUTRAL": 32
   },
   "noticias": [
+    {
+      "id": "fbe8d3ce3ae3",
+      "titulo": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Beijing-Pushes-Domestic-Oil-Production-as-Iranian-Supply-Dries-Up.html",
+      "fecha": "2026-10-26T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "21021b41ddb6",
+      "titulo": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html",
+      "fecha": "2026-10-26T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "ee28ac13b7f1",
+      "titulo": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
+      "fecha": "2026-10-26T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "b1f55ac5a79c",
       "titulo": "Average price of gasoline during Trump's term now exceeds Biden's, as midterms loom",
@@ -272,6 +305,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "89b7d1880556",
+      "titulo": "¡Baja la gasolina! Así amanecieron los precios este domingo",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGxsWG1kQ3ludHJEbnBXakpsMnE5Ym1HcVFSN3IzTlEwSFRiMUo4cEkzeWMyb3RZNkFqOGc2SWh3aEVnWndBb29WV216WWZ1T3haSTVyMm5jMWNpS1ZJTExqY2NQTlJ6djR4ME0ta21xcXJHSjN0VDlNVjdiTlB0eVN2YTlNbHktQ1lwbm81SHE4dUU?oc=5",
+      "fecha": "2026-10-25T16:30+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "3cf9f655ef5a",
       "titulo": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
       "fuente": "OilPrice.com",
@@ -360,6 +404,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "04f3724f0129",
+      "titulo": "Oil spill off UAE coast prompts beach closures, cleanup effort",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB?oc=5",
+      "fecha": "2026-10-24T08:43+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "afc66c0cee53",
       "titulo": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
       "fuente": "OilPrice.com",
@@ -368,6 +423,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "14ecfa883424",
+      "titulo": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+      "fecha": "2026-10-23T22:52+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -489,72 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9a3212c3bb55",
-      "titulo": "India's Bharat Petroleum profit drops amid crude oil price volatility",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVdwV1JLUVdlRmdFcGNlOFFfZlZaVEEzRWxVMTM2YTV5SmJ0TENiZURHbkJZdEcyd3lybVE3NGFvbnk5ZUFNN0RNMENoVVE3TVhEbkxpcko2aTNfUVRnZU9wY1RCay1yZUhyaUNVRlYxdng3RGc0STA0cnZqTVJtbzZsVnNicnRjaGZPNVJrM21FcVlvMjZGSUJoaU9UZS1SeTRwanJCNmMxQUg1UHdrczRhRl9oZzNkaDVVSg?oc=5",
-      "fecha": "2026-10-23T14:37+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3ad47e3f4dd9",
-      "titulo": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-      "fecha": "2026-10-23T14:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b388595cb5b4",
-      "titulo": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
-      "fecha": "2026-10-23T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a41f3caec0a8",
-      "titulo": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html",
-      "fecha": "2026-10-23T13:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "693771ef8abc",
-      "titulo": "China calls on oil, gas firms to boost output, build strategic supply bases",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0RFYzFuVnNTcWFqV3k0V2R3NVJjN3VLcmwyMk9WZnlKWTNxTVdwTEdOMUlYZmFMNGUydHYyYUdKd1ZUSzU1b2dfdDZFN3BGLWVfbkJyNmlQLVh5RmE1MEY0SXlzdVB2d2UwcHhPSUpIZmVxMEhCVXRFSGZCZEtHVV84X3FhbDVodmV4SHJlS1Axa3VHd0NUZ0RqQXNLRlczMEQzNmE5VjdtMXFza2MyTThOSmw2bzFVMV9z?oc=5",
-      "fecha": "2026-10-23T13:25+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "663aa9e76bdc",
-      "titulo": "U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Partner-in-Venezuela-Oil-Deal-Looks-to-Hike-Crude-Production.html",
-      "fecha": "2026-10-23T12:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
