@@ -183,9 +183,9 @@
   },
   {
     "fecha": "2026-10-27",
-    "puntaje": 27,
-    "tendencia": "alza",
-    "veredicto": "Llena HOY",
-    "cambio_estimado_q": 0.1
+    "puntaje": 4,
+    "tendencia": "estable",
+    "veredicto": "Sin apuro",
+    "cambio_estimado_q": -0.05
   }
 ]
