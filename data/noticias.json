@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-27T16:28+00:00",
+  "actualizado": "2026-10-27T18:37+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 11,
+    "ALZA": 12,
     "BAJA": 7,
-    "NEUTRAL": 32
+    "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "2f7a0174429a",
+      "titulo": "Russia’s Crude Exports Set to Fall as Diesel Production Rises",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Crude-Exports-Set-to-Fall-as-Diesel-Production-Rises.html",
+      "fecha": "2026-10-27T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "caeb119f87c5",
+      "titulo": "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Offers-Discounted-Oil-to-Europe-as-Exports-Recover.html",
+      "fecha": "2026-10-27T17:40+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "62ddfa1a8d3c",
+      "titulo": "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Brace-for-a-New-Iran-Escalation-After-US-Midterms.html",
+      "fecha": "2026-10-27T16:37+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "3b64beb43ba9",
       "titulo": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "75c71506186f",
-      "titulo": "World stocks gain ahead of 'formidable' week for risk; oil prices ease",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5",
-      "fecha": "2026-10-26T00:46+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5bf7f3e3ccb2",
-      "titulo": "Oil inches higher, stays near six-month highs on Saudi attacks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
-      "fecha": "2026-10-25T23:24+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "89b7d1880556",
-      "titulo": "¡Baja la gasolina! Así amanecieron los precios este domingo",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGxsWG1kQ3ludHJEbnBXakpsMnE5Ym1HcVFSN3IzTlEwSFRiMUo4cEkzeWMyb3RZNkFqOGc2SWh3aEVnWndBb29WV216WWZ1T3haSTVyMm5jMWNpS1ZJTExqY2NQTlJ6djR4ME0ta21xcXJHSjN0VDlNVjdiTlB0eVN2YTlNbHktQ1lwbm81SHE4dUU?oc=5",
-      "fecha": "2026-10-25T16:30+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
