@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-10-27T16:53-06:00",
-  "revisados": 4,
-  "nuevos": 0,
+  "actualizado": "2026-10-28T11:08-06:00",
+  "revisados": 7,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
-      "tipo": "estacion",
-      "valor": 34.19,
-      "t": "2026-10-25T20:52+00:00",
+      "tipo": "promedio",
+      "valor": 33.99,
+      "t": "2026-10-28T12:46+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/economia/2026/10/25/asi-estan-los-precios-del-combustible-este-domingo/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/28/asi-se-encuentran-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -18,14 +18,14 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-25"
+      "fecha": "2026-10-28"
     },
     "regular": {
-      "tipo": "estacion",
-      "valor": 31.69,
-      "t": "2026-10-25T20:52+00:00",
+      "tipo": "promedio",
+      "valor": 31.49,
+      "t": "2026-10-28T12:46+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/economia/2026/10/25/asi-estan-los-precios-del-combustible-este-domingo/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/28/asi-se-encuentran-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -35,14 +35,14 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-25"
+      "fecha": "2026-10-28"
     },
     "diesel": {
-      "tipo": "estacion",
-      "valor": 42.19,
-      "t": "2026-10-25T20:52+00:00",
+      "tipo": "promedio",
+      "valor": 42.69,
+      "t": "2026-10-28T12:46+00:00",
       "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/economia/2026/10/25/asi-estan-los-precios-del-combustible-este-domingo/",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/28/asi-se-encuentran-los-precios-de-los-combustibles-este-miercoles/",
       "n": 1,
       "fuentes": [
         "TV Azteca Guatemala"
@@ -52,24 +52,24 @@
       "discrepan": [],
       "confirmado": false,
       "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-10-25"
+      "fecha": "2026-10-28"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-10-23",
-      "q": -0.8,
-      "pct": -2.3
+      "vs_fecha": "2026-10-25",
+      "q": -0.2,
+      "pct": -0.6
     },
     "regular": {
-      "vs_fecha": "2026-10-23",
-      "q": -1.1,
-      "pct": -3.4
+      "vs_fecha": "2026-10-25",
+      "q": -0.2,
+      "pct": -0.6
     },
     "diesel": {
-      "vs_fecha": "2026-10-23",
-      "q": -0.5,
-      "pct": -1.2
+      "vs_fecha": "2026-10-25",
+      "q": 0.5,
+      "pct": 1.2
     }
   },
   "diario": [
@@ -162,6 +162,12 @@
       "superior": 34.19,
       "regular": 31.69,
       "diesel": 42.19
+    },
+    {
+      "fecha": "2026-10-28",
+      "superior": 33.99,
+      "regular": 31.49,
+      "diesel": 42.69
     }
   ],
   "tope": null,
@@ -431,15 +437,22 @@
       "titulo": "Así están los precios del combustible este domingo",
       "extraido_por": "reglas",
       "salto": false
+    },
+    {
+      "t": "2026-10-28T12:46+00:00",
+      "fecha_dato": "2026-10-28",
+      "tipo": "promedio",
+      "superior": 33.99,
+      "regular": 31.49,
+      "diesel": 42.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/10/28/asi-se-encuentran-los-precios-de-los-combustibles-este-miercoles/",
+      "titulo": "Así se encuentran los precios de los combustibles este miércoles",
+      "extraido_por": "reglas",
+      "salto": false
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNS1xSzFCN19SMXlRdzg3OHFrNkdXcTJON2lUVm5UaVRHQVZSSThtQVZ6eDYxNTMxb29zdmJNOTZ6dV94c0k4Q091LVZiNV9ENWpubzVNczdtS0FhbWZNazAxVnFacFlXNW04ZERhNm9qUE54TmhnZEpfLUJIelJucm1LY3E2V1RpRllLdzM3ZVc5bTdQZEtRTmVRbE55OTBXZEdvNHplSC1QTVRlLWZMaHk1Yw?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekRrS1pLbDVsZlQ2a182RmpqckR5aHdBbUthU0tJaTBVZF80YTNORW0zczNQWGdqWEFzODBiRWgzbC1YYWt4bkxiNTQ2WUdPSmRCX1RQdWZoN3V5OWRQOGZpdy1OVFpQY2NyWkp0d2ZKbVJUX3hPRWV2ZTZEdWQ0R1pJRm1JZEtqZHFpMkxrLTdUcDlyZ3ZfN0xoLVlZMGpUX0tn?oc=5",
-    "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTFlmcmxUeGtVY3VsS3JJQ3M0NHZ6NVkzWmJoaUtPN2lzRGpQUl9JTXQ3VWZGSTJXLTZhUkpZb1BHbjRFTzhYNFAyeVF4VWpfLWxwZ0N6aGJZamRESTJFWDctX1NnMEZ4OGd2VWJrZmsxUzVGaDBjbnQ2aW8yajFJOWhiTGd6RHhLUTlVLXBhUlpBVFdhYm5GSkh5SWJXY29NajVPOEpqdGozMVl4UmJSVHFUdkpVRWlydEJqUGp3SVdPTV9CaXJ2ZnJqTnpveDMyWEhCUjd6Ni1JT3Z1ZmJqbjdlclhiMFM5WkhOWE1ha0loTUp1c0VWZ0pVUEFnVmpyYy1aYw?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjZzRkhZbTFrNHlmSlhmYUNZQ2dSYnA5S1ZPZndTS3lHRUx2dkxPWE9yb0x2cDQyMUlydi1femZURTUybjlzdDlaTHI0bktIRldpaGV2alVvbnB3ZlZ6aW5adjVOYzZ6bGUzTk44THpuazctMlZod2NZYnM0S1BmNTAyV1RBY0JxQWVid3ZPQTcxYWM5bjZZNHJVaWZ4TWVlNThseTQzazc5dFJBbVJV?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREpRWjhOV2JRd0V1bDdMMGhrd0dWTkM0U25RUERnX0JzanRrdlBBSWktaGRfTE1MNUdaWUI4QUNiLWlhclJMREFNZnFQUnBWMEVEUGtlTTl0UU1JQXIxRVhRSmgtZzFSR1U5ZzhYVkEyZXlOSzBIT3RsZWxtXzdPZzFqWXh1YXF3V3pqckdyNlB1Y0N0VjNUbGpxdDE2YzVxQWJpdFFLY2ROYWhja3hBakhWUU14QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVFXaUJ1clRlQmNHa21BYkhEdEE0cGhxclFHNXlNUFlHVkJKb0YtYXFZM2RvU1FVNFJ4bmt3RjBfRXdNMHRwVkZ3eVlCa2ZGRlRFTXhuRkxzNGpITWR3M0FQN0g2Z0VsZ3laa25rZDZhbkFHVnozWEhKTDZLdHYyN0xFWEQ4YmlJbDB5SVFMTHplck9VNUpKWmlWQVYwRFhzTDl4aGFEaHlrTXNUS1U2MklfT0RlcTl4ODNoSzJhZDZjbTVCNUEzU2tlNURhUnk5NVFQadIB7wFBVV95cUxPYVhiMjVWcmdnRWVGbDZ5N2ZkTTljZVdiQTRabElaNGhTZi0wcVNQN2J0R250SkI3cU1oZWhsTFlOS3Q5OVVlOTM2R2o5S1BoSmVBMGtaX1FvaFI0LW9mYThsMlpRaFpEWW5tSnctb2JmTGJaQ1d4Zlhja0lvSFpKT0tWTnZpWEFyY3llZWpVMTYzTWZ6OFVXVHRUWVN2U1Z6WVV5cUpfallrV1pBa0Y0RGY2amtfRE54WS1fNkU1d2QxazlQOW9FS0pBUGdDLVF0SEstYzN2aERhSWpJZVFoSWIwUG41LXJ6RnNzaUhpUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHUxZFAtNXdKUGh0cG90a3JYSUpTWUk0RTcxT01nbzRZT0kzNjFLZ3p1a3pmUzZ4dFJ2VS1kRzFLZEo0X1B0SjlxN0laaDRyZHVFOW44LXQxYWNoR2VSbVNEdFgtM3kwaDNxN3FYNUZWVjdfcWNaRDFjaDlhNjZmS3AtRGN0bkFIZE95RGJxdWxHRDZjZnhucUhWa0JyYnlES3RQUl9WeGg4Q1NIbDQ5eS1WYmpPUDdDS0R6RnJwRDZmRGc?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZklsNGdhWm8xTTBlVjRFZWNneEt6alpGUEZFYTBVZzBVdkxQc0t2U2pPUjFZRzhRYUJiZUptY3pNQk92ZDRPcjEyVjRIWnNzY2lacjlDelkySGl1c256ckJVOFloa1JmY09DQjBFT2FzOERvbWR0MGJIZW55cTF5a1A2bnR0RWNtUlNOMjVZcTZhdG91SjZaemZqRDRIRzduajZZeFBUNV9tNEFsVm8zNWJPQjdVRUxtMHJnd2otaFBiN3ktNnN3?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWlQdmFqdHVhUzFsV0laUFNKdk5PVnk2NTV6Qk5nVlVSZTQyYzV5dGZzTmZxbnlSV1dtbVc0d2FoRnFla20tR2g0SEpZT1BWQ0U3T3Y0amlIMmVVWW9sSDM1TXdnSkpEODhtRmctQmNMQjl1cl9sZUowQ2VoQlA1R1lJRkJVaTNkS3JGRzlqZDdHQ2ZHSnhsTm44ZkFLckd5a0ptYUNXLVV4cTdUc1k5bVlRcE81VlVFcWVuWmx5Ym8?oc=5",
@@ -733,6 +746,12 @@
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRnRJNS1vYV9sTE9wbG9fTG1sMXhGTFVfTGJkX2tkMVRSdUZwMFRZeFEzLU11bl9tQ05IRWd2MGJSMl9hWDZxVlFpSEEyNXIzWGwxb3NDQ3lwUTVDTThTZFNMVTJTN0ZPNm52ZFRKQUIyeEd5bWNwRm5KX1Fqb3Mtblo4Y3hJdm9YWjF1WVJnMi1HUnNNc0E0cUwxX1FiZUNRTU80RHRPNUpoR1MtSWlRS3hFeVNsZEFweW1OQ0tHaEVpNENmengweEswdGhwMVowY0k1a04wVXLSAdgBQVVfeXFMT0Z0STUtb2FfbExPcGxvX0xtbDF4RkxVX0xiZF9rZDFUUnVGcDBUWXhRMy1NdW5fbUNOSEVndjBiUjJfYVg2cVZRaUhBMjVyM1hsMW9zQ0N5cFE1Q004U2RTTFUyUzdGTzZudmRUSkFCMnhHeW1jcEZuSl9Ram9zLW5aOGN4SXZvWFoxdVlSZzItR1JzTXNBNHFMMV9RYmVDUU1PNER0TzVKaEdTLUlpUUt4RXlTbGRBcHltTkNLR2hFaTRDZnp4MHhLMHRocDFaMGNJNWtOMFVy?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNamZxR2FGb3VGRXdFWEt0TlYtc0J1OXhvWnFKZkl6UGN6c0IzTy1oTUZmTTF5UXFKbWh1QUhRU1g4REV6V292bDNIZkE4UDZpQm9zSHRJWFpJTWVQcU1tYXgxQ1JKMm14cG56cGJzclJJSDFCMjNzTjlOWHh4VXItMTV1RjcxUlpmQl9nWDVRTl9LTG5KWk1DZWR4V3A1djV1NXNNNjhaY2N3cWpFNEY2LU00NW43dw?oc=5",
     "https://lahora.gt/lh-economia/jveliz/2026/10/27/mem-realiza-234-inspecciones-y-confirma-calidad-de-106-muestras-de-gasolina-regular-con-mezcla-e10/",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM3BlNUdDMnNJa2tPZVpFNURTVmhIdHhhaWppM2ZtbHdkR0tDcXV5UXZBVWNJVU03eTNGemlOQ3dnbThGVW1UWk9PbjZ5RFBxemE4M1V2aTRnM1hlc3NyVHZrMUpUODB5QlpjanNIdEt6blJWNllYVTNfVTZhODJZd3dfNHd1Zm1WQXZvWWdWNjJmSXplLTZ2TllfODVxNnNWb0xpMkNXbUtHc3p4bmRwcEYwQlFxZ050Yjkzb2V6T1hKNzJaa1dEU0dqTnh4X0ZOckRtUXQ2ektuTjlVV3pmXw?oc=5"
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM3BlNUdDMnNJa2tPZVpFNURTVmhIdHhhaWppM2ZtbHdkR0tDcXV5UXZBVWNJVU03eTNGemlOQ3dnbThGVW1UWk9PbjZ5RFBxemE4M1V2aTRnM1hlc3NyVHZrMUpUODB5QlpjanNIdEt6blJWNllYVTNfVTZhODJZd3dfNHd1Zm1WQXZvWWdWNjJmSXplLTZ2TllfODVxNnNWb0xpMkNXbUtHc3p4bmRwcEYwQlFxZ050Yjkzb2V6T1hKNzJaa1dEU0dqTnh4X0ZOckRtUXQ2ektuTjlVV3pmXw?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNE5mZ3F1MVAtWHdXc3VzM0FsRWg5V1I4QVlidlB2eFpCWkpoQ2tJUGJCdmZHYzhmTVdWYWVpZzN4bmsyTUxvTUc5RlRhRE5rRHF4d3U0Ym5MdU1acGJ6RTdmODB3Y2J6bWFxZUtXdTRTWjlobkRHQ3lFSWtBekN6YTlvRUxCNTdSX3pqSF82V0pOVjhJSmtpMENrUUY1WnJGXzlzbHlvSHZiaW1pWFp6ZWNfZ0xkZy1hUUxCTkJHVUNIOGp1TFRsbHBBaHU0UzF3Nmc?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0Ita25mMm5EZVl1SDRuczRWNGlicmtwU2NSRWUwWHhLN0ZRaHN0YWFGTUVLWTZrVWExZ0dzVkNnRzgwQTctWVpIRUlSM1poNDVneWoyMWVMYS00bDBOcjBfVjhmR2lmc085VDUyLXR3SGMxZ1dHWTI2NjNacFFfLXlBLW1qZVljRjdUeWVkOWNYY2hBMmJ3ajIwSXhZQkRhZEUzVGliYkZCb0FDYkVDdC0zWnR6cnJIVC1iQzhRZmctR1hk?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMnBTUDlTb1h0R21PUGlUczZtZG5BdE8zZkVBVFV1alBVQnBJcFJFdGtOanp1Sl9rekdYRUNpT3NzU3NydExrMjFsTHRvdC1Rd0ZhOXY3VzAxOUhqNWV5RE1TdHpwWUZzTjZ3VnJ6MERoai1KYUhvemtVa1JmVHVVNVViY0FhVGYzcWc1TV9QcmNLUHpRVllMNTdndkVsdGpIVWZ3TGxTS3FRRUJZQ09ENmxYUFVCU1dpandwSzJET2NicGNfY2dJQlc3S3V3V3NZaDEwVXA1clk1ZVItcUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWJYcjhzNzlOcTJDNDlyRG9SVjB4aHlaX3dQNWxaRmQ0cE9lb255NDJ4LTNkM3ZCc212WWY3VkZGXzJpZXhxUGZrUXR5VWRtX09kbG1XQ1c4YkJPVkRiMnhKa0gwZGVkWk02WVIwNkNaMXp4cmExR3lnN0tlWXduUDZrSjBKVmMwZ0wxdXdUWWFubFZMQkViSk5mZzlmYlNUN3kxQ3RTaWlNMHFGXzYzNGxOUE50TmNf?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTNzSldsaTZBT1p3VjhHU3NNMDRoMHFCanNXbHM2ejktRmZ0WlNTVlZUbWlvYmxXQnk4dS1NSzhfM1RKVTRYVGpONEM1dURKRDY1a2pOX0dDbjdFQzdibC00Vk5xWXNOUDZnM2s0ZUw5SVJtaWZTYnV6dW5nR21jcmFjMzdSS2NHV0UxeV9PdXJLMGlyZjZyaE5sUGNiUHVvNDhqZEE2TWF4YVoyMXNXbTUyRkdVV2JIQmNKWTZmdmFJUE9mUmY3bw?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxSDhQbDRPOXpZRkRnanlhUVlxVl9kLXAtQnh1dmdkMmJBSjJrYUE1T2c1VnJLZll1Njg4YWFNSHpaNkdOM25hQWdlbS13azhQWFpOSzBqSW1vSW1kYUszUlRINkcyYmFEZlpEXzJWeTNOeFdnZXY5OUd4WXE?oc=5"
   ]
 }
