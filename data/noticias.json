@@ -1,12 +1,56 @@
 {
-  "actualizado": "2026-10-28T18:43+00:00",
+  "actualizado": "2026-10-28T23:02+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 7,
-    "NEUTRAL": 31
+    "ALZA": 14,
+    "BAJA": 6,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "7ea1e06e36b8",
+      "titulo": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
+      "fecha": "2026-10-28T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "bf0c87b80669",
+      "titulo": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
+      "fecha": "2026-10-28T22:28+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4646c3183016",
+      "titulo": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/los-pasajeros-de-un-crucero-de-lujo-quedan-varados-en-camboya-por-el-aumento-del-precio-del-combustible/",
+      "fecha": "2026-10-28T22:09+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3b65ef280fb7",
+      "titulo": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
+      "fecha": "2026-10-28T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "85fe97bba1a5",
       "titulo": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
@@ -181,6 +225,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8d8e02cff1e5",
+      "titulo": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
+      "fecha": "2026-10-28T06:16+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -497,61 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUYxT1ViMGFGdllJWVo3MWhKOHRrQnNmRVJ3WFhJWUlaSjM4Y3RtSXoxOEN2V01HUHltbkNSSHU1Z1lmMzZqcXZpMElRako4UE10ZFhRZkhwZU9fZmZMWVJuSTdFYTJHdTVjaDBZT1BIbmc5M2g0WFdhNjlRQjZzLVJ5QTBVd1B3c0IyaGRBNVpsUmpyMXBaQWpvWGg0Wk80VHhWUFpaczlzRFJtanFR?oc=5",
       "fecha": "2026-10-27T11:39+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "dd8fa0cb1d3e",
-      "titulo": "Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Drives-Indias-Fuel-Export-Windfall-as-Earnings-Reach-126-Billion.html",
-      "fecha": "2026-10-27T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bbf1f3b30d80",
-      "titulo": "Rupee boxed in range; traders focus on oil, outflows and RBI's defence",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdExOUm5MeUdBandMV1pOZ1NLWVJmVzBNLWVxanItNkhBVXZrdy1vMV9UdG02dGVvNTBiRmJ4UFRYWUkyZlM5TzRGYURJYVduRHlZLVpQM2xGcDJEemtfM253OG1mWEVwaU5sRXkxN1NDbTBLcHVHbkgyNC1jZ2tGRURPQWlXQnQwR01KMWV6VDE0MURETTFxREFHYk1SMUJsYkV0N0YxUWRkZw?oc=5",
-      "fecha": "2026-10-27T10:33+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "9f48fafae8cb",
-      "titulo": "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Rejects-Claims-of-US-Pressure-Over-Russian-Oil-Purchases.html",
-      "fecha": "2026-10-27T10:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bad2cbe66c27",
-      "titulo": "Mapping the Market: Oil may be in for a slide",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzREVRR01MNnJBRXNPSk1udk5yNnU5VjZjTGowVW94NGZsdVd5YW00REE1Q013QWpGTWtQT184cWJJNlNScWduTWVGdmFHc3Q5MlVFVU5yWloyNjhvc1UzV0toeThrUWhvN21wdWpLVDdlQ1E0ZmtzMQ?oc=5",
-      "fecha": "2026-10-27T10:06+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8b0994ca6993",
-      "titulo": "India seeks bigger share of diesel exports on refining capacity boom",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNby1QU21PZ0R2bmsxSkp6TmhWT29yMXVfZ1ZKanJyU2ZKcy1TX3liRWdUQXhSYjdxV0cxUWtYN19USFIxdzNiSlFMRTZNaWFxNWt6MlljaEZFbGZ2c3pLWnJlTldFd19ma1pZOGJ2MGh6WnM5WGFXQm9nU3lIMWFNTjVsUF9rMlB3MF9uWWlPTHZzWVJvT1Y4Q21vQ2lJV1VhakpCSnRPc0tGblMzUWhlc056MEM?oc=5",
-      "fecha": "2026-10-27T10:02+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
