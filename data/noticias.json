@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T17:09+00:00",
+  "actualizado": "2026-10-28T18:43+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 12,
@@ -7,6 +7,17 @@
     "NEUTRAL": 31
   },
   "noticias": [
+    {
+      "id": "85fe97bba1a5",
+      "titulo": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/UBS-Sees-110-Brent-by-Year-End-as-Gulf-Flows-Stay-Below-Prewar-Levels.html",
+      "fecha": "2026-10-28T17:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "52f3ded008b2",
       "titulo": "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
@@ -228,12 +239,34 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "df94b8a947b3",
+      "titulo": "“Me han enviado como regalo un cargamento”: Por qué Trump recibirá un millón de barriles de petróleo de Venezuela",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/internacional/me-han-enviado-como-regalo-un-cargamento-por-que-trump-recibira-un-millon-de-barriles-de-petroleo-de-venezuela/",
+      "fecha": "2026-10-27T23:52+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "8533019b6d9c",
       "titulo": "First Venezuelan oil from US-NABEP deal arrives in Texas, to be sold to Exxon, Citgo",
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5",
       "fecha": "2026-10-27T23:19+00:00",
       "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c201e54fb6d6",
+      "titulo": "UNO Plus llega al país y sorteará un año de combustible gratis",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1NnUHJTbGRfWWY4SmhJQkFtRDY2Q2pXbDIwWXFEdUlCVl9lT2hkQkhGWGwzTjdwME1IaEFaNWh0R095WWJ1SmdqNWRTVkFuOFJHdElFdlprWWFuMUdaeDJzT1JFZy04NkloZkRDQzg5QWx6aW5xZHJtdDZrZlBJYkljQXFDUWx4eHI1OVZQRHBxTGpya2hMRg?oc=5",
+      "fecha": "2026-10-27T23:01+00:00",
+      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
@@ -481,6 +514,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "bbf1f3b30d80",
+      "titulo": "Rupee boxed in range; traders focus on oil, outflows and RBI's defence",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdExOUm5MeUdBandMV1pOZ1NLWVJmVzBNLWVxanItNkhBVXZrdy1vMV9UdG02dGVvNTBiRmJ4UFRYWUkyZlM5TzRGYURJYVduRHlZLVpQM2xGcDJEemtfM253OG1mWEVwaU5sRXkxN1NDbTBLcHVHbkgyNC1jZ2tGRURPQWlXQnQwR01KMWV6VDE0MURETTFxREFHYk1SMUJsYkV0N0YxUWRkZw?oc=5",
+      "fecha": "2026-10-27T10:33+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "9f48fafae8cb",
       "titulo": "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
       "fuente": "OilPrice.com",
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c2f66fc82904",
-      "titulo": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMk1rLTI4Z1oza3I5SDJ2YUR0WUhiQ0RmWV9KLUpCSHMyY1FoSFgwWUFOc010MzIyWThVNEZvRFl0YzBzNHFmazA3ZEV2ZzRPX2pNWU9GSVd5Z1VnaVRGdmdSZDVEVVlGTmxuNVlsdzNSMGlBdW5UYVRpelBBXzhLOWkwd2pST0NmQjRMek82VS1ncXZTWjk5Q09reDQtQmNON3NfRF9ld1FUWG1hQW5QRFZySkdIM1VKRzVvbGZLVEE0V1hPQ2dsTkNnZw?oc=5",
-      "fecha": "2026-10-27T09:38+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0ab385e2efff",
-      "titulo": "Trump Moves to Ease Methane Regulations for U.S. Oil Producers",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Moves-to-Ease-Methane-Regulations-for-US-Oil-Producers.html",
-      "fecha": "2026-10-27T09:35+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5f1f618b8284",
-      "titulo": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
-      "fecha": "2026-10-27T07:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "116640c778c9",
-      "titulo": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-US-Strikes-on-Iran.html",
-      "fecha": "2026-10-27T06:15+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
