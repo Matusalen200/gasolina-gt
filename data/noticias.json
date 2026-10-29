@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T18:52+00:00",
+  "actualizado": "2026-10-29T23:10+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 17,
@@ -7,6 +7,28 @@
     "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "22e6348dc1ee",
+      "titulo": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
+      "fecha": "2026-10-29T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "480af308b2f4",
+      "titulo": "Exxon, Chevron Executives Cancel Gulf Visit Over Security Concerns",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Chevron-Executives-Cancel-Gulf-Visit-Over-Security-Concerns.html",
+      "fecha": "2026-10-29T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "e73eb3276d8d",
       "titulo": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks",
@@ -63,6 +85,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "6f40a45111c7",
+      "titulo": "Russia to extend diesel export ban, use quotas to fulfil US deal, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ01aWkZiWm9NUjBpUUZNSV90SzRVbEN4TmM5MU1yV3U5ME9mTV9JM2xISVJvZmlxVmI5ZzV5Q1dic2hteWRoeTgwalJXRGNfQjNzV2pxcUUzRGFkTG1SZFkwd2luRW1zanZuOFNvNjF6Ym5fVk15QUFpWWNnbjZwU2R4bmtzVXMxN3VQU0dRT1NKdTg4N3JNU0FvZ1ZjZm9sTHJtdUdBMFdnY2JIOUlpZmt1Mm9mVmJwNS12SVBB?oc=5",
+      "fecha": "2026-10-29T15:48+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "7c8d7690f37e",
       "titulo": "Investors Are Piling Into Dangote. But Is the Price Right?",
       "fuente": "OilPrice.com",
@@ -82,6 +115,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "aeb71c73941a",
+      "titulo": "Japan plans to start reducing gasoline subsidies from December",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTE5NQnU4Nk1rcEVKRUVyZXdQQTYzbm1LLWFaOENNTzRRRkNfMmxLVl9tMkp0aGFrel9nMUUxdW1qZzJ1NDM3QlFiYkNFOGNRSUl0UFgtMHduc0lwMHlBOXFsb1hqa3RQc2xTWEpyWG01RjdPaEhEbDdPdW5VVlRaWU1BNV9pVzNCOVNlM0JXRHVsV01MSTdOTE5vUDA0aEFPUHFmUC1QXzk2OHlacThtSEhrZF9SaWhXejZrOElsckJ6T08za3lHYVFn?oc=5",
+      "fecha": "2026-10-29T12:32+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -349,6 +393,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "5a3786c47622",
+      "titulo": "Indian stocks could see November rebound; oil, AI trade pose risks",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVN4U1J2anUxVmFraWd2aGNPNFJ0ajVTNk5GOVVUQ1MxbmtqUmtsd195X1lQWWhwRlNUcS1WcnJlRFEyUTN4b2JUWFZnSTd2WDFFS1NSWV9PeFlOTU9YUmJtb2ZIbHBVdE0tNUI1TUtOT2RSOHpsdHJLdFFwYmszQW5YcDdSLWdoWVRCSEJwYUZ3MU8xdHVGYjlpTHZDUEVyV2JLN2NKVFZBRG8ydU5wR3B3?oc=5",
+      "fecha": "2026-10-28T09:34+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "c592c01b9fac",
       "titulo": "Equinor Profits Triple as Oil and Gas Prices Surge",
       "fuente": "OilPrice.com",
@@ -500,61 +555,6 @@
       "idioma": "es",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8533019b6d9c",
-      "titulo": "First Venezuelan oil from US-NABEP deal arrives in Texas, to be sold to Exxon, Citgo",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5",
-      "fecha": "2026-10-27T23:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c201e54fb6d6",
-      "titulo": "UNO Plus llega al país y sorteará un año de combustible gratis",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1NnUHJTbGRfWWY4SmhJQkFtRDY2Q2pXbDIwWXFEdUlCVl9lT2hkQkhGWGwzTjdwME1IaEFaNWh0R095WWJ1SmdqNWRTVkFuOFJHdElFdlprWWFuMUdaeDJzT1JFZy04NkloZkRDQzg5QWx6aW5xZHJtdDZrZlBJYkljQXFDUWx4eHI1OVZQRHBxTGpya2hMRg?oc=5",
-      "fecha": "2026-10-27T23:01+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fc6ed4830c64",
-      "titulo": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Will-Rubios-Jamnagar-Move-Permanently-Break-The-Russia-India-Oil-Axis.html",
-      "fecha": "2026-10-27T22:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "65fd74f3a543",
-      "titulo": "Oil falls almost $2 as Middle East talks help ease supply worries",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5",
-      "fecha": "2026-10-27T21:56+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6f7781fe3be1",
-      "titulo": "Turkey’s Libya Deal Puts Oil Majors in a Bind",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Turkeys-Libya-Deal-Puts-Oil-Majors-in-a-Bind.html",
-      "fecha": "2026-10-27T21:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
