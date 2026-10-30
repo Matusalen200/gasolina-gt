@@ -1,12 +1,45 @@
 {
-  "actualizado": "2026-10-30T18:29+00:00",
+  "actualizado": "2026-10-30T22:53+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 14,
-    "BAJA": 3,
-    "NEUTRAL": 33
+    "BAJA": 2,
+    "NEUTRAL": 34
   },
   "noticias": [
+    {
+      "id": "6673378c4964",
+      "titulo": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Gas-Prices/Gasoline-Up-34-and-Heating-Oil-Up-74-as-Voters-Head-to-the-Midterms.html",
+      "fecha": "2026-10-30T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "0758348de34f",
+      "titulo": "Imperial Oil considering moving ahead with Aspen oil sands project earlier than planned",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZThjVm1xcmxyZGVwTUZuQU9ZX21MVkstd1VQX2p2aEVZSWhJM0RMWlJkR0FUM1NPX2JoNHJxT3dGU3g2bXdfUFJiUDcwYVp4cGhsYjVSMTFRUmpJbFVkOTBBME5oTlhFZVhlYk9Kdkw5SHRBWmVkamtrdWM5aVhZWW96Tk93T2dMdE95MXlxWGFPa0g4MkZXLU9vUVhVQ095dmNnYUQ1a2YzTnNLNUdmZF8xVQ?oc=5",
+      "fecha": "2026-10-30T19:23+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "588aa2dd22ee",
+      "titulo": "Chevron Profits Nearly Triple to $9.9 Billion",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html",
+      "fecha": "2026-10-30T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "2704eef6038e",
       "titulo": "ExxonMobil Profits Double to $15.4 Billion",
@@ -85,6 +118,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "5dc3e57db68e",
+      "titulo": "Asian gasoline margin plummets to over six-month lows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVlhelpKYkpwNGZ3blJlQk9DSmRmVExTTW1QbG01NFB1UGp6STE4Vm15eEcxOGFTWUdsUkRpR09VNFhueEdyMU1KYjROV0VCaWMteTgyX2xBcUJVREptTTNQUFdRekhiZzlJbGZ5WGdYc3ZBbnZYTl9kdWVFcW9ybmEtZEZVcjJLRmdGZk1qTThKUGJUMDYwYllkajQ0Mm1iN2V3cQ?oc=5",
+      "fecha": "2026-10-30T12:50+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "65a5ec551a3c",
       "titulo": "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
       "fuente": "OilPrice.com",
@@ -93,6 +137,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3d1c7f308368",
+      "titulo": "Indian Oil's Q2 profit nearly triples on LPG compensation",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWVzSkNZbFc0QnVmMkpjTUJtVUJoOFlkQlp4V0hnR213VVNUeUZCNFpLVGxsWDFvdmd4bFZ3bWxaRlB2Wm04aFNkVkhoZ0RxaVRkdHRLLUthS2VPTVZTVElldUlZN1I5YmlDc2R0SV80Zk5hTjFINl9tejFxVURhWWN1QTJGMFFrek1vaWNTS1JKdmctZ1FVNGUybC1vWUd4UWJv?oc=5",
+      "fecha": "2026-10-30T11:39+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -145,6 +200,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajZvWmx1cVNMeHVPeHhIXzlVUnhwX3R6WTVnODhySnZvR2Y1QzZ4Y3FBaEUtS0hTenZHbmZWd2Fla0hXc3RpcG00SGtHckdtejJJT19nRFYzYVNrb2dtZ0FSR2lqSlRtZURQNHFqWU92Smh2SGdHMmcxeDduUnlXM19PdmtPekxtemJsbGZUYUNNUGUwdUxhQ2VZWjd4eGl4UGR5NTlDUUhLajQ?oc=5",
       "fecha": "2026-10-30T05:02+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "cf5f8b8508d3",
+      "titulo": "Stocks fall on AI cash burn worries while bonds rally with oil",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5",
+      "fecha": "2026-10-30T02:45+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -360,6 +426,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "3cb8132bb217",
+      "titulo": "Global stocks hold gains after Fed decision, oil prices rise",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5",
+      "fecha": "2026-10-29T07:53+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "94e08241b020",
       "titulo": "Explainer: How could the oil spill off the UAE coast affect desalination plants?",
       "fuente": "Reuters (vía Google News)",
@@ -448,6 +525,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "8d8e02cff1e5",
+      "titulo": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
+      "fecha": "2026-10-28T21:25+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "3b65ef280fb7",
       "titulo": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
       "fuente": "OilPrice.com",
@@ -464,94 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWc0WEJYUlFxU0NnSFFxNkk0X2JUanhWZl9qMlMyTnl4dnlaS1Zlbjd4VEdscXpQbVRwSWNMejdZakVHYVVsQWhRQmQwWWVObTNUVV83c3prVVFab25oVXpkTzd3SnJVYUdiZGFpSEljV3NxS2hwRDdzd3FzVzdFdWNiNUdHa3U1aDg1Qw?oc=5",
       "fecha": "2026-10-28T17:35+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "85fe97bba1a5",
-      "titulo": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/UBS-Sees-110-Brent-by-Year-End-as-Gulf-Flows-Stay-Below-Prewar-Levels.html",
-      "fecha": "2026-10-28T17:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "52f3ded008b2",
-      "titulo": "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Raises-Oil-and-Gas-Output-Forecast-as-Operating-Profit-Doubles.html",
-      "fecha": "2026-10-28T16:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0649f5d8b5b5",
-      "titulo": "UBS Data Shows Russian Oil Exports Only 10% Below Pre-War Levels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/UBS-Data-Shows-Russian-Oil-Exports-Only-10-Below-Pre-War-Levels.html",
-      "fecha": "2026-10-28T16:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "48ea9480c0e5",
-      "titulo": "PetroChina Q3 Profit Jumps to $7.78 Billion",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/PetroChina-Q3-Profit-Jumps-to-778-Billion.html",
-      "fecha": "2026-10-28T15:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4dee073b11f6",
-      "titulo": "US crude and distillate inventories fall, gasoline stocks rise, EIA says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1hhSE9qcjBnV05nbUJKNmwxbmFFUmM4MG5QdEVCaUoteHJQNVFwaXJUemg3RU5yWVMtWnh4U19tLW14Znl6dWZIUDRZdm5rcENwaUZVOEUyQlR6azA1bGRMX00ydXJ5UU1fRE14SE1nQTVxdUt5bkNDTV8tMmE0Z0JYdEtQdnBUbXhOSU9JMFpzdnltMjRjNVBFX1E3YmpIbXpPdU5OM3BvU0tkMmN2LWk3NHkzZFI4eE51eGE3Q29LekU?oc=5",
-      "fecha": "2026-10-28T15:22+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e46cb5901ecf",
-      "titulo": "US Oil Inventories Fall Again As Prices Rise",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Fall-Again-As-Prices-Rise.html",
-      "fecha": "2026-10-28T14:44+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a698e1b16df5",
-      "titulo": "China’s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Refiners-Turn-to-Africa-and-Brazil-Crude-as-Freight-Rates-Ease.html",
-      "fecha": "2026-10-28T14:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f113fb4e4dba",
-      "titulo": "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Iran-Eyes-130-Oil-While-at-Least-50-Tankers-Sit-Stuck-in-the-Gulf.html",
-      "fecha": "2026-10-28T14:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
