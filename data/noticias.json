@@ -1,12 +1,100 @@
 {
-  "actualizado": "2026-10-31T17:41+00:00",
+  "actualizado": "2026-11-01T18:25+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 12,
-    "BAJA": 2,
-    "NEUTRAL": 36
+    "ALZA": 8,
+    "BAJA": 3,
+    "NEUTRAL": 39
   },
   "noticias": [
+    {
+      "id": "1c894df7c9a0",
+      "titulo": "Inde solicita Q1 mil millones del presupuesto del Estado del 2027 para subsidiar la tarifa social de energía eléctrica que beneficia a 2.3 millones de hogares",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/inde-solicita-q1-mil-millones-del-presupuesto-del-estado-del-2027-para-subsidiar-la-tarifa-social-de-energia-electrica-que-beneficia-a-2-3-millones-de-hogares/",
+      "fecha": "2026-11-01T17:49+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7f75daa0acae",
+      "titulo": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html",
+      "fecha": "2026-11-01T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8b5ae8e5fc5d",
+      "titulo": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+      "fecha": "2026-11-01T13:36+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f3e8cf5d586b",
+      "titulo": "Subsidio a la energía eléctrica: cuánto pagarán los usuarios de la tarifa social desde noviembre",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/subsidio-a-la-energia-electrica-cuanto-pagaran-los-usuarios-de-la-tarifa-social-desde-noviembre/",
+      "fecha": "2026-11-01T02:00+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "86cd61505f79",
+      "titulo": "Chevron Raises Exploration Spending By 50%",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+      "fecha": "2026-10-31T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "36ccc7f4115c",
+      "titulo": "Vietnam cuts retail electricity price, removes gasoline tax from November 1",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0MxaERXNWw4U25McV9YQUtQNllvaUxPdDgyUTZEZ2hBMlNEQ3U2ZThXTWwtNTU3UnVjbFdTQ3E3QkhUMVVxclMxcWY3UUdtaVNKTVpwSHk5REdMNUJ3SHN5NUxES2U5eEtkeGFkUTNEejBnWVFCMHZxdE50Zi1uT0ZIcEs1Qk5tQjFyT3FfMDdIZ2tNTUI2Z1diSU0teC1NVndvOGw3Wmduczc2WWxXTUh6aC1xUWZaM2ltbG1n?oc=5",
+      "fecha": "2026-10-31T22:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6305c4e50c0c",
+      "titulo": "Hombre se roba una cisterna con 9 mil galones de combustible",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWlQNnRHaEdraDE1dXMxeTJIM25PSXh5RlpwaFlZS3NxTlo1cWVFUWs1T1pTdXA5azZoVDlMZjhoR282cS1SeEdGUWRybzYxSlBLTW9XM1doUEZaSmFZaW9LbnhnOVlpRWJkSG5nVV91TkJFYXpxTEVnYjNhNmV4NndHVlY2aXphZXhocQ?oc=5",
+      "fecha": "2026-10-31T19:33+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f85e58671759",
+      "titulo": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
+      "fecha": "2026-10-31T18:05+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "88ecc9b77dba",
       "titulo": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
@@ -41,6 +129,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "cded93e8f359",
+      "titulo": "Petrobras refineries run at 98% capacity in October, director says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWxpWUN2TTNUc2JVZ0xiOW5ic25JSmFudFpoOVhJeEpDTUFnOWNYR0Y5VkVlLXdsenZLcndaejJsaXhYdExNZ2NmWk5ocFhwaEp6VTJFVHFIMmp4MWRZN1RoWDJlek5wY1ZqSkRPZmNUM3dBb0RaYnNycnJNWVdzaEpORGc3bnlneVhxNmRTRzFhdEc3c0dNcVNDWHhFTUZ5bGVfa2JKRzQ3Vk5HX2Jv?oc=5",
+      "fecha": "2026-10-30T21:17+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "4edd3a6cf2e4",
       "titulo": "Saudi-led coalition says it downs drone over oil-rich Eastern Region",
       "fuente": "Reuters (vía Google News)",
@@ -60,6 +159,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "83583db56866",
+      "titulo": "Canadian dollar extends monthly gain as higher oil prices raise inflation risk",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX1pUUGVTZUNPbllLVm9EbGdSbkxsUUpYZUo4bXFvYjRnaDlMNnJiYzNsZkRERnJjc0JhWGt2WTYtY2JzeEZxY1MwdEVTbXJEaFhlSERnaUhabXVCTWpSaE9PSkRwdVVMT0NkWE96ZDdLNV9TbU5KVGlqQ0JrRWNXWXAzUl85WHVuMEFQb2JiWnE3aHp0aDhPdkwzeDZleGg1d2VKc3h2d1h6LTEyckdoMURhaU4zSV82TE1YVw?oc=5",
+      "fecha": "2026-10-30T18:55+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -437,124 +547,14 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "aeb71c73941a",
-      "titulo": "Japan plans to start reducing gasoline subsidies from December",
+      "id": "6f882a15d09b",
+      "titulo": "Russia's diesel cargo changed its destination to 'Atlantic coast', shipping data shows",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTE5NQnU4Nk1rcEVKRUVyZXdQQTYzbm1LLWFaOENNTzRRRkNfMmxLVl9tMkp0aGFrel9nMUUxdW1qZzJ1NDM3QlFiYkNFOGNRSUl0UFgtMHduc0lwMHlBOXFsb1hqa3RQc2xTWEpyWG01RjdPaEhEbDdPdW5VVlRaWU1BNV9pVzNCOVNlM0JXRHVsV01MSTdOTE5vUDA0aEFPUHFmUC1QXzk2OHlacThtSEhrZF9SaWhXejZrOElsckJ6T08za3lHYVFn?oc=5",
-      "fecha": "2026-10-29T12:32+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5f6a272a5c37",
-      "titulo": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Profits-Nearly-Double-to-108-Billion-as-Refining-Margins-Hit-Record.html",
-      "fecha": "2026-10-29T12:29+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4cf11f7145d2",
-      "titulo": "Sinopec's third-quarter profit jumps 57% on higher oil prices, refining margins",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaW5ETTZNdWJMSFRsSXZfOWNfLXN0SHdQQmVRajBPVWtqWllNNlZsc3ZVZWhnVDhkczlPcHk2YWZ0dno3VXBtWi1HTEk4U0toZGFSWkZ1Q0xIRVZyeUxBNlBlUzY0dC1vMUZISW41RzkwM3FONnZkcnpvZDFEb2VBVk9Ca1Uyd1R2YUxkVm5adm80MmtUaDE2RklnSlRFNTFndXRjbWhKRlZ4bjRud09mY3FMTlJmTDhhVXY3aktUZVpQVUU?oc=5",
-      "fecha": "2026-10-29T11:52+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4583b2947da4",
-      "titulo": "DNO is looking at exporting oil from Kurdistan region of Iraq via Syria",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjN2eURtb0RqQWZJdEh2Z1R4WElVYjVFdGR3dzd0d2NTVGNDaTgtVEd0Qi1WLWg3MVRBX3R3VEk1NDVtaWI0VkdId1BlZ3FwX0pvNjZkRFJ0UURsOVI1NGlKMlVnQVBRN3NHQnNZU0VvOVNwMU1ocjhnYUEtRF9JbzRYemU1T1Y0dUx1YThyeFhFbUl3aE4zTXJVSEI3WG13bHlNbElzdFk?oc=5",
-      "fecha": "2026-10-29T11:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOF9uX1pKTjE5UkFYZ3JmaXEyRXZleG5zTWZSM1c5R29GcWNBazgzZU12TWZMUTJxaE9wY0Uxc0pzbnRubDZBSThGVTJja0VzeUFEMWY4VXdMVk5aVncxT1lTRm9XOVlnZDh1ZFpBMTRmUUZiTTZESHJHOUxwUkUwMFBVeEVodzNqcHRSd29EMVcwVGkzUWdreTNva1lLQmkyTEdvZlVDaFhZaVFraWExQS1ZemRqaFB0QnY5bml0c19HTEk1VHBEd3ZIOA?oc=5",
+      "fecha": "2026-10-29T12:48+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f83d99eeef6c",
-      "titulo": "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Profit-Doubles-as-War-Boosts-Refining-and-Trading.html",
-      "fecha": "2026-10-29T11:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3cb8132bb217",
-      "titulo": "Global stocks hold gains after Fed decision, oil prices rise",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5",
-      "fecha": "2026-10-29T07:53+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "94e08241b020",
-      "titulo": "Explainer: How could the oil spill off the UAE coast affect desalination plants?",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU5JejdRZjhyTnRhQjVwOFVubXBzeWpJa2JJWkF0MmNKMlg5cWJnUi1FeFN6czdwUEFfTy1UTjRZVU1oS1lLb3ZVa0hlQzU3T3dwZVV1M0JmUTNZVEtfd3hscEVuclQ1UjloZEFWQWRqc2FiOEZpczRYY3V1RmJYaUJFVENfeml6Ymktc29qZW1LOTRSVUl0XzVoU1hfXzN1SUNlVTBiRkVzd0NxWmp6Q2ZvTQ?oc=5",
-      "fecha": "2026-10-29T06:02+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "abd6a428171a",
-      "titulo": "Rupee ends flat after hitting two-week low, oil and RBI remain key",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDNJT2VhWGRQRm5IZnpXYzYtenpNODlEWm1JWnpFYzRIYjNQejcxaVJOTGxDVnA5M3pUbDB1QWU3MTg5bFhhT2NGLUtUeUZnNVlfVU5KTEtNOVI3ck1nNTcyMktQNUtZLVBRWWw4WkxUQVpDWFc0Zkp5QS1CQmpINlpyTzNOVU43S05NOVBrYmdHNjZuZ2JWb1pMdEFxZzUwYkhBV2lTdS1PLUE1NVJERGlMRkxIcmYy?oc=5",
-      "fecha": "2026-10-29T02:55+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cdd9919353fd",
-      "titulo": "Oil falls as diplomacy hopes outweigh Middle East escalation fears",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
-      "fecha": "2026-10-29T00:28+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a38c8aed04b2",
-      "titulo": "EU energy ministers discuss soaring fuel prices as winter looms",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDByQUZwZlZWZ0Rha3NIN2lVRktZNXgwNkRHYUZHcXliRWVDLWFNTWZCczA2aU52UEs2bGo3dlB3Mmx4QnQyVzN2TmZCemJ3NEhPQkhWT0tmX1RGdVFUX0ZVNllZa3dhTXdZODBXdnlqY0hKM18yYTVZblRFSk9ZejBUal9QUGlYN3NOcWhrbExxWFIyQ241TGJJZmNsbmMxY1gxWXFPRDY5bS00QVBaZmpB?oc=5",
-      "fecha": "2026-10-29T00:19+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "67e4656193cd",
-      "titulo": "Petrobras' third-quarter oil and gas output rises 12% from a year earlier",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2dORlloRGtUV3MwM2x1cXF4LWZFRHc4RWw4eUFVcjJGYVZ3a3RBd2lzdXhUdWt0Q01IM09jRDFfcU15WW9aUHNuT2EtQndLOFppZjM2V2UwTERMWE1PbVJSTE8wcjdHOVpKWUVkLU05clhhOVBBdkdtVV8weUVsblJRLWdqRXUxLUxpR0NtZ3FoZHVoTXJmOVRuZkZmNHQ1UVFqak40cFFaR0FPMnRra0xB?oc=5",
-      "fecha": "2026-10-28T23:31+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
