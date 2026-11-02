@@ -222,5 +222,12 @@
     "tendencia": "alza",
     "veredicto": "Llena HOY",
     "cambio_estimado_q": 0.2
+  },
+  {
+    "fecha": "2026-11-02",
+    "puntaje": -64,
+    "tendencia": "baja",
+    "veredicto": "Espera, va a bajar",
+    "cambio_estimado_q": -1.45
   }
 ]
