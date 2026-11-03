@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-02T16:14-06:00",
-  "revisados": 22,
-  "nuevos": 5,
+  "actualizado": "2026-11-03T12:23-06:00",
+  "revisados": 4,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
       "tipo": "promedio",
@@ -21,21 +21,21 @@
       "fecha": "2026-11-02"
     },
     "regular": {
-      "tipo": "promedio",
-      "valor": 30.69,
-      "t": "2026-11-02T12:43+00:00",
-      "fuente": "TV Azteca Guatemala",
-      "url": "https://tvaztecaguate.com/nacionales/2026/11/02/leve-disminucion-precios-de-los-combustibles-cambian-este-lunes/",
+      "tipo": "otro",
+      "valor": 32.0,
+      "t": "2026-11-03T16:17+00:00",
+      "fuente": "Diario de Centro América",
+      "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/la-gasolina-y-el-diesel-alcanzan-sus-precios-mas-altos-para-una-jornada-electoral-en-ee-uu/",
       "n": 1,
       "fuentes": [
-        "TV Azteca Guatemala"
+        "Diario de Centro América"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
-      "fecha": "2026-11-02"
+      "respaldo": "⚠ Lo dice una sola fuente (Diario de Centro América)",
+      "fecha": "2026-11-03"
     },
     "diesel": {
       "tipo": "promedio",
@@ -69,9 +69,9 @@
       "pct": -2.4
     },
     "regular": {
-      "vs_fecha": "2026-10-28",
-      "q": -0.8,
-      "pct": -2.5
+      "vs_fecha": "2026-11-02",
+      "q": 1.31,
+      "pct": 4.3
     },
     "diesel": {
       "vs_fecha": "2026-10-28",
@@ -181,6 +181,10 @@
       "regular": 30.69,
       "diesel": 42.69,
       "superior": 33.19
+    },
+    {
+      "fecha": "2026-11-03",
+      "regular": 32.0
     }
   ],
   "tope": null,
@@ -528,12 +532,22 @@
       "titulo": "Gasolinas bajan hasta Q3.82 en Guatemala: estos son los precios al 2 de noviembre",
       "extraido_por": "reglas",
       "salto": true
+    },
+    {
+      "t": "2026-11-03T16:17+00:00",
+      "fecha_dato": "2026-11-03",
+      "tipo": "otro",
+      "superior": null,
+      "regular": 32.0,
+      "diesel": null,
+      "fuente": "Diario de Centro América",
+      "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/la-gasolina-y-el-diesel-alcanzan-sus-precios-mas-altos-para-una-jornada-electoral-en-ee-uu/",
+      "titulo": "La gasolina y el diésel alcanzan sus precios más altos para una jornada electoral en EE. UU.",
+      "extraido_por": "reglas",
+      "salto": false
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm05Z3pPMHFQUFM2Q0lCaFh0YlJ3dFR5bE9YTXhjS0ZUaXd2SWM4dW9xMkhHQkFtQ2JYQ1V0SzFkSGI3NEFBMHdWbkhXOFlhZGhmRlBFaUY1ZjhEWlBvVmhfLVhPYzBZbXgxcWJjdVU4QVJvLUJ3Y0FyU3hOT01tZ2tEaE5EYTVRWVAtYmdPS3VFOS1ZQWF4QThjM3VDQUZGSllMdFFvdmVFcWF3c2ZqcVg4YXRPQ0k?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzl3aG91MjdqMjE1NUs4c1ljMXRiZkR6ekIxY0FqWjNVWHlJRHk2S0hBUWFVcE1ic08tUHhvT3E3R2FjNUpWVk0wNzAyTENTZFRVekIwTVRNajUxaWxXMkhLYjl3WWpHUXRnR0psQ2liLXM1MDVFanZNYms1S1VDaFhqU2ZzNTE1b2JSYVpQalUybUdxaXdLQ3FTSG96VzlUXzRpalMtZXdQTlZTUHZ5YjJzbw?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHdMNkw1azVKakE4NE9QdDBUdk91a1BEbVJjRG5ReEIyQlhrVzB5MTBIS0pEZGt3YjJxb2R6UXk3OWY4RGlTU2VyU255Zmc3dmRqc2VMR29Ua01DdFdZOVBxcHQ0ZzF2bHpZLUZhYUEwdlgyX001aUpfYVpSUnpOS0phWEd3cEpNcW9FVVAxYVNlU0pVcG5Jd0plMlg4Sk1QSU9JODA0cFdYcXYxT28wOW12aGVKUjl5cnV5ZkQ2NUVsU29Q?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3NDYUtyZFZRTGVzU1JKM2dIWVlXTmE3d3EyR0tfeUd6UHVUeE9tZ29NaWoyRkt3bHI3dlRQd2Q5ZU9OdjlyRVIzRmNCMTFkNUJtVWpXWno0ZnFHU3BMQ1hveVkwR1lING1pU2pFTzA5dW5GTjhDd1JiRDk0ak9HTXU4UQ?oc=5",
     "https://tvaztecaguate.com/departamentales/2026/10/06/capturados-robaron-6-mil-galones-de-combustible-valorados-en-q230-mil/",
     "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVG9YWUNfV21Rb1l5OERCd0xLUm1CYW9hMUx3R3NKLVM1RmNfOFZNQktmMWZkQkZxT05hUXc2SmNfOC1iQnlySVB3eUdTM2dkMlBhNnVWQTRDSFhEQ29XdzFGSUluU2FEWnJhUTRMdGdEblJzb2hRMWJ4cVlMNXh5djNHcFg5bUJIempBVFYzdkktcnJqalFkMnNJNGFId1FlUHlvemdjWVVEMWt1aDdTcjdOSFpzMHpPZjBheDY1cHUzZUo1MFNLazVsYm1aUkVHSXJwc3dyTzFUSnNfS1FUS3VRdkE2RFJtS1NaVzRYVE9VOGR2ZWg5NkVNaGpyc0tfU2xXWml6elg2d9IBigJBVV95cUxQVG9YWUNfV21Rb1l5OERCd0xLUm1CYW9hMUx3R3NKLVM1RmNfOFZNQktmMWZkQkZxT05hUXc2SmNfOC1iQnlySVB3eUdTM2dkMlBhNnVWQTRDSFhEQ29XdzFGSUluU2FEWnJhUTRMdGdEblJzb2hRMWJ4cVlMNXh5djNHcFg5bUJIempBVFYzdkktcnJqalFkMnNJNGFId1FlUHlvemdjWVVEMWt1aDdTcjdOSFpzMHpPZjBheDY1cHUzZUo1MFNLazVsYm1aUkVHSXJwc3dyTzFUSnNfS1FUS3VRdkE2RFJtS1NaVzRYVE9VOGR2ZWg5NkVNaGpyc0tfU2xXWml6elg2dw?oc=5",
@@ -830,6 +844,9 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDExTTB2QnRZNHVqWnBlYzc2c05BbjZ4ZEdmOVJ2cHpFb0ZWb0I3TTR2VGF2bWhnRjFvVGV5dUlwM1ctYmRtS19SRWdIdnlKdEFraXNHNThjTmFsdHJHS0k5WDJQampQYmpGTDljSjRWRl9jcmxLYnoxWmxZbkRKYjdTVW1zR09weFk0SmVoc05wcHpyb0FLWExTN3VhV1BrcE14ZmJHSlJSOUxueGd4dDNfTG9UQlN2RzM0VVNWZ2g?oc=5",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUExzem1feGR5UVFqaDhuMDVCNGNuZHNrVV81b0UtZ2JUY1E5LVFqU0tUdmtOS2hGamdjbURIbEFISURnYm16X1Nmd01pN1RCVVZBYnlZS1lyWW9JRHhaclVYLWktNlFjSHJ3LUFfVkQxS05PVnZJR05sY08yZG1TWTAyTExPcG4wTFJIYUF6YUxqbW1Nd1Y0SnIyZWVrR0pRR04xdUhXd2NxUnhmNnZabUZUR1Q2dmotWXRnUk1iWkZ2bU51aWFSd1ZUeTdHYVZSeFNPQzBVdVF1MTA?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUYzWnNORUQzcHFlMjh5bHFpcHVqdWstWF9scFRJMUZnY1hib3lweGdKcWlTWC15RTNOX0IxaW5OQmNvM3ZTVlJYOXBzSXFpVFdkd1BlUGVKYkVydGhmZnN4bmNzeUwwZk4xMTdpcnM5OENNaEpTYTZjQ3FPX0NFRFdRNA?oc=5",
-    "https://tvaztecaguate.com/nacionales/2026/10/05/exencion-de-impuestos-a-combustibles-estas-son-las-reglas-para-gasolineras/"
+    "https://tvaztecaguate.com/nacionales/2026/10/05/exencion-de-impuestos-a-combustibles-estas-son-las-reglas-para-gasolineras/",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONklYTHkxeWtXcTE1dXRDR29EVWtEOEMwdktiTTRrNS1neDYzdVYwTnZGTXZyeVJrUzhCWEVXTDY5OFYxa1NVZXV5SExrMXNUc1RHRVhkWjZuM1pjR1RBU0J5TTg4TmdWdTZ2alRYSUFFN1RTMDdid2NPcDV2VjZWWGwtTVl2bldOaHdjN1JTVmxKdHpOb3kyRzlBS0FUd3ZrZGY0S0xfR3ZIeVVUb3FqOGJFOHFYUmJSTWJvSnRIdlRBNzZaSGZqcU4xU3BuaGdCa1kxYTBKSGRqUVlmNWlPNjB2UHNXZw?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQelNHaWhjeGRHNnVwWXFxM1FYMWlRWHY4NlgwWk5leWhLeTdHVTE1ZE13QWFFM3h3RWpVZE5vQThFOXNRRXJ2cjkwQXc5ZzMtN05nX2Z6TGJxY2EwZGVaQ2tyVjFqMENXb1NJVVRpN05MajVMdS02dEs0bWZGWmVOQmZab2N4dkxhc0ZyWFJmMUxsRlZmc3RVd1ZQTGZYR0tnN3RpY2ktLUhGeU9QV1NuNjR1QnpydmdBT0ZVTzJmM0l5RWtSbjMyZkdBNGLSAcwBQVVfeXFMTjlZVm1GZnhlMHEwcjhQX3JsMVltNktzc0NraUhJV3BHenc1V0pqdG44S0hDbzhaX0R0Umd6ZkFrSkVKbzNOS1FFTWMxLU0td254TU53dG45SE80M2VjcTF3d2ZMYTF1Wm1JYWRIb0ZYWEFncU1xOTlnRF81eVliRExLNkJXVUFSWTJQSFU1bktZeVU1dEp0MTlSUFBuOWpFNG5WajRkUlB5d1RKeHZ3eExOcktYcmhNMU9qZzhteWg2NzVNX2NzdXU0c1Zf?oc=5",
+    "https://www.lared1061.com/posts/mancha-de-diesel-representa-riesgo-para-conductores-en-calzada-san-juan"
   ]
 }
