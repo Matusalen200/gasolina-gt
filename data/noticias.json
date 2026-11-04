@@ -1,12 +1,67 @@
 {
-  "actualizado": "2026-11-03T20:01+00:00",
+  "actualizado": "2026-11-04T00:30+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 13,
-    "BAJA": 16,
-    "NEUTRAL": 21
+    "ALZA": 14,
+    "BAJA": 14,
+    "NEUTRAL": 22
   },
   "noticias": [
+    {
+      "id": "cbbb74e60e45",
+      "titulo": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html",
+      "fecha": "2026-11-04T00:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8a2aff26f6f3",
+      "titulo": "Global Diesel Crunch Set to Last Well Into 2027",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Global-Diesel-Crunch-Set-to-Last-Well-Into-2027.html",
+      "fecha": "2026-11-04T00:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4822e1f83ba5",
+      "titulo": "Big Oil Puts Debt Reduction Ahead of New Investments",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Puts-Debt-Reduction-Ahead-of-New-Investments.html",
+      "fecha": "2026-11-03T23:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "42ab51a70cb1",
+      "titulo": "US Crude Oil Inventories Still in Freefall",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Still-in-Freefall.html",
+      "fecha": "2026-11-03T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2ee1818f64d8",
+      "titulo": "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Africa-Launches-5-Billion-Energy-Bank-as-Western-Lenders-Retreat.html",
+      "fecha": "2026-11-03T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "ecb61fdd2bd6",
       "titulo": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
@@ -27,6 +82,28 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "77c9c8964c7a",
+      "titulo": "Venezuela's oil exports unchanged amid stagnant output and high freight rates",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjN5bC1tVFBsXzlMcEpjNTVldzltS0R1TG1CcElERjNval91X1RidFp6TWJCUHAzNXFDS1dPQjd1Y2FYWTFPQ29kN2loS1hGNjEwRzhheHpmR2w4MzJrWWh6cDNOOG5RMVBXOU9zN1NrdHp1YzlRUVJGRTdGVkdabEE1cEFTQm1XUHB5ak8yMDVKZTJDbHlsN0RueEZMTkZfNTduaEJZajU0V1pTN0I1VTh3cXhZdjRrWkRFUk5Fc3lHZw?oc=5",
+      "fecha": "2026-11-03T17:59+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "99cccaee052a",
+      "titulo": "Mauritania signs two offshore contracts with Murphy Oil",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFBTWkdEOVBkV0NiaWJSaXphbnlkODNrVjhlMEFETzE5Y3pHcExNY3ZIRVVKS0w5dkJSXzZQanI5VHhXZjV3VU9fWUdKejFxbXFjczd1TzJFV25TTFBmZmdUY0xBQ3Y2T3VXX09saXlMNDZHSjkydUxPWjVxYXpvdng2T0h0UlFDbkJoUTlwTjJNRGNSTWpfTHY5TVY1by1wMXpmY09NZjdHOU0?oc=5",
+      "fecha": "2026-11-03T17:45+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -68,6 +145,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Bombs-Iran-Talks-Peace-and-Sends-Oil-Prices-Tumbling.html",
       "fecha": "2026-11-03T16:43+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6f2d0a0f2f10",
+      "titulo": "Gulf oil flows dip in October from post-Iran war high, data shows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHNPY2VaUDh6Wm5mQi1obXBHZkJBVUVTODF0d1drdkY2XzBlMDZMQ3gxdFQyUnpxR1B0Y2I0QXdiSndDelZ4UUJEY1p6a1hSX0hYWnZQb0Q1aWJvdkFjek44dEliMVlwZHlrc29FYVNmOTlvSjlwS3NSc2FKaWtRQnNjOEtXeUo2RVAxOG1LUWF4UjVIakptR3g5RHhTX3llXzBxaVZMY0JfN1d1?oc=5",
+      "fecha": "2026-11-03T15:39+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -211,6 +299,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
       "fecha": "2026-11-03T04:16+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "8eb35e1eabf1",
+      "titulo": "Rupee nudges higher, forward premiums dip with focus on US midterm, oil moves",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTNHWGhQX0hSaU8yb2V3QkJCWlJMWG4tZm1oSXE5LXM4ZjJYYnZGWFAyWXRETmpGaEJlSThpR3BlbzVnZ0tXTnpxdGRfcHA4R0JuVXhlM2o0N01tendKb0Q5TWtMUUJfWThGRFgyYmZNMjhwUXRsdFU2aVE5bmNMS09mbm9HeFQxVXhWMnR1dUlNcXJ5Z3VWLUFLNFlLNFJMbTk4NlZjNVIwRDAtd19ZNzBiMDE0QjBIbnZwTE1FRQ?oc=5",
+      "fecha": "2026-11-03T03:03+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
@@ -456,105 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4587515c5cfc",
-      "titulo": "Rupee ends little changed as traders stay cautious despite oil, dollar drop",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeC1WaUFNMi1wWEN5WFRyenJJLUxoa0lkUGdFM1dOU3VkVUYyak9ZdWRVV3N0b1NPX0xFTjZ0NVRlNWpadXdGMVltUmxMcm1zcVdQdjQwMV9ialVNaGliVmhXOS1zTm5kNUp0VXlqTUpaVVRqUUhuX2xaRVpQWlFXbFlMS2EwNTJqYUZ3elRFLXUzcmtpaXhFMHlFTjBVaHJSMFVULUhrQVJlYWpaUnljMTVwSjA?oc=5",
-      "fecha": "2026-11-02T02:57+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f93c85b7b0da",
-      "titulo": "Reliance earnings, lower oil prices power India's Sensex to near two-month high",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5",
-      "fecha": "2026-11-02T02:42+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "5af5c36db7f0",
-      "titulo": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
-      "fecha": "2026-11-02T00:57+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e0390dd6fd21",
-      "titulo": "Oil's pullback, solid data fuel bounce in global stocks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
-      "fecha": "2026-11-02T00:41+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d1e58c025708",
-      "titulo": "Oil drops 7% as Iran signals openness to peace talks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
-      "fecha": "2026-11-01T23:13+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1c894df7c9a0",
-      "titulo": "Inde solicita Q1 mil millones del presupuesto del Estado del 2027 para subsidiar la tarifa social de energía eléctrica que beneficia a 2.3 millones de hogares",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/inde-solicita-q1-mil-millones-del-presupuesto-del-estado-del-2027-para-subsidiar-la-tarifa-social-de-energia-electrica-que-beneficia-a-2-3-millones-de-hogares/",
-      "fecha": "2026-11-01T17:49+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7f75daa0acae",
-      "titulo": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html",
-      "fecha": "2026-11-01T16:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8b5ae8e5fc5d",
-      "titulo": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
-      "fecha": "2026-11-01T13:36+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f3e8cf5d586b",
-      "titulo": "Subsidio a la energía eléctrica: cuánto pagarán los usuarios de la tarifa social desde noviembre",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/subsidio-a-la-energia-electrica-cuanto-pagaran-los-usuarios-de-la-tarifa-social-desde-noviembre/",
-      "fecha": "2026-11-01T02:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
