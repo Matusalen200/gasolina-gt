@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-11-04T18:36+00:00",
+  "actualizado": "2026-11-04T20:21+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 10,
-    "BAJA": 13,
-    "NEUTRAL": 27
+    "BAJA": 11,
+    "NEUTRAL": 29
   },
   "noticias": [
+    {
+      "id": "364c9ffa255f",
+      "titulo": "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/UAE-Weighs-Plans-for-Third-Strait-of-Hormuz-Bypass-Pipeline.html",
+      "fecha": "2026-11-04T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "5f46fe122bd9",
       "titulo": "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
@@ -52,6 +63,28 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "9a639d900d9c",
+      "titulo": "Cenovus expects widening Canadian crude discount to be temporary; won't change output plans",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0VTaWJpenk0U2dJbmczV1cyRmQwT0ZXclJqSnRNdWIyUnAxTWRiN2J2UnNDcG12aDhqSHJveDdXaGtrdXh1MHBsemlYT1NQRnZ4a3FOc21JbVNuQnNyV2c1aXVnb2RTY3RuYTFqZHBQUHRScHRvajczblRWUWpvSmFDbjZDNi16UHU4NVBqekJVLUNLSnBLYjlVeFpCZEdLVml0aDVvLUoyMDc5TWZuTUxn?oc=5",
+      "fecha": "2026-11-04T16:28+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "97568f93530f",
+      "titulo": "US to loan about a third of heating oil reserve in bid to tame prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUQ0SEk5d05KS3A4NG5GeGtoZEhwVnBWWnRVZzlFOGZ4c2lzMFJLeEJPLWdFb3VsaC1qTjBkaGE2RzBjdTRWcW9FQ1ZFaU1rb3RBMnhVUEcwTlRCVEw0eGszcDlNbUNiT1RFSWlpUlpoczkta2pPM3R2Qi1IMXphSlE5bDJuQjh5QW4zTmRVUzFqSmRRSjEzMlVhX3o4NVpXVWVtN3JVUGFBdkE?oc=5",
+      "fecha": "2026-11-04T15:58+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "d66a4bd7f63d",
       "titulo": "Equinor shuts Norway's Visund oil, gas platform due to fire",
       "fuente": "Reuters (vía Google News)",
@@ -82,6 +115,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5d4200719e48",
+      "titulo": "JPMorgan, HSBC say oil supplies are recovering from Middle East disruption",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFJUTVpmWVQ2VEN4MEw2NEcwRk9BODBmQ0MzSUdOWEN2ZU5fU0FXOG5QbmdwQkFQU25hX3NBMkg3ZUF3TkRMNkxnZGVTcGdweEJaU1Q5Y241RF9EX0swdmRSRjJybWdzNHFDZlNmWUFTOXFtYnllWFA2ckpLb3dzTXE2XzdQOTYzOEIzRXFuQVdMTngyLVJRQ1QzYS1BalVyRi1lOW0tWTJnT1dLaTJwa0dEQXNPSXE0VnhxRzJvVzdMczE4dVdn?oc=5",
+      "fecha": "2026-11-04T15:13+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -437,6 +481,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "89e562b91dbf",
+      "titulo": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
+      "fecha": "2026-11-03T08:28+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "0765af124531",
       "titulo": "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
       "fuente": "OilPrice.com",
@@ -500,61 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b284f90e531d",
-      "titulo": "Indian shares extend rally as earnings, cooling crude draw foreign buyers",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVNvY0lPbFp1SlNTR1BlbUstUy1iMUtZcGJzSTBxLXVBdEpWajhoT0RuWklLUkxfM1dFd1pWLVJxMnlaQzFnQzVyMUJEVC1sbVJGbmJTd2p5RGhNaldxbkNicjBvNWJ4dXoxS3RobzN6NTRzeDM5TV9fME1FTTJWM1JaNVNvM0JsSGRXTWQ1TG03MmlGZU43TVJyS1NHT0xGRWRpXy1ETkx1Q1E?oc=5",
-      "fecha": "2026-11-03T02:38+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "d0b2e8fa45fb",
-      "titulo": "Stocks wobble, oil prices fall as Trump says Israel aid will stop",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw?oc=5",
-      "fecha": "2026-11-03T02:24+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "449f126e349b",
-      "titulo": "Oil prices slide about 2% to multi-week low amid peace talks",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
-      "fecha": "2026-11-03T01:27+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "864c333ad956",
-      "titulo": "Trading Day: Oil slump no cure for AI angst",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGhtd2c2bVBFVW45RHo5ckdOeU54R1RvWW9DSENRV0pBUzkxNmJrd2VUSzByRG9qMG50a0ROVDhIeWdqd2hHSFpPU29OY0VzTmJWWkVVR3FEVU1zMk8tQkZnTkhHbmpwQk0tazV3bE1rVVFFM0RrWnhlQ1FocDVCZkxyUnhFQVZmLUxGSi1MNjIySFBDZ01mVEwteTBSUXFnbFVYNFRB?oc=5",
-      "fecha": "2026-11-02T22:09+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4087ccaf9484",
-      "titulo": "British Columbia First Nation files court challenge over Pacific Link oil pipeline consultations",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWdyckFQcHhmWWtENkw2ZFBVcWM1cGhuLXVuV0ZuUFhrb2hlMi1SRzZicjZVUHN3d0p2cUNaeWE2WWlIeEVNa05Dd0JBcjFQWkR4TEgxaXcwTjltQXVtdENzdmJfUE43dmZ0bDdNMnlHUnhnVEZkYVVMYnBoc01QRlNvbU9ZbXpmV29CV1VTZ19IWXoyemh0cDVVQmpNUnRPaDZUNXg2OU5VeFU3YUN3QzdJUUc2Tk1OS0E?oc=5",
-      "fecha": "2026-11-02T21:54+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]

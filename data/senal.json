@@ -1,5 +1,5 @@
 {
-  "puntaje": -76,
+  "puntaje": -66,
   "tendencia": "baja",
   "veredicto": "Espera, va a bajar",
   "emoji": "🟢",
@@ -8,20 +8,20 @@
   "componentes": {
     "gasolina_eeuu": -60,
     "dolar": -1.0,
-    "noticias": -15
+    "noticias": -5
   },
   "detalle": {
-    "rbob_cambio_7d_pct": -11.84,
+    "rbob_cambio_7d_pct": -11.79,
     "usdgtq_cambio_7d_pct": -0.05,
     "noticias_alza_7d": 10,
-    "noticias_baja_7d": 13,
-    "rbob_precio": 2.7478,
+    "noticias_baja_7d": 11,
+    "rbob_precio": 2.74,
     "usdgtq": 7.6405,
     "tipo_cambio_usado": 7.663
   },
   "razon": "Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de bajadas.",
   "redactado_por": "plantilla",
-  "actualizado": "2026-11-04T12:36-06:00",
+  "actualizado": "2026-11-04T14:21-06:00",
   "proximo_martes": "2026-11-10",
   "fecha": "2026-11-04"
 }
