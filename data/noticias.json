@@ -1,12 +1,56 @@
 {
-  "actualizado": "2026-11-04T20:21+00:00",
+  "actualizado": "2026-11-05T01:23+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 9,
     "BAJA": 11,
-    "NEUTRAL": 29
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "c9313275c674",
+      "titulo": "Prevén alza en el precio de los combustibles pese a exoneración de impuestos",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53NFR2MG9nNG5EVWV5bmlDTUxNWTR4NDNJTEVCb2VQdWdkR1cxM0RkMVI5NzdRdDBENTZESGthdG9oWEphbHNJcHllR3NVdHRJWURDNnduMDFfdG52V1p1QmtoZmQ1YnlLZlpzX2UtaldoVGw2RFNhb3YxbzY?oc=5",
+      "fecha": "2026-11-04T23:50+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "645608f27bb9",
+      "titulo": "COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0g5LTRCVmcyN3VZSy1SLXN5c1dnSENEYXhocXN1STdoUWxPYk9qbUhTM3dYckRlZ3hpVDktbzZhWnlha1hMRlpITmFlNEdCc0VIMU9PUGprQmRfLUk0b09HM3VzWG5adFZZUWZoX1prbTNoeHcyOWZ1WXl3LXFLQWhrSWd3dE8yNXJseDNXWFR1S19LT0FPNXFjTUtjbVhJbW1tSU9B?oc=5",
+      "fecha": "2026-11-04T22:07+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e3144f2a6c6d",
+      "titulo": "Iran War and AI Boom Drive Global Gas Supply Crunch",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Iran-War-and-AI-Boom-Drive-Global-Gas-Supply-Crunch.html",
+      "fecha": "2026-11-04T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "84cd32bde24e",
+      "titulo": "Petróleo a la baja y Wall Street al alza: ¿qué cambió tras las elecciones de medio término?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/petroleo-a-la-baja-y-wall-street-al-alza-que-cambio-tras-las-elecciones-de-medio-termino/",
+      "fecha": "2026-11-04T20:53+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "364c9ffa255f",
       "titulo": "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
@@ -46,6 +90,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/New-Jersey-Moves-to-Block-Trumps-Russian-Diesel-Imports.html",
       "fecha": "2026-11-04T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2faadfd65586",
+      "titulo": "Colombia to have new oil exploration offering ready by first quarter of 2027",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3hzQzllT2pwUUVIbFkzVkJRcGZSMm5oRFRUTlVndmFsZHJzbC1wQjBMNm1lbmppb3g5R2tYUFJxVmlaWVpJZGJPckJyZUtpOFhUYkJWQmtZWm9iVHZxeWxLd0t6LVNibG5RaWlkYThiSEpUM0VsRFJOOE1BSXFSUENWLUI4SFVRci0yTTBSejdxckVsRkRwVW9hSG5WMkFOQTF2Um8tZXg0N2Fab0Zmb1ljSkJxYWh1QzZzUzZuNA?oc=5",
+      "fecha": "2026-11-04T16:53+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -500,61 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "32e22ae53405",
-      "titulo": "BPCL buys 1 million barrels of WTI crude, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzBad1NaMDgtZFo2dWZvamFkQUFKTHY4bXNXeWlXZVlRYnB5UHNCbjQxYzZTZm9OZ0F1Tl9Md2hRTDRmSXppTFhwZjlvUzVWX1pSV0FMSGxCWF90NDNaWjF1SEFMR3phaV9iS2dDdVlmVWlxU2lHaVgxT3pUM0xCYWdGU2lzd1Vwa25mbVFXSkdnNndESHc5Zy04aEloRVlqSkhv?oc=5",
-      "fecha": "2026-11-03T06:45+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "65d4ec567ee0",
-      "titulo": "Ukrainian drones set fire to major Russian oil refinery, local governor says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEx1RGU5aFF3aVBjYktROTVsR3VTTXRoa2JWdER4STVoVXEtNGJZUkwtVlNyamFMREpmNlB1UFVCSXg4QnBDVGp2UENiRHRRZUVzY2RxbWdVQ0RyOGwwZzI0WlNuNEo4dGE0RFRoanFqUkZyd2NzOVM2d3BUTUVxcmluNElLN2NJUm5zRjlWc0pEc2NBX1VCLTVROC1idUpRSVpPR1lYeFFfSTVoS1N2TkRqUk9vNmV3YXJsanJ1X2FleXU5S1E?oc=5",
-      "fecha": "2026-11-03T05:32+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c2d55d099e55",
-      "titulo": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Bounce-Back-Following-Reports-of-US-Strikes-on-Iran.html",
-      "fecha": "2026-11-03T05:25+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "69152cad0db7",
-      "titulo": "Gold edges higher on softer oil prices; US midterms in focus",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
-      "fecha": "2026-11-03T04:16+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "8eb35e1eabf1",
-      "titulo": "Rupee nudges higher, forward premiums dip with focus on US midterm, oil moves",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTNHWGhQX0hSaU8yb2V3QkJCWlJMWG4tZm1oSXE5LXM4ZjJYYnZGWFAyWXRETmpGaEJlSThpR3BlbzVnZ0tXTnpxdGRfcHA4R0JuVXhlM2o0N01tendKb0Q5TWtMUUJfWThGRFgyYmZNMjhwUXRsdFU2aVE5bmNMS09mbm9HeFQxVXhWMnR1dUlNcXJ5Z3VWLUFLNFlLNFJMbTk4NlZjNVIwRDAtd19ZNzBiMDE0QjBIbnZwTE1FRQ?oc=5",
-      "fecha": "2026-11-03T03:03+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
