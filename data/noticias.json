@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-11-07T00:02+00:00",
+  "actualizado": "2026-11-07T18:00+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 16,
-    "BAJA": 11,
+    "ALZA": 15,
+    "BAJA": 12,
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "34ef3aaea821",
+      "titulo": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
+      "fecha": "2026-11-07T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "06bccc02a87e",
+      "titulo": "India's oil ministry rejects Karnataka findings of excess ethanol in petrol",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajczSFdwSkFRbkFremNHWUhOQjc3YU42dXNMazNlLU1kOVY4U1ZlUXhpYkpBbzFHODg2Y2NkNFV3akRoaWdkSjZBZVphbUxvZFVFejRfRUU1QnlRTFlVRmdyTjVNS3FnZnl4R3o2MFBBRlBkSkh6b0dacDkzeml1WTFDZkNFYmdmbTl5ZEVqQVVIVmVtVklDYkZ1dnJZdUp0YlpxQmt4UXBpSm5kUWpKczlBY3lXZlF2YUs5Tw?oc=5",
+      "fecha": "2026-11-07T13:13+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "60a30f6b19ee",
       "titulo": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
@@ -195,10 +217,32 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "086cd3856c33",
+      "titulo": "Indian shares log biggest gains in seven months on oil slide, foreign flows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
+      "fecha": "2026-11-06T11:50+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "3c1810d7d1af",
       "titulo": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-HPCL-Struggles-to-Secure-Oil-Tankers-as-Hormuz-Risks-Persist.html",
+      "fecha": "2026-11-06T11:15+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "f0f297e50657",
+      "titulo": "Spain to hold back 12% of olive oil production to stabilise prices after bumper harvest",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWtEaDJvdTh4a3Z2UWpJZlhiR2hKb3pNV05ULTVZV2VpTmFwWmlxVGZZOEtjdWxkWlc5THdZaGRzZzJIeHRZOWVQZ2U1MTZJblcwYnVOMTJPekx3eHhCS1BDOVhOY0lGNTFwMjJHN0c4V3M4djBvUllGSE4zU0lRTmd2SThaYU9reWVpOFhIM0gxU3FoNVVfZHV4a3dQSlBPSjA3eHF5SUJuRVNOT0ppWXZxTl82aGMxRHJrMDBJV1NXTF9KNk9xOTlzU3RBTDA?oc=5",
       "fecha": "2026-11-06T11:15+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
@@ -258,6 +302,17 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "aa6e869a98cc",
+      "titulo": "Brent crude jumps, settles up over $3 after tanker attacks",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
+      "fecha": "2026-11-06T02:54+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -335,6 +390,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "7b4acfcf6b59",
+      "titulo": "Carney uses higher oil revenue to spend on tax incentives, infrastructure in second Canadian budget",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmtLNkU4MVNYTjhVLUFHZ19WQUN0Q0RLeXJyc2tRNThpMTlIMlVQQ1B1M0NzcWxuMDd2LVpGSFB4TjlFTFN5bVV5dUFPLTUxeFlubGtZSWZsWFhsbVJOSVdGamd1VGthMmFnZjVPbk8xdDBvaHU3UE90eFJXSl9pWXQ3QWh3YjctX1JoMmR5TFBCel94a3FPU2l5RXhzaXBGT3YxdUE2ZTdQNXJ1S0RteVB0YUNmbFk1TFBybA?oc=5",
+      "fecha": "2026-11-05T22:58+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -481,77 +547,11 @@
       "clasificado_por": "reglas"
     },
     {
-      "id": "0501e0de2cee",
-      "titulo": "Refineries have shifted production away from gasoline to middle distillates",
-      "fuente": "EIA",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
-      "fecha": "2026-11-05T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7fa593c95afe",
-      "titulo": "Attack appears to hit Russia's Ryazan oil refinery, Reuters analysis finds",
+      "id": "f20e9549a497",
+      "titulo": "Rupee finds its footing as oil worries cool, traders watch flow momentum",
       "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWk03bDJPMTdlbGlRNi1YMHRCNHlsMWllWWt4Slk4dEZzeExCbUs5QmtjbG56TzlIWHg2eHZCbEF2U3hucml0UXBIeVoyamdhVlhqWjJTaENueW1tYjdhN1k5dy00NEk3UWJtUG45cmxiOHphOEJkNXJ2dG84UlpFYV8zOWpfMVFnY1dNWVV5Q083Q2VucHFfdG1PeWVtcW9nT216LVJwUlFnbE0wMEhDT3kzVUhnU2NLZ1k2US1R?oc=5",
-      "fecha": "2026-11-05T13:19+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "dd939ae51248",
-      "titulo": "India's ONGC posts higher Q2 profit as surge in crude prices lifts margins",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDFXRWlWUFEzbTZzMkxMUVFmcm1FN08wOS05dkw4WWlMTUs3YnJHdGI3SjVoR2lBY3lxSjJXNnpjclZ5RGtiT0xBbFpWWUdiOTJkWkJLNV9OWldLWG1aVy1INWxnbjI2VXdwSTdfQy02dGxIRTZSamlFeURRVDlsU2JlM0ItQ0V6cHpQYVE0ck0tYmNweThRZnZzTFRTYTRWcmJxajRjNjg5MlphZGtISFhIQmxwM0FLRFMw?oc=5",
-      "fecha": "2026-11-05T12:47+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "eef66ae3ceaf",
-      "titulo": "Kenyan tribunal dismisses challenge to Dangote's planned refinery",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFBlZWRlUmNFR0gxeDRCd2ZzT21iUFlKdXlyNUhlQlQ4aGg3bjA2cTA0T2h5bXpHMTdaN0NGTTlGN0d4ZXl0a0FvblJNOXM4SklnZ0ZYbkdiZGxTQW1UZU1DdmFha0R4OGlKTjF5UktwRlFFbVRSWnk4VnZRNnRWeEk1dU95UnVDajhrM05MY245SDdVd1lETHp0RkZsM2lBRUVvZUFOdTFYSjNUZHdnRVpZSQ?oc=5",
-      "fecha": "2026-11-05T12:14+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "07f3f501d198",
-      "titulo": "COMMENTARY: Morning Bid: Oil and the blame game",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUm5lUDV4RklDUlRkcDd4M1BVLVZaMncxQldWLW9xSHNkZy11THhZekljUFo4ZUc3OGpCM3d2SkVVUl9iMGNxRC1ITkE4RENJcmxBQ0dMc05IWTJXVkJqY09xN3NtdEplSWFGbmNDOEF5TFdtV3B6SC1mdkpzMnUzVjZVd0ZzeVpITXRpVWs2Z2ZyTXZDZE1n?oc=5",
-      "fecha": "2026-11-05T12:08+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "320c5cdf6d16",
-      "titulo": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1J2UXI1T2psd21CTE9jNjdvWmZpaktQTVh0Vzg1VGNzZndWZVNab0JhcFNkMEZSRlF1R0d1Vm9EVmZVMDhfUThrOG84Q2VQaTZocklZaEV4end3cjBUYWFTTWxWZFc4WjBLV1MtOFQ3c0d1bHRvODdrQTFTT01MLVFvTlA1eXI3T3JnMzlXNmpXcGNsWE1KQ3hQRDZCRG8xZjBZMTJSRHZqMmNuVkFWZTVXLXRqdkoxaUlvQUVmcVoxTW9FdFE?oc=5",
-      "fecha": "2026-11-05T11:33+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "044145e48682",
-      "titulo": "Iran Reports More Tanker Fires in Strait of Hormuz",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-More-Tanker-Fires-in-Strait-of-Hormuz.html",
-      "fecha": "2026-11-05T11:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQME9GZlNzY1R1djlUYWZnQ2lQRXE3ZHoxQ1VhOEZhaVRyVTY3TWZIRXhNMDNaemNtb0NFNzJZeTZtYlRCX0FtbFlYenA4Z0gtSkZBZVFRQThHZkRtcHhsR09wWXVhdl9CLUQ2Z19JNWpFWlI0N013RFR4VDFrSTFoZzVQS3F5Y216eWdlMTlZbWxldWY4TXh0M09TLTBuX3lUZ1ZWRzVaRHhxSENxT3E4Qlpwd0E?oc=5",
+      "fecha": "2026-11-05T14:16+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
