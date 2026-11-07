@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-11-06T19:54+00:00",
+  "actualizado": "2026-11-07T00:02+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
-    "BAJA": 12,
+    "ALZA": 16,
+    "BAJA": 11,
     "NEUTRAL": 23
   },
   "noticias": [
+    {
+      "id": "60a30f6b19ee",
+      "titulo": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
+      "fecha": "2026-11-06T21:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e2ada75c6b35",
+      "titulo": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
+      "fecha": "2026-11-06T20:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "f906d99817a1",
       "titulo": "Energy Reliability Is Becoming More Important Than Energy Politics",
@@ -16,6 +38,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e6ebf4fd70c7",
+      "titulo": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOang4bWpWa1pIeDBMQlo0MzhWRVAzY0JURlFwX09PVjlBVmhEbDBLTndoWFU1NTA2MXNhT0xYdkstQ1dlMFU4Z1FBYkdhVXBRRHp0NlAxcmhyV19hQ1NkZzdoMU9NOVFCQWF5UURPUzVQWlBjYkt4T1RuRG9lRE0zbkZLX1k2RWJJQW1YM3dReEhMdUVWZ1RDeGdDY1d1NUtEbDZxMUwyenRrNE5UOVpRWkI2aVdMa1M4bEFEX2FiYnJ5dw?oc=5",
+      "fecha": "2026-11-06T18:59+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     },
     {
@@ -173,6 +206,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "86e74f189034",
+      "titulo": "Equinor prepares to fix Visund gas, oil platform after fire",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd21vZVZ4cmxxNFdmUFBPaFc3MUZhcjM0ZXowSkZ5NC1EejJ0V2FRd3NqQTBqSkpOY0Fjc1pBRTRTTW9Eek1lVFAxZmFfM0oxbENyRzBWYm9VOWdLTlNmdm1oSkdjZ3F0cm9ESUdnUC1OU0dYbnBKU1RoeGpKeElmdlVOMDg5MGpnTU5RSkE0VThWX3llMjBFRGVzVGtheDI2SUVxcXdvUGROdU0?oc=5",
+      "fecha": "2026-11-06T09:34+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "df8f808c74e2",
       "titulo": "India's Karnataka finds fuel samples exceeding 20% ethanol limit, state minister says",
       "fuente": "Reuters (vía Google News)",
@@ -181,6 +225,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2feb20d14ffd",
+      "titulo": "Chixoy se recupera y bajan los combustibles en Guatemala: ¿cuánto durará el alivio energético?",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/chixoy-se-recupera-y-bajan-los-combustibles-en-guatemala-cuanto-durara-el-alivio-energetico/",
+      "fecha": "2026-11-06T06:10+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -255,6 +310,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa19aTnZtOEpfZ3RqS0dfVkZWcUpPTG91S3ltd1NqWUNvbENsNllVdDdYbWtLaXpLR0N6Uk5jMzRIZThlLUkwNVZwaXh5dlZPUFhLQ3JZY01Ka2tmbHFjY2thcnk2aFc3eUxsOHhXNFNQNjlWcU9NZmFRVnFNNjZPenhVbmZKMzNPRnlwVkNydng2dE9DRjNCVDFQeGl1WGdFT3RfYmNJRmp2OVFhMExV?oc=5",
       "fecha": "2026-11-05T23:36+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "400ec15d8a7e",
+      "titulo": "Devon Energy tops profit estimates on higher output, crude prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzMya3VoNTIwaGNKSmlHT2Y1X1Zvc21QZGJSYXRuZ2Y0VTZBcG9sX0ZRVWVtc1pGVHhWb2tEYldraUJmNGR6MklTYnBEdnZkX3JndlVldGJvMzh0VFZfMTZMcXJlYkdyU1lJUHY0djFHeXJBNmtwaGNNZjJoTVlWbGl2YmNWcjNvOHJlcWFEY19EX2VGRHViTkJ2SmRoTTY1S3FkWTd6bU9DMlZtWnRPWU12Z3VCUkxzOFE?oc=5",
+      "fecha": "2026-11-05T23:10+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
@@ -489,72 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7b4acfcf6b59",
-      "titulo": "Economists urge fiscal restraint in Canadian budget despite oil windfall",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmtLNkU4MVNYTjhVLUFHZ19WQUN0Q0RLeXJyc2tRNThpMTlIMlVQQ1B1M0NzcWxuMDd2LVpGSFB4TjlFTFN5bVV5dUFPLTUxeFlubGtZSWZsWFhsbVJOSVdGamd1VGthMmFnZjVPbk8xdDBvaHU3UE90eFJXSl9pWXQ3QWh3YjctX1JoMmR5TFBCel94a3FPU2l5RXhzaXBGT3YxdUE2ZTdQNXJ1S0RteVB0YUNmbFk1TFBybA?oc=5",
-      "fecha": "2026-11-05T11:05+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ceb7467ced39",
-      "titulo": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURmMHZvcURoTHdPckpVdEYtMVA3WTktOGNLOGpHeTRZcGZ4OWZjQ2tHQTlTYy15N05pZ0VPemlkZEozUGdHTU9ieDdvZlEyU2dBbzZtbzVPNDVaaGVGNktHTGg0Nk5GbU9kYnVTN291Zkp4NV9Idk05OTNKR1FFckUtVnFfX25tWkRYd1A3VEdrME1YQjFzVzF2VDk1T1Fnc2RRdEZMZzZPNWN1YVVtX2MyTzV0SlA4eWMzOFVlQ0NBY3p2VXpsZQ?oc=5",
-      "fecha": "2026-11-05T10:13+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "71dabac0a2e7",
-      "titulo": "China's November diesel exports to ease amid thin domestic stocks, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUC1heWwydGNUd0wzYWtNUXViUFMta2hyYVhFMm1pSV9oSi1lUGxxVEw1alpQYm02MUh1bU40U2VkNWNOYTZVS1BHUGRhN3Y0Z1FZODNaM2NtT0NLWW1abmxRQ0w4LVhkUzVHTHBnQmhYOVBRODhCRXpMMmpndVBsdm0tVG45NXd1c0h5YTlwSjU2bTJvNGEtdWxNT0NOTWNXa0lXN3NFakZTeUN3cWl2Mks4V3hhcWRrb18tU0NuTjJHRjQ?oc=5",
-      "fecha": "2026-11-05T06:26+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "2ef900aacddb",
-      "titulo": "PODCAST: US midterms may prick AI bubble and rattle oil",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNU5rd21yS0pFUE9OLTZzazl4LXFZYXNpbVQ4STc5NWpESmZXZEhKbExEMU5CdElHRmNodms5MGFOU3djS213YlByODB1U2hzQWR3NjAxMUxEOWV4aWtaamZBeFQyY21QajlKVElnYWhRel9IRlMySTV3UHBhOUFHLXBZc3E0NWdNQzR3eEI4WXJNb3BnazZHRGJNRlJfZw?oc=5",
-      "fecha": "2026-11-05T04:08+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "086cd3856c33",
-      "titulo": "Indian shares log biggest gains in seven months on oil slide, foreign flows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
-      "fecha": "2026-11-05T02:37+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "aa6e869a98cc",
-      "titulo": "Oil rises over $2 as investors assess Iran war future",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
-      "fecha": "2026-11-05T02:20+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
       "clasificado_por": "reglas"
     }
   ]
