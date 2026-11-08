@@ -1,12 +1,67 @@
 {
-  "actualizado": "2026-11-07T18:00+00:00",
+  "actualizado": "2026-11-08T18:20+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
-    "BAJA": 12,
-    "NEUTRAL": 23
+    "BAJA": 9,
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "02832e478b91",
+      "titulo": "How Big Oil Became the AI Industry's Favorite Customer",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html",
+      "fecha": "2026-11-08T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "88666b11b77c",
+      "titulo": "How New York Plans to Turn Waste Heat Into Clean Energy",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html",
+      "fecha": "2026-11-08T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3b9c1cba0fcf",
+      "titulo": "Wars May Spur Faster Electrification",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
+      "fecha": "2026-11-08T00:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e139f6a99088",
+      "titulo": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
+      "fecha": "2026-11-07T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "4b934b35f00e",
+      "titulo": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
+      "fecha": "2026-11-07T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "34ef3aaea821",
       "titulo": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
@@ -228,6 +283,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "fc3b9327927b",
+      "titulo": "COMMENTARY: Washington reset, market meltdown and the Iran oil bet: The financial week in five charts",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDZhY1FzZXRVRVhNczRmcTVIZjJKUWpudWZuXzZDZkQxcVFsRDRJUzNMNGltOFMyVmJ1VFdkV3lEV09FOGZ1bnlGT2c1R0tGcklDdTIwQXNyVUM5UHNFQXBxOF9uVm1xNVNuYkplOVhtRHBuYnRnSDljdWxLZjFuZ09IN2dlX3N6N29BWTZiRWxQMkNTM0FHc1o4NDFLQ3h0TnhIaEpEUVo0N1Fxd1IyZ3R6WmxSZk1ydVV5UXlsRUhmX3pCVFVMVHByT29WLTVrMXNCVXVPMHY?oc=5",
+      "fecha": "2026-11-06T11:46+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "3c1810d7d1af",
       "titulo": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist",
       "fuente": "OilPrice.com",
@@ -437,6 +503,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f6ea9d165469",
+      "titulo": "Dollar little changed as oil prices bounce, payrolls eyed",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3ZvRzF1aTlTZE9WT0NxYkU4TWFHTi04YnhEVXd1VTJRTXdibGtPdGZtTWkwZEVBLU0xNmtZaEc4R2lWZWVSdGJtY1FSdzhIazR5a2YwdDJoRzFFTHN1Z2FNb2l5b2x5SllyTE9sTTZTNkxFODFJVkhxOGhlblRTXzNiLTZpc3FKcXBqRzZUMjYtY3VXOHlnR0hPOFFYTldZaXpzSGNTbzlPNlhUdHF1amJTcFp1dw?oc=5",
+      "fecha": "2026-11-05T20:43+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "6924c3ef99d8",
       "titulo": "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
       "fuente": "OilPrice.com",
@@ -478,83 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a39c90324f0f",
-      "titulo": "Gasolinas en Guatemala: bajan los precios durante la semana y esto costará el galón el 6 de noviembre",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/gasolinas-en-guatemala-bajan-los-precios-durante-la-semana-y-esto-costara-el-galon-el-6-de-noviembre/",
-      "fecha": "2026-11-05T18:00+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "75eb16fdbd54",
-      "titulo": "Guyana’s Oil Boom Could Ease the Global Supply Crunch",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Could-Ease-the-Global-Supply-Crunch.html",
-      "fecha": "2026-11-05T17:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4e267d091d6e",
-      "titulo": "Turkey Unveils $500 Billion Energy Plan Built on Gas, Solar, Nuclear",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Unveils-500-Billion-Energy-Plan-Built-on-Gas-Solar-Nuclear.html",
-      "fecha": "2026-11-05T16:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0e5fda66d4c5",
-      "titulo": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2FNazA4NjVLU04wVlFLNTFIcGplRVJsWmVsakIyMUdZQzRVc0lkY1dHTXVTd0d3ZnR6MU95MDYzTWpJOEZ3MkFNaVlqOFZJMGxabG1Jd2lnZC1ReHNxS1U5ekd1UFhMUXBoSEdPLWNXTWNPdzBhSnYtTVY3MzVuZTQtNEk3SkFVSUxaMWFGM3ItWFRBLUwzYUMteG9oVFd4WURaSTZZSGlVaDM2UlNiMUJWaFNQT280dWRYYmVXRjNyZw?oc=5",
-      "fecha": "2026-11-05T16:10+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a19cf5bf6440",
-      "titulo": "Iran Opens Strait of Hormuz to China and India as U.S. Blockade Continues",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Iran-Opens-Strait-of-Hormuz-to-China-and-India-as-US-Blockade-Continues.html",
-      "fecha": "2026-11-05T16:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6855ca94d8a2",
-      "titulo": "PODCAST: Oil heads for pandemic-era fall",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUN4a1BScS1wZnluYTlzUWEwR0EtSUhnWU9VMGtEMkc3Y21FenVPbDU3X0dkak83aDh3VmFYdzltcVVuN3F3ZFJrLWwxeWxmZDZ1ZlNNeG9uY1FfQXdoc0xMYUh1T3hHeV9Ib3BtNGpRLXBPQVYxd3h1aEoxVklTVjlsOW01bXdTX3JJUzJrbGxwdzRKckk0?oc=5",
-      "fecha": "2026-11-05T14:29+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f20e9549a497",
-      "titulo": "Rupee finds its footing as oil worries cool, traders watch flow momentum",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQME9GZlNzY1R1djlUYWZnQ2lQRXE3ZHoxQ1VhOEZhaVRyVTY3TWZIRXhNMDNaemNtb0NFNzJZeTZtYlRCX0FtbFlYenA4Z0gtSkZBZVFRQThHZkRtcHhsR09wWXVhdl9CLUQ2Z19JNWpFWlI0N013RFR4VDFrSTFoZzVQS3F5Y216eWdlMTlZbWxldWY4TXh0M09TLTBuX3lUZ1ZWRzVaRHhxSENxT3E4Qlpwd0E?oc=5",
-      "fecha": "2026-11-05T14:16+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
