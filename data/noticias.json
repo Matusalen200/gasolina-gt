@@ -1,12 +1,56 @@
 {
-  "actualizado": "2026-11-10T18:38+00:00",
+  "actualizado": "2026-11-10T20:21+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 9,
-    "BAJA": 14,
-    "NEUTRAL": 27
+    "BAJA": 15,
+    "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "6ad28f3e0b07",
+      "titulo": "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/British-Airways-Owner-Warns-Green-Fuel-Mandates-Could-Kill-European-Aviation.html",
+      "fecha": "2026-11-10T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d45817334620",
+      "titulo": "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Wants-COP31-to-Focus-on-Electrification-Instead-of-Fossil-Fuel-Cuts.html",
+      "fecha": "2026-11-10T19:30+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "53d4a0203070",
+      "titulo": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Midterm-Shake-Up-Could-Reshape-Global-Oil-and-Gas-Markets.html",
+      "fecha": "2026-11-10T19:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3a6400798ea1",
+      "titulo": "Tanker carrying Russian diesel halts off US coast, shipping data shows",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1MXVxSmpTNTdreEFjWmk1cmpNUjRvM0tjelF5aVMyaDRyUkpyck1xNGlQVkNMWkZKVnVxTDFSaUZBUEU0aEE4UHRnVnZ1UnF3TVRQSzJwc2IyekZMc2VnZ1loRnVRN3c2SmZRYWo4SW5tZl9vc3JDWlFWbUk2QzM0cGh5NF80bjR0X2FlZElPb0xNWVlETk9PTFdCOFpFYVQ5TGF5NFpzQ1hacTRKUFRqMnFQSGY5LXRrZWVB?oc=5",
+      "fecha": "2026-11-10T18:37+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "a5e95c4f3878",
       "titulo": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan",
@@ -107,6 +151,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "1aa91ea5c7e8",
+      "titulo": "Inflación en Guatemala: por qué bajó a 4.38% en octubre, pese al aumento del precio del gas propano",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/inflacion-en-guatemala-por-que-bajo-a-4-38-en-octubre-pese-al-aumento-del-precio-del-gas-propano/",
+      "fecha": "2026-11-10T13:30+00:00",
+      "idioma": "es",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "52f17bd16f43",
       "titulo": "China Is Buying Oil Again After Months of Living Off Its Stockpiles",
       "fuente": "OilPrice.com",
@@ -173,6 +228,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f49c34b07c21",
+      "titulo": "Recaudación tributaria 2026: SAT prevé cumplir la meta por estrecho margen pese a exoneración de combustibles",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/recaudacion-tributaria-2026-sat-preve-cumplir-la-meta-por-estrecho-margen-pese-a-exoneracion-de-combustibles/",
+      "fecha": "2026-11-10T06:10+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "69a00373d855",
       "titulo": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
       "fuente": "OilPrice.com",
@@ -206,6 +272,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "ef0efb67fc4e",
+      "titulo": "MEM advierte sobre una posible concertación de precios en el gas propano",
+      "fuente": "Soy502 (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzZqSUlPUmJEamhqeTFwWndhYzY2RVlHSnNicHhITjZOZmdZdVl6QTMwUmRrWDlnWG9sZWlXbEpiVkVrS3hrRnNlNXlNUVNad3JTQjlsMmlQb2hhVkFSX3ZsMlNGcGY2RzdBU2VlSGowdm5nNXl2dUVrbXJpVi1LaG51Tm1iUGJ6Rk4xN0dVRW9zT20xeUpF?oc=5",
+      "fecha": "2026-11-10T02:31+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "a06cbb49ac5b",
       "titulo": "Oil prices hit two-month lows as US downplays further Iran strikes",
       "fuente": "Reuters (vía Google News)",
@@ -214,6 +291,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "3c69cc29318a",
+      "titulo": "Precio del galón de gasolina en Guatemala: se reporta nuevas bajas en el promedio del MEM y estaciones",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/precio-del-galon-de-gasolina-en-guatemala-se-reporta-nuevas-bajas-en-el-promedio-del-mem-y-estaciones/",
+      "fecha": "2026-11-10T01:14+00:00",
+      "idioma": "es",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -464,94 +552,6 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
       "fecha": "2026-11-08T23:50+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f64e763a59e4",
-      "titulo": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
-      "fecha": "2026-11-08T19:26+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0aa6051496ef",
-      "titulo": "Precios del combustible registran una baja este domingo",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUVhSFAtOTNSNlVkVlJSU2xLUTN5M1ZPaWxUVVlDU2hZM2c3d0R5OHU2V29aekNqLUZLRFVmZDB6MUdVa21VNHRkaTktRV9ESHZHcVQzQjJCVHpmc2pnVkNSX0kzY3NHREtETzNyUEFnVnNzMTdDU2pvQjJfNmNrUGpjNzRsUQ?oc=5",
-      "fecha": "2026-11-08T18:20+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "02832e478b91",
-      "titulo": "How Big Oil Became the AI Industry's Favorite Customer",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html",
-      "fecha": "2026-11-08T18:00+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "88666b11b77c",
-      "titulo": "How New York Plans to Turn Waste Heat Into Clean Energy",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html",
-      "fecha": "2026-11-08T16:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3b9c1cba0fcf",
-      "titulo": "Wars May Spur Faster Electrification",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
-      "fecha": "2026-11-08T00:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e139f6a99088",
-      "titulo": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
-      "fecha": "2026-11-07T22:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4b934b35f00e",
-      "titulo": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
-      "fecha": "2026-11-07T20:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "34ef3aaea821",
-      "titulo": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
-      "fecha": "2026-11-07T16:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",

@@ -1,96 +1,82 @@
 {
-  "actualizado": "2026-11-10T12:38-06:00",
-  "revisados": 12,
-  "nuevos": 1,
+  "actualizado": "2026-11-10T14:21-06:00",
+  "revisados": 5,
+  "nuevos": 2,
   "ultimo": {
     "superior": {
-      "tipo": "promedio",
-      "valor": 33.38,
-      "t": "2026-11-10T01:14+00:00",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/precio-del-galon-de-gasolina-en-guatemala-se-reporta-nuevas-bajas-en-el-promedio-del-mem-y-estaciones/",
-      "n": 2,
+      "tipo": "otro",
+      "valor": 32.49,
+      "t": "2026-11-10T19:26+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
+      "n": 1,
       "fuentes": [
-        "Prensa Libre"
+        "La Hora"
       ],
       "apoyos": 1,
-      "nivel": "en disputa",
-      "discrepan": [
-        {
-          "valor": 32.19,
-          "fuentes": [
-            "TV Azteca Guatemala"
-          ]
-        }
-      ],
+      "nivel": "sin confirmar",
+      "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ No hay acuerdo: unas dicen Q33.38 y otras Q32.19",
-      "fecha": "2026-11-09"
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
+      "fecha": "2026-11-10"
     },
     "regular": {
-      "tipo": "promedio",
-      "valor": 30.83,
-      "t": "2026-11-10T01:14+00:00",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/precio-del-galon-de-gasolina-en-guatemala-se-reporta-nuevas-bajas-en-el-promedio-del-mem-y-estaciones/",
+      "tipo": "otro",
+      "valor": 29.98,
+      "t": "2026-11-10T19:26+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
       "n": 2,
       "fuentes": [
-        "Prensa Libre"
+        "La Hora"
       ],
       "apoyos": 1,
       "nivel": "en disputa",
       "discrepan": [
         {
-          "valor": 29.69,
+          "valor": 25.65,
           "fuentes": [
-            "TV Azteca Guatemala"
+            "Google News GT"
           ]
         }
       ],
       "confirmado": false,
-      "respaldo": "⚠ No hay acuerdo: unas dicen Q30.83 y otras Q29.69",
-      "fecha": "2026-11-09"
+      "respaldo": "⚠ No hay acuerdo: unas dicen Q29.98 y otras Q25.65",
+      "fecha": "2026-11-10"
     },
     "diesel": {
-      "tipo": "promedio",
-      "valor": 41.85,
-      "t": "2026-11-10T01:14+00:00",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/precio-del-galon-de-gasolina-en-guatemala-se-reporta-nuevas-bajas-en-el-promedio-del-mem-y-estaciones/",
-      "n": 2,
+      "tipo": "otro",
+      "valor": 41.01,
+      "t": "2026-11-10T19:26+00:00",
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
+      "n": 1,
       "fuentes": [
-        "Prensa Libre"
+        "La Hora"
       ],
       "apoyos": 1,
-      "nivel": "en disputa",
-      "discrepan": [
-        {
-          "valor": 40.69,
-          "fuentes": [
-            "TV Azteca Guatemala"
-          ]
-        }
-      ],
+      "nivel": "sin confirmar",
+      "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ No hay acuerdo: unas dicen Q41.85 y otras Q40.69",
-      "fecha": "2026-11-09"
+      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
+      "fecha": "2026-11-10"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-11-06",
-      "q": 0.39,
-      "pct": 1.2
+      "vs_fecha": "2026-11-09",
+      "q": -0.89,
+      "pct": -2.7
     },
     "regular": {
-      "vs_fecha": "2026-11-06",
-      "q": 0.34,
-      "pct": 1.1
+      "vs_fecha": "2026-11-09",
+      "q": -0.85,
+      "pct": -2.8
     },
     "diesel": {
-      "vs_fecha": "2026-11-06",
-      "q": 0.16,
-      "pct": 0.4
+      "vs_fecha": "2026-11-09",
+      "q": -0.84,
+      "pct": -2.0
     }
   },
   "diario": [
@@ -223,6 +209,12 @@
       "superior": 33.38,
       "regular": 30.83,
       "diesel": 41.85
+    },
+    {
+      "fecha": "2026-11-10",
+      "regular": 29.98,
+      "superior": 32.49,
+      "diesel": 41.01
     }
   ],
   "tope": null,
@@ -661,12 +653,35 @@
       "titulo": "Precio del galón de gasolina en Guatemala: se reporta nuevas bajas en el promedio del MEM y estaciones",
       "extraido_por": "reglas",
       "salto": false
+    },
+    {
+      "t": "2026-11-10T17:27+00:00",
+      "fecha_dato": "2026-11-10",
+      "tipo": "otro",
+      "superior": null,
+      "regular": 25.65,
+      "diesel": null,
+      "fuente": "Google News GT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWC12T1ZQSTRlejRzamhTY016bVlLbzBGVGxSSVhGZmxSeTJyNEVoLXZ5UUtCa09QVDlGRmp2UmU2dEw1WUNPX1oxdUU3cmdJZnhFNDNQY2FKLXpNcV9jeTBHLS11RVI4XzdGQ3hhZE1CTTFwcGpiSndkZXFBWUJ4dWVfWF9uUQ?oc=5",
+      "titulo": "Yajalón vende la gasolina regular más cara de Chiapas: 25.65 pesos",
+      "extraido_por": "reglas",
+      "salto": false
+    },
+    {
+      "t": "2026-11-10T19:26+00:00",
+      "fecha_dato": "2026-11-10",
+      "tipo": "otro",
+      "superior": 32.49,
+      "regular": 29.98,
+      "diesel": 41.01,
+      "fuente": "La Hora",
+      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
+      "titulo": "Gretexpa presiona: si no hay prórroga a exoneración de impuestos subirá el pasaje",
+      "extraido_por": "reglas",
+      "salto": false
     }
   ],
   "sin_precio": [
-    "https://lahora.gt/nacionales/dleon/2026/10/12/regresan-los-bloqueos-codeca-limita-el-paso-en-la-9a-avenida-de-la-zona-1-y-otros-puntos-del-pais/",
-    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQXdpNHJQeTZaYThwOFowY0tXNUFGTWkyUDlLd01vYmFkOHJrU3dhSzRpd20wRWFjbVdTc0RhQ20wbWJlVFpnLU1MaTZ2cXUtTDMwV18xYUVjVHNwUUwyb21fYWNEb0trbmZZYzRZWE1xckhDdlo4dkRxZTdOLWN2a01pNDJVSVBJYnVLaWh3SzZIUTBXcGRxZy01cXJBRWJhbU9kOXUyV0hQZkg3dzh2ZVFNajBmMHcydzZEWTRzTUc1SGRoZTliNkl5TDU4Zmp5bGtnUkg4Q0FfRDVKRVBQZk1ueFVKRU1kaEI3SnlrSmN2TENXS3kzQjFGY3Z2cG9ua1o3MHh6MjVnSVhxRV8yTkJ3MNIBrgJBVV95cUxOZ3A1THV4bW9jZi1CM29KN1hjN2U1RUNiWU5BTEdTWDY4TlVhcWhWeUhmWmJHc3lDNzh3M3lhYUxoZThZTV9WMEZLSzl0alRNX2lJa2VlX2FFYnBVY0MzeFJLaFRtSnVuVktxTUlhQnpqSGV4V0FIM0thT241aUk1ZEdCZkNOdkh2VDFCY3RJeVBCOWhGeklXMnVYTTJzSmVQSlFCbGFKcVVHcHdOdjBSc2Q5eUlRYmZaVWFKYVQ2MXF5a2JZem9QODBMMUlGWXlGeGVrNVBOb2k2dVZBODExcFBqUjBJWVdpSTBBTmZrOGlLUnhORjNWZnpRZEVmU1hrbVZfLXVnOFdoWE9YME1GNGIxZU53MkN3ajBSWFpOdHNCbkR4MzVmS3RhcENOUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHgtaHNqdjdEaXdlNDNsLUE3alpoT1hZWHFwUXVySm15dUd5d2toZHJ5X19fZlR2MEJsRF9IcEh0Q3hxcGxtMjVhZFpGdFd0ODl6cE1oQ3E0NXI1YWRMVFNRcTdxOUxFb1JCZ0F4VWpEeUtaLUJBck1DaWw0X1dsTk1ZMWF5UDlRVVJyZFdZbi03cFZCWUo4b2ptSzR4VjdNdUNRMlpVUjdTR0VnTTA1UWsyZ1NMcEV3aGNuelVpcU1BTnUyYkd5MWZ4Sm1qUDhuTGlfaEx1UWJYcU5PMTE3SU8wRWJUZVE?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1ZuTERLQzdJSzlRdE1oajBYSkY1RnVvSF85VUpSajdSOUZaZXVzOEw3WmRUZ3kxa1d5WlJrTXRaOURjQng4Z1FHR1VwVzNiMXpvZnZKSVZyN2VhRmFFVU1Ld3NYcGtvdXBCdEpjZkF4dnoxcUtNYWpTQnhlWFNsaTNTMFpyY3loS2s3WTI3al85OGZFcjdQSDhtNVhBdEE4eFl6M2szU00wZmcxVDNKS25mRQ?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajRUVWZROGs5UVZDRjVZOGRIR1Bac1p3Rkplcm1sdXZpbWRPa0REaHVxSUxuMjhEYUw2V0F3WG8xZ0hNQVJvYmVXNGFxNFNld05tRk1ER0ltZkpHWW02b2loZVcwcUt6ZkdpVDJCdjItdnhSd2RIbTNzRXdURG1HV0FHTUI?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFZYU1pJNE5qOEY4VnZmOTJhaENpWGJzRzNScGZIWDV1eHVyWW5ueV83X3pHb3Z3YW1GTTN6UF9mTkRVRVFjLU5fczE4enFqNzZXSWM0aGJ3Mjl2Tjk1eTZEdkhEUFlqVy04T1hzNjRVRHpOSlV6M3RVLVVrc3NjOHNaZ3BBTEdncGFnY3pBeEEyX3pjMENkUU1xeVM5WERhZEw2RGQwTk52RmVRQmpQUHNzazJvQ1UwMHhuVERwcmMwTjFfeG5fOG95UVhDdkxfV1haMXg3Y3NNQ1NRZ1Zj?oc=5",
@@ -963,6 +978,9 @@
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2N4dnlIX1VvbENyWjdlaWlCRzB0TkFzRFZXRTd0WDc2R1N1TXYza3h6bzNfT1dUOWNLeVU4d0xOM2pFYTVaWTV4NXM5UGlzVERkNk9IdWwtaDJ6UTYzODJjbzYydkM0bEVxMzdsdFpiRnJSM0V3dUhES29QM0xwdTQ5d1J5X3hNNWxuLUlUWUdYXzhpbExMMXBEcjNkME1sLVdydWVUVEdtdUFXWFdjbDJSbDlnSGtkM2VvemhDTTZIU3BCdEpKcENrcUdKbzNNQUlDLUliZEJ3Qm9CbHpEUVk0QWFBV2RhLTJULXJudnQtVEczSjJtMw?oc=5",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1ZPbDk5bFgxU25EZWRvdVp4TTZvTTExVERhRkRFV1NQbU4xQ0NOdGQ2b0I0TExzdW8wbElsRDJzYU0yemlIQVBFYUpyNF9kbm5FR2hHZkRyTzd3NHV1cG9YemsycV9hQ2xVYzVBdTcwNDhnUnpYM1FmTk51WUdaNkdSenNJdXRhSFBmUnAxMmxsMmtqU081X1hoYUNTUzhkVnJxY1VfVUx6cmFrTW41bl9SMlNVNDBQbDJnNkp4UGY2ak41MXJHVG5KYXFLVTdBOHc?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGMzdTU1WDVMU3FmMndmQmhIeVhHZWU2QmxpY0ItajRYd3FTeHBRYWFfXzN1Vk9SSTkwVS05UDhIeXRhclM0MWp5eFhZYXVVV251R3ZYa0FsbldaRXBhU0VIVWo5MUd6Q3ZSbHd1QlZoVzJST1BHVGJxMFdtQmhfcjlqTkZrYVlaLWw3VkZWaHBkOW9QdDBxckJWTWVoMi1oa0JreURzbWJKOUw2M3FwdjFsTXVNV3pQVWpFTg?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclJzZUw5VmU1eDktMndVakJlTGxUVHRjZW41dWxVQWFwLTVQQWJJYUFCUUt6TlhfVjNZQjdnSTRBWWVxdjhSV3ZzVG5nbW0zaXFyWWlDS1RzXzN6LTV5bzJuZUtBRjNIamZGVnFCTjE3YkFxWkRnNWZtX1hoV0JhNWFUZUZzVjdLTVpuVVdYc2twalZ4ZlFn?oc=5"
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclJzZUw5VmU1eDktMndVakJlTGxUVHRjZW41dWxVQWFwLTVQQWJJYUFCUUt6TlhfVjNZQjdnSTRBWWVxdjhSV3ZzVG5nbW0zaXFyWWlDS1RzXzN6LTV5bzJuZUtBRjNIamZGVnFCTjE3YkFxWkRnNWZtX1hoV0JhNWFUZUZzVjdLTVpuVVdYc2twalZ4ZlFn?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmpmY0diV3BDMTZqbjZfTFJHZE5jU1YtdU51RU5DdGxPZ1JLS0I3eFoxYWw5S2pOTzBoRmFzZVVfWVlFQlhGMDIyMXBPcUh3VXRxcER3WERwcmR0T3pDRmlzV1hTWWl6OHluRDdXWHpMcXczVnNYTVl3c1htTXZ5cG5tb2h1RGVqWWlyS0EyeDExUdIBlwFBVV95cUxNMWNoa1pzMjlWRE55blJ1Nm9sbTJDZUpzb0t0WnNaQTdSNmhrbm5BNFBxeS16ZWNfNW51ZTRNa29BQUs4bjZHd0RIM1djRlNabGFta2lYMHJ2aVNaU3l1NXpaeDBiZ3lpR3hHTlRRZ1VGYjZMa1k5Q0k0dnM2eng4d2NiWXNNMW54UHQ4aFpSLWVjT3VEbmM0?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFRDSlNqY21YRGN6S0UwOXRkOWw4dkJsMDdFZ0NZYUROTEFxN2kxajJ4UGh6SEZnbmpEVV9rcEVUcVVrY2NxbExueThoeWtlM1NMVUVPVVVLN3Vqa3ZJUFhFcHNNRGl6RjRrYmFTV254ank0MEZiVHRoWUtUZzlNek9ET3psbVZHNXdFbnFDWk5tNkc5OEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1NjZlRZelN2U3pLWW9HWnNMNEhCWGU1TWFWSnpVZElRc05QUHJDaFVqZVlGaDZrTGMwV1g3LS02UW8xaVhXZDhadDFSazlWZk01MG51ZmIxalhob3lvcTJ5c2dZd1A2QWxvRUx2V0V0SzhmaHVpMWdtcnF2YjRoSGMxVFlKVnIzekpEY0ZwUEc1OXpuMFVaUUJUQUdpQk0tSmszTjVQWXJ1OXl6TUtoNld0NkVFLTU0dDA3S3VnandxUXZMNE16ZXc2d9IB0AFBVV95cUxNWTllVzM2WHZxdWRpNWhkcVpmLXAteTh2Rl9wUDN3a1JLbXhFWUhBWWV4NV9XcnpRald3bVZjX1BJTzAzQU5wUHpEazBGMEtNWW9BS1ozUjNCZllYeFpkTFJrVHFiMFBtcEIzX0dKLVVIZWFUT0k5dEhRVDdiM2dGc1RwWkFDeGx0Zjg0bW15MkpOaklwRG9UUVBVbVdZWkpIZ2tnQjlJbzJNSjVlNFI1eFE2SnIyRjRXWDhLX0l5SUtmaGNibTg5UVA0WWoxclhC?oc=5"
   ]
 }
