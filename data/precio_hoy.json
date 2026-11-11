@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-11T12:37-06:00",
-  "revisados": 9,
+  "actualizado": "2026-11-11T14:04-06:00",
+  "revisados": 2,
   "nuevos": 0,
   "ultimo": {
     "superior": {
@@ -682,8 +682,6 @@
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2d0bWF1VWxfYXdCVzRNUUpYdG55UTRQeUduYnN0Vjg5LWV6YjR3X3VmRVQtLWRJWFV0X1RPMFpjMUlzaGVVbG5lekpTQ2FKUFZqU2xCRHQwZEN0VWloU0NBcU5ray0yc0M1UlNmZ1Z6UUJpazNiTVdOR0lLM3FZTFZNcEhabjdoWmdrZXBzbm1nMmxzak44LW5EWmp3WGZLcXhEall2ZGdaNFI4Qm00YnJ0MlB1QXVOdEV0Ty1BOFRVYkRIOFZ6aWkxcFRGaWpEWFIxVmpHWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNU1iZWhReVZyVDQ3RjNvTWZQTkV4QTluV3lieUtESDJxeHhDSVBUWHgxX2xFb2NQVHVEN0ptUU0xTkk5S3pRREp4bng3UV83d0dxWUUydTBOVmk1S0Q2LWFFV1ZSdkE1UjhjcjM5ZjVKcWZzdnVJVnFMVTNMdlZPX1lBcTAxU1FXWUtXYmFpby1yTklPZ2RfUkJLWXlHUk5BcVppaXJhWDM5RlNfWVgyakFfdDFSSTdMdDZSb1RxUQ?oc=5",
     "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-las-exportaciones-de-ee-uu-a-cuba-alcanzaron-un-record-mientras-trump-ejerce-maxima-presion-sobre-la-isla/",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmdySGRaaGJzbFhCbWhtQWh4VFBPYTVOZEhzVjAyeU0xZkJvTjV4Z0pvdmY0Nm5TN1gtdk1NQ2xxWGFhb0RYNGhiTl9MaHhqR1JwUjJmOF96c1hYOTJEWUlPVWlaRDVCS1RPOVZZdkZCVGpidFN3ckpiWEhSZ3AzMTJ4U21saXhJclYxcnU0eDh5ZEs0MlB4VmJpbw?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0pFU2VHQ1FGRW5kalpZV0x4LXRiSUdyaVhxOVI4aFNTbGdLeUtoVGd4S1hQVmtRWWhQTEkxeHplbExSajhNVlF0NWlSNGRiRnBBY1l2cVNvdzlsT2hTejBRWlBJLWxfLUx3N1pXaVEtc1JERmN6NkwzS1k2cmR2a2hPRHpfUFp4dnpjOHg3QzBmT0ZYSW1LLXp3?oc=5",
@@ -981,6 +979,8 @@
     "https://www.prensalibre.com/economia/cuanto-costaran-la-gasolina-y-el-diesel-en-2027-estas-son-las-proyecciones-de-estados-unidos/",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVA3VFlzWnZoanVjdE1xN2lpWlFJMGVmeS0yNG5IbEZGOUJ2OTQ4NkJTSGlZczZacVVMNU9ib0FXSkJxRjJLNmI5SFZJT3dzX3RCMXotT3NQcXNaTElfdTNQQm1BUFE0SDNodGVydExvZ2s0OXpyMHFIWFZxRDZRdHM4WmcxcWFKcFNtX2VQV203WVQ2OWN0b0JZNVVqX2oxT0tBbXNpY0pKTmpVZldxN3dsMFY0WTViQS1OVjFZWjAzcnM3THlqU1BB?oc=5",
     "https://www.lared1061.com/posts/diesel-y-pasajes-podrian-subir-en-enero-de-2027-por-restitucion-del-iva-y-del-idp",
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNM1Z4OGJKcXVBQU00ZnJoY01wQTZEU1ltWldLNjZVenBMNFBQa3dxRDdwQVpSdTF2UXg0SW5BOVpTNjhXM1NKU1ZQRlNWX3JULXp6RnlLREM4X3I4ZWpzR1F6bHZmOXhnNXA3N2FoWEMwVmZRRkFfV3pOcFBIb2hvNlhnWFpuVXVyOHZQT3d2SmdzaklIT0NHQzFsZUdUdHhiQkFlSFg2b19wdDBxWWtobXJmMmhZQmlUTTNydmRhRmVoUm5VQnFKTUVDS0VaaHVsN0Q2UHFHZWtIRG5OQVQ1TDl0RTBpVWVwUEh3d2F3OU1JcldMcG9jb3dxTU91QQ?oc=5"
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNM1Z4OGJKcXVBQU00ZnJoY01wQTZEU1ltWldLNjZVenBMNFBQa3dxRDdwQVpSdTF2UXg0SW5BOVpTNjhXM1NKU1ZQRlNWX3JULXp6RnlLREM4X3I4ZWpzR1F6bHZmOXhnNXA3N2FoWEMwVmZRRkFfV3pOcFBIb2hvNlhnWFpuVXVyOHZQT3d2SmdzaklIT0NHQzFsZUdUdHhiQkFlSFg2b19wdDBxWWtobXJmMmhZQmlUTTNydmRhRmVoUm5VQnFKTUVDS0VaaHVsN0Q2UHFHZWtIRG5OQVQ1TDl0RTBpVWVwUEh3d2F3OU1JcldMcG9jb3dxTU91QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMUQtOWZaX01GUlB5WVdPU3BaeF9lZ29aczk4bE5sU2FvLWRKSFh4cXBiUUJiT21NWWFFYkI4Z2s4UVdWRTlQcFhKTzF3aUlZb0c1RThfVEl4T0s1Mk41T3gxWXFuMDJPU3JOVXVVTS05bGllZjdMZ0xIbjdUYUhfaWxzQm5LV3gyOUJ1a1U2SFoySFJXUHdlRlNvbUtuUUhnSmVldWVBOW9XeHViei1SQWo3T2ZWMDJIN1dnZXZadUpDYjVJUEwyNFhUVlk4OUxtZ1FZLVN4NjJrWjlLZlQtVTAwLWFQelkyYktjRzM3cllSZlBUNjNrWWlZbDRDa2s?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlBMeU1kYkxJaWZkc05BVzN3QmJMcWJQUWVOS0dSMFNweXQzU25yN3ltN09uMWZEMkZwUEN4ZW5hS2dDZzFSa2N3ZmtyZFJ4YnNfRm8zOWM1TUtSdW14SHNDek0wdWVzRG9KVF90QkhIdXdBaWxpYnlvcHlKMWp6UjJXTUF4dEkxbXFPV2o4alFYR2RDWWp1VEZYVC1DU1RpQ2hzTkNCYUlSa2M1T3U1LWctelhEMVhWNEE5ZEVCY1g4M0dlekFhaFNNWDJTREtrd19IYXBrZGp4cm8zM2c?oc=5"
   ]
 }

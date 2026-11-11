@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-11-11T18:38+00:00",
+  "actualizado": "2026-11-11T20:05+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 9,
-    "BAJA": 15,
-    "NEUTRAL": 26
+    "ALZA": 10,
+    "BAJA": 13,
+    "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "fd784ac7470e",
+      "titulo": "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Draws-Boycott-Call-Over-Israeli-Gas-Licenses.html",
+      "fecha": "2026-11-11T19:30+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "414803cb7dd7",
       "titulo": "Vitol’s Venezuela Oil Windfall Traced to Trader’s Ties to JD Vance",
@@ -71,6 +82,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9506cc6b848e",
+      "titulo": "Libya's NOC discusses 2027 oil exploration with Repsol, TPAO and MOL",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVVwOXRmREhPelpZLVVHaURkREpFWVdsejA3dmJBTDNPS1BoZnJQbEZsRTg0SFRSVVo1akt2VkFscjlFSEdmM3Y4MUt1SWdVemx0TTJ2MnBneFVnTmlIRXpOZjk4Z3Y3UmFXS0xJUDZiVW9TOGtYV3lfWjl6R2V3ckZsZ1pVcEZ3azBjclpzc3U1TENBYVZmN0hFQXQ2MkFDZWNocnpyM09SOElLZXFlZjJaSEE?oc=5",
+      "fecha": "2026-11-11T14:21+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "3c69cc29318a",
-      "titulo": "Precio del galón de gasolina en Guatemala: se reporta nuevas bajas en el promedio del MEM y estaciones",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/precio-del-galon-de-gasolina-en-guatemala-se-reporta-nuevas-bajas-en-el-promedio-del-mem-y-estaciones/",
-      "fecha": "2026-11-10T01:14+00:00",
-      "idioma": "es",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "caa3230922a4",
-      "titulo": "Stocks jump as oil tumbles, Nvidia falls amid internal probe",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
-      "fecha": "2026-11-10T00:58+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
