@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-11-11T20:05+00:00",
+  "actualizado": "2026-11-12T01:53+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 9,
     "BAJA": 13,
-    "NEUTRAL": 27
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "ec956bed032e",
+      "titulo": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
+      "fecha": "2026-11-12T01:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "fd784ac7470e",
       "titulo": "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
@@ -16,6 +27,17 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "bed6395597c0",
+      "titulo": "Brazil's Petrobras to increase production capacity at another six oil platforms",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDl4VnR0aDVxaENCaTBHVXRYM29NLUgyMElqRU5ITEl5Nk83bjRoQm9XWXpiV1lUTGNVdXdzdlpNRy16ckQxckFRWGJYMnNsbFE2QnE3OHRXWHg2aGpIcEhLVk80dDFuTGQtb2FjS0FaZVkwcFJDRzV6ak9NX2FzcUFJUTBQTEQyWS1ZeGNraC1vb2YwbGFsRkJXeEs3VFA3eFFDUmlNRHllYWpiTnJZcWlUaFRKN2VzMU9YSHc2STFmZw?oc=5",
+      "fecha": "2026-11-11T18:48+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -30,10 +52,32 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "f5cde7066577",
+      "titulo": "US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3daRUlqRDl6MHVCYUhiS0tlUWV3d2xOX1BLWGtRazZCaVE1RWVqWDdoTENEX04yc3doSzhHM0wzQS1ibjd6cC1QZFoyaGNUVmY4bzlfcHdkX0dSVEpXVmQ4TTQ5RE1sWnVPbWkwb2ZWUE1fSWdVTkpTM1BjUFk5XzExLURsSUlQMjlvcERJQ2J0Vno5SlByRTBBMGFhd3RmdHRMTVBxMXV0b0pkOW1ZTXMxTVpLQnY4SHNSMW5Pd2ZFaUZZY29TdF93?oc=5",
+      "fecha": "2026-11-11T18:25+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "c92bd56e5a3f",
       "titulo": "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%",
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/Crude-Is-Back-at-80-in-the-Gulf-but-Refined-Products-Are-Stuck-at-35.html",
+      "fecha": "2026-11-11T18:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "1e86cafa9c7c",
+      "titulo": "FTSE 100 gains as oil, copper lift energy and miners",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa25IQkVOY1YtWUFRaV95Njh0YVVnVUFDd2VfWm5Td0dLSVgyM19RcnUtTWFESWxvQ0wzRFhxX25LN016Q1pFUVZJRF9EOVlIT2VOei1DODg2LXJWeDU5Y3BzZjBoUlVvZGhSRFh5RlBxMVhCbHVQbXprbVNYUWF4SmpmN3pHWllyd2c?oc=5",
       "fecha": "2026-11-11T18:00+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
@@ -511,50 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a7826b9ccd25",
-      "titulo": "China's October crude oil imports rise to highest level since March",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzh4VnBTdUVqdmI5cnpOUTJlY1hZSHFTV29RYVpZZXVfRnRFclBrSG9xSjJReDRkS1hEUDhvNGtOMk81YmZ3blZYT0wwZGthaHhMdi1Hc3JDZFVEQXhuSGxmRDhFb0syQnhkNm9Vc1N5Wmw2dTk4RXE3LVNjaDRvRjVvNkZzZWVWNjBDN0pCWEg1SVdqQ1JqQUJYd1Fjc2FSUFJ4SEFWMFA0SkZYOXNKQU5BbUZ0VGlhVS1Pc1ZjMmY2MDh6dHN5RGRreXc?oc=5",
-      "fecha": "2026-11-10T03:37+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "de41a3307d29",
-      "titulo": "Oil dependence is bad for the climate and the economy, UN chief tells COP31",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmttSXJtNFNlWTJ3dkx4b3hTTXg3X3pRQ1RZLVF0aTRtZXRvWjhSLUlPNTNIMl9rSWM0MXJYd2NTeVI2M01pYUtOakJqMXdzbHVVUk5IRERXOFBwYTBKMTF2aFZSeDZhdUxfaXZDVW1aLWRMZFlDSnFWei1LdUFxLXFBTUdzZ3ZRU3JuUWlhMXdnRXdmU29vRTRxUHlCTnY2ZmFJaWtjUXN1a2lWUFEtYkZSYnVyU2tEQmxoZjR1bw?oc=5",
-      "fecha": "2026-11-10T03:07+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ef0efb67fc4e",
-      "titulo": "MEM advierte sobre una posible concertación de precios en el gas propano",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzZqSUlPUmJEamhqeTFwWndhYzY2RVlHSnNicHhITjZOZmdZdVl6QTMwUmRrWDlnWG9sZWlXbEpiVkVrS3hrRnNlNXlNUVNad3JTQjlsMmlQb2hhVkFSX3ZsMlNGcGY2RzdBU2VlSGowdm5nNXl2dUVrbXJpVi1LaG51Tm1iUGJ6Rk4xN0dVRW9zT20xeUpF?oc=5",
-      "fecha": "2026-11-10T02:31+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a06cbb49ac5b",
-      "titulo": "Oil prices hit two-month lows as US downplays further Iran strikes",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
-      "fecha": "2026-11-10T01:43+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
