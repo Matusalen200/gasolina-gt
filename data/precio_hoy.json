@@ -1,82 +1,75 @@
 {
-  "actualizado": "2026-11-12T19:43-06:00",
-  "revisados": 4,
-  "nuevos": 0,
+  "actualizado": "2026-11-13T14:24-06:00",
+  "revisados": 6,
+  "nuevos": 1,
   "ultimo": {
     "superior": {
-      "tipo": "otro",
-      "valor": 32.49,
-      "t": "2026-11-10T19:26+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
+      "tipo": "promedio",
+      "valor": 32.19,
+      "t": "2026-11-13T12:58+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/11/13/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes-2/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-11-10"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-11-13"
     },
     "regular": {
-      "tipo": "otro",
-      "valor": 29.98,
-      "t": "2026-11-10T19:26+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
-      "n": 2,
-      "fuentes": [
-        "La Hora"
-      ],
-      "apoyos": 1,
-      "nivel": "en disputa",
-      "discrepan": [
-        {
-          "valor": 25.65,
-          "fuentes": [
-            "Google News GT"
-          ]
-        }
-      ],
-      "confirmado": false,
-      "respaldo": "⚠ No hay acuerdo: unas dicen Q29.98 y otras Q25.65",
-      "fecha": "2026-11-10"
-    },
-    "diesel": {
-      "tipo": "otro",
-      "valor": 41.01,
-      "t": "2026-11-10T19:26+00:00",
-      "fuente": "La Hora",
-      "url": "https://lahora.gt/nacionales/hgodinez/2026/11/10/gretexpa-presiona-si-no-hay-prorroga-a-exoneracion-de-impuestos-subira-el-pasaje-now/",
+      "tipo": "promedio",
+      "valor": 29.69,
+      "t": "2026-11-13T12:58+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/11/13/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes-2/",
       "n": 1,
       "fuentes": [
-        "La Hora"
+        "TV Azteca Guatemala"
       ],
       "apoyos": 1,
       "nivel": "sin confirmar",
       "discrepan": [],
       "confirmado": false,
-      "respaldo": "⚠ Lo dice una sola fuente (La Hora)",
-      "fecha": "2026-11-10"
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-11-13"
+    },
+    "diesel": {
+      "tipo": "promedio",
+      "valor": 40.69,
+      "t": "2026-11-13T12:58+00:00",
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/11/13/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes-2/",
+      "n": 1,
+      "fuentes": [
+        "TV Azteca Guatemala"
+      ],
+      "apoyos": 1,
+      "nivel": "sin confirmar",
+      "discrepan": [],
+      "confirmado": false,
+      "respaldo": "⚠ Lo dice una sola fuente (TV Azteca Guatemala)",
+      "fecha": "2026-11-13"
     }
   },
   "cambio_dia": {
     "superior": {
-      "vs_fecha": "2026-11-09",
-      "q": -0.89,
-      "pct": -2.7
+      "vs_fecha": "2026-11-10",
+      "q": -0.3,
+      "pct": -0.9
     },
     "regular": {
-      "vs_fecha": "2026-11-09",
-      "q": -0.85,
-      "pct": -2.8
+      "vs_fecha": "2026-11-10",
+      "q": -0.29,
+      "pct": -1.0
     },
     "diesel": {
-      "vs_fecha": "2026-11-09",
-      "q": -0.84,
-      "pct": -2.0
+      "vs_fecha": "2026-11-10",
+      "q": -0.32,
+      "pct": -0.8
     }
   },
   "diario": [
@@ -215,6 +208,12 @@
       "regular": 29.98,
       "superior": 32.49,
       "diesel": 41.01
+    },
+    {
+      "fecha": "2026-11-13",
+      "superior": 32.19,
+      "regular": 29.69,
+      "diesel": 40.69
     }
   ],
   "tope": null,
@@ -679,14 +678,22 @@
       "titulo": "Gretexpa presiona: si no hay prórroga a exoneración de impuestos subirá el pasaje",
       "extraido_por": "reglas",
       "salto": false
+    },
+    {
+      "t": "2026-11-13T12:58+00:00",
+      "fecha_dato": "2026-11-13",
+      "tipo": "promedio",
+      "superior": 32.19,
+      "regular": 29.69,
+      "diesel": 40.69,
+      "fuente": "TV Azteca Guatemala",
+      "url": "https://tvaztecaguate.com/nacionales/2026/11/13/asi-se-encuentran-los-precios-de-los-combustibles-este-viernes-2/",
+      "titulo": "Así se encuentran los precios de los combustibles este viernes",
+      "extraido_por": "reglas",
+      "salto": false
     }
   ],
   "sin_precio": [
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYTRFZG5GaFFmcmVwa29mVmZmbnNSZThPbVI5T1dUYk9va3MyeUI5ZXRNMEdETVpFVTVNc1g3LXBoSWxnaUUzSlBhb2FCT1FjWnhCZ2RCYmlTMjg4ZWI4NXJzTVp5SWJBRlFfMHZBbjEtQnRYSUxtWFFIWjhFeVhtT1RXWXV6YUFHd2VBbnNDMm4zLTZCSE10TXJtc0k2REdxUFFaQXlpY1RLdTBvT0sybEpHNU1hcDBJalVteHFZRDFUUnBNZmc5Rkl4QUx0cVhnWUFRMXNMX2tjQV9uUTd1cDNrUENJTU1x0gH8AUFVX3lxTE4xS2t4cTVhdGI3ZjB6SmNmNWlXeUZGT1E0cTJBblMtdW9xZUdXQTlMTy12cTA2Z3F4NFlUaXhXdjdrcTZsbUg3MWhMTWdnYTE4SzBaZGxuTEt0M0tnSlBNdkpialRKQXNyOFlpd0VMLWZUMmIwSjM1TV9tQzUwWkZxYk5TdktndWVXN1otZjFVMnNzc210V0R2ZkVta3RnNHRMcXNqUFIzSkhxR2U1ODhJbERGaWNtcXVQQzVyUWFPSnBUVko5U1l6STg5OHRfTWNJQXJMTDZ3cno2eUVFYkRpXzlnQW1NcUdfYzB3d1c2cjlHZ2hLWXdXM0d2UA?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEQ3QWoyMW9Zbk5fT1Y3TzRNN2EtdEkxTGIyd1czbmdpUDNhajNaLTJBelM1eVMwRTJ6aF84ZzNld19pWVg4X1AzaExDdFRGTFFTQ0RJbWpPWnlhQVBkQ05ZQlFMY2ItWWxVRnBCNGV1ZFlMRk0taDV5QXpVYVlaUy1NNFNBOURQSVE2UmFENUhETURpTWdGeG9YRzhINzFmTTBpaXpjUG1UOXJs?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHNqRy1SZmlQdFk4by0yYW9KaXBsRUlzdm9BLWRUTHNIdjVrbGJIVkR3OTRxQ1Z6MTRwNW9wMjJhMDJqNy0yeVIyblVVOUo3bU5yWVkxbEVMQzRVdnpvZWJnWk1lMnFrNlRtcmVKaEhVQXdHT2NSdmJyYV9MT3pOZnlDX1J5T0pzSFBQbDQwRjhQdw?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVNwM19RdzltQjBPMEJadlhpbS1NQk84MllIbkZJS19pVm5wVkIwWGh6WHZRVm9QT0tTNVEwbmpmaDNRcDk2NDllSk9GZF9SS2RvNzVEQTQtWENkSVRJd1VmazhnQnh6WERNcW5lRnBZUE9YdHI1MDRDWm5yMjV1VTMtOElYUm0xQjNDRWhNbG1WUDBEQTRrQlgtLU02d1Fha1hjVE1TOA?oc=5",
-    "https://lahora.gt/nacionales/kjordan/2026/10/15/viceministro-de-transportes-dialoga-con-sector-civil-y-transportistas-por-alza-en-el-precio-del-pasaje/",
     "https://tvaztecaguate.com/nacionales/2026/10/15/transporte-pesado-que-trasladaba-combustible-se-incendia/",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlZKbHlEYkdyTnR1N21iWVdWejZ0V0V4UDFDZGJiSHU4cF9xVzFnVDFTdm9GcWxyUWx6SHVCY0tCQms1VHNPdU9aTWliSUdyTXpkclZYSnpXNUlXcU16SzBTMWM3N2xFSjlZU19PbTF2bWY1NkpidTRQeHBDeF9EcDV4OVJsdkFa?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkJ0NXpUek9DdVN1TC0zTVlPZmZKZk5VVHViMXViM0tTZGVoUkVUcE9jSnNGUlZNaXR3QlBQVW1ocnNtcE14NFgzY290UDQ2Q05RUXExUGhXSEJnaTNpUzJKaVNDa00tVVhiZVYweF9kcHlUOVpXZ3FyU1MxSWRKaTAzNVhxejJ1cUpMcldILXFySG5ORFdLdG9ITmRtdGhydEM1Sm9iOERPNUoxNmZyeWpSLWNsbmcyNHNPOGw0YUlxYlk?oc=5",
@@ -981,6 +988,11 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmxYRzNFQ3ZiVUR5TWpUaUVqdTRlVzVKdmhyem9vZTlxZjFRVlItQ1N5SVg4Ym1YZVAwUFJWN05XUktKZURqSmVob0F2aU9IT0Y0RUhjYVp1TEY5OTJ2MzNlaTdhdUdKczUtR0syZExZOGNid2lnMmZ4NGVUQVJhQ2JMQWV3ekxsQ1ZkRlB3ZnE5aWc0NFlGZFNFb2ptcEtXR0tQSWZCc283M1dUVm9NdUZjMDJYQlhqSEZkOVpQb3VveGMtemF1bzdyZw?oc=5",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOGc5V1FOVll6cjM4Y1JadlZSd1dNUkdfUFlEbnBjVXBxVUdrT1ZwRWxBSnAwVG9fazcxQURQNkZXWFlMWVJVaTcweTIzTEpJbW80cGRQX1BwdGhRWE80bFo1WlYxUVQwRDBBM2V6MExIWVVORWNpbFd0a0ZIMWlMbEVtVXAxcVhjU1ZrSGhncy1FV3BjRTlZZ1VfdmF1ajh2MkVvc294UXhJUlptVkhNZkU1ZmtKaE11dng4WDB3c2ktXzJIdzZvVl8zTHNoUVhpUW1OVlJwbk5RRlBYRm5qQWQzYXJrMXVCeHN3Wkc2Q2RYQWJCWDJvN9IBkwJBVV95cUxPLTB4Z2hBVzRhaXNrNGhKNVByY1hPbktkTVlEcEV1UExYY3VSV0RnNzVsMzRyUU5tUEFJd3BRSUtCVkNVeTlBYnI2anlXM3p1UWI5bXJnR0FzSHlYZ1NpZHBrcnhWLTJDcEdmYUVRT2Z1S1BuWkg5RUFkWGdjSlNjcXJWdmdqWVdsakxqN1cwSHNCOUxvWkpETHAtYklqWWhHSjliWEZsOE1VQnFGdDhDUkNLWUpfQlVhdmNKSE5JR0NjcGoyd1JiLVZ0akxFNnFFT0RXUEFxbnRfeFZDRHFQVFhtVlFtS0pSMUxiekFmN0VnT05ZcjdxLXJRYkkzdFVLcmJZdTVhRkswSURHVFFxUXA1QQ?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0hJSVhnVjcxd2tob3Z1cktIQ0FNc3kzdVR0d21feVc5TUJVNTkyMVd4djVzeUFKWmFVZWxhU0xsT3NNaS15UldtdEYxMVF0bGhkMkhla21vMFVxY3RlRGNmck9kbUhmdFVEVDI2NzNqSkVKWjFVaGp6M1g1LW1aMjFsZ2hwTVB5Tkw0QUlVZWZCcndyX3JkM21hcnM0WHdrZEFRVFFfSVpNbmVBOHB5c01sdw?oc=5",
-    "https://www.lared1061.com/posts/el-combustible-podria-definir-si-aumenta-el-pasaje-extraurbano-en-2027"
+    "https://www.lared1061.com/posts/el-combustible-podria-definir-si-aumenta-el-pasaje-extraurbano-en-2027",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdm9QSDdhWjRDTFlqcUJYREIyZW9UVHhpc2dDTmUxd3VBUmtyaENtSTVZbndLUUtGRzRMLWtIREV1b0ZpcjktcUxVS01DZ2V1Q3M2OVpNV3lYOWZ1ZjNlaEhLSl94c3RGM05QTnRQWDB3LVVBUnVQSk1oZ1JRbEtfX2QyLURFSWVxZ0ZlTXh6OG9ab1pSYURiZU5kUHl2UnU0dHlqbjVKc2hmUmdjR3UyN05HWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR29OMTItX1JXNHFSMVNRbjRaVTNxN3BvRXZTOTFIMVFtUVAyeTBjUzFiaThfVmhCVlUxWWJFLWl3Q1pfQzNwTGhrUG55dkdibS05RmEtSndVNjg0T05QckdFdHdWUVRIMTdNSWlXeXFESURnaHVNQXlBQzB6YW5YWGhnVmUzdzZOR2tudHk1UlF4ZjRyQ1VPandnc3A5RGZzblYxcm96OHFLbXlIWDlIX2xBUmRsekVQZDRXZG5URWRDR3AxbzNwalhKdndkVXB5OTktYnJSc0dyUVBMd0U2TkNZa3Y0V0h6SkNZSW04cTFrVFg0ZlJ0WHBMaw?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOU5XOTVGSDJ1aFNCckxNUmNBekFDcWJqMG1FaTUwM2daZVAxVWZwc0dnWFExemRWRTZ5YS1rU3ZHSl93VnNGU2l4azZHRDRxdzF5OVk5MVpZSzQ1bnFWZ1g0eV8yV2ozMUEtU0RpQmhnWmwyMl9sV2I4YWhXZFJXUV93X3ZVU2t3OGh4TTVoYVhET3VjNV9ERTJibE1kYUh3R0N3MlZIeXgxOVFzczVhMU15VEJfVzlwVTdodjRwRlhkSzBoM3dseHBVdE8wYk42Z0VpQUN4UVppd0t2ZmJBZg?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVJCVDNGSnFvUVBNWXNzaHdqaml3eFZYanNyVFhlNkZNQ2VxcEN4QTAtRmdZeU9URnE2X1kwQ3htV2pkajAtZlkwMzVadDJJRG96V0hXeTZqM1BabmlwNGk1TlNjdkZmLS10VGoyYmFsOU8wdW1oMWZuQ2puMWhrMjJseFRqRk5aNElJamJHUmxJR3VwNXhhaDlDOWh0QkN2YzhjNlRZN3FVcU5OQnc?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVk1Mjluc0FFSUpXN2FBenFwR1VnUU1pdDE0V2ZRcVlzdnJTTzVJX3E2aTRHNWRIX1Z5NHZFWVVoekZKUEdxVkxhQzlJc2RYTXE1MnFoWHdzYjlwR2VBLW9KbkVtM0ZBZ0RqOHJUSm9Wd2dUV2xiN0Q3dktscXFRQkxwOERvYzFqOUlMd3YwckVHTzd1X0h2dTdpenlBMTNDUUt4bFcyY0NiV19seERRZXpHalR2SjVZVlRiU2tXU0QyVVlwVUlFaTloNElCam44MnlkNG1aYzDSAfMBQVVfeXFMTXl1SXhHcmRnUU5qb3FpbC1SNzhFWElnZkNmallNbXRHWWtjMUdpSlFfVC1BTHFvY25SVXVSYVplV19RNlNYdnRmcUJNQ1JvQWJvaHVUSjBfbjRRTUhWSlhPRFRzTEhmRk92eWpRLVh4cHhJanlKeTdtV2MxSkFtNnNDTzhkTFpyWHlxdmM0LW4wOWR6V3BVSF9EMmw5OTI4V1lqQmNjcUlXc0s0NWJhSWhYOVRDUzRlTnctai1WbTI0Y1U0Yzh6d3psZVc0MEZLTnJ5aUViVTVBd0syQTZIN2hnMG5wZy02VmVlVFZrRk1Ua3Br?oc=5"
   ]
 }
