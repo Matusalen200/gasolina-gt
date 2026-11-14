@@ -11,17 +11,17 @@
     "noticias": 20
   },
   "detalle": {
-    "rbob_cambio_7d_pct": -6.35,
+    "rbob_cambio_7d_pct": -6.37,
     "usdgtq_cambio_7d_pct": 0.01,
-    "noticias_alza_7d": 16,
-    "noticias_baja_7d": 8,
-    "rbob_precio": 2.5971,
+    "noticias_alza_7d": 15,
+    "noticias_baja_7d": 9,
+    "rbob_precio": 2.5998,
     "usdgtq": 7.643,
     "tipo_cambio_usado": 7.663
   },
   "razon": "Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.",
   "redactado_por": "plantilla",
-  "actualizado": "2026-11-13T14:25-06:00",
+  "actualizado": "2026-11-13T19:21-06:00",
   "proximo_martes": "2026-11-17",
   "fecha": "2026-11-13"
 }
