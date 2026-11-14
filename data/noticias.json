@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T01:21+00:00",
+  "actualizado": "2026-11-14T18:43+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 15,
@@ -7,6 +7,28 @@
     "NEUTRAL": 26
   },
   "noticias": [
+    {
+      "id": "a7a80c2691ac",
+      "titulo": "Iran's navy says oil tanker on fire after hitting mine in Hormuz",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+      "fecha": "2026-11-14T10:31+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6a21806aad95",
+      "titulo": "Petróleo, fenómeno de El Niño y tasas de interés: los tres riesgos que amenazan las finanzas de Centroamérica",
+      "fuente": "Prensa Libre",
+      "url": "https://www.prensalibre.com/economia/petroleo-fenomeno-de-el-nino-y-tasas-de-interes-los-tres-riesgos-que-amenazan-las-finanzas-de-centroamerica/",
+      "fecha": "2026-11-14T06:10+00:00",
+      "idioma": "es",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "013042d9c95d",
       "titulo": "Iran Braces for a Budget Without Oil Revenue",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "BAJA",
       "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "f5cde7066577",
-      "titulo": "US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3daRUlqRDl6MHVCYUhiS0tlUWV3d2xOX1BLWGtRazZCaVE1RWVqWDdoTENEX04yc3doSzhHM0wzQS1ibjd6cC1QZFoyaGNUVmY4bzlfcHdkX0dSVEpXVmQ4TTQ5RE1sWnVPbWkwb2ZWUE1fSWdVTkpTM1BjUFk5XzExLURsSUlQMjlvcERJQ2J0Vno5SlByRTBBMGFhd3RmdHRMTVBxMXV0b0pkOW1ZTXMxTVpLQnY4SHNSMW5Pd2ZFaUZZY29TdF93?oc=5",
-      "fecha": "2026-11-11T18:25+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "c92bd56e5a3f",
-      "titulo": "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Crude-Is-Back-at-80-in-the-Gulf-but-Refined-Products-Are-Stuck-at-35.html",
-      "fecha": "2026-11-11T18:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
