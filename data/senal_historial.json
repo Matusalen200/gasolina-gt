@@ -313,5 +313,12 @@
     "tendencia": "baja",
     "veredicto": "Espera, va a bajar",
     "cambio_estimado_q": -1.15
+  },
+  {
+    "fecha": "2026-11-15",
+    "puntaje": -40,
+    "tendencia": "baja",
+    "veredicto": "Espera, va a bajar",
+    "cambio_estimado_q": -1.2
   }
 ]

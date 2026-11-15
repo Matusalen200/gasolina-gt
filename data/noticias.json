@@ -1,12 +1,34 @@
 {
-  "actualizado": "2026-11-14T18:43+00:00",
+  "actualizado": "2026-11-15T19:21+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 15,
+    "ALZA": 14,
     "BAJA": 9,
-    "NEUTRAL": 26
+    "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "48753232ce9a",
+      "titulo": "How Brazil Plans to Accelerate the Global Shift Away From Fossil Fuels",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/How-Brazil-Plans-to-Accelerate-the-Global-Shift-Away-From-Fossil-Fuels.html",
+      "fecha": "2026-11-15T16:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "5a2bafb719b7",
+      "titulo": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
+      "fecha": "2026-11-14T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "a7a80c2691ac",
       "titulo": "Iran's navy says oil tanker on fire after hitting mine in Hormuz",
@@ -46,6 +68,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2lneWN6TzV1ZXctMUFVUlJSbVVDUG1vOWNYM1d2Z25QV1ZlSHdjSFVmblhtX1UzNEQySEYwdjZNZGw3VnZPc00yOTEtSWFsY25CRTRhaGZJM2tFamQ3cDl6YTEwbmJLQ1VmdHo2Y2hjVThnNjdiQTNfai1xTDhFcmFITF9WblV6Rlk1M0FnbDRFWXJjdXA5R19ERUZ2WjdyZmg4bUxPQ2RZcmhaUzZxRjIwQk5jTWw1cUwxVw?oc=5",
       "fecha": "2026-11-13T21:46+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "fbe9bb46cc15",
+      "titulo": "Alberta expects oil sands investment \"immediately\" following new royalty regime changes, finance minister says",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTTRjdzAzZkt6dHBTbVkzd1ZnNGdvN2QtWGg4RW1yREtzLXpSXzdqUmdTUXltWkU1X0tQVE96NjJkTFA1ZThqUDE1Sm5CWDZubmRaYlBrUTNzTlFieVZWeWtOejZXdGEyaEJqNkxEekFTd2FIV1g0SlR1Mjk1UDNoZ3pxdzJPSnoxblRCYWROMkZMV3hiVmVhMGdGUmhwUU9zTzMtd3ZHRDBsY3ZINDFRN094bUdGa2U5NXFZbnRKcE4xNm1QN045UUpqN05pQlpqa29XcmtGRm84U3h5Qmlja19LNE5TUFFT?oc=5",
+      "fecha": "2026-11-13T21:38+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -522,39 +555,6 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "fd784ac7470e",
-      "titulo": "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Draws-Boycott-Call-Over-Israeli-Gas-Licenses.html",
-      "fecha": "2026-11-11T19:30+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "bed6395597c0",
-      "titulo": "Brazil's Petrobras to increase production capacity at another six oil platforms",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDl4VnR0aDVxaENCaTBHVXRYM29NLUgyMElqRU5ITEl5Nk83bjRoQm9XWXpiV1lUTGNVdXdzdlpNRy16ckQxckFRWGJYMnNsbFE2QnE3OHRXWHg2aGpIcEhLVk80dDFuTGQtb2FjS0FaZVkwcFJDRzV6ak9NX2FzcUFJUTBQTEQyWS1ZeGNraC1vb2YwbGFsRkJXeEs3VFA3eFFDUmlNRHllYWpiTnJZcWlUaFRKN2VzMU9YSHc2STFmZw?oc=5",
-      "fecha": "2026-11-11T18:48+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "414803cb7dd7",
-      "titulo": "Vitol’s Venezuela Oil Windfall Traced to Trader’s Ties to JD Vance",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Vitols-Venezuela-Oil-Windfall-Traced-to-Traders-Ties-to-JD-Vance.html",
-      "fecha": "2026-11-11T18:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     }
   ]
