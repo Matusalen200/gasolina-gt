@@ -103,5 +103,12 @@
     "regular": 29.98,
     "diesel": 41.01,
     "fuente": "MEM (página oficial)"
+  },
+  {
+    "fecha": "2026-11-16",
+    "superior": 31.47,
+    "regular": 28.96,
+    "diesel": 40.06,
+    "fuente": "MEM (página oficial)"
   }
 ]

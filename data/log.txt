@@ -1,37 +1,3 @@
-2026-10-17 07:32 [INFO] --- telegram ---
-2026-10-17 07:32 [INFO] Telegram: reporte 2026-10-17 publicado en -1003973167814
-2026-10-17 07:32 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
-2026-10-17 07:32 [INFO] Telegram: 0 mensajes respondidos, publicado=True
-2026-10-17 07:32 [INFO] --- redes ---
-2026-10-17 07:32 [INFO] Redes: ninguna conectada todavía (ver docs/redes.md)
-2026-10-17 07:32 [INFO] Fin corrida
-2026-10-18 10:28 [INFO] Redes: facebook=publicado
-2026-10-18 10:28 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
-2026-10-18 10:28 [INFO] Cambios radicales aprobados: 1
-2026-10-18 10:28 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
-2026-10-18 10:28 [INFO] Inicio corrida 2026-10-18 10:28 GT
-2026-10-18 10:28 [INFO] --- mem ---
-2026-10-18 10:28 [INFO] Listado MEM leído directo: 2 informes
-2026-10-18 10:28 [INFO] Tabla HTML del MEM leída: monitoreo 2026-10-12
-2026-10-18 10:28 [WARN] https://mem.gob.gt/wp-content/uploads/2026/10/INFORME-EJECUTIVO-DE-PRECIOS-DE-LOS-COMBUSTIBLES-2026-10-12.pdf: PDF leído pero sin datos reconocibles
-2026-10-18 10:29 [WARN] https://mem.gob.gt/wp-content/uploads/2026/10/Informe-de-precios-de-combustible-a-nivel-nacional-2026-10-12.pdf: PDF leído pero sin datos reconocibles
-2026-10-18 10:29 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-10-12)
-2026-10-18 10:29 [INFO] --- hoy ---
-2026-10-18 10:29 [INFO] Precio hoy: Prensa Libre 2026-10-18 otro S=36.05 R=34.38 D=42.67 · Diésel y gasolinas apuntan a una rebaja en Guatemala: estos 
-2026-10-18 10:29 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-10-18 10:29 [INFO] Precio hoy: 1 observaciones nuevas de 7 artículos · regular 34.38 (2026-10-18)
-2026-10-18 10:29 [INFO] --- estaciones ---
-2026-10-18 10:29 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
-2026-10-18 10:29 [INFO] --- mapa ---
-2026-10-18 10:29 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
-2026-10-18 10:29 [WARN] Mapa: la lista de gasolineras del MEM tiene 41 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
-2026-10-18 10:29 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
-2026-10-18 10:29 [INFO] --- mercado ---
-2026-10-18 10:29 [INFO] Mercado: RBOB 3.1443 (-0.29% 7d), WTI 99.02, USD/GTQ 7.6455 · 3/3 símbolos
-2026-10-18 10:29 [INFO] --- noticias ---
-2026-10-18 10:30 [INFO] RSS: 226 notas relevantes en 8 fuentes
-2026-10-18 10:30 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 13, 'BAJA': 7, 'NEUTRAL': 30}
-2026-10-18 10:30 [INFO] --- senal ---
 2026-10-18 10:30 [INFO] Señal: 🔴 Llena HOY (puntaje +18) · Porque la gasolina en Estados Unidos casi no se movió esta semana y las noticias hablan de subidas.
 2026-10-18 10:30 [INFO] --- telegram ---
 2026-10-18 10:30 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
@@ -1998,3 +1964,37 @@ Noticias: Diésel y gasolinas apuntan a una rebaja en Guatemala…
 2026-11-16 16:49 [WARN] Hay 12 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
 2026-11-16 16:49 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-11-16 16:49 [INFO] Fin corrida
+2026-11-17 13:46 [INFO] Redes: facebook=publicado
+2026-11-17 13:46 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-11-17 13:46 [INFO] Cambios radicales aprobados: 1
+2026-11-17 13:46 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-11-17 13:46 [INFO] Inicio corrida 2026-11-17 13:46 GT
+2026-11-17 13:46 [INFO] --- mem ---
+2026-11-17 13:46 [INFO] Listado MEM leído directo: 2 informes
+2026-11-17 13:46 [INFO] Tabla HTML del MEM leída: monitoreo 2026-11-16
+2026-11-17 13:46 [WARN] https://mem.gob.gt/wp-content/uploads/2026/11/INFORME-EJECUTIVO-DE-PRECIOS-DE-LOS-COMBUSTIBLES-2026-11-16.pdf: PDF leído pero sin datos reconocibles
+2026-11-17 13:46 [WARN] https://mem.gob.gt/wp-content/uploads/2026/11/Informe-de-precios-de-combustible-a-nivel-nacional-2026-11-09.pdf: PDF leído pero sin datos reconocibles
+2026-11-17 13:46 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-11-16)
+2026-11-17 13:46 [INFO] --- hoy ---
+2026-11-17 13:46 [WARN] Feed Guatemala.com: HTTP 404
+2026-11-17 13:46 [INFO] Precio hoy: Google News GT 2026-11-16 otro S=None R=28.49 D=None · Precio de gasolina en Guatemala hoy, 16 de noviembre: regula
+2026-11-17 13:46 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-11-17 13:46 [INFO] Precio hoy: 1 observaciones nuevas de 18 artículos · regular 32.07 (2026-11-16)
+2026-11-17 13:46 [INFO] --- estaciones ---
+2026-11-17 13:47 [WARN] Feed Guatemala.com: HTTP 404
+2026-11-17 13:47 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-11-17 13:47 [INFO] --- mapa ---
+2026-11-17 13:47 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-11-17 13:47 [WARN] Mapa: la lista de gasolineras del MEM tiene 71 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
+2026-11-17 13:47 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
+2026-11-17 13:47 [INFO] --- mercado ---
+2026-11-17 13:47 [INFO] Mercado: RBOB 2.5042 (-4.46% 7d), WTI 85.9, USD/GTQ 7.6395 · 3/3 símbolos
+2026-11-17 13:47 [INFO] --- noticias ---
+2026-11-17 13:47 [INFO] RSS: 197 notas relevantes en 8 fuentes
+2026-11-17 13:47 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 10, 'BAJA': 10, 'NEUTRAL': 30}
+2026-11-17 13:47 [INFO] --- senal ---
+2026-11-17 13:47 [INFO] Señal: 🟢 Espera, va a bajar (puntaje -44) · Porque la gasolina en Estados Unidos bajó bastante esta semana.
+2026-11-17 13:47 [INFO] --- telegram ---
+2026-11-17 13:47 [WARN] Hay 12 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
+2026-11-17 13:47 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-11-17 13:47 [INFO] Fin corrida
