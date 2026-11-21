@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-11-20T20:58+00:00",
+  "actualizado": "2026-11-21T02:03+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 11,
-    "BAJA": 7,
-    "NEUTRAL": 32
+    "BAJA": 9,
+    "NEUTRAL": 30
   },
   "noticias": [
+    {
+      "id": "848e99a81fa1",
+      "titulo": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+      "fecha": "2026-11-21T00:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "dd305a84fed7",
       "titulo": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
@@ -426,6 +437,17 @@
       "clasificado_por": "reglas"
     },
     {
+      "id": "24f4580cc360",
+      "titulo": "Oil prices settle lower as traders weigh surplus supply outlook",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
+      "fecha": "2026-11-18T19:52+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
       "id": "197efecbbc37",
       "titulo": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
       "fuente": "Reuters (vía Google News)",
@@ -533,28 +555,6 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b722f590e38c",
-      "titulo": "EU Moves to Fast-Track Renewables as Oil Import Costs Soar",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Fast-Track-Renewables-as-Oil-Import-Costs-Soar.html",
-      "fecha": "2026-11-18T08:45+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "76727c220a75",
-      "titulo": "Diputados amplían exoneración del IVA y del IDP a combustibles hasta junio de 2027",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHJMTXZzN05iemFoNS1SMWFkdzR1Z3ZudnVHRmRKNEEwckpOb3hTQ1c1UEdJQklTa1pXUWNsd241c0JtVTBXdTZPa3JpNmZLWUI3SGhTM0hrSlhuSmlpUlhnR041M3BpemswWkFWQTFFbEEwVzBka1dQbVpUd3VDck1FU0stRE5JLWpjYWRBYnV2YU1UTUE?oc=5",
-      "fecha": "2026-11-18T04:30+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     }
   ]
