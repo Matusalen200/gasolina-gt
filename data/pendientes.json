@@ -142,5 +142,29 @@
     "url": "https://lahora.gt/lh-economia/jveliz/2026/11/16/gasolinas-y-diesel-acumulan-nuevas-bajas-mientras-exencion-estara-vigente-hasta-el-31-de-diciembre-now/",
     "detectado": "2026-11-16T16:48-06:00",
     "avisado": false
+  },
+  "2026-11-22|regular": {
+    "estado": "pendiente",
+    "producto": "regular",
+    "fecha": "2026-11-22",
+    "valor": 27.19,
+    "antes": 32.07,
+    "salto": -4.88,
+    "fuente": "TV Azteca Guatemala",
+    "url": "https://tvaztecaguate.com/economia/2026/11/22/combustibles-registran-nueva-rebaja-este-domingo-en-guatemala/",
+    "detectado": "2026-11-22T14:17-06:00",
+    "avisado": false
+  },
+  "2026-11-22|diesel": {
+    "estado": "pendiente",
+    "producto": "diesel",
+    "fecha": "2026-11-22",
+    "valor": 38.39,
+    "antes": 29.55,
+    "salto": 8.84,
+    "fuente": "TV Azteca Guatemala",
+    "url": "https://tvaztecaguate.com/economia/2026/11/22/combustibles-registran-nueva-rebaja-este-domingo-en-guatemala/",
+    "detectado": "2026-11-22T14:17-06:00",
+    "avisado": false
   }
 }
