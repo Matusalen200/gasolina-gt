@@ -1,12 +1,23 @@
 {
-  "actualizado": "2026-11-24T21:07+00:00",
+  "actualizado": "2026-11-24T22:57+00:00",
   "nuevas": 40,
   "balance_7d": {
     "ALZA": 12,
-    "BAJA": 11,
-    "NEUTRAL": 27
+    "BAJA": 10,
+    "NEUTRAL": 28
   },
   "noticias": [
+    {
+      "id": "a6c81d197116",
+      "titulo": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Inches-Up-as-Gasoline-Holds-Steady.html",
+      "fecha": "2026-11-24T22:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "b6ee4579d1eb",
       "titulo": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?",
@@ -24,6 +35,17 @@
       "fuente": "Reuters (vía Google News)",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
       "fecha": "2026-11-24T19:41+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "c72d5f24322b",
+      "titulo": "WHO chief calls on US to lift oil blockade on Cuba, citing health impact",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenFOcnIxTVk4RGhvcVZBTzl5NFpZWGIzWnYtai1QdEVicGl5bjR5N2IzZzUtUVdvdldyMHM3NzVkclUtVl9UZmVrTXZEd0o2Tjh3QWJpemNwaVF3R3JtZzFVQnpGdHppMFM1Tl8zZ1hjNEJ0S2xoRlpjenhXRjR0czItcWRBcEVXZE04VG9qQ2FnYl9GWW1Ydjk2OUFycnVhcm4zeGRCZHVwT1h3aDZXODlaX3Vqdw?oc=5",
+      "fecha": "2026-11-24T19:27+00:00",
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
@@ -68,6 +90,17 @@
       "fuente": "OilPrice.com",
       "url": "https://oilprice.com/Energy/Crude-Oil/Libya-and-Iraq-Could-Be-the-Next-Big-Headache-for-Oil-Markets.html",
       "fecha": "2026-11-24T15:21+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2f39b9125a70",
+      "titulo": "Brazil's tax revenue extends record run in October, buoyed by higher oil prices",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmVvMEdpSWJqdEg5V2VKRlRfYlYzcTY0c3p0RU5PVk9ORHZ5S3E2NUxRYjVZYVFPUVlhY2ZRbDR2d3l3ZGpTc3VvNkNDd3B5bFA2azFNX0ExZWtXUWxFemFuWEMzNXBQaFV0eTgtVjVLMDNfek5qc1E5cUZvaEdYTThmSVZZZDJraXJYTEtZUXY3UmRnN2dKeEdFakJEbHBZcmdPaEZNS3pOY1oyLV9hZW85X0NmSmJwcWU4UDZGR0hkaG8?oc=5",
+      "fecha": "2026-11-24T15:03+00:00",
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
@@ -520,39 +553,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1U0YXRHVEVxTWJpZVBNZDU4SktDOWZfUF9wWlB2Y1IwM0dWenFmMDNFZ2lkY2tCN05zZEsxOGZyN1YxOGMzQXVLanRwdmJDd005T1NXSHBMTUpUMlF1NHJLTkMxWGRnaTc1bXhKODEtMk5hbjA1UFphWnBDdno4VE1sY29Pbk15N2ZCcVNTVWZtclhVTmJZeml5WFltWXZ5a083eXN0dXZDdG1RTDYtVk1IVWIxbG1UUHVKNGdzMDQzT0t1?oc=5",
       "fecha": "2026-11-20T09:40+00:00",
       "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "475ec87eddc3",
-      "titulo": "Alza del gas propano: cómo afecta el aumento a hogares, comedores y tortillerías en Guatemala",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/alza-del-gas-propano-como-afecta-el-aumento-a-hogares-comedores-y-tortillerias-en-guatemala/",
-      "fecha": "2026-11-20T06:00+00:00",
-      "idioma": "es",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "b27182e461be",
-      "titulo": "Oil prices set for third straight weekly decline on strong Middle East export flows",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
-      "fecha": "2026-11-20T02:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "17d674824068",
-      "titulo": "Precio del gas propano: cuánto cuesta el cilindro y qué sanciones enfrentan las distribuidoras por distorsionar precios",
-      "fuente": "Prensa Libre",
-      "url": "https://www.prensalibre.com/economia/precio-del-gas-propano-cuanto-cuesta-el-cilindro-y-que-sanciones-enfrentan-las-distribuidoras-por-distorsionar-precios/",
-      "fecha": "2026-11-20T02:00+00:00",
-      "idioma": "es",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
