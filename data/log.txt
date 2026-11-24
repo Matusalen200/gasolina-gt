@@ -1,45 +1,3 @@
-2026-10-21 11:57 [INFO] --- senal ---
-2026-10-21 11:57 [INFO] Señal: 🟡 Sin apuro (puntaje -14) · Porque la gasolina en Estados Unidos bajó bastante esta semana y las noticias hablan de subidas.
-2026-10-21 11:57 [INFO] --- telegram ---
-2026-10-21 11:57 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
-2026-10-21 11:57 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-10-21 11:57 [INFO] Fin corrida
-2026-10-21 15:26 [INFO] Redes: facebook=publicado
-2026-10-21 15:26 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
-2026-10-21 15:26 [INFO] Cambios radicales aprobados: 1
-2026-10-21 15:26 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
-2026-10-21 15:26 [INFO] Inicio corrida 2026-10-21 15:26 GT
-2026-10-21 15:26 [INFO] --- mem ---
-2026-10-21 15:26 [INFO] Listado MEM leído directo: 2 informes
-2026-10-21 15:26 [INFO] Tabla HTML del MEM leída: monitoreo 2026-10-12
-2026-10-21 15:26 [WARN] https://mem.gob.gt/wp-content/uploads/2026/10/INFORME-EJECUTIVO-DE-PRECIOS-DE-LOS-COMBUSTIBLES-2026-10-12.pdf: PDF leído pero sin datos reconocibles
-2026-10-21 15:26 [WARN] https://mem.gob.gt/wp-content/uploads/2026/10/Informe-de-precios-de-combustible-a-nivel-nacional-2026-10-12.pdf: PDF leído pero sin datos reconocibles
-2026-10-21 15:26 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-10-12)
-2026-10-21 15:26 [INFO] --- hoy ---
-2026-10-21 15:26 [WARN] Feed Guatemala.com: HTTP 404
-2026-10-21 15:26 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
-2026-10-21 15:26 [INFO] Precio hoy: 0 observaciones nuevas de 3 artículos · regular 32.99 (2026-10-21)
-2026-10-21 15:26 [INFO] --- estaciones ---
-2026-10-21 15:27 [WARN] Feed Guatemala.com: HTTP 404
-2026-10-21 15:27 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
-2026-10-21 15:27 [INFO] --- mapa ---
-2026-10-21 15:27 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
-2026-10-21 15:27 [WARN] Mapa: la lista de gasolineras del MEM tiene 44 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
-2026-10-21 15:27 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
-2026-10-21 15:27 [INFO] --- mercado ---
-2026-10-21 15:27 [INFO] Mercado: RBOB 3.0504 (-2.85% 7d), WTI 97.71, USD/GTQ 7.639 · 3/3 símbolos
-2026-10-21 15:27 [INFO] --- noticias ---
-2026-10-21 15:27 [INFO] RSS: 222 notas relevantes en 8 fuentes
-2026-10-21 15:27 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 11, 'BAJA': 4, 'NEUTRAL': 35}
-2026-10-21 15:27 [INFO] --- senal ---
-2026-10-21 15:27 [INFO] Señal: 🟡 Sin apuro (puntaje -9) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
-2026-10-21 15:27 [INFO] --- telegram ---
-2026-10-21 15:27 [WARN] Hay 3 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
-2026-10-21 15:27 [INFO] Telegram: 0 mensajes respondidos, publicado=False
-2026-10-21 15:27 [INFO] Fin corrida
-2026-10-22 11:53 [INFO] Redes: facebook=publicado
-2026-10-22 11:53 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
-2026-10-22 11:53 [INFO] Cambios radicales aprobados: 1
 2026-10-22 11:53 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
 2026-10-22 11:54 [INFO] Inicio corrida 2026-10-22 11:54 GT
 2026-10-22 11:54 [INFO] --- mem ---
@@ -1998,3 +1956,45 @@
 2026-11-23 18:40 [WARN] Hay 14 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
 2026-11-23 18:40 [INFO] Telegram: 0 mensajes respondidos, publicado=False
 2026-11-23 18:40 [INFO] Fin corrida
+2026-11-24 15:05 [INFO] Redes: facebook=publicado
+2026-11-24 15:05 [WARN] Cambio radical en regular: 42.58 → 34.89 (-7.69). Lo dice solo TV Azteca. Queda pendiente de tu confirmación.
+2026-11-24 15:05 [INFO] Cambios radicales aprobados: 1
+2026-11-24 15:05 [INFO] Cambio radical en regular (42.58 → 34.85) aprobado solo: lo confirman 3 fuentes
+2026-11-24 15:05 [INFO] Inicio corrida 2026-11-24 15:05 GT
+2026-11-24 15:05 [INFO] --- mem ---
+2026-11-24 15:05 [INFO] Listado MEM leído directo: 2 informes
+2026-11-24 15:05 [INFO] Tabla HTML del MEM leída: monitoreo 2026-11-23
+2026-11-24 15:05 [WARN] https://mem.gob.gt/wp-content/uploads/2026/11/INFORME-EJECUTIVO-DE-PRECIOS-DE-LOS-COMBUSTIBLES-2026-11-23.pdf: PDF leído pero sin datos reconocibles
+2026-11-24 15:05 [WARN] https://mem.gob.gt/wp-content/uploads/2026/11/Informe-de-precios-de-combustible-a-nivel-nacional-2026-11-16.pdf: PDF leído pero sin datos reconocibles
+2026-11-24 15:05 [WARN] MEM sin datos nuevos; se conserva el último bueno (2026-11-23)
+2026-11-24 15:05 [INFO] --- hoy ---
+2026-11-24 15:06 [WARN] Feed Guatemala.com: HTTP 404
+2026-11-24 15:06 [WARN] HTTP fallo https://perspectiva.gt/feed/: HTTPSConnectionPool(host='perspectiva.gt', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='perspectiva.gt', port=443) at 0x7de173df7620>, 'Connection to perspectiva.gt timed out. (connect timeout=25)'))
+2026-11-24 15:06 [WARN] Feed Perspectiva: HTTP sin respuesta
+2026-11-24 15:06 [INFO] Precio hoy: salto grande en Google News GT (Precio del diésel en Bolivia sube a Bs 20,57 el li): S=None R=None D=20.57. Se guarda y se publicará cuando otra fuente lo confirme.
+2026-11-24 15:06 [INFO] Precio hoy: Google News GT 2026-11-24 otro S=None R=None D=20.57 · Precio del diésel en Bolivia sube a Bs 20,57 el litro y un e
+2026-11-24 15:06 [INFO] Precio hoy: salto grande en Google News GT (ANH actualiza el precio del diésel a Bs 20,57 por ): S=None R=None D=20.57. Se guarda y se publicará cuando otra fuente lo confirme.
+2026-11-24 15:06 [INFO] Precio hoy: Google News GT 2026-11-24 otro S=None R=None D=20.57 · ANH actualiza el precio del diésel a Bs 20,57 por litro
+2026-11-24 15:06 [WARN] Cambio radical en diesel: 38.82 → 20.57 (-18.25). Lo dice solo Google News GT. Queda pendiente de tu confirmación.
+2026-11-24 15:06 [INFO] Departamentos de hoy: estimados (22), más barato Guatemala
+2026-11-24 15:06 [INFO] Precio hoy: 2 observaciones nuevas de 9 artículos · regular 27.19 (2026-11-22)
+2026-11-24 15:06 [INFO] --- estaciones ---
+2026-11-24 15:06 [WARN] Feed Guatemala.com: HTTP 404
+2026-11-24 15:07 [WARN] HTTP fallo https://perspectiva.gt/feed/: HTTPSConnectionPool(host='perspectiva.gt', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='perspectiva.gt', port=443) at 0x7de173b753a0>, 'Connection to perspectiva.gt timed out. (connect timeout=25)'))
+2026-11-24 15:07 [WARN] Feed Perspectiva: HTTP sin respuesta
+2026-11-24 15:07 [INFO] Gasolineras: 15 estaciones del 2026-09-07 (TV Azteca Guatemala); la más barata es Texaco Pesa Tivoli zona 9 a Q40.05 la normal
+2026-11-24 15:07 [INFO] --- mapa ---
+2026-11-24 15:07 [INFO] Mapa: reuso las 1135 gasolineras que ya tenía (se rebajan cada 7 días)
+2026-11-24 15:07 [WARN] Mapa: la lista de gasolineras del MEM tiene 78 días; no se muestran esos precios para no engañar. Se usa el de referencia de cada departamento.
+2026-11-24 15:07 [INFO] Mapa: 1135 gasolineras en 22 departamentos, 0 con precio real del MEM
+2026-11-24 15:07 [INFO] --- mercado ---
+2026-11-24 15:07 [INFO] Mercado: RBOB 2.4285 (-2.74% 7d), WTI 81.4, USD/GTQ 7.6445 · 3/3 símbolos
+2026-11-24 15:07 [INFO] --- noticias ---
+2026-11-24 15:07 [INFO] RSS: 207 notas relevantes en 8 fuentes
+2026-11-24 15:07 [INFO] Noticias: 40 nuevas, 50 guardadas, balance 7d {'ALZA': 12, 'BAJA': 11, 'NEUTRAL': 27}
+2026-11-24 15:07 [INFO] --- senal ---
+2026-11-24 15:07 [INFO] Señal: 🟢 Espera, va a bajar (puntaje -21) · Porque la gasolina en Estados Unidos bajó un poco esta semana y las noticias hablan de subidas.
+2026-11-24 15:07 [INFO] --- telegram ---
+2026-11-24 15:07 [WARN] Hay 15 cambios de precio por confirmar, pero falta TELEGRAM_ADMIN_ID para avisarte. Míralos con /pendientes.
+2026-11-24 15:07 [INFO] Telegram: 0 mensajes respondidos, publicado=False
+2026-11-24 15:07 [INFO] Fin corrida

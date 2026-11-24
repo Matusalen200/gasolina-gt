@@ -1,12 +1,144 @@
 {
-  "actualizado": "2026-11-24T00:40+00:00",
+  "actualizado": "2026-11-24T21:07+00:00",
   "nuevas": 40,
   "balance_7d": {
-    "ALZA": 10,
+    "ALZA": 12,
     "BAJA": 11,
-    "NEUTRAL": 29
+    "NEUTRAL": 27
   },
   "noticias": [
+    {
+      "id": "b6ee4579d1eb",
+      "titulo": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Is-This-Tiny-Oil-Giant-The-Real-Crown-Jewel-Of-Trumps-New-World-Order.html",
+      "fecha": "2026-11-24T20:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "682629c1662d",
+      "titulo": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
+      "fecha": "2026-11-24T19:41+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9f47c8282f77",
+      "titulo": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html",
+      "fecha": "2026-11-24T18:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b550302e9e67",
+      "titulo": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sees-Smaller-Economic-Slump-as-More-Oil-Reaches-Market.html",
+      "fecha": "2026-11-24T17:00+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "0abb9ce003f1",
+      "titulo": "EU to Seek Overhaul of UN Climate Consensus Decisions After COP31 Failure",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-to-Seek-Overhaul-of-UN-Climate-Consensus-Decisions-After-COP31-Failure.html",
+      "fecha": "2026-11-24T15:30+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "d2ec54cb74ab",
+      "titulo": "Libya and Iraq Could Be the Next Big Headache for Oil Markets",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Libya-and-Iraq-Could-Be-the-Next-Big-Headache-for-Oil-Markets.html",
+      "fecha": "2026-11-24T15:21+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "2354956d92d3",
+      "titulo": "Iraq Seeks Federal Control Over Disputed Kurdistan Oilfields",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Seeks-Federal-Control-Over-Disputed-Kurdistan-Oilfields.html",
+      "fecha": "2026-11-24T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "9f8a31d990c1",
+      "titulo": "How does EIA compare different types of energy?",
+      "fuente": "EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
+      "fecha": "2026-11-24T14:00+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "174aa5e06a65",
+      "titulo": "South Korea Says Its Crude Supply Is Stable Through the Winter",
+      "fuente": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Says-Its-Crude-Supply-Is-Stable-Through-the-Winter.html",
+      "fecha": "2026-11-24T13:00+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "6ef14eafb543",
+      "titulo": "China, India set for record Russian oil imports in 2026, but demand seen peaking",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5",
+      "fecha": "2026-11-24T09:05+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "b8c0e7b76e85",
+      "titulo": "Oil settles up $2 as traders weigh continued Hormuz ship attacks",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+      "fecha": "2026-11-24T02:56+00:00",
+      "idioma": "en",
+      "etiqueta": "ALZA",
+      "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "35dcb2e061ce",
+      "titulo": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
+      "fecha": "2026-11-24T01:42+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
+      "clasificado_por": "reglas"
+    },
     {
       "id": "026e34e7ad06",
       "titulo": "Climate Finance Dispute Derails COP31 Negotiations",
@@ -49,6 +181,17 @@
       "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "eea9639ad3f5",
+      "titulo": "Canadian dollar falls for 10th straight session as oil slides",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGxKSDUwUzVISjNFazZQdXYySkdiVzlRWlkxT0t6Z2toY2lxNjQ4bkVHQmYwcDhreHc3bk11eWFySGRqMUtaZkxndm9HelJrQS1EalFfT1ZRYlZ6Vk1zOGJqREwteVpvck1wai1DRklkNFBTSDNtaWdBYmZzRjJBNUVtVUk3bXpBeDhwbXRBejBLUUJJN0tFcXU5VGR4N1dJT1Nr?oc=5",
+      "fecha": "2026-11-23T18:27+00:00",
+      "idioma": "en",
+      "etiqueta": "BAJA",
+      "razon": "El titular apunta a precios más bajos.",
       "clasificado_por": "reglas"
     },
     {
@@ -115,6 +258,28 @@
       "idioma": "en",
       "etiqueta": "ALZA",
       "razon": "El titular apunta a precios más altos.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "e037c6bab96a",
+      "titulo": "Eco Atlantic says Falklands oil production could tie back to Navitas Sea Lion project",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV254ZGRxbTRTNWNjYTZfRGF3Ty00cUhJNlhfdFlnY3lZTklNNDZ2bWcwUkx5b2V1WmNfSTZhWVVuNV8tX1VLelFrWWFEUThycFlHd2UwY3ppVUt5cDQwZE9qY2h1SENxd0RqSW5zNUdUalVycW9hWERQY2NkVTVQcmVUbVdLN0Rpc0c1S2N1Wkd5b3BabjVzc0NqYU1tbDc5Z3I4UnJXRVJ3UzB5cGlGU1VRd2xLcmZ5VVlER2hSeGF0eVRP?oc=5",
+      "fecha": "2026-11-23T13:25+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
+      "clasificado_por": "reglas"
+    },
+    {
+      "id": "a7c4bc3277f8",
+      "titulo": "Russian Urals oil discounts widen at Indian ports, sources say",
+      "fuente": "Reuters (vía Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3hRVThkdjhDWnBVU3hscW9lODc5blpkRnpueHY2WUxYLTRpWWtRUUVCWU5MZUU1WmZrdWpNQS1JbGRCaW8tcFhoelVrYjZOYkNxSnhUWkJ1dFk3UE5iYkxJb3JESkd2VmprUXJ3b2JVRnprMWJ4c2NMWnV4UXdKQkhEdFVhM0xUMzdrRFZRM1pGeElEcFViU3NEMjQ1ZlBHV2hocGhjY0ZIMTYtRl9N?oc=5",
+      "fecha": "2026-11-23T12:02+00:00",
+      "idioma": "en",
+      "etiqueta": "NEUTRAL",
+      "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"
     },
     {
@@ -388,171 +553,6 @@
       "url": "https://www.prensalibre.com/economia/precio-del-gas-propano-cuanto-cuesta-el-cilindro-y-que-sanciones-enfrentan-las-distribuidoras-por-distorsionar-precios/",
       "fecha": "2026-11-20T02:00+00:00",
       "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "6be6f564d6b9",
-      "titulo": "Pipa derrama combustible y complica el tránsito en cuesta de Villalobos",
-      "fuente": "Soy502 (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTl80MjZObmNaUEcxOHo2VUxiMnFjWk5WenJaSmxvbVlpOFRJd1dObllzRk8xNU9nQi1Ja0Q5QzhEODlfQjJrZ3FXV21oZWNvZC1CTmRia3VXaUZJbkxwRVlQc1A5ZGJIUk1tNHBLaGpCS3BTM3JVRnFkRFVLaHRaY2RrMHNDcTVXTmNmWGVZYWt1MWV5aHBV?oc=5",
-      "fecha": "2026-11-19T22:30+00:00",
-      "idioma": "es",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "65c76c45df1a",
-      "titulo": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Mercosurs-Tax-Break-Is-Fueling-Brazils-Oil-Push-Into-Europe.html",
-      "fecha": "2026-11-19T21:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "51405c07e502",
-      "titulo": "EU Moves to Overhaul Emergency Oil Stockpiles",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
-      "fecha": "2026-11-19T19:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "0f4ff2d837b2",
-      "titulo": "EXCLUSIVE: Canada's BMO returning to US oil and gas investment banking, sources say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEJnU0FpNlBIQVVrY3RZWkxwVzV5a0RJajBPLWpIZW5DX1Y1cDBuZnJsWU14dHBGcGV3aE9LRkx6aVg4VDRjVHB1UmphaWN1VVJCQVQ1bEhnel9rTnNzSmZVZUJlTHZsTHVsdWpmZjM2aHQ1R09mZEZTUVpqbV9VZ18tMC15WkhxOW5PN2FtNHRXMHkwUndMV3NBQVZtaGNKajVzZkZfMWNwd0pYS21Ea0ZBNkZtUQ?oc=5",
-      "fecha": "2026-11-19T19:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "4d7a196736e9",
-      "titulo": "Asian gasoline margin plunges to over three-year lows on ample supplies",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXV0c2ZySXNVQk8tWlAxdk9lVzA5d25UeTEzR0x1T2EyTkd4dEl3THNXSl9wZHlNaGNBY0N3ODIyaGpWR3QySFJMb0hhN3BxVnVCTTJmVWVyN3dDOUk3RzdwaHBocmNIcThYOHNMMmRheHRhVEVReGpNckZibDhJQ2F3cTJXcDBkWGhCMVB3NUhRb1pyMmZFT1lWWXpIZ3Rfd1dRZUpFS1hodUxRM1dfNV9DSUF2Mldy?oc=5",
-      "fecha": "2026-11-19T18:34+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "e086fbb570c0",
-      "titulo": "Trafigura Not Rushing to Alternative Marine Fuels",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trafigura-Not-Rushing-to-Alternative-Marine-Fuels.html",
-      "fecha": "2026-11-19T18:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "42673d8061f6",
-      "titulo": "At COP31, Venezuela touts AI as path to cleaner oil production",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmdwRmVVelpCME1XUFJaY205YnloQ1NrdDhSVDBiZkhjTU9oQlp4WUg5YXFRNWp5RzhhVlN2bC1mUHFrVEhKalZJMGhjeHNla3ppQTc1Y2FwcWwweDJydXlRVzI0aUE4S3JyWXpJaEs2WjJOQWNKNTNMeEVZRWgwT3I0SUZsbjBtcGlDbS0zSy11SlI4MjE1VkVUMGd6Q0w1LVFqUTE1Nko2SlE?oc=5",
-      "fecha": "2026-11-19T18:13+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7c179b13a9e3",
-      "titulo": "India's October crude oil imports rise over 4% month-on-month",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaC1ES29YSWdoUk4wWEo0X0o5bWgzQlZ4dnpyWi1XaUJCUlZmemFBNi1WUVVsVEIyX25uRlZrODM0R1BYVDlKc3MweWo2LWxEcDlzNWRuVm9sQmNPa2hMNVU3aHhoaHZ1ZktkUDctVnd2QldwalNyZ3NzSGY1OE1ndmo0RWw4aWJUNERPTmhqWUZoZUtHUFo0TXFRSUpjMGRhTTIwcUxyWEw2VE0?oc=5",
-      "fecha": "2026-11-19T18:09+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "a3ff3b8a27f9",
-      "titulo": "Russia repels Ukrainian drones attack on oil facility in Tatarstan region, local authorities say",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXY4SS1DQy01LTV4VDEwYTVCV2hCeThSemNINHhHNFk2Zk1ZNGpIWVk1MFlyMUJwWGFlS1otZGRYSHpYYUlqQlZOMjRrQURxU29GNlhkTmJVU1l3VE1TTkR1dWhCM2dJT2QyUnRkR0dlRVE5eHhiUHBVSUVaa0ppOFJDb0I1M081eHhNQUd4WXhlWnJ6d0RYTVhWamRONXVFZmpjVGFuYmtTeG5FYXVkcXRFaVY1RnhobzYzZjNB?oc=5",
-      "fecha": "2026-11-19T18:08+00:00",
-      "idioma": "en",
-      "etiqueta": "ALZA",
-      "razon": "El titular apunta a precios más altos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "ec50143cbd47",
-      "titulo": "7,000 Egyptian Factories Will Soon Be Solar-powered",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/7000-Egyptian-Factories-Will-Soon-Be-Solar-powered.html",
-      "fecha": "2026-11-19T18:00+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "72d679cfd8cd",
-      "titulo": "Venezuela Turns to AI to Cut Methane Leaks",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Turns-to-AI-to-Cut-Methane-Leaks.html",
-      "fecha": "2026-11-19T15:30+00:00",
-      "idioma": "en",
-      "etiqueta": "BAJA",
-      "razon": "El titular apunta a precios más bajos.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "cdb90b840683",
-      "titulo": "Oil flows through Middle East chokepoints increased in the third quarter",
-      "fuente": "EIA",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=",
-      "fecha": "2026-11-19T14:00+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "7d692ba80f25",
-      "titulo": "US shale companies send oil windfall to shareholders as prices jump",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXRMVWgzWGR1UWVVU3FGaWVSaFRrMTdYdWs3dmpyWGNNcnRrOXViZ2lVQ0RPUmc0cjNoWnNzRndJaGV5dXR5X3FpZGkyeHp4MFV6TzRuQWdCU1RTOXdDcmlTVUZxQU1BbVRiMk1UcEVvb0dkNXpCcGFpYlpxeVF2WUw4ZnhLOVVJVmZRYm0zVkUyVGJlZnNUbzl0UWRKSFVJUkZGYlVmQVNtRFVmT3V2c3pDMHdzLUVr?oc=5",
-      "fecha": "2026-11-19T13:31+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "1ef7465616a0",
-      "titulo": "Traders Seek Long-Term Crude Supply Deals with Qatar",
-      "fuente": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Traders-Seek-Long-Term-Crude-Supply-Deals-with-Qatar.html",
-      "fecha": "2026-11-19T13:30+00:00",
-      "idioma": "en",
-      "etiqueta": "NEUTRAL",
-      "razon": "Sin efecto claro en el precio local.",
-      "clasificado_por": "reglas"
-    },
-    {
-      "id": "895981c36c02",
-      "titulo": "Oil tanker loads Iranian crude in Gulf, TankerTrackers.com says",
-      "fuente": "Reuters (vía Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXdpYkFVdXpMMHdtZk9Cdld4YjZyUnlieS1mZXZXT1VrTHM5SzhMR0k5dU56S1NiTWdlaVR0NHVBVVpqUXpqYW94RW11eWhYTkRHMmhEZ19VcjZDMS1nXzFRajZKdmpqZkNCc2dscm1DVjFhaVU4WmdodFRKSm0xU0lVRzZOME8xV25TRjVKQm8td1Jsd3R3RjVhVmJGQk03ZkdVUjctVy1uTGlBeUpN?oc=5",
-      "fecha": "2026-11-19T12:47+00:00",
-      "idioma": "en",
       "etiqueta": "NEUTRAL",
       "razon": "Sin efecto claro en el precio local.",
       "clasificado_por": "reglas"

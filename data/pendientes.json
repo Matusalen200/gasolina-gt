@@ -166,5 +166,17 @@
     "url": "https://tvaztecaguate.com/economia/2026/11/22/combustibles-registran-nueva-rebaja-este-domingo-en-guatemala/",
     "detectado": "2026-11-22T14:17-06:00",
     "avisado": false
+  },
+  "2026-11-24|diesel": {
+    "estado": "pendiente",
+    "producto": "diesel",
+    "fecha": "2026-11-24",
+    "valor": 20.57,
+    "antes": 38.82,
+    "salto": -18.25,
+    "fuente": "Google News GT",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZmtIaXhkam5GMWdSOUt3TWVkV2pWMkUtQURxd0hXSXdOSVFLa0pvbUVsTUtkTlowdkduVkZZQWFXbjdKTVRua1FVY2dyVVkwOU1DSjBGSVRfcjlMN0VqNGVibW5TckdSMkRCam5xRG9HLXpSOXFLNlZzeVRob0pTcFpPM1BfaWRNLUVqYi1iTjZXal8xM0xaXzN1d29Bbk9zN2JDOVpVV0xILTJEaEc4R0QtUVZQM3g4aS1adVQ4eURZUHZZVndUM25VX0V1LUdmdUwydWZSdllNRWg1d1RnTEg0cXdPNmh0M0RySkxEa0MySGtxYnJjd05B0gH6AUFVX3lxTE5ma0hpeGRqbkYxZ1I5S3dNZWRXalYyRS1BRHF3SFdJd05JUUtrSm9tRWxNS2ROWjB2R25WRllBYVduN0pNVG5rUVVjZ3JVWTA5TUNKMEZJVF9yOUw3RWo0ZWJtblNyR1IyREJqbnFEb0ctelI5cUs2VnN5VGhvSlNwWk8zUF9pZE0tRWpiLWJONldqXzEzTFpfM3V3b0FuT3M3YkM5WlVXTEgtMkRoRzhHRC1RVlAzeDhpLVp1VDh5RFlQdllWd1QzblVfRXUtR2Z1TDJ1ZlJ2WU1FaDV3VGdMSDRxd082aHQzRHJKTERrQzJIa3FicmN3TkE?oc=5",
+    "detectado": "2026-11-24T15:06-06:00",
+    "avisado": false
   }
 }
